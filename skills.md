@@ -40,6 +40,7 @@ permalink: /skills/
 * Linux and Windows command line
 
 ## Deployment Platforms
+* Web
 * Windows
 * Linux
 * Android
