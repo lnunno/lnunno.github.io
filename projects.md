@@ -7,6 +7,22 @@ permalink: /projects/
 This is a selection of some programming and software engineering projects I
 have been involved in, it is by no means an exhaustive list.
 
+## Computer science courses taken
+
+### The University of New Mexico - Graduate 
+* Machine Learning (CS 529)
+* Big Data (CS 591 Special Topic)
+* Robust Artificial Life (CS 591 Special Topic)
+* Digital Image Processing (CS 523)
+* Advanced Functional Programming (CS 591 Special Topic)
+* Software Foundations (CS 558)
+
+### The University of New Mexico - Upper level undergrad 
+* Artificial Intelligence (CS 427)
+* Complex Adaptive Systems (CS 423)
+* Advanced Functional Programming (CS 491 Special Topic)
+* Software Engineering (CS 460)
+
 ### Machine learning
 [Stock market price prediction using linear and polynomial regression models (Poster PDF)]({{ site.docurl }}/ml_poster.pdf)
 

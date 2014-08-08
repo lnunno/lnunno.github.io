@@ -21,7 +21,7 @@ frameworks.
 My ideal company changes the world of technology in a positive way quickly,
 robustly, and intelligently. 
 
-### Gives me the ability to make an impact
+### Provides the ability to make an impact
 
 ### Has meaningful and interesting work
 
