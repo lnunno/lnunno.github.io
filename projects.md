@@ -7,6 +7,21 @@ permalink: /projects/
 This is a selection of some programming and software engineering projects I
 have been involved in, it is by no means an exhaustive list.
 
+### Machine learning
+[Stock market price prediction using linear and polynomial regression models (Poster PDF)]({{ site.docurl }}/ml_poster.pdf)
+
+### Software foundations
+[Lambda calculus parser and interpreter. Implements unification, constraint-based typing, and step-by-step evaluation relation. (40 page PDF)]({{ site.docurl }}/foundations.pdf)
+
+### Complex adaptive systems
+[Generating fractals with genetic algorithms (Poster PDF)]({{ site.docurl }}/cas_poster.pdf)
+
+### Databases
+[Magic the gathering database application](http://cs.unm.edu/~lnunno/cs564/mtg-db/index.php)
+
+### Advanced declarative programming
+[Bootstrap 3 Blaze HTML library extension](http://lnunno.github.io/blaze-bootstrap3/)
+
 ### Image processing
 
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -58,6 +73,3 @@ have been involved in, it is by no means an exhaustive list.
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
-
-### Complex adaptive systems
-[Generating fractals with genetic algorithms (PDF)]({{ site.docurl }}/cas_poster.pdf)
