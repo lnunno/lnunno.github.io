@@ -44,7 +44,7 @@ Created 2 separate Clang C++ command line standalone tools using the LibTooling 
 * Software Engineering (CS 460)
 
 ### Machine learning
-[Stock market price prediction using linear and polynomial regression models (Poster PDF)]({{ site.docurl }}/ml_poster.pdf)
+Stock market price prediction using linear and polynomial regression models [(Poster PDF)]({{ site.docurl }}/ml_poster.pdf) [(Paper PDF)]({{ site.docurl }}/ml_paper.pdf)
 
 ### Software foundations
 [Lambda calculus parser and interpreter. Implements unification, constraint-based typing, and step-by-step evaluation relation. (40 page PDF)]({{ site.docurl }}/foundations.pdf)
