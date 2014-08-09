@@ -1,7 +1,7 @@
 # Site settings
 title: Lucas Nunno
 email: lnunno@cs.unm.edu
-description: "This is my portfolio which showcases the work that I have done, along with descriptions of my software engineering philosophy."
+description: "This is Lucas Nunno's portfolio website. It showcases the work that I have done, along with descriptions of my software engineering philosophy."
 baseurl: ""
 imageurl: "/assets/images"
 docurl: "/assets/docs"
