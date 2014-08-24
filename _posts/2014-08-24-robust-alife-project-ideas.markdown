@@ -6,7 +6,7 @@ categories: robust alife
 ---
 
 The following is a list of project ideas for the Robust Artificial Life class
-I'm taking at UNM this semester. This is a course taught by David Ackley for
+I'm taking at UNM this semester. This is a course taught by David Ackley. For
 an introduction to the robust first computing mantra please see the video he's
 posted on his 
 [YouTube channel here](https://www.youtube.com/watch?v=helScS3coAE&feature=youtu.be). 
