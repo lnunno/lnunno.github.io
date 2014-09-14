@@ -23,6 +23,20 @@ robustly, and intelligently.
 
 ### Provides the ability to make an impact
 
+An important objective of mine is to work at a place where the code that I
+write has an impact in the company as a whole, no matter how large the
+overarching organization may be.
+
+I would also like my work to be used by a large amount of people since I
+strongly believe in writing quality software that has a positive impact on
+people's lives.
+
+Making an impact also means leaving a legacy. The code that I write should be
+modular and re-usable enough to be used in other systems and ways that have
+not previously envisioned. This is what separates software engineering from
+other disciplines, we have an opportunity to build on past work at a rate that
+has never been seen before.
+
 ### Has meaningful and interesting work
 
 A large portion of my life will be spent working and evolving my career. One
@@ -40,5 +54,3 @@ its bottom line by investing in the future.
 My ideal company values the physical, mental, and emotional wellbeing of its
 employees. This means that there exists a fulfilling life outside of work that
 the company actively encourages me to pursue.
-
-## The "Where I see myself in 5 years..." answer
