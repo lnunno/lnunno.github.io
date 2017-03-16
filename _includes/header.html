@@ -2,18 +2,18 @@
 
   <div class="wrap">
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <a class="site-title" href="{{ site.baseurl }}/">{{ site.homepage_name }}</a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
-        <i class="fa fa-bars"></i> 
+        <i class="fa fa-bars"></i>
       </a>
       <div class="trigger">
         {% for page in site.pages %}
           {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">
-          {% if page.header_title %} 
+          {% if page.header_title %}
             {{ page.header_title }}
-          {% else %} 
+          {% else %}
             {{ page.title }}
           {% endif %}</a>{% endif %}
         {% endfor %}
