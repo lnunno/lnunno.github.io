@@ -1,3 +1,17 @@
+.profile {
+    display: block;
+    margin: auto;
+    max-width: 16em;
+    padding-bottom: 5px;
+}
 .marketing-icon {
-    font-size: 8em;
+    font-size: 4em;
+}
+
+.page-content p {
+    font-size: 20px;
+}
+
+.page-content li {
+    font-size: 16px;
 }

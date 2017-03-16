@@ -4,6 +4,5 @@ title: About Me
 permalink: /about/
 ---
 
-I am a graduate student in Computer Science at the University of New Mexico
-and work at Sandia National Labs as a technical intern in a software
-realization group.
+I currently work at Sandia National Labs in Albuquerque, New Mexico where they pay me to solve
+hard problems and write code. It's pretty sweet.
