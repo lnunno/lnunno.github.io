@@ -7,28 +7,43 @@ permalink: /projects/
 This is a selection of some programming and software engineering projects I
 have been involved in, it is by no means an exhaustive list.
 
-## Professional projects
-The descriptions of these projects are intentionally vague in order to protect proprietary information.
+# Sandia National Labs
 
-### At Sandia National Labs
-Presented in chronological order.
+## Fullstack development (December 2016 - Present)
 
-#### IBM Requisite Pro Plugin
-Created a Java tool that interfaced with the IBM Requisite Pro requirements management suite that analyzed requirements and processed various attributes in order to ensure that the database was internally consistent. Included a full Swing GUI with customizable runtime settings, and export functionality to text formats.
+Teamed with and consulted a variety of software development teams in 2-4 week sprints. Rapidly implemented both backend and frontend code and taught others full stack development. TS-SCI DOE Security Clearance.
 
-#### Java Algorithm Visualization
-Interactive graph representations of an algorithm's execution displayed in a Swing GUI with actions bound to toolbars, mouse and keyboard, and context sensitive actions. Also developed an Eclipse Rich Client Platform (RCP) port. 
+Created data-dense web applications with TypeScript, React, Redux, Golden Layout, and other frontend technologies. Implemented backend services with Python that used Flask with extensions, GraphQL, and SQLAlchemy.
 
-#### Python Web Application for Code Generation
-Created a Python web application using CherryPy for HTTP server development, SQLAlchemy for ORM functionality from a SQLite database to Python objects, and Jinja2 for the HTML templating engine. This tool interfaced with existing XML documents that were used to populate the database and describe the data model that was then exported to Excel, Word, PDF, and C++ classes. This tool implemented a custom version control system to track changes to individual elements over a period of time.
+Provisioned OpenStack machines, networks, and volumes with Terraform and Ansible. Deployed Docker images to OpenStack using Docker-Compose. Practiced Kanban/Agile/Scrum using GitLab Kanban and issue boards.
 
-#### C++ Tool Development
+## Software Frameworks (May 2015 - December 2016)
+
+Developed software frameworks for satellite ground systems in C++, Java, and Python. Worked with cloud enabling technologies such as Docker, Kubernetes, ZeroMQ (ZMQ), and Redis. Created an automated code generation platform in Python with Jinja2 templates that mapped
+software architecture models to library implementations such as Protocol Buffers, HDF5, and
+JSON Schemas which were used by 6 other development teams.
+
+Enabled REST endpoints for status and configuration libraries of native services using Swagger
+and the XML Telemetric & Command Exchange (XTCE) standard. Project was run under the Scaled Agile Framework (SAFE). Practiced Scrum and followed test driven development (TDD), continuous integration, pair programming, and code reviews. Performed technical and behavioral interviews.
+
+## Intern (March 2012 - May 2015)
+
+### C++ Tool Development
 Created 2 separate Clang C++ command line standalone tools using the LibTooling library. These tools replaced legacy tools that were written for IBM's Rational Rose modeling tool. Some of the functionality included inheritance hierarchy analysis, AST matching algorithms, and source-to-source code transformations.
 
+### Java Algorithm Visualization
+Interactive graph representations of an algorithm's execution displayed in a Swing GUI with actions bound to toolbars, mouse and keyboard, and context sensitive actions. Also developed an Eclipse Rich Client Platform (RCP) port.
 
-## Computer science courses taken
+### Python Web Application for Code Generation
+Created a Python web application using CherryPy for HTTP server development, SQLAlchemy for ORM functionality from a SQLite database to Python objects, and Jinja2 for the HTML templating engine. This tool interfaced with existing XML documents that were used to populate the database and describe the data model that was then exported to Excel, Word, PDF, and C++ classes. This tool implemented a custom version control system to track changes to individual elements over a period of time.
 
-### The University of New Mexico - Graduate 
+### IBM Requisite Pro Plugin
+Created a Java tool that interfaced with the IBM Requisite Pro requirements management suite that analyzed requirements and processed various attributes in order to ensure that the database was internally consistent. Included a full Swing GUI with customizable runtime settings, and export functionality to text formats.
+
+
+# Masters and Bachelors in CS from UNM
+
+## The University of New Mexico - Graduate
 * Machine Learning (CS 529)
 * Database Management (CS 564)
 * Big Data (CS 591 Special Topic)
@@ -37,75 +52,30 @@ Created 2 separate Clang C++ command line standalone tools using the LibTooling 
 * Advanced Functional Programming (CS 591 Special Topic)
 * Software Foundations (CS 558)
 
-### The University of New Mexico - Upper level undergrad 
+## The University of New Mexico - Bachelors
 * Artificial Intelligence (CS 427)
 * Complex Adaptive Systems (CS 423)
 * Advanced Functional Programming (CS 491 Special Topic)
 * Software Engineering (CS 460)
+* Algorithms (CS361 & CS362)
 
-### Machine learning
+## Machine learning
 Stock market price prediction using linear and polynomial regression models [(Poster PDF)]({{ site.docurl }}/ml_poster.pdf) [(Paper PDF)]({{ site.docurl }}/ml_paper.pdf)
 
-### Software foundations
+## Software foundations
 [Lambda calculus parser and interpreter. Implements unification, constraint-based typing, and step-by-step evaluation relation. (40 page PDF)]({{ site.docurl }}/foundations.pdf)
 
-### Complex adaptive systems
+## Complex adaptive systems
 [Generating fractals with genetic algorithms (Poster PDF)]({{ site.docurl }}/cas_poster.pdf)
 
-### Databases
-[Magic the gathering database application](http://cs.unm.edu/~lnunno/cs564/mtg-db/index.php)
-
-### Advanced declarative programming
+## Advanced declarative programming
 [Bootstrap 3 Blaze HTML library extension](http://lnunno.github.io/blaze-bootstrap3/)
 
-### Image processing
+## Image processing
 
-<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-  <!-- Indicators -->
-  <ol class="carousel-indicators">
-    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-  </ol>
+Used a high level Haskell and Lisp image processing library to do the following:
 
-  <!-- Wrapper for slides -->
-  <div class="carousel-inner">
-    <div class="item active">
-      <img src="{{ site.imageurl }}/daubechies4.png">
-      <div class="carousel-caption">
-        Daubechies 4 wavelet
-      </div>
-    </div>
-    <div class="item">
-      <img src="{{ site.imageurl }}/laplacianPyramid.png">
-      <div class="carousel-caption">
-        Laplacian pyramid
-      </div>
-    </div>
-    <div class="item">
-      <img src="{{ site.imageurl }}/mirror.png">
-      <div class="carousel-caption">
-        Mirror (before)
-      </div>
-    </div>
-    <div class="item">
-      <img src="{{ site.imageurl }}/mirrorPanorama.png">
-      <div class="carousel-caption">
-        Mirror panorama
-      </div>
-    </div>
-    <div class="item">
-      <img src="{{ site.imageurl }}/laplacianPyramid.png">
-      <div class="carousel-caption">
-        Laplacian pyramid
-      </div>
-    </div>
-  </div>
-  <!-- Controls -->
-  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left"></span>
-  </a>
-  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right"></span>
-  </a>
-</div>
+- Feature detection and extraction for calculating the monetary value of coins in an image
+- Daubechies 4 wavelet
+- Laplacian pyramid
+- Geometric projections
