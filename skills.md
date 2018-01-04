@@ -4,42 +4,60 @@ title: Skills
 permalink: /skills/
 ---
 
-## Tech
-
-### OSes
+# Operating Systems
 
 * Ubuntu, Centos/RHEL
 * Windows
 
-### Editors
+# Editors
 * Intellij IDEA
 * Eclipse
 * Visual Studio Code
 * Sublime Text
 
-### Version Control
+# Version Control
 * Git
 * SVN
 
-### Documentation
+# Documentation
 * Sphinx
 * Doxygen
 * JavaDocs
 * Markdown and Restructured Text
 
-### Quality tools
+## Quality tools
 * **Linters:** Pylint, MyPy, Clang-Check, TSLint
 * **Formatting tools:** Clang-Format, GoFmt, Autopep8, YAPF
 * **Continuous Integration:** GitLab CI, Jenkins
 * **Continuous Delivery:** Docker, Docker-Compose, Docker-Swarm, Kubernetes
 
-## Programming Languages
-* **Python**: Python is my favorite language and I’ve used it for many professional and side projects. I’ve used a number of advanced language features and libraries for Python including data analysis and machine learning libraries such as: numpy, pandas, matplotlib, and scikit-learn. I’ve also done web development in Python using SQLAlchemy, jinja2, django, and cherrypy to name a few. I am experienced in object oriented and functional programming styles in Python. I have implemented complex Machine Learning algorithms and large web and desktop applications in Python.
-* **Java**: Java is the first language I learned and I am very comfortable using it. I know many of the nuances of the language and prefer to use it for constructing large Object Oriented systems. I have developed many GUI tools using Java and the Swing framework, but I would like to learn JavaFX and modern UI development using Java. I have used many third party libraries in Java including Apache libraries, graph frameworks, and Eclipse RCP.
-* **C/C++**: I have not used C++ as much as Java or Python, but I do have some unique experiences with it. I developed a couple of Clang compiler tools using C++ during the summer of 2014 for Sandia Labs and have been using C++ extensively for my Robust Artificial Life course. I am able to contribute C++ code to large existing systems, but I do not know all of the nuances of the language.
-* **JavaScript**: I have used JavaScript and jQuery for front end web development, but nothing very large. Typically I use JavaScript for small tasks and delegate to server side processing for anything significant.
+# Programming Languages
+
+## Python
+
+Python is my favorite language and I’ve used it for many professional and side projects. I’ve used a number of advanced language features and libraries for Python including data analysis and machine learning libraries such as: numpy, pandas, matplotlib, and scikit-learn. I’ve also done web development in Python using SQLAlchemy, jinja2, django, and cherrypy to name a few. I am experienced in object oriented and functional programming styles in Python. I have implemented complex Machine Learning algorithms and large web and desktop applications in Python.
+
+## Java
+
+Java is the first language I learned and I am very comfortable using it. I know many of the nuances of the language and prefer to use it for constructing large Object Oriented systems. I have developed a few GUI tools using Java and the Swing framework.
+
+I have used Maven to manage Java dependencies and am comfortable with its lifecycle model and how sub-projects are resolved with its parent.
+
+## C++
+
+I have not used C++ as much as Java or Python, but I do have some unique experiences with it. I developed a couple of Clang compiler tools using C++ during the summer of 2014 for Sandia Labs and have been using C++ extensively for my Robust Artificial Life course. I am able to contribute C++ code to large existing systems, but I do not know all of the nuances of the language.
+
+## TypeScript/JavaScript
+
+I have used JavaScript and jQuery for front end web development, but nothing very large. Typically I use JavaScript for small tasks and delegate to server side processing for anything significant.
+
+## PHP
+
+I’ve used PHP briefly for my Intro to Databases project and wrote a full website that interacted with a MySQL database using embedded raw SQL queries with it. I don’t think I’d choose to use PHP if given the choice of languages.
+
+## Other languages:
+
 * **Haskell**
-* **PHP**: I’ve used PHP briefly for my Intro to Databases project and wrote a full website that interacted with a MySQL database using embedded raw SQL queries with it. I don’t think I’d choose to use PHP if given the choice of languages.
 * **HTML5**
 * **CSS**
 * **SQL**
@@ -47,7 +65,7 @@ permalink: /skills/
 * **Matlab/Octave**
 * **LaTeX**
 
-## Experience in Computer Science Fields
+# Experience in Computer Science Fields
 
 ### AI
 I have created AI programs that have played Tron on a hex grid, solved puzzles, waited in line and worked at a virtual DMV, and fought wars against one another.
