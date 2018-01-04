@@ -7,16 +7,17 @@ View this page at: http://lnunno.github.io
 
 ## Running the development version
 
+I've included a [Makefile](Makefile) that should install the correct dependencies to build and run this site.
+
 ```
 $ sudo apt-get install ruby-dev
-$ sudo gem install jekyll bundle
-$ jekyll serve --incremental
+$ sudo make deps
 ```
 
 Also try running
 
 ```
-$ jekyll clean && jekyll serve --incremental
+$ make rebuild
 ```
 
-To regenerate the site from "scratch".
+To regenerate the site from scratch.

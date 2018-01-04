@@ -1,3 +1,5 @@
+deps:
+	gem install jekyll bundle rouge
 serve:
 	jekyll serve -I -H 0.0.0.0 -P 8080
 clean:
