@@ -1,5 +1,5 @@
 deps:
-	gem install jekyll bundle rouge
+	gem install jekyll bundle rouge jekyll-seo-tag
 serve:
 	jekyll serve -I -H 0.0.0.0 -P 8080
 clean:

@@ -14,3 +14,5 @@ social_badge_size: "2x"
 # Build settings
 markdown: kramdown
 permalink: pretty
+plugins:
+  - jekyll-seo-tag
