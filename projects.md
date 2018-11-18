@@ -7,9 +7,13 @@ permalink: /projects/
 This is a selection of some programming and software engineering projects I
 have been involved in, it is by no means an exhaustive list.
 
+# Palantir Technologies
+
+## Fullstack development (August 2018 - present)
+
 # Sandia National Labs
 
-## Fullstack development (December 2016 - Present)
+## Fullstack development (December 2016 - August 2018)
 
 Teamed with and consulted a variety of software development teams in 2-4 week sprints. Rapidly implemented both backend and frontend code and taught others full stack development. TS-SCI DOE Security Clearance.
 
