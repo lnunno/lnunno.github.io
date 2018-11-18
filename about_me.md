@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-I'm a Software Engineer at Palantir in Palo ALto, California.
+I'm a Software Engineer at Palantir in Palo Alto, California.
 
 I like to learn new technology and master established tools. My goal is to write software that is both useful and easy to use while following software engineering best practices.
 
