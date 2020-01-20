@@ -13,21 +13,3 @@ If I could pick any technology to write software in I'd probably choose a Python
 I use antigen to manage my zsh environment and Vundle to manage my vim extensions. I've also written a number of Ansible roles to manage my environment.
 
 I like to rock climb, hike, swim, and play video games.
-
-## What I've been listening to
-
-### This week
-![](http://www.tapmusic.net/collage.php?user=GrokThis&type=7day&size=5x5)
-https://www.last.fm/user/GrokThis/library/albums?date_preset=LAST_7_DAYS
-
-### This month
-![](http://www.tapmusic.net/collage.php?user=GrokThis&type=1month&size=5x5)
-https://www.last.fm/user/GrokThis/library/albums?date_preset=LAST_30_DAYS
-
-### 6 months
-![](http://www.tapmusic.net/collage.php?user=GrokThis&type=6month&size=5x5)
-https://www.last.fm/user/GrokThis/library/albums?date_preset=LAST_180_DAYS
-
-### This year
-![](http://www.tapmusic.net/collage.php?user=GrokThis&type=6month&size=5x5)
-https://www.last.fm/user/GrokThis/library/albums?date_preset=LAST_365_DAYS
