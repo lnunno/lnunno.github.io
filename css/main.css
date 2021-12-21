@@ -6,14 +6,23 @@
   padding: 0;
 }
 
-html, body { height: 100%; }
+html, body { 
+    height: 100%; 
+    
+    /* Dark mode */
+    background-color: rgb(24, 26, 27);
+    color: rgb(200, 195, 188);
+}
 
 body {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
-  background-color: #fdfdfd;
+      
+  /* Dark mode */
+  background-color: rgb(24, 26, 27);
+  color: rgb(200, 195, 188);
 }
 
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
@@ -137,7 +146,10 @@ a:visited { color: #205caa; }
 
 .page-content {
   padding: 30px 0;
-  background-color: #fff;
+  
+  /* Dark mode */
+  background-color: rgb(24, 26, 27);
+  color: rgb(200, 195, 188);
 }
 
 table {
