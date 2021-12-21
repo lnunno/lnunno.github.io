@@ -140,6 +140,22 @@ a:visited { color: #205caa; }
   background-color: #fff;
 }
 
+table {
+    display: block;
+    width: 100%;
+    width: max-content;
+    max-width: 100%;
+}
+
+th {
+    padding: 6px 13px;
+}
+
+td {
+    padding: 6px 13px;
+    border: 1px solid black;
+}
+
 
 /* Home styles */
 /* ----------------------------------------------------------*/
