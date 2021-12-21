@@ -7,8 +7,10 @@
 }
 
 :root {
+ /* black */
  --background-color: #111418;
- --text-color: #CED9E0;
+ /* light-gray1 */
+ --text-color: #D3D8DE;
 }
 
 html, body { 
