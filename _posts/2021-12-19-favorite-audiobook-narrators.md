@@ -11,8 +11,8 @@ I'm a big fan of and somewhat of a connoisseur of audiobooks. Here are a few of 
 - Bernard Cornwell 
   - Warlord Chronicles 
   - first four Saxon series books
-  - Gotrek & Felix
-  - Warhammer 40k
+- Gotrek & Felix
+- Warhammer 40k
 
 ## Stephen Pacey
 First Law!
