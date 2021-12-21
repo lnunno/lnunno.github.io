@@ -147,6 +147,10 @@ table {
     max-width: 100%;
 }
 
+th {
+    text-align: center !important;
+}
+
 td, th {
     padding: 6px 13px !important;
     border: 1px solid #202B33;
