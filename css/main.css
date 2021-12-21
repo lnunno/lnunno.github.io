@@ -152,6 +152,10 @@ td, th {
     border: 1px solid black;
 }
 
+tr:nth-child(even) {
+    background-color: #161b22;
+}
+
 
 /* Home styles */
 /* ----------------------------------------------------------*/
