@@ -14,8 +14,17 @@ I'm a big fan of and somewhat of a connoisseur of audiobooks. Here are a few of 
 - Gotrek & Felix
 - Warhammer 40k
 
-## Stephen Pacey
-First Law!
+## Steven Pacey
+- First Law
+
+## Ralph Lister
+- Ash and Sand 
+- First 3 Malazan Books
+- Cirque Du Freak 
+
+## Michael Page 
+- Malazan
+- Gentleman Bastards
 
 ## Andrew Wincott
 - Tad Williams
@@ -35,3 +44,14 @@ First Law!
 ## James Langton
 - Tawny Man trology
 - first few Necroscope books
+
+## Samuel Roukin
+- Sun Eater
+- Elric
+
+## Jefferson Mays 
+- The Expanse 
+
+## John Banks
+- Books of Babel 
+- Novels of Malazan Empire 
