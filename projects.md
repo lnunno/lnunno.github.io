@@ -4,12 +4,20 @@ title: Projects
 permalink: /projects/
 ---
 
+I care a lot about finding the right solution to a problem and helping the humans tackling the hard problems with technology. Sometimes that involves writing code, other times it can be more complicated.
+
 This is a selection of some programming and software engineering projects I
 have been involved in, it is by no means an exhaustive list.
 
 # Palantir Technologies
 
 ## Fullstack development (August 2018 - present)
+
+Product development on mission planning and operations applications for some of the most critical/high consequence events ongoing in the world. Some features developed Included multi user collaboration on high scale map applications, data visualization, and security. Specialized in front end development with TypeScript and React. Designed complex features that utilized and coordinated multiple services.
+
+Worked on the Gaia team which is the map application powering Gotham. Used in live operations with multiple users collaborating on the same map with high scale data. Gaia helped the United States and its allies combat the war on terror and deter near-peer conflict with larger nations.
+
+Worked on a suite of mission planning applications for modeling potential real-world conflicts and possible outcomes. These applications also were also used to run exercises in large government organizations and inform future decisions for resource allocation and unit readiness. Integrated with a number of proprietary government systems and interoperable with the Palantir Gotham and Foundry products.
 
 # Sandia National Labs
 
