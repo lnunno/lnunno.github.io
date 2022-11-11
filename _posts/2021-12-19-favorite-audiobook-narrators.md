@@ -52,6 +52,7 @@ I'm a big fan of and somewhat of a connoisseur of audiobooks. Here are a few of 
 ## Jefferson Mays 
 - The Expanse 
 
-## John Banks
-- Books of Babel 
-- Novels of Malazan Empire 
+## John Lee
+- Kingsbridge
+- Alastair Reynolds
+- Peter F Hamilton
