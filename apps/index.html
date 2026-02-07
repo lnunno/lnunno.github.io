@@ -10,8 +10,6 @@ permalink: /apps/
     <h2>
       {% if app.emoji %}
       <span class="apps-emoji" aria-hidden="true">{{ app.emoji }}</span>
-      {% elsif app.icon %}
-      <i class="{{ app.icon }} apps-icon" aria-hidden="true"{% if app.icon_color %} style="color: {{ app.icon_color }};"{% endif %}></i>
       {% endif %}
       {{ app.name }}
     </h2>

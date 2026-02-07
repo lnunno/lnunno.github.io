@@ -1,8 +1,7 @@
 - name: Health Tracker
   url: /apps/health-tracker/
   description: Daily tracking and quick insights for habits and health.
-  icon: fa-solid fa-heart-pulse
-  icon_color: "#ff6b6b"
+  emoji: 💖
 - name: Weird Whisky Generator
   url: /apps/weird-whisky-generator/
   description: Generate strange and unhinged tasting notes.
