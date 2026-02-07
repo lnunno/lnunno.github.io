@@ -425,6 +425,11 @@ tr:nth-child(even) {
   font-size: 20px;
 }
 
+.apps-emoji {
+  font-size: 20px;
+  line-height: 1;
+}
+
 .apps-card p {
   color: #A9B3BD;
   margin-bottom: 12px;
