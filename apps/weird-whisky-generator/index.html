@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Weird Whisky Generator</title>
+  <style>
+    :root{--bg:#0b0f12;--card:#12171c;--muted:#9fb0c0;--text:#e6eef6;--accent:#39d98a;--accent2:#8a8fff;--danger:#ff7a7a}
+    html,body{height:100%}
+    body{margin:0;background:linear-gradient(180deg,#0b0f12,#0d1016 40%,#0b0f12);color:var(--text);font:16px/1.45 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,"Helvetica Neue",Arial}
+    .wrap{max-width:980px;margin:32px auto;padding:0 18px}
+    header{display:flex;gap:12px;align-items:center;margin-bottom:18px}
+    .logo{width:40px;height:40px;border-radius:10px;background:radial-gradient(100% 100% at 20% 10%,#3cf 0,#8a8fff 32%,#39d98a 70%,#111 100%);box-shadow:0 10px 30px rgba(138,143,255,.25)}
+    h1{font-size:26px;margin:0}
+    .card{background:var(--card);border:1px solid rgba(255,255,255,.06);border-radius:16px;box-shadow:0 16px 40px rgba(0,0,0,.35);overflow:hidden}
+    .toolbar{display:flex;flex-wrap:wrap;gap:10px;align-items:end;padding:18px;border-bottom:1px solid rgba(255,255,255,.06);background:linear-gradient(180deg,rgba(255,255,255,.03),rgba(255,255,255,.00))}
+    label{font-size:12px;color:var(--muted);display:block;margin-bottom:6px}
+    input[type="text"], select{background:#0c1116;border:1px solid rgba(255,255,255,.08);color:var(--text);border-radius:10px;padding:10px 12px;min-width:160px}
+    .btn{appearance:none;border:none;background:var(--accent);color:#07130b;font-weight:700;border-radius:12px;padding:12px 14px;cursor:pointer;box-shadow:0 6px 18px rgba(57,217,138,.35);transition:transform .08s ease}
+    .btn.secondary{background:#1b2330;color:var(--text);box-shadow:none;border:1px solid rgba(255,255,255,.08)}
+    .btn.primary-action{width:100%;padding:16px;font-size:16px;border-radius:12px;margin-bottom:18px;opacity:0.92}
+    .btn:hover{transform:translateY(-1px)}
+    .btn.primary-action:hover{opacity:1}
+    .btn:active{transform:translateY(0)}
+    .result{padding:22px}
+    .title{display:flex;flex-wrap:wrap;align-items:center;gap:10px}
+    .badge{font-size:12px;padding:6px 10px;border-radius:999px;background:#151c25;border:1px solid rgba(255,255,255,.08);color:var(--muted)}
+    .name{font-size:28px;font-weight:800;margin:6px 0}
+    .meta{color:var(--muted);font-size:13px;margin-bottom:14px}
+    .notes{display:grid;grid-template-columns:1fr;gap:14px}
+    .note{background:#0e141b;border:1px solid rgba(255,255,255,.05);border-radius:12px;padding:14px}
+    .note h3{margin:0 0 6px;font-size:13px;color:var(--accent2)}
+    .muted{color:var(--muted)}
+    .footer{padding:18px;border-top:1px solid rgba(255,255,255,.06);display:flex;justify-content:space-between;align-items:center;color:var(--muted);font-size:12px}
+    .danger{color:var(--danger)}
+    @media(min-width:760px){.notes{grid-template-columns:repeat(3,1fr)}}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="logo" aria-hidden="true"></div>
+      <div>
+        <h1>Weird Whisky Generator</h1>
+        <div class="muted">Experimental tasting notes from the outer limits of flavor.</div>
+      </div>
+    </header>
+
+    <button class="btn primary-action" id="btnGen">Generate Whisky</button>
+
+    <section class="card" role="region" aria-labelledby="controls">
+      <div class="result" id="result" aria-live="polite"></div>
+
+      <div class="toolbar" id="controls">
+        <div>
+          <label for="seed">Seed</label>
+          <input id="seed" type="text" placeholder="random" />
+        </div>
+        <div>
+          <label for="style">Style</label>
+          <select id="style">
+            <option value="any" selected>All styles</option>
+            <option value="industrial">⚙️ Industrial & Mechanical</option>
+            <option value="atmospheric">⚡ Atmospheric & Elemental</option>
+            <option value="pharma">⚕️ Pharmaceutical & Synthetic</option>
+            <option value="surreal">✨ Surreal & Cinematic</option>
+            <option value="cosmic">🌌 Cosmic & Astronomical</option>
+            <option value="geological">💎 Geological & Mineral</option>
+            <option value="cryptid">👁️ Cryptid & Folklore</option>
+            <option value="deepsea">🐙 Deep Sea & Abyssal</option>
+            <option value="prehistoric">🦴 Prehistoric & Paleontological</option>
+            <option value="haunted">👻 Haunted Domestic</option>
+            <option value="arcade">🕹️ Arcade & Retro Gaming</option>
+            <option value="entomological">🦗 Entomological & Insect</option>
+            <option value="corporeal">🫀 Corporeal & Fleshy</option>
+          </select>
+        </div>
+        <div><label>&nbsp;</label><button class="btn secondary" id="btnCopyMD">Copy as Markdown</button></div>
+        <div><label>&nbsp;</label><button class="btn secondary" id="btnCopyJSON">Copy as JSON</button></div>
+        <div><label>&nbsp;</label><button class="btn secondary" id="btnExportMD">Export .md</button></div>
+        <div><label>&nbsp;</label><button class="btn secondary" id="btnExportJSON">Export .json</button></div>
+      </div>
+    </section>
+  </div>
+
+<script>
+// --- Seeded RNG (Mulberry32) ---
+function mulberry32(a){return function(){var t=a+=0x6D2B79F5;t=Math.imul(t^t>>>15,t|1);t^=t+Math.imul(t^t>>>7,t|61);return ((t^t>>>14)>>>0)/4294967296}}
+function strHash(s){let h=2166136261;for(let i=0;i<s.length;i++){h^=s.charCodeAt(i);h=Math.imul(h,16777619)}return h>>>0}
+function pick(rand, arr){return arr[Math.floor(rand()*arr.length)]}
+
+// ---------- SMWS DISTILLERY CODES ----------
+const smwsDistilleries = [
+  {code:1,name:'Glenfarclas',region:'Speyside'},{code:2,name:'Glenlivet',region:'Speyside'},{code:3,name:'Bowmore',region:'Islay'},{code:4,name:'Highland Park',region:'Islands'},
+  {code:5,name:'Auchentoshan',region:'Lowland'},{code:6,name:'Macduff',region:'Highland'},{code:7,name:'Longmorn',region:'Speyside'},{code:8,name:'Tamdhu',region:'Speyside'},
+  {code:9,name:'Glen Grant',region:'Speyside'},{code:10,name:'Bunnahabhain',region:'Islay'},{code:11,name:'Tomatin',region:'Highland'},{code:12,name:'BenRiach',region:'Speyside'},
+  {code:13,name:'Dalmore',region:'Highland'},{code:14,name:'Talisker',region:'Islands'},{code:15,name:'Glenfiddich',region:'Speyside'},{code:16,name:'Glenturret',region:'Highland'},
+  {code:17,name:'Scapa',region:'Islands'},{code:18,name:'Inchgower',region:'Speyside'},{code:19,name:'Glen Garioch',region:'Highland'},{code:21,name:'Glenglassaugh',region:'Highland'},
+  {code:22,name:'Glenkinchie',region:'Lowland'},{code:23,name:'Bruichladdich',region:'Islay'},{code:24,name:'Macallan',region:'Speyside'},{code:26,name:'Clynelish',region:'Highland'},
+  {code:27,name:'Springbank',region:'Campbeltown'},{code:28,name:'Tullibardine',region:'Highland'},{code:29,name:'Laphroaig',region:'Islay'},{code:30,name:'Glenrothes',region:'Speyside'},
+  {code:31,name:'Isle of Jura',region:'Islands'},{code:32,name:'Edradour',region:'Highland'},{code:33,name:'Ardbeg',region:'Islay'},{code:34,name:'Tamnavulin',region:'Speyside'},
+  {code:35,name:'Glen Moray',region:'Speyside'},{code:36,name:'Benrinnes',region:'Speyside'},{code:37,name:'Cragganmore',region:'Speyside'},{code:39,name:'Linkwood',region:'Speyside'},
+  {code:40,name:'Balvenie',region:'Speyside'},{code:41,name:'Dailuaine',region:'Speyside'},{code:42,name:'Tobermory',region:'Islands'},{code:44,name:'Craigellachie',region:'Speyside'},
+  {code:46,name:'Glenlossie',region:'Speyside'},{code:47,name:'Benromach',region:'Speyside'},{code:48,name:'Balmenach',region:'Speyside'},{code:50,name:'Bladnoch',region:'Lowland'},
+  {code:51,name:'Bushmills',region:'Northern Ireland'},{code:52,name:'Old Pulteney',region:'Highland'},{code:53,name:'Caol Ila',region:'Islay'},{code:54,name:'Aberlour',region:'Speyside'},
+  {code:55,name:'Royal Brackla',region:'Highland'},{code:58,name:'Strathisla',region:'Speyside'},{code:59,name:'Teaninich',region:'Highland'},{code:60,name:'Aberfeldy',region:'Highland'},
+  {code:63,name:'Glentauchers',region:'Speyside'},{code:64,name:'Mannochmore',region:'Speyside'},{code:66,name:'Ardmore',region:'Highland'},{code:68,name:'Blair Athol',region:'Highland'},
+  {code:70,name:'Balblair',region:'Highland'},{code:71,name:'Glenburgie',region:'Speyside'},{code:72,name:'Miltonduff',region:'Speyside'},{code:73,name:'Aultmore',region:'Speyside'},
+  {code:76,name:'Mortlach',region:'Speyside'},{code:77,name:'Glen Ord',region:'Highland'},{code:78,name:'Ben Nevis',region:'Highland'},{code:79,name:'Deanston',region:'Highland'},
+  {code:80,name:'Glen Spey',region:'Speyside'},{code:81,name:'Glen Keith',region:'Speyside'},{code:82,name:'Glencadam',region:'Highland'},{code:84,name:'Glendullan',region:'Speyside'},
+  {code:85,name:'Glen Elgin',region:'Speyside'},{code:88,name:'Speyburn',region:'Speyside'},{code:89,name:'Tomintoul',region:'Speyside'},{code:91,name:'Dufftown',region:'Speyside'},
+  {code:93,name:'Glen Scotia',region:'Campbeltown'},{code:94,name:'Fettercairn',region:'Highland'},{code:95,name:'Auchroisk',region:'Speyside'},{code:96,name:'GlenDronach',region:'Highland'},
+  {code:100,name:'Strathmill',region:'Speyside'},{code:101,name:'Knockando',region:'Speyside'},{code:102,name:'Dalwhinnie',region:'Highland'},{code:103,name:'Royal Lochnagar',region:'Highland'},
+  {code:105,name:'Tormore',region:'Speyside'},{code:106,name:'Cardhu',region:'Speyside'},{code:107,name:'Glenallachie',region:'Speyside'},{code:108,name:'Allt-a-Bhainne',region:'Speyside'},
+  {code:110,name:'Oban',region:'Highland'},{code:111,name:'Lagavulin',region:'Islay'},{code:112,name:'Loch Lomond',region:'Highland'},{code:113,name:'Braeval',region:'Speyside'},
+  {code:114,name:'Springbank (Longrow)',region:'Campbeltown'},{code:115,name:'Knockdhu',region:'Highland'},{code:121,name:'Isle of Arran',region:'Islands'},
+  {code:123,name:'Glengoyne',region:'Highland'},{code:125,name:'Glenmorangie',region:'Highland'},{code:126,name:'Springbank (Hazelburn)',region:'Campbeltown'},
+  {code:127,name:'Bruichladdich (Port Charlotte)',region:'Islay'},{code:129,name:'Kilchoman',region:'Islay'}
+];
+
+// ---------- VOCAB POOLS (expanded) ----------
+const vocab = {
+  connectors:['with','and','over','beside','beneath','drifting through','glazed in','washed in','laced with','haloed by'],
+  industrial:{
+    adj:['oily','greasy','tarred','carbon-dusted','metallic','acrid','petrol-bright','graphitic','sooty','waxy','solder-hot','rubberized'],
+    material:['engine oil','photocopier toner','graphite shavings','brake dust','diesel vapor','solder smoke','galvanized steel','lamp oil','WD-40 sheen','battery acid tang','ink ribbon'],
+    detail:['green banana skin','oxidized apple','socket wrench bite','workshop sawdust','rubber gasket','tar resin','old leather apron','smelting heat','toolbox mints','oily almond','coal lift'],
+    titleLeft:['Grease Monkey','Engine Room','Transmission','Gearbox','Diesel','Torque','Piston','Carbon Copy','Brake Dust','Solder','Wrench','Factory Floor','Forge','Machinist','Oil Can','Steel Mill','Welding Arc','Pneumatic','Typewriter','Voltage','Turbine','Rivet'],
+    titleRight:['Serenade','Symphony','Burnout','Dreams','Redux','Maintenance','Overhaul','Calibration','Protocol','Manifesto','Sequence','Assembly','Directive','Manual','Workshop','Chronicle','Memoir','Ballad']
+  },
+  atmospheric:{
+    adj:['ionized','glacial','storm-lit','noctilucent','misty','salt-sprayed','polar','monsoon-cool','static-charged','rain-haloed','auroral','sunset-warm'],
+    material:['wet pavement','sea fog','glow-stick rain','mountain ozone','chalk dust','dry thunder','driftwood smoke','hail vapor','arctic menthol','cold riverstones','Santorini sunset glow'],
+    detail:['lime shard','tonic fizz','LED glass','peppermint breath','cucumber peel','orchard frost','neon reflection','sleet sparkle','lunar dew','condensed cloud'],
+    titleLeft:['Static','Thunder','Lightning','Monsoon','Arctic','Glacial','Storm','Ozone','Fog','Horizon','Aurora','Tempest','Nimbus','Cyclone','Drift','Tundra','Summit','Cascade','Squall','Downpour','Sleet','Blizzard'],
+    titleRight:['Over Reykjavik','Rainstorm','and Ozone','Rhapsody','Cantata','Lullaby','Cloudbreak','Uprising','Passage','Crossing','Meditation','Reverie','Echo','Whisper','Majesty','Phenomenon']
+  },
+  pharma:{
+    adj:['mentholated','sterile','powder-sweet','antiseptic','latex-soft','eucalyptus-bright','camphor-cool','surgical','lozenge-pink','clinical','bubble-scented'],
+    material:['gauze','nitrile gloves','chlorhexidine','cough syrup','benzoin tincture','white chocolate tablets','mouthwash bloom','vitamin dust','eucalyptus gel','bubble bath foam'],
+    detail:['vanilla swab','wintergreen shard','pharmacy mint','alcohol wipe','pillbox sugar','coated aspirin fizz','sugar-glove perfume','sterile jasmine'],
+    titleLeft:['Prescription','Antiseptic','Surgical','Clinical','Laboratory','Remedy','Elixir','Tincture','Capsule','Tablet','Latex','Menthol','Eucalyptus','Camphor','Sterile','Pharmacy','Apothecary','Medicinal','Bandage','Compress'],
+    titleRight:['Dreams','Daydream','Gelato','Sundae','Macchiato','Parfait','Peppermint','Mint','Lozenge','Relief','Comfort','Protocol','Treatment','Therapy','Solution','Formula','Compound']
+  },
+  surreal:{
+    adj:['holographic','cinematic','mercurial','velvet-sweaty','ultraviolet','polaroid-cold','chrome-bright','celluloid-warm','digital-frosted','neon-broken','dreamlike'],
+    material:['liquid chrome','black leather seats','velvet curtain heat','CRT snow','projector bulb glow','3D-printed fruit','nitrate film','vinyl record breath','server-farm breeze','laser mist'],
+    detail:['cotton-candy mirage','gunmetal ice cubes','mercury spun sugar','photograph curl','mirrorball dust','bandwidth foam','sunscreen ghost','hologram rain','pixel confetti'],
+    titleLeft:['Neon','Holographic','Cinema','Disco','Miami Noir','Data Cloud','Server Farm','Velvet','Chrome','Digital','Polaroid','Celluloid','Vinyl','Laser','Pixel','Mirrorball','Ultraviolet','Bandwidth','Analog','Synthwave','Retrograde','Cybernetic'],
+    titleRight:['Dreams','Noir','Serenade','Reflections','Mirage','Fantasia','Reverie','Odyssey','Kaleidoscope','Mosaic','Prism','Spectrum','Dimension','Memory','Vision','Déjà Vu','Eclipse']
+  },
+  cosmic:{
+    adj:['interstellar','nebular','meteor-scorched','lunar','zero-gravity','cosmic','void-dark','supernova-bright','orbital','starlit','asteroid-dusted','plasma-hot'],
+    material:['asteroid dust','comet tail vapor','moon rock powder','solar wind','space station coolant','antimatter shimmer','satellite debris','cosmic radiation','nebula gas','dark matter traces'],
+    detail:['freeze-dried ice cream','Tang crystals','astronaut sweat','rocket fuel residue','satellite metal','space food wrapper','cosmic ray burn','stellar core fragment','orbit decay','red shift glow'],
+    titleLeft:['Supernova','Asteroid','Nebula','Cosmic','Lunar','Solar','Starlight','Void','Meteor','Orbital','Zero Gravity','Event Horizon','Pulsar','Quasar','Galaxy','Satellite','Celestial','Gravity Well'],
+    titleRight:['Drift','Anomaly','Phenomenon','Trajectory','Orbit','Eclipse','Corona','Flare','Descent','Launch','Sequence','Protocol','Mission','Voyage','Frontier','Unknown']
+  },
+  geological:{
+    adj:['crystalline','quartzite','sedimentary','mineral-rich','cave-aged','stalactite-dripped','geode-cracked','metamorphic','ore-veined','granite-hard','basaltic','calcified'],
+    material:['copper sulfate','mica flakes','limestone dust','volcanic glass','gem polish','iron ore','salt crystal','marble powder','schist fragments','feldspar shards'],
+    detail:['cave water drops','quartz spark','obsidian edge','sulfur bloom','gold leaf fragment','amethyst core','granite chip','fossil impression','mineral vein','crystal lattice'],
+    titleLeft:['Geode','Crystal','Quarry','Cavern','Mineral','Stalactite','Fossil','Granite','Basalt','Obsidian','Limestone','Ore','Gemstone','Bedrock','Sediment','Magma','Tectonic','Stratum'],
+    titleRight:['Formation','Deposit','Vein','Layer','Core','Fault','Pressure','Chamber','Seam','Matrix','Specimen','Sample','Discovery','Archive','Chronicle']
+  },
+  cryptid:{
+    adj:['cryptozoological','spectral','moth-like','lake-monster-wet','bigfoot-musky','UFO-metallic','paranormal','otherworldly','conspiracy-thick','unexplained','elusive','legendary'],
+    material:['swamp gas','ectoplasm mist','mothman wing dust','chupacabra breath','jersey devil smoke','alien alloy','paranormal residue','legend vapor','mystery fog','cryptid musk'],
+    detail:['Nessie splash','Area 51 fog','haunted photograph','crop circle dew','ghost light flicker','Roswell metal','Bigfoot print','UFO exhaust','séance candle','Bermuda Triangle salt'],
+    titleLeft:['Mothman','Cryptid','Spectral','Paranormal','Conspiracy','UFO','Legend','Mystery','Folklore','Phantom','Apparition','Chupacabra','Sasquatch','Anomaly','Phenomenon','X-File','Cover-Up'],
+    titleRight:['Sighting','Encounter','Evidence','File','Report','Investigation','Manifestation','Visitation','Incident','Event','Theory','Transmission','Protocol','Archives']
+  },
+  deepsea:{
+    adj:['bioluminescent','abyssal','trench-dark','pressure-cooked','anglerfish-lit','hadal','bathypelagic','crushing-deep','luminous','tentacled','phosphorescent','midnight-zone'],
+    material:['whale fall rot','submarine hull corrosion','deep sea vent minerals','jellyfish luminescence','squid ink cloud','hydrothermal sulfur','ocean floor sediment','abyssal brine','trench water'],
+    detail:['tube worm colony','giant isopod carapace','black smoker steam','drowned ship brass','pressure gel','biolume flash','deep current chill','Mariana whisper','trench echo','submersible viewport'],
+    titleLeft:['Abyssal','Trench','Bathypelagic','Hadal','Deep Current','Biolume','Pressure','Submersible','Hydrothermal','Midnight Zone','Ocean Floor','Fathom','Descent','Crush Depth'],
+    titleRight:['Darkness','Luminescence','Pressure','Depth','Abyss','Descent','Exploration','Station','Phenomenon','Discovery','Encounter','Mystery','Chronicle','Expedition']
+  },
+  prehistoric:{
+    adj:['fossilized','Jurassic','amber-trapped','tar-pit-aged','Cambrian','petrified','carbon-dated','Cretaceous','Paleozoic','primordial','extinction-level','dinosaur-scaled'],
+    material:['dinosaur bone dust','amber resin','tar pit oil','fossil fuel essence','mammoth tusk powder','ancient pollen','prehistoric mud','geological time','era vapor','extinction ash'],
+    detail:['trilobite shell','pterodactyl leather','saber-tooth enamel','fern spore print','primordial soup','bone marrow fossilized','amber inclusion','coal seam','dinosaur breath','ice age chill'],
+    titleLeft:['Jurassic','Cretaceous','Triassic','Fossil','Amber','Primordial','Extinction','Paleolithic','Dinosaur','Mammoth','Prehistoric','Ancient','Petrified','Cambrian','Tar Pit'],
+    titleRight:['Era','Period','Age','Formation','Discovery','Excavation','Specimen','Deposit','Layer','Record','Memory','Echo','Archive','Revelation']
+  },
+  haunted:{
+    adj:['attic-dusty','cobwebbed','moth-balled','grandmother\'s-perfume','mildewed','porcelain-cold','Victorian-gloomy','cellar-damp','antique-musty','sepia-toned','creaking','haunted','cursed','spectral-pale','death-rattled','tombstone-cool','crypt-aged','grief-stained','mourning-black','ectoplasmic'],
+    material:['old wallpaper paste','radiator steam','cellar mold','antique mirror backing','kerosene lamp soot','vintage fabric','dust sheet','widow\'s veil','haunted floorboard','ancestral air','funeral flowers','graveyard fog','coffin wood','spirit board','dead roses','embalming fluid','cemetery soil','wake candles','mourning crepe','séance smoke'],
+    detail:['vintage doll hair','music box spring','teacup crack','yellowed lace','basement coal','attic photograph','grandfather clock oil','rocking chair creak','chandelier dust','Victorian cameo','death mask','skeleton key','burial shroud','obituary paper','widow\'s tears','last breath','ghost chill','grave dirt','funeral procession','haunted locket'],
+    titleLeft:['Attic','Séance','Victorian','Haunted','Ancestral','Antique','Widow\'s','Cellar','Parlor','Gothic','Specter','Apparition','Phantom','Spirit','Ghost','Manor','Estate','Crypt','Funeral','Wake','Tombstone','Graveyard','Coffin','Mourning','Burial'],
+    titleRight:['Memory','Whisper','Echo','Lament','Mourning','Vigil','Hour','Chamber','Portrait','Heirloom','Keepsake','Requiem','Elegy','Revenant','Dirge','Wake','Haunting','Possession','Séance','Visitation']
+  },
+  arcade:{
+    adj:['8-bit','cartridge-blown','joystick-worn','pixel-perfect','arcade-dimmed','coin-op','sprite-flickered','cathode-warm','RGB-bright','retro-fuzzy','power-up','game-over'],
+    material:['heated circuit board','plastic controller sweat','CRT static','carpet pizza grease','token metal','arcade carpet funk','console heat','cartridge contact','screen phosphor','power brick warmth'],
+    detail:['Game Boy screen glow','blown cartridge contact','high score screen burn','quarter slot jam','power-up chime','continue countdown','attract mode loop','level complete fanfare','insert coin blink'],
+    titleLeft:['Arcade','Pixel','8-Bit','Cartridge','Joystick','High Score','Game Over','Continue','Insert Coin','Power-Up','Player One','Retro','Console','Sprite','Boss Level'],
+    titleRight:['Dreams','Nostalgia','Challenge','Mode','Quest','Adventure','Achievement','Victory','Defeat','Marathon','Tournament','Championship','Saga','Legend']
+  },
+  entomological:{
+    adj:['chitinous','honeycomb-structured','cocoon-wrapped','pheromone-thick','compound-eyed','exoskeletal','metamorphic','hive-warmed','pupal','antennae-twitched','larval','queen-scented'],
+    material:['bee propolis','moth wing scales','termite wood dust','ant acid','beetle shell wax','spider silk strand','wasp paper','honey enzyme','royal jelly','insect chitin'],
+    detail:['cicada husk','spider silk strand','wasp paper','cricket leg rub','butterfly chrysalis','honeycomb cell','beetle mandible','mantis prayer','firefly lantern','dragonfly wing'],
+    titleLeft:['Honeycomb','Chrysalis','Metamorphosis','Chitin','Exoskeleton','Pheromone','Hive','Cocoon','Compound Eye','Mandible','Thorax','Proboscis','Antennae','Swarm'],
+    titleRight:['Emergence','Metamorphosis','Colony','Flight','Season','Dance','Ritual','Cycle','Harvest','Chamber','Symphony','Awakening','Migration','Communion']
+  },
+  corporeal:{
+    adj:['membrane-thin','saline-slick','tissue-soft','capillary-burst','lymphatic','blood-warm','dermis-deep','mucous','glandular','corpuscular','subcutaneous','secretory','damp-furred'],
+    material:['plasma residue','collagen film','skin oil','sweat salt','lip balm wax','bandaid adhesive','iodine tincture','saline drip','surgical glove powder','specimen jar brine','body heat vapor','wet dog fur','cat dander'],
+    detail:['cuticle oil','knuckle crack','tongue coating','inner cheek','nostril burn','earlobe pinch','fingernail moon','scalp tingle','throat scratch','joint fluid','cartilage snap'],
+    titleLeft:['Membrane','Tissue','Plasma','Saline','Dermis','Capillary','Gland','Secretion','Specimen','Epidermis','Corpuscle','Lymph','Viscera','Serum','Cartilage','Marrow'],
+    titleRight:['Sample','Extract','Secretion','Essence','Specimen','Culture','Membrane','Biology','Anatomy','Vitality','Flush','Circulation','Metabolism','Function']
+  }
+};
+
+// Categories
+const categories=[
+  {id:'industrial', emoji:'⚙️', name:'Industrial & Mechanical'},
+  {id:'atmospheric', emoji:'⚡', name:'Atmospheric & Elemental'},
+  {id:'pharma', emoji:'⚕️', name:'Pharmaceutical & Synthetic'},
+  {id:'surreal', emoji:'✨', name:'Surreal & Cinematic'},
+  {id:'cosmic', emoji:'🌌', name:'Cosmic & Astronomical'},
+  {id:'geological', emoji:'💎', name:'Geological & Mineral'},
+  {id:'cryptid', emoji:'👁️', name:'Cryptid & Folklore'},
+  {id:'deepsea', emoji:'🐙', name:'Deep Sea & Abyssal'},
+  {id:'prehistoric', emoji:'🦴', name:'Prehistoric & Paleontological'},
+  {id:'haunted', emoji:'👻', name:'Haunted Domestic'},
+  {id:'arcade', emoji:'🕹️', name:'Arcade & Retro Gaming'},
+  {id:'entomological', emoji:'🦗', name:'Entomological & Insect'},
+  {id:'corporeal', emoji:'🫀', name:'Corporeal & Fleshy'}
+];
+
+// Helpers
+function uniquePick(rand, arr, used, maxTry=24){
+  for(let i=0;i<maxTry;i++){
+    const v = pick(rand, arr);
+    if(!used.has(v)){ used.add(v); return v; }
+  }
+  // Fallback if exhausted: return a marked variation
+  const v = pick(rand, arr) + '*';
+  used.add(v);
+  return v;
+}
+
+function phrase(rand, catPool, used){
+  const adj = uniquePick(rand, catPool.adj, used);
+  const mat = uniquePick(rand, catPool.material, used);
+  const conn = pick(rand, vocab.connectors);
+  const det = uniquePick(rand, catPool.detail, used);
+  return `${adj} ${mat} ${conn} ${det}`;
+}
+
+function makeCaskNo(rand){
+  const distillery = pick(rand, smwsDistilleries);
+  const caskNum = Math.floor(rand()*999)+1;
+  return {
+    code: `${distillery.code}.${caskNum.toString().padStart(3,'0')}`,
+    distillery: distillery.name,
+    region: distillery.region
+  };
+}
+function makeTitle(rand, pool){return `${pick(rand,pool.titleLeft)} ${pick(rand,pool.titleRight)}`}
+function pickCategory(rand, style){ if(style && style!=='any'){return categories.find(c=>c.id===style)} return pick(rand,categories) }
+
+function generate(seedStr, style='any'){
+  const seed = seedStr && seedStr.trim()!=='' ? strHash(seedStr) : crypto.getRandomValues(new Uint32Array(1))[0];
+  const rand = mulberry32(seed);
+  const cat = pickCategory(rand, style);
+  const pool = vocab[cat.id];
+  const used = new Set();
+
+  // Build sections with enforced uniqueness across sections
+  const nose = [phrase(rand,pool,used), phrase(rand,pool,used)].join('; ') + '.';
+  const palate = [phrase(rand,pool,used), phrase(rand,pool,used)].join('; ') + '.';
+  const finish = phrase(rand,pool,used) + '.';
+
+  const cask = makeCaskNo(rand);
+
+  const record = {
+    seed, category:cat, caskNo:cask.code, distillery:cask.distillery, region:cask.region, name:makeTitle(rand, pool),
+    nose, palate, finish,
+    disclaimer:'Experimental tasting notes. Not an official release.'
+  };
+  return record;
+}
+
+function toMarkdown(rec){
+  return `## ${rec.category.emoji} Cask No. ${rec.caskNo} — ${rec.distillery} (${rec.region})\n### "${rec.name}"\n\n`+
+         `**Nose:** ${rec.nose}\n`+
+         `**Palate:** ${rec.palate}\n`+
+         `**Finish:** ${rec.finish}\n\n`+
+         `> _${rec.disclaimer}_\n`;
+}
+function toJSON(rec){return JSON.stringify(rec,null,2)}
+
+function render(rec){
+  const el=document.getElementById('result');
+  el.innerHTML=`
+    <div class="title">
+      <span class="badge">${rec.category.emoji} ${rec.category.name}</span>
+      <span class="badge">Seed: ${rec.seed}</span>
+      <span class="badge">Cask No. ${rec.caskNo}</span>
+      <span class="badge">${rec.distillery} — ${rec.region}</span>
+    </div>
+    <div class="name">${rec.name}</div>
+    <div class="notes">
+      <div class="note"><h3>Nose</h3><div>${rec.nose}</div></div>
+      <div class="note"><h3>Palate</h3><div>${rec.palate}</div></div>
+      <div class="note"><h3>Finish</h3><div>${rec.finish}</div></div>
+    </div>
+  `;
+  window.__lastWhisky = rec;
+}
+
+// Utilities
+function copy(text){
+  navigator.clipboard.writeText(text).then(()=>toast('Copied to clipboard'),()=>toast('Copy failed', true));
+}
+function toast(msg, err=false){
+  const t=document.createElement('div');
+  t.textContent=msg; t.style.position='fixed'; t.style.bottom='22px'; t.style.right='22px';
+  t.style.background=err?'#3a1014':'#0f1a12'; t.style.border='1px solid rgba(255,255,255,.15)';
+  t.style.color='var(--text)'; t.style.padding='10px 14px'; t.style.borderRadius='10px';
+  t.style.boxShadow='0 10px 24px rgba(0,0,0,.4)'; t.style.opacity='0'; t.style.transition='opacity .15s ease';
+  document.body.appendChild(t); requestAnimationFrame(()=>t.style.opacity='1');
+  setTimeout(()=>{t.style.opacity='0'; setTimeout(()=>t.remove(),200)},1200)
+}
+function download(filename, content, type='text/plain'){
+  const blob = new Blob([content], {type}); const url = URL.createObjectURL(blob);
+  const a = document.createElement('a'); a.href = url; a.download = filename; a.click();
+  setTimeout(()=>URL.revokeObjectURL(url), 500);
+}
+
+// Wire up controls
+document.getElementById('btnGen').onclick=()=>{
+  const s=document.getElementById('seed').value; const st=document.getElementById('style').value;
+  render(generate(s, st));
+};
+document.getElementById('btnCopyMD').onclick=()=>{
+  if(!window.__lastWhisky){ toast('Generate a whisky first!', true); return; }
+  copy(toMarkdown(window.__lastWhisky));
+};
+document.getElementById('btnCopyJSON').onclick=()=>{
+  if(!window.__lastWhisky){ toast('Generate a whisky first!', true); return; }
+  copy(toJSON(window.__lastWhisky));
+};
+document.getElementById('btnExportMD').onclick=()=>{
+  if(!window.__lastWhisky){ toast('Generate a whisky first!', true); return; }
+  const rec = window.__lastWhisky;
+  download(`whisky_${rec.caskNo.replace('.','-')}.md`, toMarkdown(rec), 'text/markdown');
+};
+document.getElementById('btnExportJSON').onclick=()=>{
+  if(!window.__lastWhisky){ toast('Generate a whisky first!', true); return; }
+  const rec = window.__lastWhisky;
+  download(`whisky_${rec.caskNo.replace('.','-')}.json`, toJSON(rec), 'application/json');
+};
+
+// First render
+render(generate('', 'any'));
+document.getElementById('yr').textContent = new Date().getFullYear();
+</script>
+</body>
+</html>
