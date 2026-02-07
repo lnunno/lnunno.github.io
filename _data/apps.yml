@@ -5,13 +5,12 @@
   icon_color: "#ff6b6b"
 - name: Weird Whisky Generator
   url: /apps/weird-whisky-generator/
-  description: Generate delightfully odd whisky names with a click.
-  emoji: "🥃"
+  description: Generate strange and unhinged tasting notes.
+  emoji: "🔄️🥃"
 - name: Whisky Rating
   url: /apps/whisky-rating/
   description: Rate and log your whiskies with quick notes.
-  icon: fa-solid fa-star-half-stroke
-  icon_color: "#ffd166"
+  emoji: "🌟🥃"
 - name: Poker Buy-In Tracker
   url: /apps/poker-buy-in/
   description: Track buy-ins, cash-outs, and session results.
