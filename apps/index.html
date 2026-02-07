@@ -5,19 +5,13 @@ permalink: /apps/
 ---
 
 <section class="apps-grid">
-  <article class="apps-card">
-    <h2>Health Tracker</h2>
-    <p>Daily tracking and quick insights for habits and health.</p>
-    <a class="apps-link" href="/apps/health-tracker/">
+  {% for app in site.data.apps %}
+  <a class="apps-card" href="{{ app.url }}">
+    <h2>{{ app.name }}</h2>
+    <p>{{ app.description }}</p>
+    <span class="apps-link">
       Open app <i class="fa fa-arrow-right"></i>
-    </a>
-  </article>
-
-  <article class="apps-card">
-    <h2>Weird Whisky Generator</h2>
-    <p>Generate delightfully odd whisky names with a click.</p>
-    <a class="apps-link" href="/apps/weird-whisky-generator/">
-      Open app <i class="fa fa-arrow-right"></i>
-    </a>
-  </article>
+    </span>
+  </a>
+  {% endfor %}
 </section>
