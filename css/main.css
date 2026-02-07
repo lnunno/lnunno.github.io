@@ -413,8 +413,16 @@ tr:nth-child(even) {
 }
 
 .apps-card h2 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
   font-size: 20px;
   margin-bottom: 8px;
+}
+
+.apps-icon {
+  color: #7BB2FF;
+  font-size: 20px;
 }
 
 .apps-card p {

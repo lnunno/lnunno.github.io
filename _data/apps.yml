@@ -1,6 +1,8 @@
 - name: Health Tracker
   url: /apps/health-tracker/
   description: Daily tracking and quick insights for habits and health.
+  icon: fa-solid fa-heart-pulse
 - name: Weird Whisky Generator
   url: /apps/weird-whisky-generator/
   description: Generate delightfully odd whisky names with a click.
+  icon: fa-solid fa-whiskey-glass
