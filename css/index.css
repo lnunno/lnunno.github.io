@@ -15,6 +15,12 @@
     object-fit: contain;
     vertical-align: top;
     transform: translateY(0.08em);
+    transition: filter 0.2s ease-in-out;
+}
+
+a:hover .marketing-logo,
+a:focus .marketing-logo {
+    filter: brightness(0.8);
 }
 
 .page-content p {
