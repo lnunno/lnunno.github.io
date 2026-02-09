@@ -8,6 +8,15 @@
     font-size: 4em;
 }
 
+.marketing-logo {
+    display: inline-block;
+    width: 49px;
+    height: 4em;
+    object-fit: contain;
+    vertical-align: top;
+    transform: translateY(0.08em);
+}
+
 .page-content p {
     font-size: 16px;
 }
