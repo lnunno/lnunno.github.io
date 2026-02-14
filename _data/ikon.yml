@@ -1,0 +1,52 @@
+resorts:
+  - name: Winter Park
+    slug: winter-park
+    slopes_url: https://www.slopesapp.com/resorts/winter-park
+    snowstake_url: https://www.winterparkresort.com/the-mountain/mountain-cams
+    weather_channel_url: https://weather.com/weather/today/l/Winter+Park+CO
+    msn_weather_url: https://www.msn.com/en-us/weather/forecast/in-Winter-Park,CO
+    ikon_web_url: https://www.ikonpass.com/en/destinations/winter-park
+    parking:
+      - name: North Bench Lot
+        maps_url: https://www.google.com/maps/dir/?api=1&destination=39.8883649,-105.7626991
+      - name: Mary Jane Lot
+        maps_url: https://www.google.com/maps/dir/?api=1&destination=39.8737858,-105.7597581
+
+  - name: Copper Mountain
+    slug: copper-mountain
+    slopes_url: https://www.slopesapp.com/resorts/copper-mountain
+    snowstake_url: https://www.coppercolorado.com/the-mountain/mountain-cams
+    weather_channel_url: https://weather.com/weather/today/l/Copper+Mountain+CO
+    msn_weather_url: https://www.msn.com/en-us/weather/forecast/in-Copper-Mountain,CO
+    ikon_web_url: https://www.ikonpass.com/en/destinations/copper-mountain
+    parking:
+      - name: Alpine Lot (Far East)
+        maps_url: https://www.google.com/maps/dir/?api=1&destination=39.5020,-106.1553
+      - name: Chapel Lot (Closer)
+        maps_url: https://www.google.com/maps/dir/?api=1&destination=39.5007,-106.1510
+
+  - name: Arapahoe Basin
+    slug: arapahoe-basin
+    slopes_url: https://www.slopesapp.com/resorts/arapahoe-basin
+    snowstake_url: https://www.arapahoebasin.com/the-mountain/mountain-cams/
+    weather_channel_url: https://weather.com/weather/today/l/Keystone+CO
+    msn_weather_url: https://www.msn.com/en-us/weather/forecast/in-Keystone,CO
+    ikon_web_url: https://www.ikonpass.com/en/destinations/arapahoe-basin
+    parking:
+      - name: Early Riser Lot
+        maps_url: https://www.google.com/maps/dir/?api=1&destination=39.6425,-105.8710
+      - name: High Noon Lot
+        maps_url: https://www.google.com/maps/dir/?api=1&destination=39.6408,-105.8735
+
+  - name: Steamboat Springs
+    slug: steamboat
+    slopes_url: https://www.slopesapp.com/resorts/steamboat
+    snowstake_url: https://www.steamboat.com/the-mountain/mountain-cams
+    weather_channel_url: https://weather.com/weather/today/l/Steamboat+Springs+CO
+    msn_weather_url: https://www.msn.com/en-us/weather/forecast/in-Steamboat-Springs,CO
+    ikon_web_url: https://www.ikonpass.com/en/destinations/steamboat
+    parking:
+      - name: Meadows Parking Lot
+        maps_url: https://www.google.com/maps/dir/?api=1&destination=40.4553,-106.8048
+      - name: Knoll Lot
+        maps_url: https://www.google.com/maps/dir/?api=1&destination=40.4572,-106.8041
