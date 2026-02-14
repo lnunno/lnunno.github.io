@@ -21,10 +21,8 @@ permalink: /ikon/
 - 🎫 [Ikon Resort Page]({{ resort.ikon_web_url }})
 
 ### 🅿️ Parking
-
 {% for lot in resort.parking %}
-- 🚗 [{{ lot.name }}]({{ lot.maps_url }})
-{% endfor %}
+- 🚗 [{{ lot.name }}]({{ lot.maps_url }}){% endfor %}
 </div>
 </details>
 {% endfor %}
