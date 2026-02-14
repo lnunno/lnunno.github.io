@@ -1,7 +1,7 @@
 resorts:
   - name: Winter Park
     slug: winter-park
-    slopes_url: https://www.slopesapp.com/resorts/winter-park
+    slopes_url: https://getslopes.com/resorts/winter_park_resort
     snowstake_url: https://www.winterparkresort.com/the-mountain/mountain-cams
     weather_channel_url: https://weather.com/weather/today/l/Winter+Park+CO
     msn_weather_url: https://www.msn.com/en-us/weather/forecast/in-Winter-Park,CO
@@ -14,7 +14,7 @@ resorts:
 
   - name: Copper Mountain
     slug: copper-mountain
-    slopes_url: https://www.slopesapp.com/resorts/copper-mountain
+    slopes_url: https://getslopes.com/resorts/copper_mountain_resort
     snowstake_url: https://www.coppercolorado.com/the-mountain/mountain-cams
     weather_channel_url: https://weather.com/weather/today/l/Copper+Mountain+CO
     msn_weather_url: https://www.msn.com/en-us/weather/forecast/in-Copper-Mountain,CO
@@ -25,7 +25,7 @@ resorts:
 
   - name: Arapahoe Basin
     slug: arapahoe-basin
-    slopes_url: https://www.slopesapp.com/resorts/arapahoe-basin
+    slopes_url: https://getslopes.com/resorts/arapahoe_basin_ski_area
     snowstake_url: https://www.arapahoebasin.com/the-mountain/mountain-cams/
     weather_channel_url: https://weather.com/weather/today/l/Keystone+CO
     msn_weather_url: https://www.msn.com/en-us/weather/forecast/in-Keystone,CO
@@ -38,7 +38,7 @@ resorts:
 
   - name: Steamboat Springs
     slug: steamboat
-    slopes_url: https://www.slopesapp.com/resorts/steamboat
+    slopes_url: https://getslopes.com/resorts/steamboat_ski_resort
     snowstake_url: https://www.steamboat.com/the-mountain/mountain-cams
     weather_channel_url: https://weather.com/weather/today/l/Steamboat+Springs+CO
     msn_weather_url: https://www.msn.com/en-us/weather/forecast/in-Steamboat-Springs,CO
