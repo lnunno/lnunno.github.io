@@ -20,10 +20,8 @@ resorts:
     msn_weather_url: https://www.msn.com/en-us/weather/forecast/in-Copper-Mountain,CO
     ikon_web_url: https://www.ikonpass.com/en/destinations/copper-mountain
     parking:
-      - name: Alpine Lot (Far East)
-        maps_url: https://www.google.com/maps/dir/?api=1&destination=39.5020,-106.1553
-      - name: Chapel Lot (Closer)
-        maps_url: https://www.google.com/maps/dir/?api=1&destination=39.5007,-106.1510
+      - name: Alpine Lot
+        maps_url: https://www.google.com/maps/dir/?api=1&destination=39.5019251,-106.1436543
 
   - name: Arapahoe Basin
     slug: arapahoe-basin
@@ -47,6 +45,6 @@ resorts:
     ikon_web_url: https://www.ikonpass.com/en/destinations/steamboat
     parking:
       - name: Meadows Parking Lot
-        maps_url: https://www.google.com/maps/dir/?api=1&destination=40.4553,-106.8048
+        maps_url: https://www.google.com/maps/dir/?api=1&destination=40.4569131,-106.8145434
       - name: Knoll Lot
-        maps_url: https://www.google.com/maps/dir/?api=1&destination=40.4572,-106.8041
+        maps_url: https://www.google.com/maps/dir/?api=1&destination=40.4557014,-106.8088459
