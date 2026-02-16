@@ -19,8 +19,6 @@ hide_in_header: true
     {% endfor %}
   </p>
 
-  <div id="peaks-overview-map" class="peaks-map" aria-label="Map of peak locations"></div>
-
   {% for group in site.data.peaks.groups %}
   <section class="peaks-group">
     <h2 class="peaks-group-title">{{ group.name }}</h2>
@@ -31,6 +29,7 @@ hide_in_header: true
       {% endfor %}
     </p>
     {% endif %}
+    <div id="peaks-map-{{ forloop.index0 }}" class="peaks-map" aria-label="Map of {{ group.name }} peak locations"></div>
 
     <section class="peaks-grid">
     {% for peak in group.peaks %}
@@ -81,17 +80,22 @@ hide_in_header: true
 ></script>
 <script>
   (function () {
-    var peaks = [
+    var groups = [
       {% for group in site.data.peaks.groups %}
-      {% for peak in group.peaks %}
       {
-        name: {{ peak.name | jsonify }},
-        group: {{ group.name | jsonify }},
-        weatherGovUrl: {{ peak.weather_gov_url | jsonify }},
-        fourteenersUrl: {{ peak.fourteeners_url | jsonify }},
-        allTrailsUrl: {% if peak.alltrails_urls and peak.alltrails_urls.size > 0 and peak.alltrails_urls[0].url %}{{ peak.alltrails_urls[0].url | jsonify }}{% else %}null{% endif %}
-      }{% unless forloop.last and forloop.parentloop.last %},{% endunless %}
-      {% endfor %}
+        mapId: {{ "peaks-map-" | append: forloop.index0 | jsonify }},
+        groupName: {{ group.name | jsonify }},
+        peaks: [
+          {% for peak in group.peaks %}
+          {
+            name: {{ peak.name | jsonify }},
+            weatherGovUrl: {{ peak.weather_gov_url | jsonify }},
+            fourteenersUrl: {{ peak.fourteeners_url | jsonify }},
+            allTrailsUrl: {% if peak.alltrails_urls and peak.alltrails_urls.size > 0 and peak.alltrails_urls[0].url %}{{ peak.alltrails_urls[0].url | jsonify }}{% else %}null{% endif %}
+          }{% unless forloop.last %},{% endunless %}
+          {% endfor %}
+        ]
+      }{% unless forloop.last %},{% endunless %}
       {% endfor %}
     ];
 
@@ -113,64 +117,65 @@ hide_in_header: true
       }
     }
 
-    var points = peaks
-      .map(function (peak) {
-        var coords = coordsFromWeatherGov(peak.weatherGovUrl);
-        if (!coords) {
-          return null;
-        }
-        return {
-          name: peak.name,
-          group: peak.group,
-          lat: coords.lat,
-          lon: coords.lon,
-          weatherGovUrl: peak.weatherGovUrl,
-          fourteenersUrl: peak.fourteenersUrl,
-          allTrailsUrl: peak.allTrailsUrl
-        };
-      })
-      .filter(function (value) {
-        return value !== null;
+    groups.forEach(function (group) {
+      var points = group.peaks
+        .map(function (peak) {
+          var coords = coordsFromWeatherGov(peak.weatherGovUrl);
+          if (!coords) {
+            return null;
+          }
+          return {
+            name: peak.name,
+            lat: coords.lat,
+            lon: coords.lon,
+            weatherGovUrl: peak.weatherGovUrl,
+            fourteenersUrl: peak.fourteenersUrl,
+            allTrailsUrl: peak.allTrailsUrl
+          };
+        })
+        .filter(function (value) {
+          return value !== null;
+        });
+
+      if (!points.length) {
+        return;
+      }
+
+      var map = L.map(group.mapId, {
+        scrollWheelZoom: true
       });
 
-    if (!points.length) {
-      return;
-    }
-
-    var map = L.map("peaks-overview-map", {
-      scrollWheelZoom: true
-    });
-
-    L.tileLayer("https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryTopo/MapServer/tile/{z}/{y}/{x}", {
-      maxZoom: 17,
-      attribution: 'Map services and data available from U.S. Geological Survey, National Geospatial Program.'
-    }).addTo(map);
-
-    var bounds = L.latLngBounds([]);
-    points.forEach(function (point) {
-      var marker = L.circleMarker([point.lat, point.lon], {
-        radius: 7,
-        weight: 2
+      L.tileLayer("https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryTopo/MapServer/tile/{z}/{y}/{x}", {
+        maxZoom: 17,
+        attribution: 'Map services and data available from U.S. Geological Survey, National Geospatial Program.'
       }).addTo(map);
 
-      var popupParts = [
-        "<strong>" + point.name + "</strong>",
-        "<div>" + point.group + "</div>"
-      ];
-      if (point.fourteenersUrl) {
-        popupParts.push('<div><a href="' + point.fourteenersUrl + '" target="_blank" rel="noopener noreferrer">14ers.com</a></div>');
-      }
-      if (point.weatherGovUrl) {
-        popupParts.push('<div><a href="' + point.weatherGovUrl + '" target="_blank" rel="noopener noreferrer">Weather.gov</a></div>');
-      }
-      if (point.allTrailsUrl) {
-        popupParts.push('<div><a href="' + point.allTrailsUrl + '" target="_blank" rel="noopener noreferrer">AllTrails</a></div>');
-      }
-      marker.bindPopup(popupParts.join(""));
+      var bounds = L.latLngBounds([]);
+      points.forEach(function (point) {
+        var marker = L.circleMarker([point.lat, point.lon], {
+          radius: 7,
+          weight: 2
+        }).addTo(map);
 
-      bounds.extend([point.lat, point.lon]);
+        var popupParts = [
+          "<strong>" + point.name + "</strong>",
+          "<div>" + group.groupName + "</div>"
+        ];
+        if (point.fourteenersUrl) {
+          popupParts.push('<div><a href="' + point.fourteenersUrl + '" target="_blank" rel="noopener noreferrer">14ers.com</a></div>');
+        }
+        if (point.weatherGovUrl) {
+          popupParts.push('<div><a href="' + point.weatherGovUrl + '" target="_blank" rel="noopener noreferrer">Weather.gov</a></div>');
+        }
+        if (point.allTrailsUrl) {
+          popupParts.push('<div><a href="' + point.allTrailsUrl + '" target="_blank" rel="noopener noreferrer">AllTrails</a></div>');
+        }
+        marker.bindPopup(popupParts.join(""));
+
+        bounds.extend([point.lat, point.lon]);
+      });
+
+      map.fitBounds(bounds, { padding: [24, 24] });
     });
-
-    map.fitBounds(bounds, { padding: [24, 24] });
   })();
 </script>
