@@ -14,6 +14,10 @@
   url: /apps/audiobook-search/
   description: Search audiobook titles across Libby, Spotify, and Audible.
   emoji: 🎧
+- name: Peaks Planner
+  url: /apps/peaks-planner/
+  description: Hike peaks.
+  emoji: 🏔️
 - name: Weird Whisky Generator
   url: /apps/weird-whisky-generator/
   description: Generate strange and unhinged tasting notes.
