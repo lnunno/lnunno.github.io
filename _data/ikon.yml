@@ -8,9 +8,9 @@ resorts:
     ikon_web_url: https://www.ikonpass.com/en/destinations/winter-park
     parking:
       - name: North Bench Lot
-        maps_url: https://www.google.com/maps/dir/?api=1&destination=39.8883649,-105.7626991
-      - name: Mary Jane Lot
-        maps_url: https://www.google.com/maps/dir/?api=1&destination=39.8737858,-105.7597581
+        maps_url: https://www.google.com/maps/dir/?api=1&destination=North+Bench+Lot+Winter+Park+CO
+      - name: Dotsero Junction Parking (Mary Jane)
+        maps_url: https://www.google.com/maps/dir/?api=1&destination=Dotsero+Junction+Parking+Winter+Park+CO
 
   - name: Copper Mountain
     slug: copper-mountain
@@ -21,7 +21,7 @@ resorts:
     ikon_web_url: https://www.ikonpass.com/en/destinations/copper-mountain
     parking:
       - name: Alpine Lot
-        maps_url: https://www.google.com/maps/dir/?api=1&destination=39.5019251,-106.1436543
+        maps_url: https://www.google.com/maps/dir/?api=1&destination=Alpine+Lot+Copper+Mountain+CO
 
   - name: Arapahoe Basin
     slug: arapahoe-basin
@@ -32,9 +32,9 @@ resorts:
     ikon_web_url: https://www.ikonpass.com/en/destinations/arapahoe-basin
     parking:
       - name: Early Riser Lot
-        maps_url: https://www.google.com/maps/dir/?api=1&destination=39.6425,-105.8710
+        maps_url: https://www.google.com/maps/dir/?api=1&destination=Early+Riser+Lot+Arapahoe+Basin+CO
       - name: High Noon Lot
-        maps_url: https://www.google.com/maps/dir/?api=1&destination=39.6408,-105.8735
+        maps_url: https://www.google.com/maps/dir/?api=1&destination=High+Noon+Lot+Arapahoe+Basin+CO
 
   - name: Steamboat Springs
     slug: steamboat
@@ -45,6 +45,6 @@ resorts:
     ikon_web_url: https://www.ikonpass.com/en/destinations/steamboat
     parking:
       - name: Meadows Parking Lot
-        maps_url: https://www.google.com/maps/dir/?api=1&destination=40.4569131,-106.8145434
+        maps_url: https://www.google.com/maps/dir/?api=1&destination=Meadows+Parking+Lot+Steamboat+Springs+CO
       - name: Knoll Lot
-        maps_url: https://www.google.com/maps/dir/?api=1&destination=40.4557014,-106.8088459
+        maps_url: https://www.google.com/maps/dir/?api=1&destination=Knoll+Lot+Steamboat+Springs+CO
