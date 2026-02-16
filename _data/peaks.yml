@@ -77,3 +77,12 @@ groups:
             url: https://www.alltrails.com/trail/us/colorado/mount-oxford-and-belford
           - name: Peak Overview
             url: https://www.alltrails.com/poi/us/colorado/mount-oxford
+      - name: Huron Peak
+        mountain_forecast_url: https://www.mountain-forecast.com/peaks/Huron-Peak/forecasts/4269
+        weather_gov_url: https://forecast.weather.gov/MapClick.php?lat=38.9455433&lon=-106.4378206
+        fourteeners_url: https://www.14ers.com/peaks/10015/huron-peak
+        alltrails_urls:
+          - name: Huron Peak via North Huron Trail
+            url: https://www.alltrails.com/trail/us/colorado/huron-peak-via-north-huron-trail
+          - name: Peak Overview
+            url: https://www.alltrails.com/poi/us/colorado/huron-peak
