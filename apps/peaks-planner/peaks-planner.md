@@ -45,8 +45,8 @@ hide_in_header: true
         <h3>AllTrails</h3>
         {% if peak.alltrails_urls and peak.alltrails_urls.size > 0 %}
           {% for trail_url in peak.alltrails_urls %}
-          <a class="apps-link" href="{{ trail_url }}" target="_blank" rel="noopener noreferrer">
-            Trail {{ forloop.index }}
+          <a class="apps-link" href="{% if trail_url.url %}{{ trail_url.url }}{% else %}{{ trail_url }}{% endif %}" target="_blank" rel="noopener noreferrer">
+            {% if trail_url.name %}{{ trail_url.name }}{% else %}Trail {{ forloop.index }}{% endif %}
           </a>
           {% endfor %}
         {% endif %}
