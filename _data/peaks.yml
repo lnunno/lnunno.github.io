@@ -19,6 +19,8 @@ groups:
         weather_gov_url: https://forecast.weather.gov/MapClick.php?lat=38.9244389&lon=-106.3205788
         fourteeners_url: https://www.14ers.com/peaks/10003/mount-harvard
         alltrails_urls:
+          - name: Peak Overview
+            url: https://www.alltrails.com/poi/us/colorado/mount-harvard
           - name: Standard Route
             url: https://www.alltrails.com/trail/us/colorado/mount-harvard-trail
           - name: Harvard + Columbia Loop
@@ -28,6 +30,8 @@ groups:
         weather_gov_url: https://forecast.weather.gov/MapClick.php?lat=38.9039&lon=-106.297
         fourteeners_url: https://www.14ers.com/peaks/10035/mount-columbia
         alltrails_urls:
+          - name: Peak Overview
+            url: https://www.alltrails.com/poi/us/colorado/mount-columbia
           - name: Horn Fork Basin Route
             url: https://www.alltrails.com/trail/us/colorado/mount-columbia-via-horn-fork-basin-trail
           - name: Harvard + Columbia Loop
@@ -46,6 +50,8 @@ groups:
         weather_gov_url: https://forecast.weather.gov/MapClick.php?lat=38.844162&lon=-106.3139118
         fourteeners_url: https://www.14ers.com/peaks/10021/mount-yale
         alltrails_urls:
+          - name: Peak Overview
+            url: https://www.alltrails.com/poi/us/colorado/mount-yale
           - name: Browns Pass Trailhead Route
             url: https://www.alltrails.com/trail/us/colorado/mount-yale-via-browns-pass-and-mount-yale-trail
           - name: Avalanche Trailhead Route
@@ -55,6 +61,8 @@ groups:
         weather_gov_url: https://forecast.weather.gov/MapClick.php?lat=38.749441&lon=-106.242521
         fourteeners_url: https://www.14ers.com/peaks/10020/mount-princeton
         alltrails_urls:
+          - name: Peak Overview
+            url: https://www.alltrails.com/poi/us/colorado/mount-princeton
           - name: Standard Route
             url: https://www.alltrails.com/trail/us/colorado/mount-princeton-trail
           - name: Lucky Mine Route
@@ -64,6 +72,8 @@ groups:
         weather_gov_url: https://forecast.weather.gov/MapClick.php?lat=38.9605495&lon=-106.3611355
         fourteeners_url: https://www.14ers.com/peaks/10018/mount-belford
         alltrails_urls:
+          - name: Peak Overview
+            url: https://www.alltrails.com/poi/us/colorado/mount-belford
           - name: Standard Route
             url: https://www.alltrails.com/trail/us/colorado/mount-belford
           - name: Belford + Oxford Combo
@@ -73,16 +83,16 @@ groups:
         weather_gov_url: https://forecast.weather.gov/MapClick.php?lat=38.9647162&lon=-106.3389126
         fourteeners_url: https://www.14ers.com/peaks/10026/mount-oxford
         alltrails_urls:
-          - name: Oxford + Belford Combo
-            url: https://www.alltrails.com/trail/us/colorado/mount-oxford-and-belford
           - name: Peak Overview
             url: https://www.alltrails.com/poi/us/colorado/mount-oxford
+          - name: Oxford + Belford Combo
+            url: https://www.alltrails.com/trail/us/colorado/mount-oxford-and-belford
       - name: Huron Peak
         mountain_forecast_url: https://www.mountain-forecast.com/peaks/Huron-Peak/forecasts/4269
         weather_gov_url: https://forecast.weather.gov/MapClick.php?lat=38.9455433&lon=-106.4378206
         fourteeners_url: https://www.14ers.com/peaks/10015/huron-peak
         alltrails_urls:
-          - name: Huron Peak via North Huron Trail
-            url: https://www.alltrails.com/trail/us/colorado/huron-peak-via-north-huron-trail
           - name: Peak Overview
             url: https://www.alltrails.com/poi/us/colorado/huron-peak
+          - name: Huron Peak via North Huron Trail
+            url: https://www.alltrails.com/trail/us/colorado/huron-peak-via-north-huron-trail
