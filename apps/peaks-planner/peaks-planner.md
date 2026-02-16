@@ -141,9 +141,9 @@ hide_in_header: true
       scrollWheelZoom: true
     });
 
-    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    L.tileLayer("https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryTopo/MapServer/tile/{z}/{y}/{x}", {
       maxZoom: 17,
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+      attribution: 'Map services and data available from U.S. Geological Survey, National Geospatial Program.'
     }).addTo(map);
 
     var bounds = L.latLngBounds([]);
