@@ -700,6 +700,15 @@ tr:nth-child(even) {
   gap: 14px;
 }
 
+.peaks-group {
+  display: grid;
+  gap: 8px;
+}
+
+.peaks-group-title {
+  margin: 0;
+}
+
 .peaks-lead {
   margin: 0;
   color: #A9B3BD;

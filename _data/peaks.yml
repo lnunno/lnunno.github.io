@@ -1,64 +1,79 @@
-peaks:
-  - name: Mount Harvard
-    mountain_forecast_url: https://www.mountain-forecast.com/peaks/Mount-Harvard/forecasts/4390
-    weather_gov_url: https://forecast.weather.gov/MapClick.php?lat=38.9244389&lon=-106.3205788
-    fourteeners_url: https://www.14ers.com/peaks/10003/mount-harvard
-    alltrails_urls:
-      - name: Standard Route
-        url: https://www.alltrails.com/trail/us/colorado/mount-harvard-trail
-      - name: Harvard + Columbia Loop
-        url: https://www.alltrails.com/trail/us/colorado/mount-harvard-and-mount-columbia-via-horn-fork-basin-loop
-  - name: Mount Columbia
-    mountain_forecast_url: https://www.mountain-forecast.com/peaks/Mount-Columbia-Sawatch/forecasts/4290
-    weather_gov_url: https://forecast.weather.gov/MapClick.php?lat=38.9039&lon=-106.297
-    fourteeners_url: https://www.14ers.com/peaks/10035/mount-columbia
-    alltrails_urls:
-      - name: Horn Fork Basin Route
-        url: https://www.alltrails.com/trail/us/colorado/mount-columbia-via-horn-fork-basin-trail
-      - name: Harvard + Columbia Loop
-        url: https://www.alltrails.com/trail/us/colorado/mount-harvard-and-mount-columbia-via-horn-fork-basin-loop
-  - name: La Plata Peak
-    mountain_forecast_url: https://www.mountain-forecast.com/peaks/La-Plata-Peak/forecasts/4370
-    weather_gov_url: https://forecast.weather.gov/MapClick.php?lat=39.0293524&lon=-106.4729047
-    fourteeners_url: https://www.14ers.com/peaks/10005/la-plata-peak
-    alltrails_urls:
-      - name: Peak Overview
-        url: https://www.alltrails.com/poi/us/colorado/la-plata-peak
-      - name: La Plata Peak Trail
-        url: https://www.alltrails.com/trail/us/colorado/la-plata-peak-trail-1474
-  - name: Mount Yale
-    mountain_forecast_url: https://www.mountain-forecast.com/peaks/Mount-Yale/forecasts/2500
-    weather_gov_url: https://forecast.weather.gov/MapClick.php?lat=38.844162&lon=-106.3139118
-    fourteeners_url: https://www.14ers.com/peaks/10021/mount-yale
-    alltrails_urls:
-      - name: Browns Pass Trailhead Route
-        url: https://www.alltrails.com/trail/us/colorado/mount-yale-via-browns-pass-and-mount-yale-trail
-      - name: Avalanche Trailhead Route
-        url: https://www.alltrails.com/trail/us/colorado/mount-yale-from-avalanche-trailhead
-  - name: Mount Princeton
-    mountain_forecast_url: https://www.mountain-forecast.com/peaks/Mount-Princeton/forecasts/4327
-    weather_gov_url: https://forecast.weather.gov/MapClick.php?lat=38.749441&lon=-106.242521
-    fourteeners_url: https://www.14ers.com/peaks/10020/mount-princeton
-    alltrails_urls:
-      - name: Standard Route
-        url: https://www.alltrails.com/trail/us/colorado/mount-princeton-trail
-      - name: Lucky Mine Route
-        url: https://www.alltrails.com/trail/us/colorado/mount-princeton-lucky-mine-trail
-  - name: Mount Belford
-    mountain_forecast_url: https://www.mountain-forecast.com/peaks/Mount-Belford/forecasts/4327
-    weather_gov_url: https://forecast.weather.gov/MapClick.php?lat=38.9605495&lon=-106.3611355
-    fourteeners_url: https://www.14ers.com/peaks/10018/mount-belford
-    alltrails_urls:
-      - name: Standard Route
-        url: https://www.alltrails.com/trail/us/colorado/mount-belford
-      - name: Belford + Oxford Combo
-        url: https://www.alltrails.com/trail/us/colorado/mount-oxford-and-belford
-  - name: Mount Oxford
-    mountain_forecast_url: https://www.mountain-forecast.com/peaks/Mount-Oxford/forecasts/4314
-    weather_gov_url: https://forecast.weather.gov/MapClick.php?lat=38.9647162&lon=-106.3389126
-    fourteeners_url: https://www.14ers.com/peaks/10026/mount-oxford
-    alltrails_urls:
-      - name: Oxford + Belford Combo
-        url: https://www.alltrails.com/trail/us/colorado/mount-oxford-and-belford
-      - name: Peak Overview
-        url: https://www.alltrails.com/poi/us/colorado/mount-oxford
+top_links:
+  - name: Mountain Forecast
+    url: https://www.mountain-forecast.com
+  - name: Weather.gov
+    url: https://forecast.weather.gov
+  - name: 14ers.com
+    url: https://www.14ers.com
+  - name: AllTrails
+    url: https://www.alltrails.com
+
+groups:
+  - name: Collegiate Peaks
+    links:
+      - name: AllTrails Collegiate Peaks Wilderness
+        url: https://www.alltrails.com/parks/us/colorado/collegiate-peaks-wilderness
+    peaks:
+      - name: Mount Harvard
+        mountain_forecast_url: https://www.mountain-forecast.com/peaks/Mount-Harvard/forecasts/4390
+        weather_gov_url: https://forecast.weather.gov/MapClick.php?lat=38.9244389&lon=-106.3205788
+        fourteeners_url: https://www.14ers.com/peaks/10003/mount-harvard
+        alltrails_urls:
+          - name: Standard Route
+            url: https://www.alltrails.com/trail/us/colorado/mount-harvard-trail
+          - name: Harvard + Columbia Loop
+            url: https://www.alltrails.com/trail/us/colorado/mount-harvard-and-mount-columbia-via-horn-fork-basin-loop
+      - name: Mount Columbia
+        mountain_forecast_url: https://www.mountain-forecast.com/peaks/Mount-Columbia-Sawatch/forecasts/4290
+        weather_gov_url: https://forecast.weather.gov/MapClick.php?lat=38.9039&lon=-106.297
+        fourteeners_url: https://www.14ers.com/peaks/10035/mount-columbia
+        alltrails_urls:
+          - name: Horn Fork Basin Route
+            url: https://www.alltrails.com/trail/us/colorado/mount-columbia-via-horn-fork-basin-trail
+          - name: Harvard + Columbia Loop
+            url: https://www.alltrails.com/trail/us/colorado/mount-harvard-and-mount-columbia-via-horn-fork-basin-loop
+      - name: La Plata Peak
+        mountain_forecast_url: https://www.mountain-forecast.com/peaks/La-Plata-Peak/forecasts/4370
+        weather_gov_url: https://forecast.weather.gov/MapClick.php?lat=39.0293524&lon=-106.4729047
+        fourteeners_url: https://www.14ers.com/peaks/10005/la-plata-peak
+        alltrails_urls:
+          - name: Peak Overview
+            url: https://www.alltrails.com/poi/us/colorado/la-plata-peak
+          - name: La Plata Peak Trail
+            url: https://www.alltrails.com/trail/us/colorado/la-plata-peak-trail-1474
+      - name: Mount Yale
+        mountain_forecast_url: https://www.mountain-forecast.com/peaks/Mount-Yale/forecasts/2500
+        weather_gov_url: https://forecast.weather.gov/MapClick.php?lat=38.844162&lon=-106.3139118
+        fourteeners_url: https://www.14ers.com/peaks/10021/mount-yale
+        alltrails_urls:
+          - name: Browns Pass Trailhead Route
+            url: https://www.alltrails.com/trail/us/colorado/mount-yale-via-browns-pass-and-mount-yale-trail
+          - name: Avalanche Trailhead Route
+            url: https://www.alltrails.com/trail/us/colorado/mount-yale-from-avalanche-trailhead
+      - name: Mount Princeton
+        mountain_forecast_url: https://www.mountain-forecast.com/peaks/Mount-Princeton/forecasts/4327
+        weather_gov_url: https://forecast.weather.gov/MapClick.php?lat=38.749441&lon=-106.242521
+        fourteeners_url: https://www.14ers.com/peaks/10020/mount-princeton
+        alltrails_urls:
+          - name: Standard Route
+            url: https://www.alltrails.com/trail/us/colorado/mount-princeton-trail
+          - name: Lucky Mine Route
+            url: https://www.alltrails.com/trail/us/colorado/mount-princeton-lucky-mine-trail
+      - name: Mount Belford
+        mountain_forecast_url: https://www.mountain-forecast.com/peaks/Mount-Belford/forecasts/4327
+        weather_gov_url: https://forecast.weather.gov/MapClick.php?lat=38.9605495&lon=-106.3611355
+        fourteeners_url: https://www.14ers.com/peaks/10018/mount-belford
+        alltrails_urls:
+          - name: Standard Route
+            url: https://www.alltrails.com/trail/us/colorado/mount-belford
+          - name: Belford + Oxford Combo
+            url: https://www.alltrails.com/trail/us/colorado/mount-oxford-and-belford
+      - name: Mount Oxford
+        mountain_forecast_url: https://www.mountain-forecast.com/peaks/Mount-Oxford/forecasts/4314
+        weather_gov_url: https://forecast.weather.gov/MapClick.php?lat=38.9647162&lon=-106.3389126
+        fourteeners_url: https://www.14ers.com/peaks/10026/mount-oxford
+        alltrails_urls:
+          - name: Oxford + Belford Combo
+            url: https://www.alltrails.com/trail/us/colorado/mount-oxford-and-belford
+          - name: Peak Overview
+            url: https://www.alltrails.com/poi/us/colorado/mount-oxford

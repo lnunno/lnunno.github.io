@@ -7,17 +7,24 @@ hide_in_header: true
 
 <section class="peaks-app">
   <p>
-    <a class="apps-link" href="https://www.mountain-forecast.com" target="_blank" rel="noopener noreferrer">Mountain Forecast</a>
-    |
-    <a class="apps-link" href="https://forecast.weather.gov" target="_blank" rel="noopener noreferrer">Weather.gov</a>
-    |
-    <a class="apps-link" href="https://www.14ers.com" target="_blank" rel="noopener noreferrer">14ers.com</a>
-    |
-    <a class="apps-link" href="https://www.alltrails.com" target="_blank" rel="noopener noreferrer">AllTrails</a>
+    {% for link in site.data.peaks.top_links %}
+    <a class="apps-link" href="{{ link.url }}" target="_blank" rel="noopener noreferrer">{{ link.name }}</a>{% unless forloop.last %} | {% endunless %}
+    {% endfor %}
   </p>
 
-  <section class="peaks-grid">
-    {% for peak in site.data.peaks.peaks %}
+  {% for group in site.data.peaks.groups %}
+  <section class="peaks-group">
+    <h2 class="peaks-group-title">{{ group.name }}</h2>
+    {% if group.links and group.links.size > 0 %}
+    <p>
+      {% for link in group.links %}
+      <a class="apps-link" href="{{ link.url }}" target="_blank" rel="noopener noreferrer">{{ link.name }}</a>{% unless forloop.last %} | {% endunless %}
+      {% endfor %}
+    </p>
+    {% endif %}
+
+    <section class="peaks-grid">
+    {% for peak in group.peaks %}
     <article class="peaks-card">
       <h2>{{ peak.name }}</h2>
 
@@ -53,6 +60,7 @@ hide_in_header: true
       </div>
     </article>
     {% endfor %}
-
+    </section>
   </section>
+  {% endfor %}
 </section>
