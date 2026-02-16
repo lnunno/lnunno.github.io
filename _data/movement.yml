@@ -1,0 +1,9 @@
+gyms:
+  - name: Movement Baker
+    maps_url: https://www.google.com/maps/dir/?api=1&destination=Movement+Baker+Denver+CO
+  - name: Movement RiNo
+    maps_url: https://www.google.com/maps/dir/?api=1&destination=Movement+RiNo+Denver+CO
+  - name: Movement Golden
+    maps_url: https://www.google.com/maps/dir/?api=1&destination=Movement+Golden+Golden+CO
+  - name: Movement Englewood
+    maps_url: https://www.google.com/maps/dir/?api=1&destination=Movement+Englewood+Englewood+CO

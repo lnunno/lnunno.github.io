@@ -567,3 +567,43 @@ tr:nth-child(even) {
 .resort-content h3 {
     margin: 5px 0;
 }
+
+/* Movement app */
+.movement-links {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 12px;
+  margin-top: 16px;
+}
+
+.movement-card {
+  display: block;
+  border: 1px solid #2A3A46;
+  background: #182026;
+  border-radius: 10px;
+  padding: 16px;
+  min-height: 88px;
+  transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.movement-card:hover,
+.movement-card:focus {
+  text-decoration: none;
+  transform: translateY(-1px);
+  border-color: #3E5566;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.35);
+}
+
+.movement-card:visited {
+  color: inherit;
+}
+
+.movement-card h2 {
+  font-size: 22px;
+  margin: 0 0 6px 0;
+}
+
+.movement-card p {
+  margin: 0;
+  color: #A9B3BD;
+}
