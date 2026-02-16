@@ -12,20 +12,22 @@ hide_in_header: true
       <h2>{{ peak.name }}</h2>
 
       <div class="peaks-links">
-        {% if peak.weather_url and peak.weather_url != "" %}
-        <a class="apps-link" href="{{ peak.weather_url }}" target="_blank" rel="noopener noreferrer">
-          Weather <i class="fa fa-arrow-right"></i>
+        {% if peak.mountain_forecast_url and peak.mountain_forecast_url != "" %}
+        <a class="apps-link" href="{{ peak.mountain_forecast_url }}" target="_blank" rel="noopener noreferrer">
+          Mountain forecast weather <i class="fa fa-arrow-right"></i>
         </a>
-        {% else %}
-        <span class="peaks-placeholder">Weather link placeholder</span>
+        {% endif %}
+
+        {% if peak.weather_gov_url and peak.weather_gov_url != "" %}
+        <a class="apps-link" href="{{ peak.weather_gov_url }}" target="_blank" rel="noopener noreferrer">
+          Weather.gov <i class="fa fa-arrow-right"></i>
+        </a>
         {% endif %}
 
         {% if peak.fourteeners_url and peak.fourteeners_url != "" %}
         <a class="apps-link" href="{{ peak.fourteeners_url }}" target="_blank" rel="noopener noreferrer">
           14ers.com <i class="fa fa-arrow-right"></i>
         </a>
-        {% else %}
-        <span class="peaks-placeholder">14ers.com link placeholder</span>
         {% endif %}
       </div>
 
@@ -37,8 +39,6 @@ hide_in_header: true
             Trail {{ forloop.index }} <i class="fa fa-arrow-right"></i>
           </a>
           {% endfor %}
-        {% else %}
-        <span class="peaks-placeholder">AllTrails link placeholder (one or many)</span>
         {% endif %}
       </div>
     </article>
