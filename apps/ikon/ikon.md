@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Ikon Dashboard
-permalink: /ikon/
+permalink: /apps/ikon/
+hide_in_header: true
 ---
 
 # 🎿 Ikon Conditions

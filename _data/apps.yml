@@ -1,7 +1,11 @@
 - name: Health Tracker
   url: /apps/health-tracker/
-  description: Daily tracking and quick insights for habits and health.
+  description: Daily health and habit tracking.
   emoji: 💖
+- name: Ikon Dashboard
+  url: /apps/ikon/
+  description: Links to Ikon resorts for ski planning.
+  emoji: ⛷️
 - name: Weird Whisky Generator
   url: /apps/weird-whisky-generator/
   description: Generate strange and unhinged tasting notes.
