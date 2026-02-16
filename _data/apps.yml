@@ -6,6 +6,10 @@
   url: /apps/ikon/
   description: Links to Ikon resorts for ski planning.
   emoji: ⛷️
+- name: Movement Climbing Dashboard
+  url: /apps/movement/
+  description: Links to Denver Movement climbing gyms for drive time estimates.
+  emoji: 🧗
 - name: Weird Whisky Generator
   url: /apps/weird-whisky-generator/
   description: Generate strange and unhinged tasting notes.
