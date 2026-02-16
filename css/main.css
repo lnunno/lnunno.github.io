@@ -607,3 +607,89 @@ tr:nth-child(even) {
   margin: 0;
   color: #A9B3BD;
 }
+
+/* Audiobook search app */
+.audiobook-app {
+  display: grid;
+  gap: 14px;
+}
+
+.audiobook-lead {
+  margin: 0;
+  color: #A9B3BD;
+}
+
+.audiobook-form {
+  display: grid;
+  gap: 8px;
+}
+
+.audiobook-form label {
+  font-weight: 600;
+}
+
+.audiobook-form input {
+  background: #182026;
+  border: 1px solid #2A3A46;
+  border-radius: 10px;
+  color: #D3D8DE;
+  padding: 12px;
+}
+
+.audiobook-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.audiobook-btn {
+  border: 1px solid #2A3A46;
+  background: #2a7ae2;
+  color: #fff;
+  border-radius: 999px;
+  padding: 9px 14px;
+  font-weight: 600;
+}
+
+.audiobook-btn.ghost {
+  background: #182026;
+  color: #D3D8DE;
+}
+
+.audiobook-btn:disabled {
+  opacity: 0.55;
+}
+
+.audiobook-results {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 12px;
+}
+
+.audiobook-card {
+  border: 1px solid #2A3A46;
+  background: #182026;
+  border-radius: 10px;
+  padding: 14px;
+}
+
+.audiobook-card h2 {
+  margin: 0 0 6px;
+}
+
+.audiobook-card p {
+  margin: 0 0 10px;
+  color: #A9B3BD;
+}
+
+.audiobook-card-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.audiobook-help {
+  margin: 0;
+  font-size: 14px;
+  color: #A9B3BD;
+}

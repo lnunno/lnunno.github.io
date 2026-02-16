@@ -10,6 +10,10 @@
   url: /apps/movement/
   description: Links to Denver Movement climbing gyms for drive time estimates.
   emoji: 🧗
+- name: Audiobook Search
+  url: /apps/audiobook-search/
+  description: Search audiobook titles across Libby, Spotify, and Audible.
+  emoji: 🎧
 - name: Weird Whisky Generator
   url: /apps/weird-whisky-generator/
   description: Generate strange and unhinged tasting notes.
