@@ -6,6 +6,16 @@ hide_in_header: true
 ---
 
 <section class="peaks-app">
+  <p>
+    <a class="apps-link" href="https://www.mountain-forecast.com" target="_blank" rel="noopener noreferrer">Mountain Forecast</a>
+    |
+    <a class="apps-link" href="https://forecast.weather.gov" target="_blank" rel="noopener noreferrer">Weather.gov</a>
+    |
+    <a class="apps-link" href="https://www.14ers.com" target="_blank" rel="noopener noreferrer">14ers.com</a>
+    |
+    <a class="apps-link" href="https://www.alltrails.com" target="_blank" rel="noopener noreferrer">AllTrails</a>
+  </p>
+
   <section class="peaks-grid">
     {% for peak in site.data.peaks.peaks %}
     <article class="peaks-card">
@@ -14,19 +24,19 @@ hide_in_header: true
       <div class="peaks-links">
         {% if peak.mountain_forecast_url and peak.mountain_forecast_url != "" %}
         <a class="apps-link" href="{{ peak.mountain_forecast_url }}" target="_blank" rel="noopener noreferrer">
-          Mountain forecast weather <i class="fa fa-arrow-right"></i>
+          Mountain forecast weather
         </a>
         {% endif %}
 
         {% if peak.weather_gov_url and peak.weather_gov_url != "" %}
         <a class="apps-link" href="{{ peak.weather_gov_url }}" target="_blank" rel="noopener noreferrer">
-          Weather.gov <i class="fa fa-arrow-right"></i>
+          Weather.gov
         </a>
         {% endif %}
 
         {% if peak.fourteeners_url and peak.fourteeners_url != "" %}
         <a class="apps-link" href="{{ peak.fourteeners_url }}" target="_blank" rel="noopener noreferrer">
-          14ers.com <i class="fa fa-arrow-right"></i>
+          14ers.com
         </a>
         {% endif %}
       </div>
@@ -36,7 +46,7 @@ hide_in_header: true
         {% if peak.alltrails_urls and peak.alltrails_urls.size > 0 %}
           {% for trail_url in peak.alltrails_urls %}
           <a class="apps-link" href="{{ trail_url }}" target="_blank" rel="noopener noreferrer">
-            Trail {{ forloop.index }} <i class="fa fa-arrow-right"></i>
+            Trail {{ forloop.index }}
           </a>
           {% endfor %}
         {% endif %}
