@@ -13,13 +13,14 @@ hide_in_header: true
     <h2>{{ city.name }} ({{ city.dates }})</h2>
 
     <!-- Weather widget -->
-    {% if city.forecast_url %}
-      <a class="weatherwidget-io"
-         href="{{ city.forecast_url }}"
-         data-label_1="{{ city.name | upcase }}"
-         data-theme="original">
-        {{ city.name }}
-      </a>
+    {% if city.meteoblue_widget_url %}
+      <iframe
+        title="Meteoblue forecast for {{ city.name }}"
+        src="{{ city.meteoblue_widget_url }}"
+        frameborder="0"
+        scrolling="no"
+        style="width:100%;max-width:100%;height:420px;border-radius:8px;border:1px solid #ddd;">
+      </iframe>
     {% endif %}
 
     <!-- Historical averages -->
@@ -34,23 +35,10 @@ hide_in_header: true
 
     <!-- Links to other forecasts -->
     <p>
-      {% if city.forecast_url %}<a href="{{ city.forecast_url }}" target="_blank">Forecast (10-day)</a>{% endif %}
+      {% if city.meteoblue_url %}<a href="{{ city.meteoblue_url }}" target="_blank">Meteoblue Forecast</a>{% endif %}
       {% if city.windy_url %} | <a href="{{ city.windy_url }}" target="_blank">Windy Map</a>{% endif %}
       {% if city.historical_url %} | <a href="{{ city.historical_url }}" target="_blank">Historical Climate</a>{% endif %}
     </p>
 
   </div>
 {% endfor %}
-
-<!-- Weatherwidget.io script -->
-<script>
-!function(d,s,id){
-  var js,fjs=d.getElementsByTagName(s)[0];
-  if(!d.getElementById(id)){
-    js=d.createElement(s);
-    js.id=id;
-    js.src='https://weatherwidget.io/js/widget.min.js';
-    fjs.parentNode.insertBefore(js,fjs);
-  }
-}(document,'script','weatherwidget-io-js');
-</script>

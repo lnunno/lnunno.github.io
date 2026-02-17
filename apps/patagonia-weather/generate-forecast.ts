@@ -105,6 +105,8 @@ async function main() {
       forecast_url: city.forecast_url,
       windy_url: city.windy_url,
       historical_url: city.historical_url,
+      meteoblue_url: city.meteoblue_url,
+      meteoblue_widget_url: city.meteoblue_widget_url,
       historical_avg: climate,
     });
   }

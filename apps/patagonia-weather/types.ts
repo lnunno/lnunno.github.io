@@ -19,6 +19,8 @@ export interface City {
   forecast_url?: string;
   windy_url?: string;
   historical_url?: string;
+  meteoblue_url?: string;
+  meteoblue_widget_url?: string;
   historical_avg?: HistoricalAvg;
 }
 

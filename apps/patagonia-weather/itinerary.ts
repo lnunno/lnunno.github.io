@@ -13,6 +13,9 @@ export const itinerary: City[] = [
     windy_url: "https://www.windy.com/33.45,-70.67",
     historical_url:
       "https://www.timeanddate.com/weather/chile/santiago/climate",
+    meteoblue_url: "https://www.meteoblue.com/en/weather/week/santiago_chile_3871336",
+    meteoblue_widget_url:
+      "https://www.meteoblue.com/en/weather/widget/daily/santiago_chile_3871336?days=7&tempunit=FAHRENHEIT&windunit=MILE_PER_HOUR&precipunit=INCH&coloured=1",
   },
   {
     name: "Puerto Natales",
@@ -27,6 +30,10 @@ export const itinerary: City[] = [
     windy_url: "https://www.windy.com/51.73,-72.51",
     historical_url:
       "https://www.timeanddate.com/weather/chile/puerto-natales/climate",
+    meteoblue_url:
+      "https://www.meteoblue.com/en/weather/week/puerto-natales_chile_3874958",
+    meteoblue_widget_url:
+      "https://www.meteoblue.com/en/weather/widget/daily/puerto-natales_chile_3874958?days=7&tempunit=FAHRENHEIT&windunit=MILE_PER_HOUR&precipunit=INCH&coloured=1",
   },
   {
     name: "Torres del Paine",
@@ -41,6 +48,10 @@ export const itinerary: City[] = [
     windy_url: "https://www.windy.com/50.94,-73.41",
     historical_url:
       "https://www.timeanddate.com/weather/chile/torres-del-paine/climate",
+    meteoblue_url:
+      "https://www.meteoblue.com/en/weather/week/torres-del-paine_chile_7536052",
+    meteoblue_widget_url:
+      "https://www.meteoblue.com/en/weather/widget/daily/torres-del-paine_chile_7536052?days=7&tempunit=FAHRENHEIT&windunit=MILE_PER_HOUR&precipunit=INCH&coloured=1",
   },
   {
     name: "El Calafate",
@@ -54,6 +65,10 @@ export const itinerary: City[] = [
     windy_url: "https://www.windy.com/50.34,-72.26",
     historical_url:
       "https://www.timeanddate.com/weather/argentina/el-calafate/climate",
+    meteoblue_url:
+      "https://www.meteoblue.com/en/weather/week/el-calafate_argentina_3858677",
+    meteoblue_widget_url:
+      "https://www.meteoblue.com/en/weather/widget/daily/el-calafate_argentina_3858677?days=7&tempunit=FAHRENHEIT&windunit=MILE_PER_HOUR&precipunit=INCH&coloured=1",
   },
   {
     name: "El Chaltén",
@@ -67,6 +82,10 @@ export const itinerary: City[] = [
     windy_url: "https://www.windy.com/49.33,-72.89",
     historical_url:
       "https://www.timeanddate.com/weather/argentina/el-chalten/climate",
+    meteoblue_url:
+      "https://www.meteoblue.com/en/weather/week/el-chalten_argentina_6690180",
+    meteoblue_widget_url:
+      "https://www.meteoblue.com/en/weather/widget/daily/el-chalten_argentina_6690180?days=7&tempunit=FAHRENHEIT&windunit=MILE_PER_HOUR&precipunit=INCH&coloured=1",
   },
   {
     name: "Buenos Aires",
@@ -80,5 +99,9 @@ export const itinerary: City[] = [
     windy_url: "https://www.windy.com/34.60,-58.38",
     historical_url:
       "https://www.timeanddate.com/weather/argentina/buenos-aires/climate",
+    meteoblue_url:
+      "https://www.meteoblue.com/en/weather/week/buenos-aires_argentina_3435910",
+    meteoblue_widget_url:
+      "https://www.meteoblue.com/en/weather/widget/daily/buenos-aires_argentina_3435910?days=7&tempunit=FAHRENHEIT&windunit=MILE_PER_HOUR&precipunit=INCH&coloured=1",
   },
 ];
