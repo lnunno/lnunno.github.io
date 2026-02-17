@@ -13,12 +13,14 @@ hide_in_header: true
     <h2>{{ city.name }} ({{ city.dates }})</h2>
 
     <!-- Weather widget -->
-    <a class="weatherwidget-io"
-       href="{{ city.forecast_url }}"
-       data-label_1="{{ city.name | upcase }}"
-       data-theme="original">
-      {{ city.name }}
-    </a>
+    {% if city.forecast_url %}
+      <a class="weatherwidget-io"
+         href="{{ city.forecast_url }}"
+         data-label_1="{{ city.name | upcase }}"
+         data-theme="original">
+        {{ city.name }}
+      </a>
+    {% endif %}
 
     <!-- Historical averages -->
     {% if city.historical_avg %}
@@ -32,9 +34,9 @@ hide_in_header: true
 
     <!-- Links to other forecasts -->
     <p>
-      <a href="{{ city.forecast_url }}" target="_blank">Forecast (10-day)</a> |
-      <a href="{{ city.windy_url }}" target="_blank">Windy Map</a> |
-      <a href="{{ city.historical_url }}" target="_blank">Historical Climate</a>
+      {% if city.forecast_url %}<a href="{{ city.forecast_url }}" target="_blank">Forecast (10-day)</a>{% endif %}
+      {% if city.windy_url %} | <a href="{{ city.windy_url }}" target="_blank">Windy Map</a>{% endif %}
+      {% if city.historical_url %} | <a href="{{ city.historical_url }}" target="_blank">Historical Climate</a>{% endif %}
     </p>
 
   </div>
