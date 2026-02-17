@@ -24,7 +24,7 @@ export const itinerary: City[] = [
     startMMDD: "02-28",
     endMMDD: "03-01",
     historical_url:
-      "https://www.timeanddate.com/weather/chile/puerto-natales/climate",
+      "https://www.timeanddate.com/weather/%403874958/climate",
     meteoblue_url:
       "https://www.meteoblue.com/en/weather/week/puerto-natales_chile_3874958",
     meteoblue_widget_url:
@@ -39,7 +39,7 @@ export const itinerary: City[] = [
     startMMDD: "03-01",
     endMMDD: "03-05",
     historical_url:
-      "https://www.timeanddate.com/weather/chile/torres-del-paine/climate",
+      "https://www.timeanddate.com/weather/%407536052/climate",
     meteoblue_url:
       "https://www.meteoblue.com/en/weather/week/torres-del-paine_chile_7536052",
     meteoblue_widget_url:
@@ -69,7 +69,7 @@ export const itinerary: City[] = [
     startMMDD: "03-09",
     endMMDD: "03-12",
     historical_url:
-      "https://www.timeanddate.com/weather/argentina/el-chalten/climate",
+      "https://www.timeanddate.com/weather/%406690180/climate",
     meteoblue_url:
       "https://www.meteoblue.com/en/weather/week/el-chalten_argentina_6690180",
     meteoblue_widget_url:

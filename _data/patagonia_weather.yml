@@ -17,7 +17,7 @@ cities:
     slug: puerto-natales
     dates: 02-28 – 03-01
     windy_url: https://www.windy.com/-51.73,-72.51
-    historical_url: https://www.timeanddate.com/weather/chile/puerto-natales/climate
+    historical_url: https://www.timeanddate.com/weather/%403874958/climate
     meteoblue_url: https://www.meteoblue.com/en/weather/week/puerto-natales_chile_3874958
     meteoblue_widget_url: https://www.meteoblue.com/en/weather/widget/daily/puerto-natales_chile_3874958?days=7&tempunit=FAHRENHEIT&windunit=MILE_PER_HOUR&precipunit=INCH&coloured=1&layout=dark
     historical_avg:
@@ -30,7 +30,7 @@ cities:
     slug: torres-del-paine
     dates: 03-01 – 03-05
     windy_url: https://www.windy.com/-50.94,-73.41
-    historical_url: https://www.timeanddate.com/weather/chile/torres-del-paine/climate
+    historical_url: https://www.timeanddate.com/weather/%407536052/climate
     meteoblue_url: https://www.meteoblue.com/en/weather/week/torres-del-paine_chile_7536052
     meteoblue_widget_url: https://www.meteoblue.com/en/weather/widget/daily/torres-del-paine_chile_7536052?days=7&tempunit=FAHRENHEIT&windunit=MILE_PER_HOUR&precipunit=INCH&coloured=1&layout=dark
     historical_avg:
@@ -56,7 +56,7 @@ cities:
     slug: el-chalten
     dates: 03-09 – 03-12
     windy_url: https://www.windy.com/-49.33,-72.89
-    historical_url: https://www.timeanddate.com/weather/argentina/el-chalten/climate
+    historical_url: https://www.timeanddate.com/weather/%406690180/climate
     meteoblue_url: https://www.meteoblue.com/en/weather/week/el-chalten_argentina_6690180
     meteoblue_widget_url: https://www.meteoblue.com/en/weather/widget/daily/el-chalten_argentina_6690180?days=7&tempunit=FAHRENHEIT&windunit=MILE_PER_HOUR&precipunit=INCH&coloured=1&layout=dark
     historical_avg:
