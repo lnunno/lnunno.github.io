@@ -1,0 +1,55 @@
+cities:
+  - name: Santiago
+    country: Chile
+    slug: santiago
+    dates: 02-25 – 02-27
+    historical_avg:
+      high_f: 85
+      low_f: 61
+      avg_daily_precip_in: 0.02
+      avg_max_wind_mph: 10
+  - name: Puerto Natales
+    country: Chile
+    slug: puerto-natales
+    dates: 02-28 – 03-01
+    historical_avg:
+      high_f: 59
+      low_f: 47
+      avg_daily_precip_in: 0.12
+      avg_max_wind_mph: 15
+  - name: Torres del Paine
+    country: Chile
+    slug: torres-del-paine
+    dates: 03-01 – 03-05
+    historical_avg:
+      high_f: 34
+      low_f: 28
+      avg_daily_precip_in: 1.15
+      avg_max_wind_mph: 10
+  - name: El Calafate
+    country: Argentina
+    slug: el-calafate
+    dates: 03-07 – 03-08
+    historical_avg:
+      high_f: 56
+      low_f: 46
+      avg_daily_precip_in: 0.12
+      avg_max_wind_mph: 16
+  - name: El Chaltén
+    country: Argentina
+    slug: el-chalten
+    dates: 03-09 – 03-12
+    historical_avg:
+      high_f: 56
+      low_f: 42
+      avg_daily_precip_in: 0.2
+      avg_max_wind_mph: 9
+  - name: Buenos Aires
+    country: Argentina
+    slug: buenos-aires
+    dates: 03-14 – 03-16
+    historical_avg:
+      high_f: 78
+      low_f: 66
+      avg_daily_precip_in: 0.22
+      avg_max_wind_mph: 12

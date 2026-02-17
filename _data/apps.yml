@@ -30,3 +30,7 @@
   url: /apps/poker-buy-in/
   description: Track buy-ins, cash-outs, and session results.
   emoji: "🃏"
+- name: Patagonia Weather
+  url: /apps/patagonia-weather/
+  description: Weather dashboard for my Patagonia trip
+  emoji: ""
