@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Patagonia Weather
-permalink: /apps/patagonia-weather
+permalink: /apps/patagonia-weather/
 hide_in_header: true
 ---
 
