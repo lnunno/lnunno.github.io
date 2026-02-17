@@ -9,7 +9,6 @@ export const itinerary: City[] = [
     lon: -70.67,
     startMMDD: "02-25",
     endMMDD: "02-27",
-    windy_url: "https://www.windy.com/33.45,-70.67",
     historical_url:
       "https://www.timeanddate.com/weather/chile/santiago/climate",
     meteoblue_url: "https://www.meteoblue.com/en/weather/week/santiago_chile_3871336",
@@ -24,7 +23,6 @@ export const itinerary: City[] = [
     lon: -72.51,
     startMMDD: "02-28",
     endMMDD: "03-01",
-    windy_url: "https://www.windy.com/51.73,-72.51",
     historical_url:
       "https://www.timeanddate.com/weather/chile/puerto-natales/climate",
     meteoblue_url:
@@ -40,7 +38,6 @@ export const itinerary: City[] = [
     lon: -73.41,
     startMMDD: "03-01",
     endMMDD: "03-05",
-    windy_url: "https://www.windy.com/50.94,-73.41",
     historical_url:
       "https://www.timeanddate.com/weather/chile/torres-del-paine/climate",
     meteoblue_url:
@@ -56,7 +53,6 @@ export const itinerary: City[] = [
     lon: -72.26,
     startMMDD: "03-07",
     endMMDD: "03-08",
-    windy_url: "https://www.windy.com/50.34,-72.26",
     historical_url:
       "https://www.timeanddate.com/weather/argentina/el-calafate/climate",
     meteoblue_url:
@@ -72,7 +68,6 @@ export const itinerary: City[] = [
     lon: -72.89,
     startMMDD: "03-09",
     endMMDD: "03-12",
-    windy_url: "https://www.windy.com/49.33,-72.89",
     historical_url:
       "https://www.timeanddate.com/weather/argentina/el-chalten/climate",
     meteoblue_url:
@@ -88,7 +83,6 @@ export const itinerary: City[] = [
     lon: -58.38,
     startMMDD: "03-14",
     endMMDD: "03-16",
-    windy_url: "https://www.windy.com/34.60,-58.38",
     historical_url:
       "https://www.timeanddate.com/weather/argentina/buenos-aires/climate",
     meteoblue_url:
