@@ -17,6 +17,7 @@ export interface City {
   startMMDD: MMDD;
   endMMDD: MMDD;
   historical_url?: string;
+  maps_url?: string;
   meteoblue_url?: string;
   meteoblue_widget_url?: string;
   historical_avg?: HistoricalAvg;

@@ -103,6 +103,9 @@ async function main() {
       slug: city.slug,
       dates: `${city.startMMDD} – ${city.endMMDD}`,
       historical_url: city.historical_url,
+      maps_url: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
+        `${city.name}, ${city.country}`,
+      )}`,
       meteoblue_url: city.meteoblue_url,
       meteoblue_widget_url: city.meteoblue_widget_url,
       historical_avg: climate,

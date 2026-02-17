@@ -42,6 +42,7 @@ hide_in_header: true
     <!-- Links to other forecasts -->
     <p>
       {% if city.meteoblue_url %}<a href="{{ city.meteoblue_url }}" target="_blank">Meteoblue Forecast (Next 7 Days)</a>{% endif %}
+      {% if city.maps_url %} | <a href="{{ city.maps_url }}" target="_blank">Google Maps</a>{% endif %}
       {% if city.historical_url %} | <a href="{{ city.historical_url }}" target="_blank">Historical Climate</a>{% endif %}
     </p>
 
