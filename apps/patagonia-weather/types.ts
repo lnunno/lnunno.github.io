@@ -16,7 +16,6 @@ export interface City {
   lon: number;
   startMMDD: MMDD;
   endMMDD: MMDD;
-  forecast_url?: string;
   windy_url?: string;
   historical_url?: string;
   meteoblue_url?: string;

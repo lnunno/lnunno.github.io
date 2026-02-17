@@ -6,6 +6,9 @@ hide_in_header: true
 ---
 
 <h1>Patagonia Trip Weather</h1>
+<p>
+  Each city section shows a <strong>7-day forecast</strong> plus <strong>historical averages for the exact trip dates listed</strong>.
+</p>
 
 {% for city in site.data.patagonia_weather.cities %}
 
@@ -23,8 +26,11 @@ hide_in_header: true
       </iframe>
     {% endif %}
 
-    <!-- Historical averages -->
+    <!-- Historical averages for exact trip dates -->
     {% if city.historical_avg %}
+      <p>
+        Historical climate averages below are calculated for <strong>{{ city.dates }}</strong>.
+      </p>
       <ul>
         <li>Avg High: {{ city.historical_avg.high_f }}°F</li>
         <li>Avg Low: {{ city.historical_avg.low_f }}°F</li>
@@ -35,7 +41,7 @@ hide_in_header: true
 
     <!-- Links to other forecasts -->
     <p>
-      {% if city.meteoblue_url %}<a href="{{ city.meteoblue_url }}" target="_blank">Meteoblue Forecast</a>{% endif %}
+      {% if city.meteoblue_url %}<a href="{{ city.meteoblue_url }}" target="_blank">Meteoblue Forecast (Next 7 Days)</a>{% endif %}
       {% if city.windy_url %} | <a href="{{ city.windy_url }}" target="_blank">Windy Map</a>{% endif %}
       {% if city.historical_url %} | <a href="{{ city.historical_url }}" target="_blank">Historical Climate</a>{% endif %}
     </p>

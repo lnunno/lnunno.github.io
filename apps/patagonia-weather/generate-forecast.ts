@@ -102,7 +102,6 @@ async function main() {
       country: city.country,
       slug: city.slug,
       dates: `${city.startMMDD} – ${city.endMMDD}`,
-      forecast_url: city.forecast_url,
       windy_url: city.windy_url,
       historical_url: city.historical_url,
       meteoblue_url: city.meteoblue_url,
