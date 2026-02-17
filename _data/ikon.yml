@@ -3,6 +3,8 @@ resorts:
     slug: winter-park
     slopes_url: https://getslopes.com/resorts/winter_park_resort
     snowstake_url: https://www.winterparkresort.com/the-mountain/mountain-cams
+    meteoblue_url: https://www.meteoblue.com/en/weather/week/winter-park_united-states_5444579
+    meteoblue_widget_url: https://www.meteoblue.com/en/weather/widget/daily/winter-park_united-states_5444579?days=7&tempunit=FAHRENHEIT&windunit=MILE_PER_HOUR&precipunit=INCH&coloured=1&layout=dark
     weather_channel_url: https://weather.com/weather/today/l/Winter+Park+CO
     msn_weather_url: https://www.msn.com/en-us/weather/forecast/in-Winter-Park,CO
     ikon_web_url: https://www.ikonpass.com/en/destinations/winter-park
@@ -16,6 +18,8 @@ resorts:
     slug: copper-mountain
     slopes_url: https://getslopes.com/resorts/copper_mountain_resort
     snowstake_url: https://www.coppercolorado.com/the-mountain/mountain-cams
+    meteoblue_url: https://www.meteoblue.com/en/weather/week/copper-mountain_united-states_5417975
+    meteoblue_widget_url: https://www.meteoblue.com/en/weather/widget/daily/copper-mountain_united-states_5417975?days=7&tempunit=FAHRENHEIT&windunit=MILE_PER_HOUR&precipunit=INCH&coloured=1&layout=dark
     weather_channel_url: https://weather.com/weather/today/l/Copper+Mountain+CO
     msn_weather_url: https://www.msn.com/en-us/weather/forecast/in-Copper-Mountain,CO
     ikon_web_url: https://www.ikonpass.com/en/destinations/copper-mountain
@@ -27,6 +31,8 @@ resorts:
     slug: arapahoe-basin
     slopes_url: https://getslopes.com/resorts/arapahoe_basin_ski_area
     snowstake_url: https://www.arapahoebasin.com/the-mountain/mountain-cams/
+    meteoblue_url: https://www.meteoblue.com/en/weather/week/arapahoe-basin_united-states_6947774
+    meteoblue_widget_url: https://www.meteoblue.com/en/weather/widget/daily/arapahoe-basin_united-states_6947774?days=7&tempunit=FAHRENHEIT&windunit=MILE_PER_HOUR&precipunit=INCH&coloured=1&layout=dark
     weather_channel_url: https://weather.com/weather/today/l/Keystone+CO
     msn_weather_url: https://www.msn.com/en-us/weather/forecast/in-Keystone,CO
     ikon_web_url: https://www.ikonpass.com/en/destinations/arapahoe-basin
@@ -40,6 +46,8 @@ resorts:
     slug: steamboat
     slopes_url: https://getslopes.com/resorts/steamboat_ski_resort
     snowstake_url: https://www.steamboat.com/the-mountain/mountain-cams
+    meteoblue_url: https://www.meteoblue.com/en/weather/week/steamboat-springs_united-states_5582371
+    meteoblue_widget_url: https://www.meteoblue.com/en/weather/widget/daily/steamboat-springs_united-states_5582371?days=7&tempunit=FAHRENHEIT&windunit=MILE_PER_HOUR&precipunit=INCH&coloured=1&layout=dark
     weather_channel_url: https://weather.com/weather/today/l/Steamboat+Springs+CO
     msn_weather_url: https://www.msn.com/en-us/weather/forecast/in-Steamboat-Springs,CO
     ikon_web_url: https://www.ikonpass.com/en/destinations/steamboat
