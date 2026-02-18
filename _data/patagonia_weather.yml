@@ -34,6 +34,7 @@ cities:
     lon: -73.1244
     dates: 03-01 – 03-05
     date_label: Sun Mar 1 – Thu Mar 5
+    historical_url: https://www.timeanddate.com/weather/%407536052/climate
     maps_url: https://www.google.com/maps/search/?api=1&query=Torres%20del%20Paine%20National%20Park%2C%20Chile
     meteoblue_url: https://www.meteoblue.com/en/weather/week/torres-del-paine_chile_7536052
     meteoblue_widget_url: https://www.meteoblue.com/en/weather/widget/daily/torres-del-paine_chile_7536052?days=7&tempunit=FAHRENHEIT&windunit=MILE_PER_HOUR&precipunit=INCH&coloured=1&layout=dark

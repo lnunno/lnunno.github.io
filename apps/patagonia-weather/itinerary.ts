@@ -42,6 +42,8 @@ export const itinerary: City[] = [
     endMMDD: "03-05",
     date_label: "Sun Mar 1 – Thu Mar 5",
     include_historical: false,
+    historical_url:
+      "https://www.timeanddate.com/weather/%407536052/climate",
     maps_url:
       "https://www.google.com/maps/search/?api=1&query=Torres%20del%20Paine%20National%20Park%2C%20Chile",
     meteoblue_url:
