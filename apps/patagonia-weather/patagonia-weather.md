@@ -13,7 +13,15 @@ hide_in_header: true
 {% for city in site.data.patagonia_weather.cities %}
 
   <div class="city-weather" style="margin-bottom:2rem;">
-    <h2>{{ city.name }} ({{ city.dates }})</h2>
+    <h2>{{ city.name }} ({{ city.date_label | default: city.dates }})</h2>
+
+    {% if city.itinerary_notes %}
+      <ul>
+        {% for note in city.itinerary_notes %}
+          <li>{{ note }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
 
     <!-- Weather widget -->
     {% if city.meteoblue_widget_url %}

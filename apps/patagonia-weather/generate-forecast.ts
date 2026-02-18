@@ -94,18 +94,29 @@ async function main() {
   const output: any = { cities: [] };
 
   for (const city of itinerary) {
-    console.log(`🌎 Computing climate for ${city.name}...`);
-    const climate = await computeCityClimate(city);
+    const includeHistorical = city.include_historical !== false;
+    let climate: Awaited<ReturnType<typeof computeCityClimate>> | undefined;
+
+    if (includeHistorical) {
+      console.log(`🌎 Computing climate for ${city.name}...`);
+      climate = await computeCityClimate(city);
+    }
 
     output.cities.push({
       name: city.name,
       country: city.country,
       slug: city.slug,
+      lat: city.lat,
+      lon: city.lon,
       dates: `${city.startMMDD} – ${city.endMMDD}`,
+      date_label: city.date_label,
+      itinerary_notes: city.itinerary_notes,
       historical_url: city.historical_url,
-      maps_url: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
-        `${city.name}, ${city.country}`,
-      )}`,
+      maps_url:
+        city.maps_url ||
+        `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
+          `${city.name}, ${city.country}`,
+        )}`,
       meteoblue_url: city.meteoblue_url,
       meteoblue_widget_url: city.meteoblue_widget_url,
       historical_avg: climate,
