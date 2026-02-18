@@ -17,7 +17,6 @@ export interface City {
   startMMDD: MMDD;
   endMMDD: MMDD;
   date_label?: string;
-  itinerary_notes?: string[];
   include_historical?: boolean;
   historical_url?: string;
   maps_url?: string;

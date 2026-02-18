@@ -4,7 +4,6 @@ cities:
     slug: santiago
     dates: 02-25 – 02-27
     date_label: Wed Feb 25 – Fri Feb 27
-    windy_url: https://www.windy.com/-33.45,-70.67
     historical_url: https://www.timeanddate.com/weather/chile/santiago/climate
     maps_url: https://www.google.com/maps/search/?api=1&query=Santiago%2C%20Chile
     meteoblue_url: https://www.meteoblue.com/en/weather/week/santiago_chile_3871336
@@ -19,7 +18,6 @@ cities:
     slug: puerto-natales
     dates: 02-28 – 03-01
     date_label: Sat Feb 28 – Sun Mar 1
-    windy_url: https://www.windy.com/-51.73,-72.51
     historical_url: https://www.timeanddate.com/weather/%403874958/climate
     maps_url: https://www.google.com/maps/search/?api=1&query=Puerto%20Natales%2C%20Chile
     meteoblue_url: https://www.meteoblue.com/en/weather/week/puerto-natales_chile_3874958
@@ -36,8 +34,6 @@ cities:
     lon: -73.1244
     dates: 03-01 – 03-05
     date_label: Sun Mar 1 – Thu Mar 5
-    itinerary_notes:
-      - Overall weather for Torres del Paine during W Trek dates
     maps_url: https://www.google.com/maps/search/?api=1&query=Torres%20del%20Paine%20National%20Park%2C%20Chile
     meteoblue_url: https://www.meteoblue.com/en/weather/week/torres-del-paine_chile_7536052
     meteoblue_widget_url: https://www.meteoblue.com/en/weather/widget/daily/torres-del-paine_chile_7536052?days=7&tempunit=FAHRENHEIT&windunit=MILE_PER_HOUR&precipunit=INCH&coloured=1&layout=dark
@@ -53,12 +49,7 @@ cities:
     date_label: Sun Mar 1
     lat: -50.9572451
     lon: -72.9106479
-    itinerary_notes:
-      - W Trek Day 1
-      - Bus Puerto Natales to Torres del Paine
-      - Walk to Mirador de Torres and stay at Chileno
     maps_url: https://www.google.com/maps/search/?api=1&query=Refugio%20Chileno%2C%20Torres%20del%20Paine%2C%20Chile
-    meteoblue_url: https://www.meteoblue.com/en/weather/week/torres-del-paine_chile_7536052
   - name: Refugio Frances
     country: Chile
     slug: w-trek-day-2-frances
@@ -66,23 +57,15 @@ cities:
     date_label: Mon Mar 2
     lat: -51.0260641
     lon: -73.0272705
-    itinerary_notes:
-      - W Trek Day 2
-      - Walk Chileno to Frances and stay at Frances
     maps_url: https://www.google.com/maps/search/?api=1&query=Refugio%20Frances%2C%20Torres%20del%20Paine%2C%20Chile
-    meteoblue_url: https://www.meteoblue.com/en/weather/week/cerro-paine-grande_chile_3877729
-  - name: Paine Grande
+  - name: Refugio & Camping Vertice Paine Grande
     country: Chile
     slug: w-trek-day-3-paine-grande
     dates: 03-03 – 03-03
     date_label: Tue Mar 3
     lat: -51.0726521
     lon: -73.0937822
-    itinerary_notes:
-      - W Trek Day 3
-      - Walk Frances to Mirador Frances/Britanica and continue to Paine Grande
-    maps_url: https://www.google.com/maps/search/?api=1&query=Paine%20Grande%2C%20Torres%20del%20Paine%2C%20Chile
-    meteoblue_url: https://www.meteoblue.com/en/weather/week/cerro-paine-grande_chile_3877729
+    maps_url: https://www.google.com/maps/search/?api=1&query=Refugio%20%26%20Camping%20Vertice%20Paine%20Grande%2C%20Torres%20del%20Paine%2C%20Chile
   - name: Refugio Grey
     country: Chile
     slug: w-trek-day-4-grey
@@ -90,12 +73,7 @@ cities:
     date_label: Wed Mar 4
     lat: -51.0021595
     lon: -73.181325
-    itinerary_notes:
-      - W Trek Day 4
-      - Walk Paine Grande to Grey and stay at Grey
-      - Possible kayaking or extra hikes
     maps_url: https://www.google.com/maps/search/?api=1&query=Refugio%20Grey%2C%20Torres%20del%20Paine%2C%20Chile
-    meteoblue_url: https://www.meteoblue.com/en/weather/week/cerro-paine-grande_chile_3877729
   - name: Refugio Grey / Hotel Grey
     country: Chile
     slug: w-trek-day-5-grey-hotel-grey
@@ -103,20 +81,12 @@ cities:
     date_label: Thu Mar 5
     lat: -51.1228794
     lon: -73.1163257
-    itinerary_notes:
-      - W Trek Day 5
-      - Kayaking or extra hikes in the morning
-      - Grey Glacier boat from Refugio Grey to Hotel Grey
-      - Bus Hotel Grey to Puerto Natales
-      - Check in at Cabanas el Rancho (2 nights)
     maps_url: https://www.google.com/maps/search/?api=1&query=Hotel%20Lago%20Grey%2C%20Torres%20del%20Paine%2C%20Chile
-    meteoblue_url: https://www.meteoblue.com/en/weather/week/cerro-paine-grande_chile_3877729
   - name: El Calafate
     country: Argentina
     slug: el-calafate
     dates: 03-07 – 03-08
     date_label: Sat Mar 7 – Sun Mar 8
-    windy_url: https://www.windy.com/-50.34,-72.26
     historical_url: https://www.timeanddate.com/weather/argentina/el-calafate/climate
     maps_url: https://www.google.com/maps/search/?api=1&query=El%20Calafate%2C%20Argentina
     meteoblue_url: https://www.meteoblue.com/en/weather/week/el-calafate_argentina_3858677
@@ -131,7 +101,6 @@ cities:
     slug: el-chalten
     dates: 03-09 – 03-12
     date_label: Mon Mar 9 – Thu Mar 12
-    windy_url: https://www.windy.com/-49.33,-72.89
     historical_url: https://www.timeanddate.com/weather/%406690180/climate
     maps_url: https://www.google.com/maps/search/?api=1&query=El%20Chalt%C3%A9n%2C%20Argentina
     meteoblue_url: https://www.meteoblue.com/en/weather/week/el-chalten_argentina_6690180
@@ -146,7 +115,6 @@ cities:
     slug: buenos-aires
     dates: 03-14 – 03-16
     date_label: Sat Mar 14 – Mon Mar 16
-    windy_url: https://www.windy.com/-34.60,-58.38
     historical_url: https://www.timeanddate.com/weather/argentina/buenos-aires/climate
     maps_url: https://www.google.com/maps/search/?api=1&query=Buenos%20Aires%2C%20Argentina
     meteoblue_url: https://www.meteoblue.com/en/weather/week/buenos-aires_argentina_3435910

@@ -15,14 +15,6 @@ hide_in_header: true
   <div class="city-weather" style="margin-bottom:2rem;">
     <h2>{{ city.name }} ({{ city.date_label | default: city.dates }})</h2>
 
-    {% if city.itinerary_notes %}
-      <ul>
-        {% for note in city.itinerary_notes %}
-          <li>{{ note }}</li>
-        {% endfor %}
-      </ul>
-    {% endif %}
-
     <!-- Weather widget -->
     {% if city.meteoblue_widget_url %}
       <iframe
@@ -49,9 +41,20 @@ hide_in_header: true
 
     <!-- Links to other forecasts -->
     <p>
-      {% if city.meteoblue_url %}<a href="{{ city.meteoblue_url }}" target="_blank">Meteoblue Forecast (Next 7 Days)</a>{% endif %}
-      {% if city.maps_url %} | <a href="{{ city.maps_url }}" target="_blank">Google Maps</a>{% endif %}
-      {% if city.historical_url %} | <a href="{{ city.historical_url }}" target="_blank">Historical Climate</a>{% endif %}
+      {% assign has_link = false %}
+      {% if city.meteoblue_url %}
+        <a href="{{ city.meteoblue_url }}" target="_blank">Meteoblue Forecast (Next 7 Days)</a>
+        {% assign has_link = true %}
+      {% endif %}
+      {% if city.maps_url %}
+        {% if has_link %} | {% endif %}
+        <a href="{{ city.maps_url }}" target="_blank">Google Maps</a>
+        {% assign has_link = true %}
+      {% endif %}
+      {% if city.historical_url %}
+        {% if has_link %} | {% endif %}
+        <a href="{{ city.historical_url }}" target="_blank">Historical Climate</a>
+      {% endif %}
     </p>
 
   </div>

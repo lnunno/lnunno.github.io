@@ -41,9 +41,6 @@ export const itinerary: City[] = [
     startMMDD: "03-01",
     endMMDD: "03-05",
     date_label: "Sun Mar 1 – Thu Mar 5",
-    itinerary_notes: [
-      "Overall weather for Torres del Paine during W Trek dates",
-    ],
     include_historical: false,
     maps_url:
       "https://www.google.com/maps/search/?api=1&query=Torres%20del%20Paine%20National%20Park%2C%20Chile",
@@ -61,16 +58,9 @@ export const itinerary: City[] = [
     startMMDD: "03-01",
     endMMDD: "03-01",
     date_label: "Sun Mar 1",
-    itinerary_notes: [
-      "W Trek Day 1",
-      "Bus Puerto Natales to Torres del Paine",
-      "Walk to Mirador de Torres and stay at Chileno",
-    ],
     include_historical: false,
     maps_url:
       "https://www.google.com/maps/search/?api=1&query=Refugio%20Chileno%2C%20Torres%20del%20Paine%2C%20Chile",
-    meteoblue_url:
-      "https://www.meteoblue.com/en/weather/week/torres-del-paine_chile_7536052",
   },
   {
     name: "Refugio Frances",
@@ -81,18 +71,12 @@ export const itinerary: City[] = [
     startMMDD: "03-02",
     endMMDD: "03-02",
     date_label: "Mon Mar 2",
-    itinerary_notes: [
-      "W Trek Day 2",
-      "Walk Chileno to Frances and stay at Frances",
-    ],
     include_historical: false,
     maps_url:
       "https://www.google.com/maps/search/?api=1&query=Refugio%20Frances%2C%20Torres%20del%20Paine%2C%20Chile",
-    meteoblue_url:
-      "https://www.meteoblue.com/en/weather/week/cerro-paine-grande_chile_3877729",
   },
   {
-    name: "Paine Grande",
+    name: "Refugio & Camping Vertice Paine Grande",
     country: "Chile",
     slug: "w-trek-day-3-paine-grande",
     lat: -51.0726521,
@@ -100,15 +84,9 @@ export const itinerary: City[] = [
     startMMDD: "03-03",
     endMMDD: "03-03",
     date_label: "Tue Mar 3",
-    itinerary_notes: [
-      "W Trek Day 3",
-      "Walk Frances to Mirador Frances/Britanica and continue to Paine Grande",
-    ],
     include_historical: false,
     maps_url:
-      "https://www.google.com/maps/search/?api=1&query=Paine%20Grande%2C%20Torres%20del%20Paine%2C%20Chile",
-    meteoblue_url:
-      "https://www.meteoblue.com/en/weather/week/cerro-paine-grande_chile_3877729",
+      "https://www.google.com/maps/search/?api=1&query=Refugio%20%26%20Camping%20Vertice%20Paine%20Grande%2C%20Torres%20del%20Paine%2C%20Chile",
   },
   {
     name: "Refugio Grey",
@@ -119,16 +97,9 @@ export const itinerary: City[] = [
     startMMDD: "03-04",
     endMMDD: "03-04",
     date_label: "Wed Mar 4",
-    itinerary_notes: [
-      "W Trek Day 4",
-      "Walk Paine Grande to Grey and stay at Grey",
-      "Possible kayaking or extra hikes",
-    ],
     include_historical: false,
     maps_url:
       "https://www.google.com/maps/search/?api=1&query=Refugio%20Grey%2C%20Torres%20del%20Paine%2C%20Chile",
-    meteoblue_url:
-      "https://www.meteoblue.com/en/weather/week/cerro-paine-grande_chile_3877729",
   },
   {
     name: "Refugio Grey / Hotel Grey",
@@ -139,18 +110,9 @@ export const itinerary: City[] = [
     startMMDD: "03-05",
     endMMDD: "03-05",
     date_label: "Thu Mar 5",
-    itinerary_notes: [
-      "W Trek Day 5",
-      "Kayaking or extra hikes in the morning",
-      "Grey Glacier boat from Refugio Grey to Hotel Grey",
-      "Bus Hotel Grey to Puerto Natales",
-      "Check in at Cabanas el Rancho (2 nights)",
-    ],
     include_historical: false,
     maps_url:
       "https://www.google.com/maps/search/?api=1&query=Hotel%20Lago%20Grey%2C%20Torres%20del%20Paine%2C%20Chile",
-    meteoblue_url:
-      "https://www.meteoblue.com/en/weather/week/cerro-paine-grande_chile_3877729",
   },
   {
     name: "El Calafate",

@@ -110,7 +110,6 @@ async function main() {
       lon: city.lon,
       dates: `${city.startMMDD} – ${city.endMMDD}`,
       date_label: city.date_label,
-      itinerary_notes: city.itinerary_notes,
       historical_url: city.historical_url,
       maps_url:
         city.maps_url ||
