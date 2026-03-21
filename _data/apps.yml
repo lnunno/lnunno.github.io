@@ -34,3 +34,7 @@
   url: /apps/patagonia-weather/
   description: Weather dashboard for my Patagonia trip
   emoji: ""
+- name: Highlighted Books
+  url: /apps/highlighted-books/
+  description: My most highlighted Kindle books by month
+  emoji: "📚"

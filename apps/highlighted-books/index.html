@@ -1,0 +1,1427 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Readwise: Most Highlighted Books by Month</title>
+  <style>
+    :root {
+      --bg: #111315;
+      --panel: #171a1d;
+      --panel-2: #1d2126;
+      --text: #eceff4;
+      --muted: #aab3bd;
+      --border: #2a3138;
+      --shadow: 0 8px 24px rgba(0,0,0,0.28);
+      --radius: 12px;
+      --cover-ratio: 1.5;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+    }
+
+    .page {
+      max-width: 1600px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    .header {
+      margin-bottom: 18px;
+    }
+
+    h1 {
+      margin: 0 0 6px;
+      font-size: 24px;
+      line-height: 1.2;
+    }
+
+    .sub {
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+      gap: 12px;
+      align-items: start;
+    }
+
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+      box-shadow: var(--shadow);
+      min-width: 0;
+    }
+
+    .card-top {
+      padding: 5px;
+      border-bottom: 1px solid var(--border);
+      background: linear-gradient(180deg, rgba(255,255,255,0.03), rgba(255,255,255,0));
+    }
+
+    .cover-wrap {
+      background: var(--panel-2);
+      aspect-ratio: 2 / 3;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+
+    .cover-wrap img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    .no-cover {
+      padding: 12px;
+      text-align: center;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .meta {
+      padding: 8px 9px 10px;
+    }
+
+    .title {
+      font-size: 12px;
+      line-height: 1.25;
+      font-weight: 700;
+      margin-bottom: 3px;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .author {
+      font-size: 11px;
+      color: var(--muted);
+      line-height: 1.25;
+      display: -webkit-box;
+      -webkit-line-clamp: 1;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .highlights {
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    .dates {
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--text);
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      word-break: break-word;
+    }
+
+    @media (max-width: 700px) {
+      .page { padding: 12px; }
+      .grid { grid-template-columns: repeat(auto-fill, minmax(110px, 1fr)); gap: 10px; }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <header class="header">
+      <h1>Readwise: Most Highlighted Books by Month</h1>
+      <div class="sub">75 unique books over 6 years and 6 months (March 2026-August 2019)</div>
+    </header>
+    <section class="grid">
+      
+        <article class="card" title="Exodus — Peter F. Hamilton
+59 highlights
+Mar 2026 (59)">
+          <div class="card-top">
+            <div class="dates" aria-label="Mar 2026 (59)">Mar 2026</div>
+            <div class="highlights">59 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://m.media-amazon.com/images/I/81RGVINVKOL._SY160.jpg" alt="Exodus" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Exodus</div>
+            <div class="author">Peter F. Hamilton</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="By Night in Chile — Roberto Bolaño, Nicole Krauss, and Chris Andrews
+24 highlights
+Feb 2026 (24)">
+          <div class="card-top">
+            <div class="dates" aria-label="Feb 2026 (24)">Feb 2026</div>
+            <div class="highlights">24 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://m.media-amazon.com/images/I/81OcERdj4BL._SY160.jpg" alt="By Night in Chile" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">By Night in Chile</div>
+            <div class="author">Roberto Bolaño, Nicole Krauss, and Chris Andrews</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Shadowheart — Tad Williams
+70 highlights
+Jan 2026 (70)">
+          <div class="card-top">
+            <div class="dates" aria-label="Jan 2026 (70)">Jan 2026</div>
+            <div class="highlights">70 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/412VapG5ykL._SL200_.jpg" alt="Shadowheart" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Shadowheart</div>
+            <div class="author">Tad Williams</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Shadowrise — Tad Williams
+68 highlights
+Dec 2025 (68)">
+          <div class="card-top">
+            <div class="dates" aria-label="Dec 2025 (68)">Dec 2025</div>
+            <div class="highlights">68 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51DLTtfVsqL._SL200_.jpg" alt="Shadowrise" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Shadowrise</div>
+            <div class="author">Tad Williams</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="No Life Forsaken — Steven Erikson
+68 highlights
+Nov 2025 (68)">
+          <div class="card-top">
+            <div class="dates" aria-label="Nov 2025 (68)">Nov 2025</div>
+            <div class="highlights">68 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://m.media-amazon.com/images/I/81Jg04R3sDL._SY160.jpg" alt="No Life Forsaken" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">No Life Forsaken</div>
+            <div class="author">Steven Erikson</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Shadows Upon Time — Christopher Ruocchio
+132 highlights
+Oct 2025 (132)">
+          <div class="card-top">
+            <div class="dates" aria-label="Oct 2025 (132)">Oct 2025</div>
+            <div class="highlights">132 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1740399833i/222685709.jpg" alt="Shadows Upon Time" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Shadows Upon Time</div>
+            <div class="author">Christopher Ruocchio</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Shadowmarch — Tad Williams
+77 highlights
+Sep 2025 (77)">
+          <div class="card-top">
+            <div class="dates" aria-label="Sep 2025 (77)">Sep 2025</div>
+            <div class="highlights">77 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51FxFZtolvL._SL200_.jpg" alt="Shadowmarch" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Shadowmarch</div>
+            <div class="author">Tad Williams</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Orb Sceptre Throne — Ian C. Esslemont
+55 highlights
+Aug 2025 (55)">
+          <div class="card-top">
+            <div class="dates" aria-label="Aug 2025 (55)">Aug 2025</div>
+            <div class="highlights">55 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/516dJ2t%2B2PL._SL200_.jpg" alt="Orb Sceptre Throne" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Orb Sceptre Throne</div>
+            <div class="author">Ian C. Esslemont</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Coalescent — Stephen Baxter
+45 highlights
+Jul 2025 (45)">
+          <div class="card-top">
+            <div class="dates" aria-label="Jul 2025 (45)">Jul 2025</div>
+            <div class="highlights">45 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://m.media-amazon.com/images/I/51MKX69CQML._SY160.jpg" alt="Coalescent" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Coalescent</div>
+            <div class="author">Stephen Baxter</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Graveyard of Demons — Larry Correia
+37 highlights
+Jun 2025 (37)">
+          <div class="card-top">
+            <div class="dates" aria-label="Jun 2025 (37)">Jun 2025</div>
+            <div class="highlights">37 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://m.media-amazon.com/images/I/81HbROI6AIL._SY160.jpg" alt="Graveyard of Demons" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Graveyard of Demons</div>
+            <div class="author">Larry Correia</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Seveneves — Neal Stephenson
+60 highlights
+May 2025 (60)">
+          <div class="card-top">
+            <div class="dates" aria-label="May 2025 (60)">May 2025</div>
+            <div class="highlights">60 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/41cNn3%2BRO7L._SL200_.jpg" alt="Seveneves" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Seveneves</div>
+            <div class="author">Neal Stephenson</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Cryptonomicon — Neal Stephenson
+118 highlights
+Feb 2025 (62), Apr 2025 (56)">
+          <div class="card-top">
+            <div class="dates" aria-label="Feb 2025 (62) • Apr 2025 (56)">Feb 2025 • Apr 2025</div>
+            <div class="highlights">118 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/41E7EKgoryL._SL200_.jpg" alt="Cryptonomicon" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Cryptonomicon</div>
+            <div class="author">Neal Stephenson</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="House of Assassins — Larry Correia
+32 highlights
+Mar 2025 (32)">
+          <div class="card-top">
+            <div class="dates" aria-label="Mar 2025 (32)">Mar 2025</div>
+            <div class="highlights">32 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51wSIsZkRYL._SL200_.jpg" alt="House of Assassins" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">House of Assassins</div>
+            <div class="author">Larry Correia</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="The Dragon Reborn — Robert Jordan
+74 highlights
+Jan 2025 (74)">
+          <div class="card-top">
+            <div class="dates" aria-label="Jan 2025 (74)">Jan 2025</div>
+            <div class="highlights">74 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/416sphlA6dL._SL200_.jpg" alt="The Dragon Reborn" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">The Dragon Reborn</div>
+            <div class="author">Robert Jordan</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="The Eye of the World — Robert Jordan
+74 highlights
+Dec 2024 (74)">
+          <div class="card-top">
+            <div class="dates" aria-label="Dec 2024 (74)">Dec 2024</div>
+            <div class="highlights">74 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/416rFEk2yvL._SL200_.jpg" alt="The Eye of the World" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">The Eye of the World</div>
+            <div class="author">Robert Jordan</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Return of the Crimson Guard — Ian C. Esslemont
+124 highlights
+Oct 2024 (62), Nov 2024 (62)">
+          <div class="card-top">
+            <div class="dates" aria-label="Oct 2024 (62) • Nov 2024 (62)">Oct 2024 • Nov 2024</div>
+            <div class="highlights">124 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51DH19nXDNL._SL200_.jpg" alt="Return of the Crimson Guard" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Return of the Crimson Guard</div>
+            <div class="author">Ian C. Esslemont</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Of War and Ruin — Ryan Cahill
+58 highlights
+Sep 2024 (58)">
+          <div class="card-top">
+            <div class="dates" aria-label="Sep 2024 (58)">Sep 2024</div>
+            <div class="highlights">58 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://m.media-amazon.com/images/I/81mK48fjLPL._SY160.jpg" alt="Of War and Ruin" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Of War and Ruin</div>
+            <div class="author">Ryan Cahill</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Absolution Gap — Alastair Reynolds
+24 highlights
+Aug 2024 (24)">
+          <div class="card-top">
+            <div class="dates" aria-label="Aug 2024 (24)">Aug 2024</div>
+            <div class="highlights">24 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://m.media-amazon.com/images/I/81BO2dEDFRL._SY160.jpg" alt="Absolution Gap" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Absolution Gap</div>
+            <div class="author">Alastair Reynolds</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="A Game of Thrones — George R. R. Martin
+40 highlights
+Jul 2024 (40)">
+          <div class="card-top">
+            <div class="dates" aria-label="Jul 2024 (40)">Jul 2024</div>
+            <div class="highlights">40 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/518dkA0JEpL._SL200_.jpg" alt="A Game of Thrones" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">A Game of Thrones</div>
+            <div class="author">George R. R. Martin</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Chasm City (The Inhibitor Series (2)) — Alastair Reynolds
+69 highlights
+May 2024 (69)">
+          <div class="card-top">
+            <div class="dates" aria-label="May 2024 (69)">May 2024</div>
+            <div class="highlights">69 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://m.media-amazon.com/images/I/816SOxcqxwL._SY160.jpg" alt="Chasm City (The Inhibitor Series (2))" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Chasm City (The Inhibitor Series (2))</div>
+            <div class="author">Alastair Reynolds</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Revelation Space — Alastair Reynolds
+38 highlights
+Apr 2024 (38)">
+          <div class="card-top">
+            <div class="dates" aria-label="Apr 2024 (38)">Apr 2024</div>
+            <div class="highlights">38 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://m.media-amazon.com/images/I/81HybFglzgL._SY160.jpg" alt="Revelation Space" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Revelation Space</div>
+            <div class="author">Alastair Reynolds</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Of Darkness and Light — Ryan Cahill
+41 highlights
+Mar 2024 (41)">
+          <div class="card-top">
+            <div class="dates" aria-label="Mar 2024 (41)">Mar 2024</div>
+            <div class="highlights">41 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://m.media-amazon.com/images/I/910Lnglwf4S._SY160.jpg" alt="Of Darkness and Light" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Of Darkness and Light</div>
+            <div class="author">Ryan Cahill</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Mine — Robert R. McCammon
+43 highlights
+Feb 2024 (43)">
+          <div class="card-top">
+            <div class="dates" aria-label="Feb 2024 (43)">Feb 2024</div>
+            <div class="highlights">43 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://m.media-amazon.com/images/I/A1CJfMpRQPL._SY160.jpg" alt="Mine" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Mine</div>
+            <div class="author">Robert R. McCammon</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Disquiet_Gods — Christopher Ruocchio
+161 highlights
+Jan 2024 (161)">
+          <div class="card-top">
+            <div class="dates" aria-label="Jan 2024 (161)">Jan 2024</div>
+            <div class="highlights">161 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1690034659i/176443792.jpg" alt="Disquiet_Gods" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Disquiet_Gods</div>
+            <div class="author">Christopher Ruocchio</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="The Poet — Michael Connelly
+17 highlights
+Dec 2023 (17)">
+          <div class="card-top">
+            <div class="dates" aria-label="Dec 2023 (17)">Dec 2023</div>
+            <div class="highlights">17 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51pmbkX-dBL._SL200_.jpg" alt="The Poet" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">The Poet</div>
+            <div class="author">Michael Connelly</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="The Tombs of Atuan — Ursula K. Le Guin
+30 highlights
+Nov 2023 (30)">
+          <div class="card-top">
+            <div class="dates" aria-label="Nov 2023 (30)">Nov 2023</div>
+            <div class="highlights">30 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51FiocpY5uL._SL200_.jpg" alt="The Tombs of Atuan" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">The Tombs of Atuan</div>
+            <div class="author">Ursula K. Le Guin</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="A Wizard of Earthsea — Ursula K. Le Guin
+44 highlights
+Oct 2023 (44)">
+          <div class="card-top">
+            <div class="dates" aria-label="Oct 2023 (44)">Oct 2023</div>
+            <div class="highlights">44 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51yBOHJFBqL._SL200_.jpg" alt="A Wizard of Earthsea" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">A Wizard of Earthsea</div>
+            <div class="author">Ursula K. Le Guin</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="The Reality Dysfunction — Peter F. Hamilton
+98 highlights
+Sep 2023 (98)">
+          <div class="card-top">
+            <div class="dates" aria-label="Sep 2023 (98)">Sep 2023</div>
+            <div class="highlights">98 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/516IFlHVi4L._SL200_.jpg" alt="The Reality Dysfunction" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">The Reality Dysfunction</div>
+            <div class="author">Peter F. Hamilton</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="The Traitor Baru Cormorant — Seth Dickinson
+41 highlights
+Aug 2023 (41)">
+          <div class="card-top">
+            <div class="dates" aria-label="Aug 2023 (41)">Aug 2023</div>
+            <div class="highlights">41 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/415VNTffkbL._SL200_.jpg" alt="The Traitor Baru Cormorant" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">The Traitor Baru Cormorant</div>
+            <div class="author">Seth Dickinson</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Empire of Grass — Tad Williams
+69 highlights
+Jul 2023 (69)">
+          <div class="card-top">
+            <div class="dates" aria-label="Jul 2023 (69)">Jul 2023</div>
+            <div class="highlights">69 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://m.media-amazon.com/images/I/91yYuzraT2L._SY160.jpg" alt="Empire of Grass" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Empire of Grass</div>
+            <div class="author">Tad Williams</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="The Witchwood Crown — Tad Williams
+88 highlights
+Jun 2023 (88)">
+          <div class="card-top">
+            <div class="dates" aria-label="Jun 2023 (88)">Jun 2023</div>
+            <div class="highlights">88 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51pgooOgKuL._SL200_.jpg" alt="The Witchwood Crown" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">The Witchwood Crown</div>
+            <div class="author">Tad Williams</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Light Bringer — Pierce Brown
+123 highlights
+May 2023 (123)">
+          <div class="card-top">
+            <div class="dates" aria-label="May 2023 (123)">May 2023</div>
+            <div class="highlights">123 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1667655583i/29227774.jpg" alt="Light Bringer" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Light Bringer</div>
+            <div class="author">Pierce Brown</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Adulthood Rites — Octavia E. Butler
+42 highlights
+Apr 2023 (42)">
+          <div class="card-top">
+            <div class="dates" aria-label="Apr 2023 (42)">Apr 2023</div>
+            <div class="highlights">42 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/514rt1v4rnL._SL200_.jpg" alt="Adulthood Rites" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Adulthood Rites</div>
+            <div class="author">Octavia E. Butler</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Legend — David Gemmell
+74 highlights
+Mar 2023 (74)">
+          <div class="card-top">
+            <div class="dates" aria-label="Mar 2023 (74)">Mar 2023</div>
+            <div class="highlights">74 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51tJjb0Uc5L._SL200_.jpg" alt="Legend" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Legend</div>
+            <div class="author">David Gemmell</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Forest Mage — Robin Hobb
+53 highlights
+Feb 2023 (53)">
+          <div class="card-top">
+            <div class="dates" aria-label="Feb 2023 (53)">Feb 2023</div>
+            <div class="highlights">53 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51shtf%2Bo3BL._SL200_.jpg" alt="Forest Mage" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Forest Mage</div>
+            <div class="author">Robin Hobb</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="A Fire Upon the Deep — Vernor Vinge
+55 highlights
+Jan 2023 (55)">
+          <div class="card-top">
+            <div class="dates" aria-label="Jan 2023 (55)">Jan 2023</div>
+            <div class="highlights">55 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51sC8gPxGQL._SL200_.jpg" alt="A Fire Upon the Deep" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">A Fire Upon the Deep</div>
+            <div class="author">Vernor Vinge</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Streets of Laredo — Larry McMurtry
+87 highlights
+Dec 2022 (87)">
+          <div class="card-top">
+            <div class="dates" aria-label="Dec 2022 (87)">Dec 2022</div>
+            <div class="highlights">87 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/41P69vDBeRL._SL200_.jpg" alt="Streets of Laredo" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Streets of Laredo</div>
+            <div class="author">Larry McMurtry</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Lonesome Dove — Larry McMurtry
+150 highlights
+Nov 2022 (150)">
+          <div class="card-top">
+            <div class="dates" aria-label="Nov 2022 (150)">Nov 2022</div>
+            <div class="highlights">150 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/41ARlYbn4hL._SL200_.jpg" alt="Lonesome Dove" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Lonesome Dove</div>
+            <div class="author">Larry McMurtry</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Death&#39;s End — Cixin Liu
+44 highlights
+Oct 2022 (44)">
+          <div class="card-top">
+            <div class="dates" aria-label="Oct 2022 (44)">Oct 2022</div>
+            <div class="highlights">44 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51shc5uTsyL._SL200_.jpg" alt="Death&#39;s End" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Death&#39;s End</div>
+            <div class="author">Cixin Liu</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="The Dark Forest — Cixin Liu
+64 highlights
+Sep 2022 (64)">
+          <div class="card-top">
+            <div class="dates" aria-label="Sep 2022 (64)">Sep 2022</div>
+            <div class="highlights">64 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51IUteV-e7L._SL200_.jpg" alt="The Dark Forest" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">The Dark Forest</div>
+            <div class="author">Cixin Liu</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Boy&#39;s Life — Robert McCammon
+89 highlights
+Aug 2022 (89)">
+          <div class="card-top">
+            <div class="dates" aria-label="Aug 2022 (89)">Aug 2022</div>
+            <div class="highlights">89 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51i3C2QcfhL._SL200_.jpg" alt="Boy&#39;s Life" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Boy&#39;s Life</div>
+            <div class="author">Robert McCammon</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Speaking Bones — Ken Liu
+146 highlights
+Jul 2022 (146)">
+          <div class="card-top">
+            <div class="dates" aria-label="Jul 2022 (146)">Jul 2022</div>
+            <div class="highlights">146 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://m.media-amazon.com/images/I/71HKfadvjjL._SY160.jpg" alt="Speaking Bones" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Speaking Bones</div>
+            <div class="author">Ken Liu</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="The Veiled Throne — Liu Ken
+101 highlights
+Jun 2022 (101)">
+          <div class="card-top">
+            <div class="dates" aria-label="Jun 2022 (101)">Jun 2022</div>
+            <div class="highlights">101 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://m.media-amazon.com/images/I/8137tFSHr+L._SY160.jpg" alt="The Veiled Throne" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">The Veiled Throne</div>
+            <div class="author">Liu Ken</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Curse of the Mistwraith — Janny Wurts
+154 highlights
+May 2022 (154)">
+          <div class="card-top">
+            <div class="dates" aria-label="May 2022 (154)">May 2022</div>
+            <div class="highlights">154 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://m.media-amazon.com/images/I/81stEce4dXL._SY160.jpg" alt="Curse of the Mistwraith" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Curse of the Mistwraith</div>
+            <div class="author">Janny Wurts</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="The Grace of Kings — Ken Liu
+159 highlights
+Apr 2022 (159)">
+          <div class="card-top">
+            <div class="dates" aria-label="Apr 2022 (159)">Apr 2022</div>
+            <div class="highlights">159 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51b8eK2goBL._SL200_.jpg" alt="The Grace of Kings" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">The Grace of Kings</div>
+            <div class="author">Ken Liu</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Lord of Emperors — Guy Gavriel Kay
+84 highlights
+Feb 2022 (42), Mar 2022 (42)">
+          <div class="card-top">
+            <div class="dates" aria-label="Feb 2022 (42) • Mar 2022 (42)">Feb 2022 • Mar 2022</div>
+            <div class="highlights">84 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/513xyRthsvL._SL200_.jpg" alt="Lord of Emperors" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Lord of Emperors</div>
+            <div class="author">Guy Gavriel Kay</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Sailing to Sarantium — Guy Gavriel Kay
+63 highlights
+Jan 2022 (63)">
+          <div class="card-top">
+            <div class="dates" aria-label="Jan 2022 (63)">Jan 2022</div>
+            <div class="highlights">63 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/61Z-qCrecpL._SL200_.jpg" alt="Sailing to Sarantium" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Sailing to Sarantium</div>
+            <div class="author">Guy Gavriel Kay</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Empire of the Vampire — Jay Kristoff and Bon Orthwick
+108 highlights
+Dec 2021 (108)">
+          <div class="card-top">
+            <div class="dates" aria-label="Dec 2021 (108)">Dec 2021</div>
+            <div class="highlights">108 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://m.media-amazon.com/images/I/81M3Zxh7UAS._SY160.jpg" alt="Empire of the Vampire" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Empire of the Vampire</div>
+            <div class="author">Jay Kristoff and Bon Orthwick</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Prince of Thorns — Mark Lawrence
+49 highlights
+Nov 2021 (49)">
+          <div class="card-top">
+            <div class="dates" aria-label="Nov 2021 (49)">Nov 2021</div>
+            <div class="highlights">49 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51vgEOIQ0bL._SL200_.jpg" alt="Prince of Thorns" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Prince of Thorns</div>
+            <div class="author">Mark Lawrence</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="The Great Ordeal — R. Scott Bakker
+72 highlights
+Oct 2021 (72)">
+          <div class="card-top">
+            <div class="dates" aria-label="Oct 2021 (72)">Oct 2021</div>
+            <div class="highlights">72 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://m.media-amazon.com/images/I/91i2dxi0-nL._SY160.jpg" alt="The Great Ordeal" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">The Great Ordeal</div>
+            <div class="author">R. Scott Bakker</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="The White-Luck Warrior — R. Scott Bakker
+102 highlights
+Sep 2021 (102)">
+          <div class="card-top">
+            <div class="dates" aria-label="Sep 2021 (102)">Sep 2021</div>
+            <div class="highlights">102 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://m.media-amazon.com/images/I/91nwGLnn12L._SY160.jpg" alt="The White-Luck Warrior" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">The White-Luck Warrior</div>
+            <div class="author">R. Scott Bakker</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="The Thousandfold Thought — R. Scott Bakker
+48 highlights
+Aug 2021 (48)">
+          <div class="card-top">
+            <div class="dates" aria-label="Aug 2021 (48)">Aug 2021</div>
+            <div class="highlights">48 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51AjTlIJ1jL._SL200_.jpg" alt="The Thousandfold Thought" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">The Thousandfold Thought</div>
+            <div class="author">R. Scott Bakker</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="The Warrior Prophet — R. Scott Bakker
+83 highlights
+Jul 2021 (83)">
+          <div class="card-top">
+            <div class="dates" aria-label="Jul 2021 (83)">Jul 2021</div>
+            <div class="highlights">83 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51PWkqXMKoL._SL200_.jpg" alt="The Warrior Prophet" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">The Warrior Prophet</div>
+            <div class="author">R. Scott Bakker</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="The Darkness That Comes Before — R. Scott Bakker
+72 highlights
+Jun 2021 (72)">
+          <div class="card-top">
+            <div class="dates" aria-label="Jun 2021 (72)">Jun 2021</div>
+            <div class="highlights">72 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51pxVvkwVeL._SL200_.jpg" alt="The Darkness That Comes Before" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">The Darkness That Comes Before</div>
+            <div class="author">R. Scott Bakker</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Forge of Darkness — Steven Erikson
+35 highlights
+May 2021 (35)">
+          <div class="card-top">
+            <div class="dates" aria-label="May 2021 (35)">May 2021</div>
+            <div class="highlights">35 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/5196gB0CFcL._SL200_.jpg" alt="Forge of Darkness" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Forge of Darkness</div>
+            <div class="author">Steven Erikson</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="A Time of Dread — John Gwynne
+25 highlights
+Apr 2021 (25)">
+          <div class="card-top">
+            <div class="dates" aria-label="Apr 2021 (25)">Apr 2021</div>
+            <div class="highlights">25 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://m.media-amazon.com/images/I/91EA1YSCliL._SY160.jpg" alt="A Time of Dread" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">A Time of Dread</div>
+            <div class="author">John Gwynne</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Sword &amp; Citadel — Gene Wolfe
+27 highlights
+Mar 2021 (27)">
+          <div class="card-top">
+            <div class="dates" aria-label="Mar 2021 (27)">Mar 2021</div>
+            <div class="highlights">27 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/41vwGQLRL3L._SL200_.jpg" alt="Sword &amp; Citadel" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Sword &amp; Citadel</div>
+            <div class="author">Gene Wolfe</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Shadow &amp; Claw — Gene Wolfe
+48 highlights
+Feb 2021 (48)">
+          <div class="card-top">
+            <div class="dates" aria-label="Feb 2021 (48)">Feb 2021</div>
+            <div class="highlights">48 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/41qynj2iHwL._SL200_.jpg" alt="Shadow &amp; Claw" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Shadow &amp; Claw</div>
+            <div class="author">Gene Wolfe</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Assassin&#39;s Fate — Robin Hobb
+86 highlights
+Jan 2021 (86)">
+          <div class="card-top">
+            <div class="dates" aria-label="Jan 2021 (86)">Jan 2021</div>
+            <div class="highlights">86 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51VM98krehL._SL200_.jpg" alt="Assassin&#39;s Fate" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Assassin&#39;s Fate</div>
+            <div class="author">Robin Hobb</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Fool&#39;s Quest — Robin Hobb
+59 highlights
+Dec 2020 (59)">
+          <div class="card-top">
+            <div class="dates" aria-label="Dec 2020 (59)">Dec 2020</div>
+            <div class="highlights">59 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51NuY7EnDLL._SL200_.jpg" alt="Fool&#39;s Quest" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Fool&#39;s Quest</div>
+            <div class="author">Robin Hobb</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="The Blade Itself — Joe Abercrombie
+72 highlights
+Nov 2020 (72)">
+          <div class="card-top">
+            <div class="dates" aria-label="Nov 2020 (72)">Nov 2020</div>
+            <div class="highlights">72 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51bOdgp6-wL._SL200_.jpg" alt="The Blade Itself" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">The Blade Itself</div>
+            <div class="author">Joe Abercrombie</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Midnight Tides — Steven Erikson
+114 highlights
+Oct 2020 (114)">
+          <div class="card-top">
+            <div class="dates" aria-label="Oct 2020 (114)">Oct 2020</div>
+            <div class="highlights">114 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51ZBWkgR7PL._SL200_.jpg" alt="Midnight Tides" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Midnight Tides</div>
+            <div class="author">Steven Erikson</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Golden Fool — Robin Hobb
+22 highlights
+Sep 2020 (22)">
+          <div class="card-top">
+            <div class="dates" aria-label="Sep 2020 (22)">Sep 2020</div>
+            <div class="highlights">22 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51FXFPg40ZL._SL200_.jpg" alt="Golden Fool" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Golden Fool</div>
+            <div class="author">Robin Hobb</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Gardens of the Moon — Steven Erikson
+16 highlights
+Aug 2020 (16)">
+          <div class="card-top">
+            <div class="dates" aria-label="Aug 2020 (16)">Aug 2020</div>
+            <div class="highlights">16 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51f1-OdVfuL._SL200_.jpg" alt="Gardens of the Moon" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Gardens of the Moon</div>
+            <div class="author">Steven Erikson</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Assassin&#39;s Quest — Robin Hobb
+49 highlights
+Jul 2020 (49)">
+          <div class="card-top">
+            <div class="dates" aria-label="Jul 2020 (49)">Jul 2020</div>
+            <div class="highlights">49 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51rMDqJsvIL._SL200_.jpg" alt="Assassin&#39;s Quest" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Assassin&#39;s Quest</div>
+            <div class="author">Robin Hobb</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Royal Assassin — Robin Hobb
+39 highlights
+Jun 2020 (39)">
+          <div class="card-top">
+            <div class="dates" aria-label="Jun 2020 (39)">Jun 2020</div>
+            <div class="highlights">39 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51lRagVY2-L._SL200_.jpg" alt="Royal Assassin" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Royal Assassin</div>
+            <div class="author">Robin Hobb</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="The Lions of Al-Rassan — Guy Gavriel Kay
+31 highlights
+May 2020 (31)">
+          <div class="card-top">
+            <div class="dates" aria-label="May 2020 (31)">May 2020</div>
+            <div class="highlights">31 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51US8K7Cm4L._SL200_.jpg" alt="The Lions of Al-Rassan" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">The Lions of Al-Rassan</div>
+            <div class="author">Guy Gavriel Kay</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Before They Are Hanged — Joe Abercrombie
+55 highlights
+Apr 2020 (55)">
+          <div class="card-top">
+            <div class="dates" aria-label="Apr 2020 (55)">Apr 2020</div>
+            <div class="highlights">55 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51VGBUhDcbL._SL200_.jpg" alt="Before They Are Hanged" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Before They Are Hanged</div>
+            <div class="author">Joe Abercrombie</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="The Crippled God — Steven Erikson
+249 highlights
+Mar 2020 (249)">
+          <div class="card-top">
+            <div class="dates" aria-label="Mar 2020 (249)">Mar 2020</div>
+            <div class="highlights">249 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51zugkGwL%2BL._SL200_.jpg" alt="The Crippled God" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">The Crippled God</div>
+            <div class="author">Steven Erikson</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Toll the Hounds — Steven Erikson
+358 highlights
+Feb 2020 (358)">
+          <div class="card-top">
+            <div class="dates" aria-label="Feb 2020 (358)">Feb 2020</div>
+            <div class="highlights">358 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51s45ZeYt4L._SL200_.jpg" alt="Toll the Hounds" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Toll the Hounds</div>
+            <div class="author">Steven Erikson</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Memories of Ice — Steven Erikson
+168 highlights
+Jan 2020 (168)">
+          <div class="card-top">
+            <div class="dates" aria-label="Jan 2020 (168)">Jan 2020</div>
+            <div class="highlights">168 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51izZTS%2BgEL._SL200_.jpg" alt="Memories of Ice" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Memories of Ice</div>
+            <div class="author">Steven Erikson</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="The Last Wish — Andrzej Sapkowski
+29 highlights
+Dec 2019 (29)">
+          <div class="card-top">
+            <div class="dates" aria-label="Dec 2019 (29)">Dec 2019</div>
+            <div class="highlights">29 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51oy5k5%2BVSL._SL200_.jpg" alt="The Last Wish" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">The Last Wish</div>
+            <div class="author">Andrzej Sapkowski</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="House of Chains — Steven Erikson
+101 highlights
+Nov 2019 (101)">
+          <div class="card-top">
+            <div class="dates" aria-label="Nov 2019 (101)">Nov 2019</div>
+            <div class="highlights">101 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/514vdPLu8-L._SL200_.jpg" alt="House of Chains" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">House of Chains</div>
+            <div class="author">Steven Erikson</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="Deadhouse Gates — Steven Erikson
+66 highlights
+Oct 2019 (66)">
+          <div class="card-top">
+            <div class="dates" aria-label="Oct 2019 (66)">Oct 2019</div>
+            <div class="highlights">66 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51Wn6LPGJCL._SL200_.jpg" alt="Deadhouse Gates" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">Deadhouse Gates</div>
+            <div class="author">Steven Erikson</div>
+          </div>
+        </article>
+      
+
+        <article class="card" title="The Design of Everyday Things — Don Norman
+2 highlights
+Aug 2019 (2)">
+          <div class="card-top">
+            <div class="dates" aria-label="Aug 2019 (2)">Aug 2019</div>
+            <div class="highlights">2 highlights</div>
+          </div>
+          <div class="cover-wrap">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/416Hql52NCL._SL200_.jpg" alt="The Design of Everyday Things" loading="lazy" referrerpolicy="no-referrer" />
+          </div>
+          <div class="meta">
+            <div class="title">The Design of Everyday Things</div>
+            <div class="author">Don Norman</div>
+          </div>
+        </article>
+      
+    </section>
+  </main>
+</body>
+</html>
