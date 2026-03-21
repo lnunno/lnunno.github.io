@@ -47,6 +47,28 @@
       font-size: 14px;
     }
 
+    .controls {
+      display: flex;
+      gap: 8px;
+      margin-top: 12px;
+      flex-wrap: wrap;
+    }
+
+    .sort-button {
+      border: 1px solid var(--border);
+      background: var(--panel);
+      color: var(--text);
+      border-radius: 999px;
+      padding: 8px 12px;
+      font: inherit;
+      font-size: 13px;
+      cursor: pointer;
+    }
+
+    .sort-button:hover {
+      background: var(--panel-2);
+    }
+
     .grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
@@ -144,12 +166,22 @@
     <header class="header">
       <h1>Readwise: Most Highlighted Books by Month</h1>
       <div class="sub">75 unique books over 6 years and 6 months (March 2026-August 2019)</div>
+      <div class="controls">
+        <button class="sort-button" type="button" data-sort="date" data-direction="desc">Date ↓</button>
+        <button class="sort-button" type="button" data-sort="highlights" data-direction="desc">Highlights ↓</button>
+      </div>
     </header>
-    <section class="grid">
+    <section class="grid" id="books-grid">
       
-        <article class="card" title="Exodus — Peter F. Hamilton
+        <article
+          class="card"
+          title="Exodus — Peter F. Hamilton
 59 highlights
-Mar 2026 (59)">
+Mar 2026 (59)"
+          data-title="Exodus"
+          data-last-key="202603"
+          data-total-highlights="59"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Mar 2026 (59)">Mar 2026</div>
             <div class="highlights">59 highlights</div>
@@ -164,9 +196,15 @@ Mar 2026 (59)">
         </article>
       
 
-        <article class="card" title="By Night in Chile — Roberto Bolaño, Nicole Krauss, and Chris Andrews
+        <article
+          class="card"
+          title="By Night in Chile — Roberto Bolaño, Nicole Krauss, and Chris Andrews
 24 highlights
-Feb 2026 (24)">
+Feb 2026 (24)"
+          data-title="By Night in Chile"
+          data-last-key="202602"
+          data-total-highlights="24"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Feb 2026 (24)">Feb 2026</div>
             <div class="highlights">24 highlights</div>
@@ -181,9 +219,15 @@ Feb 2026 (24)">
         </article>
       
 
-        <article class="card" title="Shadowheart — Tad Williams
+        <article
+          class="card"
+          title="Shadowheart — Tad Williams
 70 highlights
-Jan 2026 (70)">
+Jan 2026 (70)"
+          data-title="Shadowheart"
+          data-last-key="202601"
+          data-total-highlights="70"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Jan 2026 (70)">Jan 2026</div>
             <div class="highlights">70 highlights</div>
@@ -198,9 +242,15 @@ Jan 2026 (70)">
         </article>
       
 
-        <article class="card" title="Shadowrise — Tad Williams
+        <article
+          class="card"
+          title="Shadowrise — Tad Williams
 68 highlights
-Dec 2025 (68)">
+Dec 2025 (68)"
+          data-title="Shadowrise"
+          data-last-key="202512"
+          data-total-highlights="68"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Dec 2025 (68)">Dec 2025</div>
             <div class="highlights">68 highlights</div>
@@ -215,9 +265,15 @@ Dec 2025 (68)">
         </article>
       
 
-        <article class="card" title="No Life Forsaken — Steven Erikson
+        <article
+          class="card"
+          title="No Life Forsaken — Steven Erikson
 68 highlights
-Nov 2025 (68)">
+Nov 2025 (68)"
+          data-title="No Life Forsaken"
+          data-last-key="202511"
+          data-total-highlights="68"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Nov 2025 (68)">Nov 2025</div>
             <div class="highlights">68 highlights</div>
@@ -232,9 +288,15 @@ Nov 2025 (68)">
         </article>
       
 
-        <article class="card" title="Shadows Upon Time — Christopher Ruocchio
+        <article
+          class="card"
+          title="Shadows Upon Time — Christopher Ruocchio
 132 highlights
-Oct 2025 (132)">
+Oct 2025 (132)"
+          data-title="Shadows Upon Time"
+          data-last-key="202510"
+          data-total-highlights="132"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Oct 2025 (132)">Oct 2025</div>
             <div class="highlights">132 highlights</div>
@@ -249,9 +311,15 @@ Oct 2025 (132)">
         </article>
       
 
-        <article class="card" title="Shadowmarch — Tad Williams
+        <article
+          class="card"
+          title="Shadowmarch — Tad Williams
 77 highlights
-Sep 2025 (77)">
+Sep 2025 (77)"
+          data-title="Shadowmarch"
+          data-last-key="202509"
+          data-total-highlights="77"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Sep 2025 (77)">Sep 2025</div>
             <div class="highlights">77 highlights</div>
@@ -266,9 +334,15 @@ Sep 2025 (77)">
         </article>
       
 
-        <article class="card" title="Orb Sceptre Throne — Ian C. Esslemont
+        <article
+          class="card"
+          title="Orb Sceptre Throne — Ian C. Esslemont
 55 highlights
-Aug 2025 (55)">
+Aug 2025 (55)"
+          data-title="Orb Sceptre Throne"
+          data-last-key="202508"
+          data-total-highlights="55"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Aug 2025 (55)">Aug 2025</div>
             <div class="highlights">55 highlights</div>
@@ -283,9 +357,15 @@ Aug 2025 (55)">
         </article>
       
 
-        <article class="card" title="Coalescent — Stephen Baxter
+        <article
+          class="card"
+          title="Coalescent — Stephen Baxter
 45 highlights
-Jul 2025 (45)">
+Jul 2025 (45)"
+          data-title="Coalescent"
+          data-last-key="202507"
+          data-total-highlights="45"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Jul 2025 (45)">Jul 2025</div>
             <div class="highlights">45 highlights</div>
@@ -300,9 +380,15 @@ Jul 2025 (45)">
         </article>
       
 
-        <article class="card" title="Graveyard of Demons — Larry Correia
+        <article
+          class="card"
+          title="Graveyard of Demons — Larry Correia
 37 highlights
-Jun 2025 (37)">
+Jun 2025 (37)"
+          data-title="Graveyard of Demons"
+          data-last-key="202506"
+          data-total-highlights="37"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Jun 2025 (37)">Jun 2025</div>
             <div class="highlights">37 highlights</div>
@@ -317,9 +403,15 @@ Jun 2025 (37)">
         </article>
       
 
-        <article class="card" title="Seveneves — Neal Stephenson
+        <article
+          class="card"
+          title="Seveneves — Neal Stephenson
 60 highlights
-May 2025 (60)">
+May 2025 (60)"
+          data-title="Seveneves"
+          data-last-key="202505"
+          data-total-highlights="60"
+        >
           <div class="card-top">
             <div class="dates" aria-label="May 2025 (60)">May 2025</div>
             <div class="highlights">60 highlights</div>
@@ -334,9 +426,15 @@ May 2025 (60)">
         </article>
       
 
-        <article class="card" title="Cryptonomicon — Neal Stephenson
+        <article
+          class="card"
+          title="Cryptonomicon — Neal Stephenson
 118 highlights
-Feb 2025 (62), Apr 2025 (56)">
+Feb 2025 (62), Apr 2025 (56)"
+          data-title="Cryptonomicon"
+          data-last-key="202504"
+          data-total-highlights="118"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Feb 2025 (62) • Apr 2025 (56)">Feb 2025 • Apr 2025</div>
             <div class="highlights">118 highlights</div>
@@ -351,9 +449,15 @@ Feb 2025 (62), Apr 2025 (56)">
         </article>
       
 
-        <article class="card" title="House of Assassins — Larry Correia
+        <article
+          class="card"
+          title="House of Assassins — Larry Correia
 32 highlights
-Mar 2025 (32)">
+Mar 2025 (32)"
+          data-title="House of Assassins"
+          data-last-key="202503"
+          data-total-highlights="32"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Mar 2025 (32)">Mar 2025</div>
             <div class="highlights">32 highlights</div>
@@ -368,9 +472,15 @@ Mar 2025 (32)">
         </article>
       
 
-        <article class="card" title="The Dragon Reborn — Robert Jordan
+        <article
+          class="card"
+          title="The Dragon Reborn — Robert Jordan
 74 highlights
-Jan 2025 (74)">
+Jan 2025 (74)"
+          data-title="The Dragon Reborn"
+          data-last-key="202501"
+          data-total-highlights="74"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Jan 2025 (74)">Jan 2025</div>
             <div class="highlights">74 highlights</div>
@@ -385,9 +495,15 @@ Jan 2025 (74)">
         </article>
       
 
-        <article class="card" title="The Eye of the World — Robert Jordan
+        <article
+          class="card"
+          title="The Eye of the World — Robert Jordan
 74 highlights
-Dec 2024 (74)">
+Dec 2024 (74)"
+          data-title="The Eye of the World"
+          data-last-key="202412"
+          data-total-highlights="74"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Dec 2024 (74)">Dec 2024</div>
             <div class="highlights">74 highlights</div>
@@ -402,9 +518,15 @@ Dec 2024 (74)">
         </article>
       
 
-        <article class="card" title="Return of the Crimson Guard — Ian C. Esslemont
+        <article
+          class="card"
+          title="Return of the Crimson Guard — Ian C. Esslemont
 124 highlights
-Oct 2024 (62), Nov 2024 (62)">
+Oct 2024 (62), Nov 2024 (62)"
+          data-title="Return of the Crimson Guard"
+          data-last-key="202411"
+          data-total-highlights="124"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Oct 2024 (62) • Nov 2024 (62)">Oct 2024 • Nov 2024</div>
             <div class="highlights">124 highlights</div>
@@ -419,9 +541,15 @@ Oct 2024 (62), Nov 2024 (62)">
         </article>
       
 
-        <article class="card" title="Of War and Ruin — Ryan Cahill
+        <article
+          class="card"
+          title="Of War and Ruin — Ryan Cahill
 58 highlights
-Sep 2024 (58)">
+Sep 2024 (58)"
+          data-title="Of War and Ruin"
+          data-last-key="202409"
+          data-total-highlights="58"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Sep 2024 (58)">Sep 2024</div>
             <div class="highlights">58 highlights</div>
@@ -436,9 +564,15 @@ Sep 2024 (58)">
         </article>
       
 
-        <article class="card" title="Absolution Gap — Alastair Reynolds
+        <article
+          class="card"
+          title="Absolution Gap — Alastair Reynolds
 24 highlights
-Aug 2024 (24)">
+Aug 2024 (24)"
+          data-title="Absolution Gap"
+          data-last-key="202408"
+          data-total-highlights="24"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Aug 2024 (24)">Aug 2024</div>
             <div class="highlights">24 highlights</div>
@@ -453,9 +587,15 @@ Aug 2024 (24)">
         </article>
       
 
-        <article class="card" title="A Game of Thrones — George R. R. Martin
+        <article
+          class="card"
+          title="A Game of Thrones — George R. R. Martin
 40 highlights
-Jul 2024 (40)">
+Jul 2024 (40)"
+          data-title="A Game of Thrones"
+          data-last-key="202407"
+          data-total-highlights="40"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Jul 2024 (40)">Jul 2024</div>
             <div class="highlights">40 highlights</div>
@@ -470,9 +610,15 @@ Jul 2024 (40)">
         </article>
       
 
-        <article class="card" title="Chasm City (The Inhibitor Series (2)) — Alastair Reynolds
+        <article
+          class="card"
+          title="Chasm City (The Inhibitor Series (2)) — Alastair Reynolds
 69 highlights
-May 2024 (69)">
+May 2024 (69)"
+          data-title="Chasm City (The Inhibitor Series (2))"
+          data-last-key="202405"
+          data-total-highlights="69"
+        >
           <div class="card-top">
             <div class="dates" aria-label="May 2024 (69)">May 2024</div>
             <div class="highlights">69 highlights</div>
@@ -487,9 +633,15 @@ May 2024 (69)">
         </article>
       
 
-        <article class="card" title="Revelation Space — Alastair Reynolds
+        <article
+          class="card"
+          title="Revelation Space — Alastair Reynolds
 38 highlights
-Apr 2024 (38)">
+Apr 2024 (38)"
+          data-title="Revelation Space"
+          data-last-key="202404"
+          data-total-highlights="38"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Apr 2024 (38)">Apr 2024</div>
             <div class="highlights">38 highlights</div>
@@ -504,9 +656,15 @@ Apr 2024 (38)">
         </article>
       
 
-        <article class="card" title="Of Darkness and Light — Ryan Cahill
+        <article
+          class="card"
+          title="Of Darkness and Light — Ryan Cahill
 41 highlights
-Mar 2024 (41)">
+Mar 2024 (41)"
+          data-title="Of Darkness and Light"
+          data-last-key="202403"
+          data-total-highlights="41"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Mar 2024 (41)">Mar 2024</div>
             <div class="highlights">41 highlights</div>
@@ -521,9 +679,15 @@ Mar 2024 (41)">
         </article>
       
 
-        <article class="card" title="Mine — Robert R. McCammon
+        <article
+          class="card"
+          title="Mine — Robert R. McCammon
 43 highlights
-Feb 2024 (43)">
+Feb 2024 (43)"
+          data-title="Mine"
+          data-last-key="202402"
+          data-total-highlights="43"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Feb 2024 (43)">Feb 2024</div>
             <div class="highlights">43 highlights</div>
@@ -538,9 +702,15 @@ Feb 2024 (43)">
         </article>
       
 
-        <article class="card" title="Disquiet_Gods — Christopher Ruocchio
+        <article
+          class="card"
+          title="Disquiet_Gods — Christopher Ruocchio
 161 highlights
-Jan 2024 (161)">
+Jan 2024 (161)"
+          data-title="Disquiet_Gods"
+          data-last-key="202401"
+          data-total-highlights="161"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Jan 2024 (161)">Jan 2024</div>
             <div class="highlights">161 highlights</div>
@@ -555,9 +725,15 @@ Jan 2024 (161)">
         </article>
       
 
-        <article class="card" title="The Poet — Michael Connelly
+        <article
+          class="card"
+          title="The Poet — Michael Connelly
 17 highlights
-Dec 2023 (17)">
+Dec 2023 (17)"
+          data-title="The Poet"
+          data-last-key="202312"
+          data-total-highlights="17"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Dec 2023 (17)">Dec 2023</div>
             <div class="highlights">17 highlights</div>
@@ -572,9 +748,15 @@ Dec 2023 (17)">
         </article>
       
 
-        <article class="card" title="The Tombs of Atuan — Ursula K. Le Guin
+        <article
+          class="card"
+          title="The Tombs of Atuan — Ursula K. Le Guin
 30 highlights
-Nov 2023 (30)">
+Nov 2023 (30)"
+          data-title="The Tombs of Atuan"
+          data-last-key="202311"
+          data-total-highlights="30"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Nov 2023 (30)">Nov 2023</div>
             <div class="highlights">30 highlights</div>
@@ -589,9 +771,15 @@ Nov 2023 (30)">
         </article>
       
 
-        <article class="card" title="A Wizard of Earthsea — Ursula K. Le Guin
+        <article
+          class="card"
+          title="A Wizard of Earthsea — Ursula K. Le Guin
 44 highlights
-Oct 2023 (44)">
+Oct 2023 (44)"
+          data-title="A Wizard of Earthsea"
+          data-last-key="202310"
+          data-total-highlights="44"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Oct 2023 (44)">Oct 2023</div>
             <div class="highlights">44 highlights</div>
@@ -606,9 +794,15 @@ Oct 2023 (44)">
         </article>
       
 
-        <article class="card" title="The Reality Dysfunction — Peter F. Hamilton
+        <article
+          class="card"
+          title="The Reality Dysfunction — Peter F. Hamilton
 98 highlights
-Sep 2023 (98)">
+Sep 2023 (98)"
+          data-title="The Reality Dysfunction"
+          data-last-key="202309"
+          data-total-highlights="98"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Sep 2023 (98)">Sep 2023</div>
             <div class="highlights">98 highlights</div>
@@ -623,9 +817,15 @@ Sep 2023 (98)">
         </article>
       
 
-        <article class="card" title="The Traitor Baru Cormorant — Seth Dickinson
+        <article
+          class="card"
+          title="The Traitor Baru Cormorant — Seth Dickinson
 41 highlights
-Aug 2023 (41)">
+Aug 2023 (41)"
+          data-title="The Traitor Baru Cormorant"
+          data-last-key="202308"
+          data-total-highlights="41"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Aug 2023 (41)">Aug 2023</div>
             <div class="highlights">41 highlights</div>
@@ -640,9 +840,15 @@ Aug 2023 (41)">
         </article>
       
 
-        <article class="card" title="Empire of Grass — Tad Williams
+        <article
+          class="card"
+          title="Empire of Grass — Tad Williams
 69 highlights
-Jul 2023 (69)">
+Jul 2023 (69)"
+          data-title="Empire of Grass"
+          data-last-key="202307"
+          data-total-highlights="69"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Jul 2023 (69)">Jul 2023</div>
             <div class="highlights">69 highlights</div>
@@ -657,9 +863,15 @@ Jul 2023 (69)">
         </article>
       
 
-        <article class="card" title="The Witchwood Crown — Tad Williams
+        <article
+          class="card"
+          title="The Witchwood Crown — Tad Williams
 88 highlights
-Jun 2023 (88)">
+Jun 2023 (88)"
+          data-title="The Witchwood Crown"
+          data-last-key="202306"
+          data-total-highlights="88"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Jun 2023 (88)">Jun 2023</div>
             <div class="highlights">88 highlights</div>
@@ -674,9 +886,15 @@ Jun 2023 (88)">
         </article>
       
 
-        <article class="card" title="Light Bringer — Pierce Brown
+        <article
+          class="card"
+          title="Light Bringer — Pierce Brown
 123 highlights
-May 2023 (123)">
+May 2023 (123)"
+          data-title="Light Bringer"
+          data-last-key="202305"
+          data-total-highlights="123"
+        >
           <div class="card-top">
             <div class="dates" aria-label="May 2023 (123)">May 2023</div>
             <div class="highlights">123 highlights</div>
@@ -691,9 +909,15 @@ May 2023 (123)">
         </article>
       
 
-        <article class="card" title="Adulthood Rites — Octavia E. Butler
+        <article
+          class="card"
+          title="Adulthood Rites — Octavia E. Butler
 42 highlights
-Apr 2023 (42)">
+Apr 2023 (42)"
+          data-title="Adulthood Rites"
+          data-last-key="202304"
+          data-total-highlights="42"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Apr 2023 (42)">Apr 2023</div>
             <div class="highlights">42 highlights</div>
@@ -708,9 +932,15 @@ Apr 2023 (42)">
         </article>
       
 
-        <article class="card" title="Legend — David Gemmell
+        <article
+          class="card"
+          title="Legend — David Gemmell
 74 highlights
-Mar 2023 (74)">
+Mar 2023 (74)"
+          data-title="Legend"
+          data-last-key="202303"
+          data-total-highlights="74"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Mar 2023 (74)">Mar 2023</div>
             <div class="highlights">74 highlights</div>
@@ -725,9 +955,15 @@ Mar 2023 (74)">
         </article>
       
 
-        <article class="card" title="Forest Mage — Robin Hobb
+        <article
+          class="card"
+          title="Forest Mage — Robin Hobb
 53 highlights
-Feb 2023 (53)">
+Feb 2023 (53)"
+          data-title="Forest Mage"
+          data-last-key="202302"
+          data-total-highlights="53"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Feb 2023 (53)">Feb 2023</div>
             <div class="highlights">53 highlights</div>
@@ -742,9 +978,15 @@ Feb 2023 (53)">
         </article>
       
 
-        <article class="card" title="A Fire Upon the Deep — Vernor Vinge
+        <article
+          class="card"
+          title="A Fire Upon the Deep — Vernor Vinge
 55 highlights
-Jan 2023 (55)">
+Jan 2023 (55)"
+          data-title="A Fire Upon the Deep"
+          data-last-key="202301"
+          data-total-highlights="55"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Jan 2023 (55)">Jan 2023</div>
             <div class="highlights">55 highlights</div>
@@ -759,9 +1001,15 @@ Jan 2023 (55)">
         </article>
       
 
-        <article class="card" title="Streets of Laredo — Larry McMurtry
+        <article
+          class="card"
+          title="Streets of Laredo — Larry McMurtry
 87 highlights
-Dec 2022 (87)">
+Dec 2022 (87)"
+          data-title="Streets of Laredo"
+          data-last-key="202212"
+          data-total-highlights="87"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Dec 2022 (87)">Dec 2022</div>
             <div class="highlights">87 highlights</div>
@@ -776,9 +1024,15 @@ Dec 2022 (87)">
         </article>
       
 
-        <article class="card" title="Lonesome Dove — Larry McMurtry
+        <article
+          class="card"
+          title="Lonesome Dove — Larry McMurtry
 150 highlights
-Nov 2022 (150)">
+Nov 2022 (150)"
+          data-title="Lonesome Dove"
+          data-last-key="202211"
+          data-total-highlights="150"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Nov 2022 (150)">Nov 2022</div>
             <div class="highlights">150 highlights</div>
@@ -793,9 +1047,15 @@ Nov 2022 (150)">
         </article>
       
 
-        <article class="card" title="Death&#39;s End — Cixin Liu
+        <article
+          class="card"
+          title="Death&#39;s End — Cixin Liu
 44 highlights
-Oct 2022 (44)">
+Oct 2022 (44)"
+          data-title="Death&#39;s End"
+          data-last-key="202210"
+          data-total-highlights="44"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Oct 2022 (44)">Oct 2022</div>
             <div class="highlights">44 highlights</div>
@@ -810,9 +1070,15 @@ Oct 2022 (44)">
         </article>
       
 
-        <article class="card" title="The Dark Forest — Cixin Liu
+        <article
+          class="card"
+          title="The Dark Forest — Cixin Liu
 64 highlights
-Sep 2022 (64)">
+Sep 2022 (64)"
+          data-title="The Dark Forest"
+          data-last-key="202209"
+          data-total-highlights="64"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Sep 2022 (64)">Sep 2022</div>
             <div class="highlights">64 highlights</div>
@@ -827,9 +1093,15 @@ Sep 2022 (64)">
         </article>
       
 
-        <article class="card" title="Boy&#39;s Life — Robert McCammon
+        <article
+          class="card"
+          title="Boy&#39;s Life — Robert McCammon
 89 highlights
-Aug 2022 (89)">
+Aug 2022 (89)"
+          data-title="Boy&#39;s Life"
+          data-last-key="202208"
+          data-total-highlights="89"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Aug 2022 (89)">Aug 2022</div>
             <div class="highlights">89 highlights</div>
@@ -844,9 +1116,15 @@ Aug 2022 (89)">
         </article>
       
 
-        <article class="card" title="Speaking Bones — Ken Liu
+        <article
+          class="card"
+          title="Speaking Bones — Ken Liu
 146 highlights
-Jul 2022 (146)">
+Jul 2022 (146)"
+          data-title="Speaking Bones"
+          data-last-key="202207"
+          data-total-highlights="146"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Jul 2022 (146)">Jul 2022</div>
             <div class="highlights">146 highlights</div>
@@ -861,9 +1139,15 @@ Jul 2022 (146)">
         </article>
       
 
-        <article class="card" title="The Veiled Throne — Liu Ken
+        <article
+          class="card"
+          title="The Veiled Throne — Liu Ken
 101 highlights
-Jun 2022 (101)">
+Jun 2022 (101)"
+          data-title="The Veiled Throne"
+          data-last-key="202206"
+          data-total-highlights="101"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Jun 2022 (101)">Jun 2022</div>
             <div class="highlights">101 highlights</div>
@@ -878,9 +1162,15 @@ Jun 2022 (101)">
         </article>
       
 
-        <article class="card" title="Curse of the Mistwraith — Janny Wurts
+        <article
+          class="card"
+          title="Curse of the Mistwraith — Janny Wurts
 154 highlights
-May 2022 (154)">
+May 2022 (154)"
+          data-title="Curse of the Mistwraith"
+          data-last-key="202205"
+          data-total-highlights="154"
+        >
           <div class="card-top">
             <div class="dates" aria-label="May 2022 (154)">May 2022</div>
             <div class="highlights">154 highlights</div>
@@ -895,9 +1185,15 @@ May 2022 (154)">
         </article>
       
 
-        <article class="card" title="The Grace of Kings — Ken Liu
+        <article
+          class="card"
+          title="The Grace of Kings — Ken Liu
 159 highlights
-Apr 2022 (159)">
+Apr 2022 (159)"
+          data-title="The Grace of Kings"
+          data-last-key="202204"
+          data-total-highlights="159"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Apr 2022 (159)">Apr 2022</div>
             <div class="highlights">159 highlights</div>
@@ -912,9 +1208,15 @@ Apr 2022 (159)">
         </article>
       
 
-        <article class="card" title="Lord of Emperors — Guy Gavriel Kay
+        <article
+          class="card"
+          title="Lord of Emperors — Guy Gavriel Kay
 84 highlights
-Feb 2022 (42), Mar 2022 (42)">
+Feb 2022 (42), Mar 2022 (42)"
+          data-title="Lord of Emperors"
+          data-last-key="202203"
+          data-total-highlights="84"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Feb 2022 (42) • Mar 2022 (42)">Feb 2022 • Mar 2022</div>
             <div class="highlights">84 highlights</div>
@@ -929,9 +1231,15 @@ Feb 2022 (42), Mar 2022 (42)">
         </article>
       
 
-        <article class="card" title="Sailing to Sarantium — Guy Gavriel Kay
+        <article
+          class="card"
+          title="Sailing to Sarantium — Guy Gavriel Kay
 63 highlights
-Jan 2022 (63)">
+Jan 2022 (63)"
+          data-title="Sailing to Sarantium"
+          data-last-key="202201"
+          data-total-highlights="63"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Jan 2022 (63)">Jan 2022</div>
             <div class="highlights">63 highlights</div>
@@ -946,9 +1254,15 @@ Jan 2022 (63)">
         </article>
       
 
-        <article class="card" title="Empire of the Vampire — Jay Kristoff and Bon Orthwick
+        <article
+          class="card"
+          title="Empire of the Vampire — Jay Kristoff and Bon Orthwick
 108 highlights
-Dec 2021 (108)">
+Dec 2021 (108)"
+          data-title="Empire of the Vampire"
+          data-last-key="202112"
+          data-total-highlights="108"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Dec 2021 (108)">Dec 2021</div>
             <div class="highlights">108 highlights</div>
@@ -963,9 +1277,15 @@ Dec 2021 (108)">
         </article>
       
 
-        <article class="card" title="Prince of Thorns — Mark Lawrence
+        <article
+          class="card"
+          title="Prince of Thorns — Mark Lawrence
 49 highlights
-Nov 2021 (49)">
+Nov 2021 (49)"
+          data-title="Prince of Thorns"
+          data-last-key="202111"
+          data-total-highlights="49"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Nov 2021 (49)">Nov 2021</div>
             <div class="highlights">49 highlights</div>
@@ -980,9 +1300,15 @@ Nov 2021 (49)">
         </article>
       
 
-        <article class="card" title="The Great Ordeal — R. Scott Bakker
+        <article
+          class="card"
+          title="The Great Ordeal — R. Scott Bakker
 72 highlights
-Oct 2021 (72)">
+Oct 2021 (72)"
+          data-title="The Great Ordeal"
+          data-last-key="202110"
+          data-total-highlights="72"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Oct 2021 (72)">Oct 2021</div>
             <div class="highlights">72 highlights</div>
@@ -997,9 +1323,15 @@ Oct 2021 (72)">
         </article>
       
 
-        <article class="card" title="The White-Luck Warrior — R. Scott Bakker
+        <article
+          class="card"
+          title="The White-Luck Warrior — R. Scott Bakker
 102 highlights
-Sep 2021 (102)">
+Sep 2021 (102)"
+          data-title="The White-Luck Warrior"
+          data-last-key="202109"
+          data-total-highlights="102"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Sep 2021 (102)">Sep 2021</div>
             <div class="highlights">102 highlights</div>
@@ -1014,9 +1346,15 @@ Sep 2021 (102)">
         </article>
       
 
-        <article class="card" title="The Thousandfold Thought — R. Scott Bakker
+        <article
+          class="card"
+          title="The Thousandfold Thought — R. Scott Bakker
 48 highlights
-Aug 2021 (48)">
+Aug 2021 (48)"
+          data-title="The Thousandfold Thought"
+          data-last-key="202108"
+          data-total-highlights="48"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Aug 2021 (48)">Aug 2021</div>
             <div class="highlights">48 highlights</div>
@@ -1031,9 +1369,15 @@ Aug 2021 (48)">
         </article>
       
 
-        <article class="card" title="The Warrior Prophet — R. Scott Bakker
+        <article
+          class="card"
+          title="The Warrior Prophet — R. Scott Bakker
 83 highlights
-Jul 2021 (83)">
+Jul 2021 (83)"
+          data-title="The Warrior Prophet"
+          data-last-key="202107"
+          data-total-highlights="83"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Jul 2021 (83)">Jul 2021</div>
             <div class="highlights">83 highlights</div>
@@ -1048,9 +1392,15 @@ Jul 2021 (83)">
         </article>
       
 
-        <article class="card" title="The Darkness That Comes Before — R. Scott Bakker
+        <article
+          class="card"
+          title="The Darkness That Comes Before — R. Scott Bakker
 72 highlights
-Jun 2021 (72)">
+Jun 2021 (72)"
+          data-title="The Darkness That Comes Before"
+          data-last-key="202106"
+          data-total-highlights="72"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Jun 2021 (72)">Jun 2021</div>
             <div class="highlights">72 highlights</div>
@@ -1065,9 +1415,15 @@ Jun 2021 (72)">
         </article>
       
 
-        <article class="card" title="Forge of Darkness — Steven Erikson
+        <article
+          class="card"
+          title="Forge of Darkness — Steven Erikson
 35 highlights
-May 2021 (35)">
+May 2021 (35)"
+          data-title="Forge of Darkness"
+          data-last-key="202105"
+          data-total-highlights="35"
+        >
           <div class="card-top">
             <div class="dates" aria-label="May 2021 (35)">May 2021</div>
             <div class="highlights">35 highlights</div>
@@ -1082,9 +1438,15 @@ May 2021 (35)">
         </article>
       
 
-        <article class="card" title="A Time of Dread — John Gwynne
+        <article
+          class="card"
+          title="A Time of Dread — John Gwynne
 25 highlights
-Apr 2021 (25)">
+Apr 2021 (25)"
+          data-title="A Time of Dread"
+          data-last-key="202104"
+          data-total-highlights="25"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Apr 2021 (25)">Apr 2021</div>
             <div class="highlights">25 highlights</div>
@@ -1099,9 +1461,15 @@ Apr 2021 (25)">
         </article>
       
 
-        <article class="card" title="Sword &amp; Citadel — Gene Wolfe
+        <article
+          class="card"
+          title="Sword &amp; Citadel — Gene Wolfe
 27 highlights
-Mar 2021 (27)">
+Mar 2021 (27)"
+          data-title="Sword &amp; Citadel"
+          data-last-key="202103"
+          data-total-highlights="27"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Mar 2021 (27)">Mar 2021</div>
             <div class="highlights">27 highlights</div>
@@ -1116,9 +1484,15 @@ Mar 2021 (27)">
         </article>
       
 
-        <article class="card" title="Shadow &amp; Claw — Gene Wolfe
+        <article
+          class="card"
+          title="Shadow &amp; Claw — Gene Wolfe
 48 highlights
-Feb 2021 (48)">
+Feb 2021 (48)"
+          data-title="Shadow &amp; Claw"
+          data-last-key="202102"
+          data-total-highlights="48"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Feb 2021 (48)">Feb 2021</div>
             <div class="highlights">48 highlights</div>
@@ -1133,9 +1507,15 @@ Feb 2021 (48)">
         </article>
       
 
-        <article class="card" title="Assassin&#39;s Fate — Robin Hobb
+        <article
+          class="card"
+          title="Assassin&#39;s Fate — Robin Hobb
 86 highlights
-Jan 2021 (86)">
+Jan 2021 (86)"
+          data-title="Assassin&#39;s Fate"
+          data-last-key="202101"
+          data-total-highlights="86"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Jan 2021 (86)">Jan 2021</div>
             <div class="highlights">86 highlights</div>
@@ -1150,9 +1530,15 @@ Jan 2021 (86)">
         </article>
       
 
-        <article class="card" title="Fool&#39;s Quest — Robin Hobb
+        <article
+          class="card"
+          title="Fool&#39;s Quest — Robin Hobb
 59 highlights
-Dec 2020 (59)">
+Dec 2020 (59)"
+          data-title="Fool&#39;s Quest"
+          data-last-key="202012"
+          data-total-highlights="59"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Dec 2020 (59)">Dec 2020</div>
             <div class="highlights">59 highlights</div>
@@ -1167,9 +1553,15 @@ Dec 2020 (59)">
         </article>
       
 
-        <article class="card" title="The Blade Itself — Joe Abercrombie
+        <article
+          class="card"
+          title="The Blade Itself — Joe Abercrombie
 72 highlights
-Nov 2020 (72)">
+Nov 2020 (72)"
+          data-title="The Blade Itself"
+          data-last-key="202011"
+          data-total-highlights="72"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Nov 2020 (72)">Nov 2020</div>
             <div class="highlights">72 highlights</div>
@@ -1184,9 +1576,15 @@ Nov 2020 (72)">
         </article>
       
 
-        <article class="card" title="Midnight Tides — Steven Erikson
+        <article
+          class="card"
+          title="Midnight Tides — Steven Erikson
 114 highlights
-Oct 2020 (114)">
+Oct 2020 (114)"
+          data-title="Midnight Tides"
+          data-last-key="202010"
+          data-total-highlights="114"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Oct 2020 (114)">Oct 2020</div>
             <div class="highlights">114 highlights</div>
@@ -1201,9 +1599,15 @@ Oct 2020 (114)">
         </article>
       
 
-        <article class="card" title="Golden Fool — Robin Hobb
+        <article
+          class="card"
+          title="Golden Fool — Robin Hobb
 22 highlights
-Sep 2020 (22)">
+Sep 2020 (22)"
+          data-title="Golden Fool"
+          data-last-key="202009"
+          data-total-highlights="22"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Sep 2020 (22)">Sep 2020</div>
             <div class="highlights">22 highlights</div>
@@ -1218,9 +1622,15 @@ Sep 2020 (22)">
         </article>
       
 
-        <article class="card" title="Gardens of the Moon — Steven Erikson
+        <article
+          class="card"
+          title="Gardens of the Moon — Steven Erikson
 16 highlights
-Aug 2020 (16)">
+Aug 2020 (16)"
+          data-title="Gardens of the Moon"
+          data-last-key="202008"
+          data-total-highlights="16"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Aug 2020 (16)">Aug 2020</div>
             <div class="highlights">16 highlights</div>
@@ -1235,9 +1645,15 @@ Aug 2020 (16)">
         </article>
       
 
-        <article class="card" title="Assassin&#39;s Quest — Robin Hobb
+        <article
+          class="card"
+          title="Assassin&#39;s Quest — Robin Hobb
 49 highlights
-Jul 2020 (49)">
+Jul 2020 (49)"
+          data-title="Assassin&#39;s Quest"
+          data-last-key="202007"
+          data-total-highlights="49"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Jul 2020 (49)">Jul 2020</div>
             <div class="highlights">49 highlights</div>
@@ -1252,9 +1668,15 @@ Jul 2020 (49)">
         </article>
       
 
-        <article class="card" title="Royal Assassin — Robin Hobb
+        <article
+          class="card"
+          title="Royal Assassin — Robin Hobb
 39 highlights
-Jun 2020 (39)">
+Jun 2020 (39)"
+          data-title="Royal Assassin"
+          data-last-key="202006"
+          data-total-highlights="39"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Jun 2020 (39)">Jun 2020</div>
             <div class="highlights">39 highlights</div>
@@ -1269,9 +1691,15 @@ Jun 2020 (39)">
         </article>
       
 
-        <article class="card" title="The Lions of Al-Rassan — Guy Gavriel Kay
+        <article
+          class="card"
+          title="The Lions of Al-Rassan — Guy Gavriel Kay
 31 highlights
-May 2020 (31)">
+May 2020 (31)"
+          data-title="The Lions of Al-Rassan"
+          data-last-key="202005"
+          data-total-highlights="31"
+        >
           <div class="card-top">
             <div class="dates" aria-label="May 2020 (31)">May 2020</div>
             <div class="highlights">31 highlights</div>
@@ -1286,9 +1714,15 @@ May 2020 (31)">
         </article>
       
 
-        <article class="card" title="Before They Are Hanged — Joe Abercrombie
+        <article
+          class="card"
+          title="Before They Are Hanged — Joe Abercrombie
 55 highlights
-Apr 2020 (55)">
+Apr 2020 (55)"
+          data-title="Before They Are Hanged"
+          data-last-key="202004"
+          data-total-highlights="55"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Apr 2020 (55)">Apr 2020</div>
             <div class="highlights">55 highlights</div>
@@ -1303,9 +1737,15 @@ Apr 2020 (55)">
         </article>
       
 
-        <article class="card" title="The Crippled God — Steven Erikson
+        <article
+          class="card"
+          title="The Crippled God — Steven Erikson
 249 highlights
-Mar 2020 (249)">
+Mar 2020 (249)"
+          data-title="The Crippled God"
+          data-last-key="202003"
+          data-total-highlights="249"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Mar 2020 (249)">Mar 2020</div>
             <div class="highlights">249 highlights</div>
@@ -1320,9 +1760,15 @@ Mar 2020 (249)">
         </article>
       
 
-        <article class="card" title="Toll the Hounds — Steven Erikson
+        <article
+          class="card"
+          title="Toll the Hounds — Steven Erikson
 358 highlights
-Feb 2020 (358)">
+Feb 2020 (358)"
+          data-title="Toll the Hounds"
+          data-last-key="202002"
+          data-total-highlights="358"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Feb 2020 (358)">Feb 2020</div>
             <div class="highlights">358 highlights</div>
@@ -1337,9 +1783,15 @@ Feb 2020 (358)">
         </article>
       
 
-        <article class="card" title="Memories of Ice — Steven Erikson
+        <article
+          class="card"
+          title="Memories of Ice — Steven Erikson
 168 highlights
-Jan 2020 (168)">
+Jan 2020 (168)"
+          data-title="Memories of Ice"
+          data-last-key="202001"
+          data-total-highlights="168"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Jan 2020 (168)">Jan 2020</div>
             <div class="highlights">168 highlights</div>
@@ -1354,9 +1806,15 @@ Jan 2020 (168)">
         </article>
       
 
-        <article class="card" title="The Last Wish — Andrzej Sapkowski
+        <article
+          class="card"
+          title="The Last Wish — Andrzej Sapkowski
 29 highlights
-Dec 2019 (29)">
+Dec 2019 (29)"
+          data-title="The Last Wish"
+          data-last-key="201912"
+          data-total-highlights="29"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Dec 2019 (29)">Dec 2019</div>
             <div class="highlights">29 highlights</div>
@@ -1371,9 +1829,15 @@ Dec 2019 (29)">
         </article>
       
 
-        <article class="card" title="House of Chains — Steven Erikson
+        <article
+          class="card"
+          title="House of Chains — Steven Erikson
 101 highlights
-Nov 2019 (101)">
+Nov 2019 (101)"
+          data-title="House of Chains"
+          data-last-key="201911"
+          data-total-highlights="101"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Nov 2019 (101)">Nov 2019</div>
             <div class="highlights">101 highlights</div>
@@ -1388,9 +1852,15 @@ Nov 2019 (101)">
         </article>
       
 
-        <article class="card" title="Deadhouse Gates — Steven Erikson
+        <article
+          class="card"
+          title="Deadhouse Gates — Steven Erikson
 66 highlights
-Oct 2019 (66)">
+Oct 2019 (66)"
+          data-title="Deadhouse Gates"
+          data-last-key="201910"
+          data-total-highlights="66"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Oct 2019 (66)">Oct 2019</div>
             <div class="highlights">66 highlights</div>
@@ -1405,9 +1875,15 @@ Oct 2019 (66)">
         </article>
       
 
-        <article class="card" title="The Design of Everyday Things — Don Norman
+        <article
+          class="card"
+          title="The Design of Everyday Things — Don Norman
 2 highlights
-Aug 2019 (2)">
+Aug 2019 (2)"
+          data-title="The Design of Everyday Things"
+          data-last-key="201908"
+          data-total-highlights="2"
+        >
           <div class="card-top">
             <div class="dates" aria-label="Aug 2019 (2)">Aug 2019</div>
             <div class="highlights">2 highlights</div>
@@ -1423,5 +1899,6 @@ Aug 2019 (2)">
       
     </section>
   </main>
+  <script src="./bookshelf-sort.js"></script>
 </body>
 </html>
