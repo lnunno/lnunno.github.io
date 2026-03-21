@@ -52,6 +52,7 @@
       gap: 8px;
       margin-top: 12px;
       flex-wrap: wrap;
+      align-items: center;
     }
 
     .sort-button {
@@ -67,6 +68,16 @@
 
     .sort-button:hover {
       background: var(--panel-2);
+    }
+
+    .year-filter {
+      border: 1px solid var(--border);
+      background: var(--panel);
+      color: var(--text);
+      border-radius: 999px;
+      padding: 8px 12px;
+      font: inherit;
+      font-size: 13px;
     }
 
     .grid {
@@ -169,6 +180,17 @@
       <div class="controls">
         <button class="sort-button" type="button" data-sort="date" data-direction="desc">Date ↓</button>
         <button class="sort-button" type="button" data-sort="highlights" data-direction="desc">Highlights ↓</button>
+        <select class="year-filter" id="year-filter" aria-label="Filter by year">
+          <option value="all">All</option>
+<option value="2026">2026</option>
+<option value="2025">2025</option>
+<option value="2024">2024</option>
+<option value="2023">2023</option>
+<option value="2022">2022</option>
+<option value="2021">2021</option>
+<option value="2020">2020</option>
+<option value="2019">2019</option>
+        </select>
       </div>
     </header>
     <section class="grid" id="books-grid">
@@ -181,6 +203,7 @@ Mar 2026 (59)"
           data-title="Exodus"
           data-last-key="202603"
           data-total-highlights="59"
+          data-years="2026"
         >
           <div class="card-top">
             <div class="dates" aria-label="Mar 2026 (59)">Mar 2026</div>
@@ -204,6 +227,7 @@ Feb 2026 (24)"
           data-title="By Night in Chile"
           data-last-key="202602"
           data-total-highlights="24"
+          data-years="2026"
         >
           <div class="card-top">
             <div class="dates" aria-label="Feb 2026 (24)">Feb 2026</div>
@@ -227,6 +251,7 @@ Jan 2026 (70)"
           data-title="Shadowheart"
           data-last-key="202601"
           data-total-highlights="70"
+          data-years="2026"
         >
           <div class="card-top">
             <div class="dates" aria-label="Jan 2026 (70)">Jan 2026</div>
@@ -250,6 +275,7 @@ Dec 2025 (68)"
           data-title="Shadowrise"
           data-last-key="202512"
           data-total-highlights="68"
+          data-years="2025"
         >
           <div class="card-top">
             <div class="dates" aria-label="Dec 2025 (68)">Dec 2025</div>
@@ -273,6 +299,7 @@ Nov 2025 (68)"
           data-title="No Life Forsaken"
           data-last-key="202511"
           data-total-highlights="68"
+          data-years="2025"
         >
           <div class="card-top">
             <div class="dates" aria-label="Nov 2025 (68)">Nov 2025</div>
@@ -296,6 +323,7 @@ Oct 2025 (132)"
           data-title="Shadows Upon Time"
           data-last-key="202510"
           data-total-highlights="132"
+          data-years="2025"
         >
           <div class="card-top">
             <div class="dates" aria-label="Oct 2025 (132)">Oct 2025</div>
@@ -319,6 +347,7 @@ Sep 2025 (77)"
           data-title="Shadowmarch"
           data-last-key="202509"
           data-total-highlights="77"
+          data-years="2025"
         >
           <div class="card-top">
             <div class="dates" aria-label="Sep 2025 (77)">Sep 2025</div>
@@ -342,6 +371,7 @@ Aug 2025 (55)"
           data-title="Orb Sceptre Throne"
           data-last-key="202508"
           data-total-highlights="55"
+          data-years="2025"
         >
           <div class="card-top">
             <div class="dates" aria-label="Aug 2025 (55)">Aug 2025</div>
@@ -365,6 +395,7 @@ Jul 2025 (45)"
           data-title="Coalescent"
           data-last-key="202507"
           data-total-highlights="45"
+          data-years="2025"
         >
           <div class="card-top">
             <div class="dates" aria-label="Jul 2025 (45)">Jul 2025</div>
@@ -388,6 +419,7 @@ Jun 2025 (37)"
           data-title="Graveyard of Demons"
           data-last-key="202506"
           data-total-highlights="37"
+          data-years="2025"
         >
           <div class="card-top">
             <div class="dates" aria-label="Jun 2025 (37)">Jun 2025</div>
@@ -411,6 +443,7 @@ May 2025 (60)"
           data-title="Seveneves"
           data-last-key="202505"
           data-total-highlights="60"
+          data-years="2025"
         >
           <div class="card-top">
             <div class="dates" aria-label="May 2025 (60)">May 2025</div>
@@ -434,6 +467,7 @@ Feb 2025 (62), Apr 2025 (56)"
           data-title="Cryptonomicon"
           data-last-key="202504"
           data-total-highlights="118"
+          data-years="2025"
         >
           <div class="card-top">
             <div class="dates" aria-label="Feb 2025 (62) • Apr 2025 (56)">Feb 2025 • Apr 2025</div>
@@ -457,6 +491,7 @@ Mar 2025 (32)"
           data-title="House of Assassins"
           data-last-key="202503"
           data-total-highlights="32"
+          data-years="2025"
         >
           <div class="card-top">
             <div class="dates" aria-label="Mar 2025 (32)">Mar 2025</div>
@@ -480,6 +515,7 @@ Jan 2025 (74)"
           data-title="The Dragon Reborn"
           data-last-key="202501"
           data-total-highlights="74"
+          data-years="2025"
         >
           <div class="card-top">
             <div class="dates" aria-label="Jan 2025 (74)">Jan 2025</div>
@@ -503,6 +539,7 @@ Dec 2024 (74)"
           data-title="The Eye of the World"
           data-last-key="202412"
           data-total-highlights="74"
+          data-years="2024"
         >
           <div class="card-top">
             <div class="dates" aria-label="Dec 2024 (74)">Dec 2024</div>
@@ -526,6 +563,7 @@ Oct 2024 (62), Nov 2024 (62)"
           data-title="Return of the Crimson Guard"
           data-last-key="202411"
           data-total-highlights="124"
+          data-years="2024"
         >
           <div class="card-top">
             <div class="dates" aria-label="Oct 2024 (62) • Nov 2024 (62)">Oct 2024 • Nov 2024</div>
@@ -549,6 +587,7 @@ Sep 2024 (58)"
           data-title="Of War and Ruin"
           data-last-key="202409"
           data-total-highlights="58"
+          data-years="2024"
         >
           <div class="card-top">
             <div class="dates" aria-label="Sep 2024 (58)">Sep 2024</div>
@@ -572,6 +611,7 @@ Aug 2024 (24)"
           data-title="Absolution Gap"
           data-last-key="202408"
           data-total-highlights="24"
+          data-years="2024"
         >
           <div class="card-top">
             <div class="dates" aria-label="Aug 2024 (24)">Aug 2024</div>
@@ -595,6 +635,7 @@ Jul 2024 (40)"
           data-title="A Game of Thrones"
           data-last-key="202407"
           data-total-highlights="40"
+          data-years="2024"
         >
           <div class="card-top">
             <div class="dates" aria-label="Jul 2024 (40)">Jul 2024</div>
@@ -618,6 +659,7 @@ May 2024 (69)"
           data-title="Chasm City (The Inhibitor Series (2))"
           data-last-key="202405"
           data-total-highlights="69"
+          data-years="2024"
         >
           <div class="card-top">
             <div class="dates" aria-label="May 2024 (69)">May 2024</div>
@@ -641,6 +683,7 @@ Apr 2024 (38)"
           data-title="Revelation Space"
           data-last-key="202404"
           data-total-highlights="38"
+          data-years="2024"
         >
           <div class="card-top">
             <div class="dates" aria-label="Apr 2024 (38)">Apr 2024</div>
@@ -664,6 +707,7 @@ Mar 2024 (41)"
           data-title="Of Darkness and Light"
           data-last-key="202403"
           data-total-highlights="41"
+          data-years="2024"
         >
           <div class="card-top">
             <div class="dates" aria-label="Mar 2024 (41)">Mar 2024</div>
@@ -687,6 +731,7 @@ Feb 2024 (43)"
           data-title="Mine"
           data-last-key="202402"
           data-total-highlights="43"
+          data-years="2024"
         >
           <div class="card-top">
             <div class="dates" aria-label="Feb 2024 (43)">Feb 2024</div>
@@ -710,6 +755,7 @@ Jan 2024 (161)"
           data-title="Disquiet_Gods"
           data-last-key="202401"
           data-total-highlights="161"
+          data-years="2024"
         >
           <div class="card-top">
             <div class="dates" aria-label="Jan 2024 (161)">Jan 2024</div>
@@ -733,6 +779,7 @@ Dec 2023 (17)"
           data-title="The Poet"
           data-last-key="202312"
           data-total-highlights="17"
+          data-years="2023"
         >
           <div class="card-top">
             <div class="dates" aria-label="Dec 2023 (17)">Dec 2023</div>
@@ -756,6 +803,7 @@ Nov 2023 (30)"
           data-title="The Tombs of Atuan"
           data-last-key="202311"
           data-total-highlights="30"
+          data-years="2023"
         >
           <div class="card-top">
             <div class="dates" aria-label="Nov 2023 (30)">Nov 2023</div>
@@ -779,6 +827,7 @@ Oct 2023 (44)"
           data-title="A Wizard of Earthsea"
           data-last-key="202310"
           data-total-highlights="44"
+          data-years="2023"
         >
           <div class="card-top">
             <div class="dates" aria-label="Oct 2023 (44)">Oct 2023</div>
@@ -802,6 +851,7 @@ Sep 2023 (98)"
           data-title="The Reality Dysfunction"
           data-last-key="202309"
           data-total-highlights="98"
+          data-years="2023"
         >
           <div class="card-top">
             <div class="dates" aria-label="Sep 2023 (98)">Sep 2023</div>
@@ -825,6 +875,7 @@ Aug 2023 (41)"
           data-title="The Traitor Baru Cormorant"
           data-last-key="202308"
           data-total-highlights="41"
+          data-years="2023"
         >
           <div class="card-top">
             <div class="dates" aria-label="Aug 2023 (41)">Aug 2023</div>
@@ -848,6 +899,7 @@ Jul 2023 (69)"
           data-title="Empire of Grass"
           data-last-key="202307"
           data-total-highlights="69"
+          data-years="2023"
         >
           <div class="card-top">
             <div class="dates" aria-label="Jul 2023 (69)">Jul 2023</div>
@@ -871,6 +923,7 @@ Jun 2023 (88)"
           data-title="The Witchwood Crown"
           data-last-key="202306"
           data-total-highlights="88"
+          data-years="2023"
         >
           <div class="card-top">
             <div class="dates" aria-label="Jun 2023 (88)">Jun 2023</div>
@@ -894,6 +947,7 @@ May 2023 (123)"
           data-title="Light Bringer"
           data-last-key="202305"
           data-total-highlights="123"
+          data-years="2023"
         >
           <div class="card-top">
             <div class="dates" aria-label="May 2023 (123)">May 2023</div>
@@ -917,6 +971,7 @@ Apr 2023 (42)"
           data-title="Adulthood Rites"
           data-last-key="202304"
           data-total-highlights="42"
+          data-years="2023"
         >
           <div class="card-top">
             <div class="dates" aria-label="Apr 2023 (42)">Apr 2023</div>
@@ -940,6 +995,7 @@ Mar 2023 (74)"
           data-title="Legend"
           data-last-key="202303"
           data-total-highlights="74"
+          data-years="2023"
         >
           <div class="card-top">
             <div class="dates" aria-label="Mar 2023 (74)">Mar 2023</div>
@@ -963,6 +1019,7 @@ Feb 2023 (53)"
           data-title="Forest Mage"
           data-last-key="202302"
           data-total-highlights="53"
+          data-years="2023"
         >
           <div class="card-top">
             <div class="dates" aria-label="Feb 2023 (53)">Feb 2023</div>
@@ -986,6 +1043,7 @@ Jan 2023 (55)"
           data-title="A Fire Upon the Deep"
           data-last-key="202301"
           data-total-highlights="55"
+          data-years="2023"
         >
           <div class="card-top">
             <div class="dates" aria-label="Jan 2023 (55)">Jan 2023</div>
@@ -1009,6 +1067,7 @@ Dec 2022 (87)"
           data-title="Streets of Laredo"
           data-last-key="202212"
           data-total-highlights="87"
+          data-years="2022"
         >
           <div class="card-top">
             <div class="dates" aria-label="Dec 2022 (87)">Dec 2022</div>
@@ -1032,6 +1091,7 @@ Nov 2022 (150)"
           data-title="Lonesome Dove"
           data-last-key="202211"
           data-total-highlights="150"
+          data-years="2022"
         >
           <div class="card-top">
             <div class="dates" aria-label="Nov 2022 (150)">Nov 2022</div>
@@ -1055,6 +1115,7 @@ Oct 2022 (44)"
           data-title="Death&#39;s End"
           data-last-key="202210"
           data-total-highlights="44"
+          data-years="2022"
         >
           <div class="card-top">
             <div class="dates" aria-label="Oct 2022 (44)">Oct 2022</div>
@@ -1078,6 +1139,7 @@ Sep 2022 (64)"
           data-title="The Dark Forest"
           data-last-key="202209"
           data-total-highlights="64"
+          data-years="2022"
         >
           <div class="card-top">
             <div class="dates" aria-label="Sep 2022 (64)">Sep 2022</div>
@@ -1101,6 +1163,7 @@ Aug 2022 (89)"
           data-title="Boy&#39;s Life"
           data-last-key="202208"
           data-total-highlights="89"
+          data-years="2022"
         >
           <div class="card-top">
             <div class="dates" aria-label="Aug 2022 (89)">Aug 2022</div>
@@ -1124,6 +1187,7 @@ Jul 2022 (146)"
           data-title="Speaking Bones"
           data-last-key="202207"
           data-total-highlights="146"
+          data-years="2022"
         >
           <div class="card-top">
             <div class="dates" aria-label="Jul 2022 (146)">Jul 2022</div>
@@ -1147,6 +1211,7 @@ Jun 2022 (101)"
           data-title="The Veiled Throne"
           data-last-key="202206"
           data-total-highlights="101"
+          data-years="2022"
         >
           <div class="card-top">
             <div class="dates" aria-label="Jun 2022 (101)">Jun 2022</div>
@@ -1170,6 +1235,7 @@ May 2022 (154)"
           data-title="Curse of the Mistwraith"
           data-last-key="202205"
           data-total-highlights="154"
+          data-years="2022"
         >
           <div class="card-top">
             <div class="dates" aria-label="May 2022 (154)">May 2022</div>
@@ -1193,6 +1259,7 @@ Apr 2022 (159)"
           data-title="The Grace of Kings"
           data-last-key="202204"
           data-total-highlights="159"
+          data-years="2022"
         >
           <div class="card-top">
             <div class="dates" aria-label="Apr 2022 (159)">Apr 2022</div>
@@ -1216,6 +1283,7 @@ Feb 2022 (42), Mar 2022 (42)"
           data-title="Lord of Emperors"
           data-last-key="202203"
           data-total-highlights="84"
+          data-years="2022"
         >
           <div class="card-top">
             <div class="dates" aria-label="Feb 2022 (42) • Mar 2022 (42)">Feb 2022 • Mar 2022</div>
@@ -1239,6 +1307,7 @@ Jan 2022 (63)"
           data-title="Sailing to Sarantium"
           data-last-key="202201"
           data-total-highlights="63"
+          data-years="2022"
         >
           <div class="card-top">
             <div class="dates" aria-label="Jan 2022 (63)">Jan 2022</div>
@@ -1262,6 +1331,7 @@ Dec 2021 (108)"
           data-title="Empire of the Vampire"
           data-last-key="202112"
           data-total-highlights="108"
+          data-years="2021"
         >
           <div class="card-top">
             <div class="dates" aria-label="Dec 2021 (108)">Dec 2021</div>
@@ -1285,6 +1355,7 @@ Nov 2021 (49)"
           data-title="Prince of Thorns"
           data-last-key="202111"
           data-total-highlights="49"
+          data-years="2021"
         >
           <div class="card-top">
             <div class="dates" aria-label="Nov 2021 (49)">Nov 2021</div>
@@ -1308,6 +1379,7 @@ Oct 2021 (72)"
           data-title="The Great Ordeal"
           data-last-key="202110"
           data-total-highlights="72"
+          data-years="2021"
         >
           <div class="card-top">
             <div class="dates" aria-label="Oct 2021 (72)">Oct 2021</div>
@@ -1331,6 +1403,7 @@ Sep 2021 (102)"
           data-title="The White-Luck Warrior"
           data-last-key="202109"
           data-total-highlights="102"
+          data-years="2021"
         >
           <div class="card-top">
             <div class="dates" aria-label="Sep 2021 (102)">Sep 2021</div>
@@ -1354,6 +1427,7 @@ Aug 2021 (48)"
           data-title="The Thousandfold Thought"
           data-last-key="202108"
           data-total-highlights="48"
+          data-years="2021"
         >
           <div class="card-top">
             <div class="dates" aria-label="Aug 2021 (48)">Aug 2021</div>
@@ -1377,6 +1451,7 @@ Jul 2021 (83)"
           data-title="The Warrior Prophet"
           data-last-key="202107"
           data-total-highlights="83"
+          data-years="2021"
         >
           <div class="card-top">
             <div class="dates" aria-label="Jul 2021 (83)">Jul 2021</div>
@@ -1400,6 +1475,7 @@ Jun 2021 (72)"
           data-title="The Darkness That Comes Before"
           data-last-key="202106"
           data-total-highlights="72"
+          data-years="2021"
         >
           <div class="card-top">
             <div class="dates" aria-label="Jun 2021 (72)">Jun 2021</div>
@@ -1423,6 +1499,7 @@ May 2021 (35)"
           data-title="Forge of Darkness"
           data-last-key="202105"
           data-total-highlights="35"
+          data-years="2021"
         >
           <div class="card-top">
             <div class="dates" aria-label="May 2021 (35)">May 2021</div>
@@ -1446,6 +1523,7 @@ Apr 2021 (25)"
           data-title="A Time of Dread"
           data-last-key="202104"
           data-total-highlights="25"
+          data-years="2021"
         >
           <div class="card-top">
             <div class="dates" aria-label="Apr 2021 (25)">Apr 2021</div>
@@ -1469,6 +1547,7 @@ Mar 2021 (27)"
           data-title="Sword &amp; Citadel"
           data-last-key="202103"
           data-total-highlights="27"
+          data-years="2021"
         >
           <div class="card-top">
             <div class="dates" aria-label="Mar 2021 (27)">Mar 2021</div>
@@ -1492,6 +1571,7 @@ Feb 2021 (48)"
           data-title="Shadow &amp; Claw"
           data-last-key="202102"
           data-total-highlights="48"
+          data-years="2021"
         >
           <div class="card-top">
             <div class="dates" aria-label="Feb 2021 (48)">Feb 2021</div>
@@ -1515,6 +1595,7 @@ Jan 2021 (86)"
           data-title="Assassin&#39;s Fate"
           data-last-key="202101"
           data-total-highlights="86"
+          data-years="2021"
         >
           <div class="card-top">
             <div class="dates" aria-label="Jan 2021 (86)">Jan 2021</div>
@@ -1538,6 +1619,7 @@ Dec 2020 (59)"
           data-title="Fool&#39;s Quest"
           data-last-key="202012"
           data-total-highlights="59"
+          data-years="2020"
         >
           <div class="card-top">
             <div class="dates" aria-label="Dec 2020 (59)">Dec 2020</div>
@@ -1561,6 +1643,7 @@ Nov 2020 (72)"
           data-title="The Blade Itself"
           data-last-key="202011"
           data-total-highlights="72"
+          data-years="2020"
         >
           <div class="card-top">
             <div class="dates" aria-label="Nov 2020 (72)">Nov 2020</div>
@@ -1584,6 +1667,7 @@ Oct 2020 (114)"
           data-title="Midnight Tides"
           data-last-key="202010"
           data-total-highlights="114"
+          data-years="2020"
         >
           <div class="card-top">
             <div class="dates" aria-label="Oct 2020 (114)">Oct 2020</div>
@@ -1607,6 +1691,7 @@ Sep 2020 (22)"
           data-title="Golden Fool"
           data-last-key="202009"
           data-total-highlights="22"
+          data-years="2020"
         >
           <div class="card-top">
             <div class="dates" aria-label="Sep 2020 (22)">Sep 2020</div>
@@ -1630,6 +1715,7 @@ Aug 2020 (16)"
           data-title="Gardens of the Moon"
           data-last-key="202008"
           data-total-highlights="16"
+          data-years="2020"
         >
           <div class="card-top">
             <div class="dates" aria-label="Aug 2020 (16)">Aug 2020</div>
@@ -1653,6 +1739,7 @@ Jul 2020 (49)"
           data-title="Assassin&#39;s Quest"
           data-last-key="202007"
           data-total-highlights="49"
+          data-years="2020"
         >
           <div class="card-top">
             <div class="dates" aria-label="Jul 2020 (49)">Jul 2020</div>
@@ -1676,6 +1763,7 @@ Jun 2020 (39)"
           data-title="Royal Assassin"
           data-last-key="202006"
           data-total-highlights="39"
+          data-years="2020"
         >
           <div class="card-top">
             <div class="dates" aria-label="Jun 2020 (39)">Jun 2020</div>
@@ -1699,6 +1787,7 @@ May 2020 (31)"
           data-title="The Lions of Al-Rassan"
           data-last-key="202005"
           data-total-highlights="31"
+          data-years="2020"
         >
           <div class="card-top">
             <div class="dates" aria-label="May 2020 (31)">May 2020</div>
@@ -1722,6 +1811,7 @@ Apr 2020 (55)"
           data-title="Before They Are Hanged"
           data-last-key="202004"
           data-total-highlights="55"
+          data-years="2020"
         >
           <div class="card-top">
             <div class="dates" aria-label="Apr 2020 (55)">Apr 2020</div>
@@ -1745,6 +1835,7 @@ Mar 2020 (249)"
           data-title="The Crippled God"
           data-last-key="202003"
           data-total-highlights="249"
+          data-years="2020"
         >
           <div class="card-top">
             <div class="dates" aria-label="Mar 2020 (249)">Mar 2020</div>
@@ -1768,6 +1859,7 @@ Feb 2020 (358)"
           data-title="Toll the Hounds"
           data-last-key="202002"
           data-total-highlights="358"
+          data-years="2020"
         >
           <div class="card-top">
             <div class="dates" aria-label="Feb 2020 (358)">Feb 2020</div>
@@ -1791,6 +1883,7 @@ Jan 2020 (168)"
           data-title="Memories of Ice"
           data-last-key="202001"
           data-total-highlights="168"
+          data-years="2020"
         >
           <div class="card-top">
             <div class="dates" aria-label="Jan 2020 (168)">Jan 2020</div>
@@ -1814,6 +1907,7 @@ Dec 2019 (29)"
           data-title="The Last Wish"
           data-last-key="201912"
           data-total-highlights="29"
+          data-years="2019"
         >
           <div class="card-top">
             <div class="dates" aria-label="Dec 2019 (29)">Dec 2019</div>
@@ -1837,6 +1931,7 @@ Nov 2019 (101)"
           data-title="House of Chains"
           data-last-key="201911"
           data-total-highlights="101"
+          data-years="2019"
         >
           <div class="card-top">
             <div class="dates" aria-label="Nov 2019 (101)">Nov 2019</div>
@@ -1860,6 +1955,7 @@ Oct 2019 (66)"
           data-title="Deadhouse Gates"
           data-last-key="201910"
           data-total-highlights="66"
+          data-years="2019"
         >
           <div class="card-top">
             <div class="dates" aria-label="Oct 2019 (66)">Oct 2019</div>
@@ -1883,6 +1979,7 @@ Aug 2019 (2)"
           data-title="The Design of Everyday Things"
           data-last-key="201908"
           data-total-highlights="2"
+          data-years="2019"
         >
           <div class="card-top">
             <div class="dates" aria-label="Aug 2019 (2)">Aug 2019</div>
