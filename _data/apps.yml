@@ -38,3 +38,7 @@
   url: /apps/patagonia-weather/
   description: Weather dashboard for my Patagonia trip
   emoji: ""
+- name: Music Charts
+  url: /apps/music/
+  description: Last.fm album charts across multiple time ranges.
+  emoji: "🎵"
