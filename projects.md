@@ -11,7 +11,15 @@ have been involved in, it is by no means an exhaustive list.
 
 # Palantir Technologies
 
-## Fullstack development (August 2018 - present)
+## Vertex: Commercial & government graph application (April 2023 - January 2026)
+
+Visualization and simultation tool for objects and their relationships. Used for a variety of wide ranging commercial, energy, manufacturing, and government workflows.
+
+## Decisions: Government defense application (August 2021 - April 2023)
+
+Mission planning and target mensuration applications. Used in defense of Ukraine during the Russian invasion.
+
+## Gaia: Government map application (August 2018 - August 2021)
 
 Product development on mission planning and operations applications for some of the most critical/high consequence events ongoing in the world. Some features developed Included multi user collaboration on high scale map applications, data visualization, and security. Specialized in front end development with TypeScript and React. Designed complex features that utilized and coordinated multiple services.
 
@@ -21,7 +29,7 @@ Worked on a suite of mission planning applications for modeling potential real-w
 
 # Sandia National Labs
 
-## Fullstack development (December 2016 - August 2018)
+## Fullstack software development (December 2016 - August 2018)
 
 Teamed with and consulted a variety of software development teams in 2-4 week sprints. Rapidly implemented both backend and frontend code and taught others full stack development. TS-SCI DOE Security Clearance.
 
@@ -41,46 +49,55 @@ and the XML Telemetric & Command Exchange (XTCE) standard. Project was run under
 ## Intern (March 2012 - May 2015)
 
 ### C++ Tool Development
+
 Created 2 separate Clang C++ command line standalone tools using the LibTooling library. These tools replaced legacy tools that were written for IBM's Rational Rose modeling tool. Some of the functionality included inheritance hierarchy analysis, AST matching algorithms, and source-to-source code transformations.
 
 ### Java Algorithm Visualization
+
 Interactive graph representations of an algorithm's execution displayed in a Swing GUI with actions bound to toolbars, mouse and keyboard, and context sensitive actions. Also developed an Eclipse Rich Client Platform (RCP) port.
 
 ### Python Web Application for Code Generation
+
 Created a Python web application using CherryPy for HTTP server development, SQLAlchemy for ORM functionality from a SQLite database to Python objects, and Jinja2 for the HTML templating engine. This tool interfaced with existing XML documents that were used to populate the database and describe the data model that was then exported to Excel, Word, PDF, and C++ classes. This tool implemented a custom version control system to track changes to individual elements over a period of time.
 
 ### IBM Requisite Pro Plugin
-Created a Java tool that interfaced with the IBM Requisite Pro requirements management suite that analyzed requirements and processed various attributes in order to ensure that the database was internally consistent. Included a full Swing GUI with customizable runtime settings, and export functionality to text formats.
 
+Created a Java tool that interfaced with the IBM Requisite Pro requirements management suite that analyzed requirements and processed various attributes in order to ensure that the database was internally consistent. Included a full Swing GUI with customizable runtime settings, and export functionality to text formats.
 
 # Masters and Bachelors in CS from UNM
 
 ## The University of New Mexico - Graduate
-* Machine Learning (CS 529)
-* Database Management (CS 564)
-* Big Data (CS 591 Special Topic)
-* Robust Artificial Life (CS 591 Special Topic)
-* Digital Image Processing (CS 523)
-* Advanced Functional Programming (CS 591 Special Topic)
-* Software Foundations (CS 558)
+
+- Machine Learning (CS 529)
+- Database Management (CS 564)
+- Big Data (CS 591 Special Topic)
+- Robust Artificial Life (CS 591 Special Topic)
+- Digital Image Processing (CS 523)
+- Advanced Functional Programming (CS 591 Special Topic)
+- Software Foundations (CS 558)
 
 ## The University of New Mexico - Bachelors
-* Artificial Intelligence (CS 427)
-* Complex Adaptive Systems (CS 423)
-* Advanced Functional Programming (CS 491 Special Topic)
-* Software Engineering (CS 460)
-* Algorithms (CS361 & CS362)
+
+- Artificial Intelligence (CS 427)
+- Complex Adaptive Systems (CS 423)
+- Advanced Functional Programming (CS 491 Special Topic)
+- Software Engineering (CS 460)
+- Algorithms (CS361 & CS362)
 
 ## Machine learning
+
 Stock market price prediction using linear and polynomial regression models [(Poster PDF)]({{ site.docurl }}/ml_poster.pdf) [(Paper PDF)]({{ site.docurl }}/ml_paper.pdf)
 
 ## Software foundations
+
 [Lambda calculus parser and interpreter. Implements unification, constraint-based typing, and step-by-step evaluation relation. (40 page PDF)]({{ site.docurl }}/foundations.pdf)
 
 ## Complex adaptive systems
+
 [Generating fractals with genetic algorithms (Poster PDF)]({{ site.docurl }}/cas_poster.pdf)
 
 ## Advanced declarative programming
+
 [Bootstrap 3 Blaze HTML library extension](http://lnunno.github.io/blaze-bootstrap3/)
 
 ## Image processing
