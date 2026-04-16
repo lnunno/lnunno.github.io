@@ -221,14 +221,12 @@ tr:nth-child(even) {
 .post-label {
   display: inline-block;
   margin: 0 0 10px;
-  padding: 4px 10px;
+  padding: 3px 9px;
   border: 1px solid #35506B;
   border-radius: 999px;
-  color: #8FB8E8;
-  font-size: 12px;
-  font-weight: 600;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
+  color: #8FA4B8;
+  font-size: 14px;
+  font-weight: 500;
 }
 
 .post-header h1 {

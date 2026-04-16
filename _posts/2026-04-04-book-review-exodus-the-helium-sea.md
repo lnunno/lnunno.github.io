@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exodus: The Helium Sea"
-post_label: "Book Review"
+post_label: "Book review"
 date: 2026-04-04
 categories: books
 ---

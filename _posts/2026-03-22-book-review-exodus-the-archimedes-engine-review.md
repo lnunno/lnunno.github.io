@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exodus: The Archimedes Engine"
-post_label: "Book Review"
+post_label: "Book review"
 date: 2026-03-22
 categories: books
 ---
