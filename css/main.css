@@ -250,6 +250,39 @@ tr:nth-child(even) {
   color: #A9B3BD;
 }
 
+.rating {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin: 16px 0 24px;
+}
+
+.rating-stars {
+  position: relative;
+  display: inline-block;
+  font-size: 28px;
+  line-height: 1;
+  letter-spacing: 2px;
+  color: #455A6B;
+}
+
+.rating-stars::after {
+  content: "★★★★★";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: var(--rating-percent);
+  overflow: hidden;
+  color: #F5C451;
+}
+
+.rating-text {
+  font-size: 18px;
+  color: #D3D8DE;
+  align-self: flex-end;
+}
+
 
 .post-content h1,
 .post-content h2,

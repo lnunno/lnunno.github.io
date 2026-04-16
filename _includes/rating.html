@@ -1,0 +1,12 @@
+{% assign rating_value = include.rating | plus: 0 %}
+{% assign rating_max = include.max | default: 5 | plus: 0 %}
+{% assign rating_percent = rating_value | times: 100.0 | divided_by: rating_max %}
+
+<div class="rating" aria-label="Rating: {{ rating_value }}/{{ rating_max }}">
+  <span
+    class="rating-stars"
+    style="--rating-percent: {{ rating_percent }}%;"
+    aria-hidden="true"
+  >★★★★★</span>
+  <span class="rating-text">{{ rating_value }}/{{ rating_max }}</span>
+</div>

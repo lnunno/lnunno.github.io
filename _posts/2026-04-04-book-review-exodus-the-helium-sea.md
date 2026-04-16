@@ -12,7 +12,7 @@ date: 2026-04-04
   width="200"
 %}
 
-4.75/5
+{% include rating.html rating=4.75 %}
 
 I received a copy of this book on Netgalley in exchange for an honest review.
 
