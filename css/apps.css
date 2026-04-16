@@ -1,0 +1,74 @@
+.apps-hero {
+  margin: 10px 0 25px;
+}
+
+.apps-hero h1 {
+  font-size: 36px;
+  letter-spacing: -1px;
+  margin-bottom: 8px;
+}
+
+.apps-hero p {
+  color: #A9B3BD;
+}
+
+.apps-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 16px;
+}
+
+.apps-card {
+  display: block;
+  border: 1px solid #2A3A46;
+  background: #182026;
+  border-radius: 8px;
+  padding: 16px;
+  transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.apps-card:hover {
+  transform: translateY(-2px);
+  border-color: #3E5566;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.35);
+}
+
+.apps-card:visited {
+  color: inherit;
+}
+
+.apps-card:hover,
+.apps-card:focus {
+  text-decoration: none;
+}
+
+.apps-card h2 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 20px;
+  margin: 0 0 8px 0;
+  padding: 0;
+}
+
+.apps-icon {
+  color: #7BB2FF;
+  font-size: 20px;
+}
+
+.apps-emoji {
+  font-size: 20px;
+  line-height: 1;
+}
+
+.apps-card p {
+  color: #A9B3BD;
+  margin-bottom: 12px;
+}
+
+.apps-card .apps-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-weight: 600;
+}
