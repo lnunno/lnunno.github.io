@@ -2,13 +2,20 @@
 layout: default
 ---
 <div class="post">
+  {% assign published_date = page.date | date: "%Y-%m-%d" %}
+  {% assign updated_date = page.last_updated | date: "%Y-%m-%d" %}
 
   <header class="post-header">
     {% if page.post_label %}
     <p class="post-label">{{ page.post_label }}</p>
     {% endif %}
     <h1>{{ page.title }}</h1>
-    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <p class="meta">
+      {{ page.date | date: "%b %-d, %Y" }}
+      {% if page.last_updated and updated_date != published_date %} • Updated {{ page.last_updated | date: "%b %-d, %Y" }}{% endif %}
+      {% if page.author %} • {{ page.author }}{% endif %}
+      {% if page.meta %} • {{ page.meta }}{% endif %}
+    </p>
   </header>
 
   <article class="post-content">
