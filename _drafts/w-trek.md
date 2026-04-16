@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "W trek"
-date: 2026-04-16
+date: 2026-03-05
 ---
 
 46.83 miles total
