@@ -235,6 +235,21 @@ tr:nth-child(even) {
 
 .post-content > * { margin: 20px 0; }
 
+.post-figure {
+  margin: 24px auto;
+  text-align: center;
+}
+
+.post-figure img {
+  margin: 0 auto;
+}
+
+.post-figure figcaption {
+  margin-top: 8px;
+  font-size: 14px;
+  color: #A9B3BD;
+}
+
 
 .post-content h1,
 .post-content h2,

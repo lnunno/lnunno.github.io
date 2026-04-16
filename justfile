@@ -17,7 +17,11 @@ clean:
 	jekyll clean
 rebuild:
 	jekyll clean && jekyll serve
-draft title:
-	py scripts/new_draft.py "{{title}}"
-draft-dry-run title:
-	py scripts/new_draft.py "{{title}}" --dry-run
+draft title date='':
+	@if ("{{date}}" -ne "") { py scripts/new_post.py draft "{{title}}" --date "{{date}}" } else { py scripts/new_post.py draft "{{title}}" }
+draft-dry-run title date='':
+	@if ("{{date}}" -ne "") { py scripts/new_post.py draft "{{title}}" --date "{{date}}" --dry-run } else { py scripts/new_post.py draft "{{title}}" --dry-run }
+post title date='':
+	@if ("{{date}}" -ne "") { py scripts/new_post.py post "{{title}}" --date "{{date}}" } else { py scripts/new_post.py post "{{title}}" }
+post-dry-run title date='':
+	@if ("{{date}}" -ne "") { py scripts/new_post.py post "{{title}}" --date "{{date}}" --dry-run } else { py scripts/new_post.py post "{{title}}" --dry-run }

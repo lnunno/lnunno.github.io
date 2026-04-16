@@ -53,20 +53,56 @@ To create a draft from a title automatically, run:
 just draft "My New Post"
 ```
 
-To preview what it would create without writing the file, run:
+To create a draft with an explicit date, run:
 
 ```sh
-just draft-dry-run "My New Post"
+just draft "My New Post" 2026-04-20
+```
+
+You can also use a month name and day, which defaults to the current year. For example, `Mar 22` becomes `2026-03-22`:
+
+```sh
+just draft "My New Post" "Mar 22"
+```
+
+To create a published post instead, run:
+
+```sh
+just post "My New Post"
 ```
 
 That creates:
 
 ```text
-_drafts/my-new-post.md
+_posts/YYYY-MM-DD-my-new-post.md
 ```
 
-If you want to publish a draft, move it into `_posts/` and rename it to use Jekyll's dated post format:
+To create a published post with an explicit date, run:
+
+```sh
+just post "My New Post" 2026-04-20
+```
+
+Full month names work too:
+
+```sh
+just post "My New Post" "March 22"
+```
+
+To preview what either command would create without writing the file, run:
+
+```sh
+just draft-dry-run "My New Post"
+```
+
+or:
+
+```sh
+just post-dry-run "My New Post" 2026-04-20
+```
+
+Drafts create:
 
 ```text
-_posts/YYYY-MM-DD-my-new-post.md
+_drafts/my-new-post.md
 ```
