@@ -39,10 +39,17 @@ layout: default
         <li>
             {% assign published_date = post.date | date: "%Y-%m-%d" %}
             {% assign updated_date = post.last_updated | date: "%Y-%m-%d" %}
+            {% assign is_draft = false %}
+            {% if post.path contains '_drafts/' %}
+              {% assign is_draft = true %}
+            {% endif %}
             <span class="post-date">
               {{ post.date | date: "%b %-d, %Y" }}
               {% if post.last_updated and updated_date != published_date %} • Updated {{ post.last_updated | date: "%b %-d, %Y" }}{% endif %}
             </span>
+            {% if is_draft %}
+            <span class="post-list-label">Draft</span>
+            {% endif %}
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </li>
         {% endfor %}

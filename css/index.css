@@ -35,3 +35,15 @@ a:focus .marketing-logo {
     margin: 0 0 8px 0;
     padding: 0;
 }
+
+.post-list-label {
+    display: inline-block;
+    margin: 0 0 6px 0px;
+    padding: 2px 8px;
+    background-color: #2A3A46;
+    border-radius: 999px;
+    color: #AFC4D8;
+    font-size: 12px;
+    font-weight: 500;
+    vertical-align: middle;
+}
