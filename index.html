@@ -37,7 +37,12 @@ layout: default
     <ul class="posts">
         {% for post in site.posts %}
         <li>
-            <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+            {% assign published_date = post.date | date: "%Y-%m-%d" %}
+            {% assign updated_date = post.last_updated | date: "%Y-%m-%d" %}
+            <span class="post-date">
+              {{ post.date | date: "%b %-d, %Y" }}
+              {% if post.last_updated and updated_date != published_date %} • Updated {{ post.last_updated | date: "%b %-d, %Y" }}{% endif %}
+            </span>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </li>
         {% endfor %}
