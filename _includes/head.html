@@ -12,13 +12,18 @@
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ "/css/posts.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ "/css/apps.css" | prepend: site.baseurl }}">
+    <!-- Load optional CSS declared by the active layout and page front matter. -->
+    {% assign stylesheet_list = "" | split: "" %}
+    {% if layout.stylesheets %}
+    {% assign stylesheet_list = stylesheet_list | concat: layout.stylesheets %}
+    {% endif %}
     {% if page.stylesheets %}
-    {% for stylesheet in page.stylesheets %}
+    {% assign stylesheet_list = stylesheet_list | concat: page.stylesheets %}
+    {% endif %}
+    {% for stylesheet in stylesheet_list %}
     <link rel="stylesheet" href="{{ stylesheet | prepend: site.baseurl }}">
     {% endfor %}
-    {% endif %}
 
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
