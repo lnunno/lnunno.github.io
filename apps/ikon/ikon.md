@@ -3,6 +3,8 @@ layout: default
 title: Ikon Dashboard
 permalink: /apps/ikon/
 hide_in_header: true
+stylesheets:
+  - /css/ikon.css
 ---
 
 # 🎿 Ikon Conditions

@@ -3,6 +3,8 @@ layout: default
 title: Peaks Planner
 permalink: /apps/peaks-planner/
 hide_in_header: true
+stylesheets:
+  - /css/peaks.css
 ---
 
 <link

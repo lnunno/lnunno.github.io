@@ -3,6 +3,8 @@ layout: default
 title: Movement Climbing Dashboard
 permalink: /apps/movement/
 hide_in_header: true
+stylesheets:
+  - /css/movement.css
 ---
 
 # Movement Climbing Gyms

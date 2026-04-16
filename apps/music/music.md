@@ -3,6 +3,8 @@ layout: page
 title: Music Charts
 permalink: /apps/music/
 hide_in_header: true
+stylesheets:
+  - /css/music.css
 ---
 
 {% assign rows = 6 %}

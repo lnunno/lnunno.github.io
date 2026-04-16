@@ -14,11 +14,11 @@
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ "/css/posts.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ "/css/apps.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ "/css/ikon.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ "/css/movement.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ "/css/peaks.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ "/css/home.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ "/css/music.css" | prepend: site.baseurl }}">
+    {% if page.stylesheets %}
+    {% for stylesheet in page.stylesheets %}
+    <link rel="stylesheet" href="{{ stylesheet | prepend: site.baseurl }}">
+    {% endfor %}
+    {% endif %}
 
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
