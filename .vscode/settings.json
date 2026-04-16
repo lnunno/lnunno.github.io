@@ -1,0 +1,13 @@
+{
+  "markdown.copyFiles.destination": {
+    "/_posts/**/*": "/assets/images/posts/",
+    "/_drafts/**/*": "/assets/images/posts/"
+  },
+  "files.associations": {
+    "_includes/*.html": "liquid",
+    "_layouts/*.html": "liquid"
+  },
+  "[liquid]": {
+    "editor.formatOnSave": false
+  }
+}
