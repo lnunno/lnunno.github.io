@@ -2,6 +2,7 @@
 layout: post
 title: "Reading project: Post apocalypse"
 date: 2026-04-16
+categories: books
 ---
 
 ## Silo (read)

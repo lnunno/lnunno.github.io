@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "[Book review] Exodus: The Helium Sea"
+title: "Exodus: The Helium Sea"
+post_label: "Book Review"
 date: 2026-04-04
+categories: books
 ---
 
 [Goodreads review link](https://www.goodreads.com/review/show/7976778567)

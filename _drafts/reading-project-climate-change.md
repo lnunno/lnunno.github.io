@@ -2,6 +2,7 @@
 layout: post
 title: "Reading project: Climate change"
 date: 2026-04-16
+categories: books
 ---
 
 Books that deal with the impending climate disaster, how to deal with it, and what comes next

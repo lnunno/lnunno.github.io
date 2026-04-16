@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "[Book review] Exodus: The Archimedes Engine"
+title: "Exodus: The Archimedes Engine"
+post_label: "Book Review"
 date: 2026-03-22
+categories: books
 ---
 
 [Goodreads review link](https://www.goodreads.com/review/show/6196116943)
