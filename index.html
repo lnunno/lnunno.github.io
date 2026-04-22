@@ -49,10 +49,19 @@ stylesheets:
               {{ post.date | date: "%b %-d, %Y" }}
               {% if post.last_updated and updated_date != published_date %} • Updated {{ post.last_updated | date: "%b %-d, %Y" }}{% endif %}
             </span>
-            {% if is_draft %}
-            <span class="post-list-label">Draft</span>
-            {% endif %}
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <div class="post-list-row">
+              {% if is_draft or post.post_label %}
+              <span class="post-list-labels">
+                {% if is_draft %}
+                <span class="post-list-label">Draft</span>
+                {% endif %}
+                {% if post.post_label %}
+                <span class="post-list-label">{{ post.post_label }}</span>
+                {% endif %}
+              </span>
+              {% endif %}
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </div>
         </li>
         {% endfor %}
     </ul>

@@ -50,14 +50,28 @@ a:focus .marketing-logo {
   color: #818181;
 }
 
+.post-list-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+}
+
+.post-list-labels {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    flex-shrink: 0;
+}
+
 .post-list-label {
     display: inline-block;
-    margin: 0 0 6px 0px;
+    margin: 0;
     padding: 2px 8px;
     background-color: #2A3A46;
     border-radius: 999px;
     color: #AFC4D8;
     font-size: 12px;
+    line-height: 1.2;
     font-weight: 500;
-    vertical-align: middle;
 }
