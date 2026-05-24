@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>School House Whiskey Menu</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <p class="eyebrow">School House Kitchen & Libations Whisky Menu</p>
+      </header>
+
+      <main class="layout">
+        <aside class="filters-panel">
+          <div class="panel-header">
+            <h2>Filters</h2>
+            <button id="reset-filters" type="button" class="ghost-button">
+              Reset
+            </button>
+          </div>
+
+          <label class="filter-group">
+            <span>Search</span>
+            <input
+              id="search-input"
+              type="search"
+              placeholder="Name, category, subcategory..."
+            />
+          </label>
+
+          <label class="filter-group">
+            <span>Category</span>
+            <select id="category-select">
+              <option value="">All categories</option>
+            </select>
+          </label>
+
+          <label class="filter-group">
+            <span>Subcategory</span>
+            <select id="subcategory-select">
+              <option value="">All subcategories</option>
+            </select>
+          </label>
+
+          <label class="filter-group">
+            <span>Independent Bottling</span>
+            <select id="ib-status-select">
+              <option value="">All whiskies</option>
+              <option value="yes">Has independent bottler</option>
+              <option value="no">No independent bottler</option>
+            </select>
+          </label>
+
+          <label class="filter-group">
+            <span>Independent Bottler</span>
+            <select id="ib-name-select">
+              <option value="">All bottlers</option>
+            </select>
+          </label>
+
+          <label class="filter-group">
+            <span>Price Tier</span>
+            <select id="price-field-select">
+              <option value="oneOz">1 oz</option>
+              <option value="onePointFiveOz">1.5 oz</option>
+              <option value="twoOz">2 oz</option>
+            </select>
+          </label>
+
+          <label class="filter-group">
+            <span>Max Price</span>
+            <input
+              id="max-price-input"
+              type="number"
+              min="0"
+              step="0.01"
+              placeholder="No max"
+            />
+          </label>
+
+          <label class="filter-group">
+            <span>Sort</span>
+            <select id="sort-select">
+              <option value="name-asc">Name A-Z</option>
+              <option value="name-desc">Name Z-A</option>
+              <option value="price-asc">Selected price: low to high</option>
+              <option value="price-desc">Selected price: high to low</option>
+            </select>
+          </label>
+        </aside>
+
+        <section class="results-panel">
+          <div class="results-toolbar">
+            <p id="results-summary">Loading whiskey list...</p>
+          </div>
+
+          <div id="results-grid" class="results-grid"></div>
+        </section>
+      </main>
+    </div>
+
+    <template id="whiskey-card-template">
+      <article class="whiskey-card">
+        <div class="card-topline">
+          <span class="card-category"></span>
+          <span class="card-subcategory"></span>
+        </div>
+        <h3 class="card-name"></h3>
+        <dl class="price-grid">
+          <div>
+            <dt>1 oz</dt>
+            <dd class="price-one-oz"></dd>
+          </div>
+          <div>
+            <dt>1.5 oz</dt>
+            <dd class="price-one-point-five-oz"></dd>
+          </div>
+          <div>
+            <dt>2 oz</dt>
+            <dd class="price-two-oz"></dd>
+          </div>
+        </dl>
+      </article>
+    </template>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
