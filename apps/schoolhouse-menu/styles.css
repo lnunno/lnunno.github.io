@@ -198,6 +198,12 @@ body {
   font-weight: 700;
 }
 
+.card-ib {
+  margin: -6px 0 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
 .price-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));

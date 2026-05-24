@@ -36,7 +36,9 @@ function getSelectedFilters() {
 }
 
 function populateCategoryOptions() {
-  const categories = [...new Set(state.allWhiskies.map((item) => item.category))].sort();
+  const categories = [
+    ...new Set(state.allWhiskies.map((item) => item.category)),
+  ].sort();
   for (const category of categories) {
     const option = document.createElement("option");
     option.value = category;
@@ -50,13 +52,16 @@ function populateSubcategoryOptions() {
   const subcategories = [
     ...new Set(
       state.allWhiskies
-        .filter((item) => !selectedCategory || item.category === selectedCategory)
+        .filter(
+          (item) => !selectedCategory || item.category === selectedCategory,
+        )
         .map((item) => item.subcategory),
     ),
   ].sort();
 
   const previousValue = elements.subcategorySelect.value;
-  elements.subcategorySelect.innerHTML = '<option value="">All subcategories</option>';
+  elements.subcategorySelect.innerHTML =
+    '<option value="">All subcategories</option>';
 
   for (const subcategory of subcategories) {
     const option = document.createElement("option");
@@ -77,7 +82,9 @@ function populateIndependentBottlerOptions() {
   const bottlers = [
     ...new Set(
       state.allWhiskies
-        .filter((item) => !selectedCategory || item.category === selectedCategory)
+        .filter(
+          (item) => !selectedCategory || item.category === selectedCategory,
+        )
         .filter((item) => {
           if (selectedStatus === "yes") {
             return Boolean(item.independentBottler);
@@ -125,7 +132,9 @@ function sortWhiskies(items, sort, priceField) {
     const rightPrice = Number(right[priceField]);
 
     if (leftPrice !== rightPrice) {
-      return sort === "price-asc" ? leftPrice - rightPrice : rightPrice - leftPrice;
+      return sort === "price-asc"
+        ? leftPrice - rightPrice
+        : rightPrice - leftPrice;
     }
 
     return left.name.localeCompare(right.name);
@@ -139,7 +148,8 @@ function applyFilters() {
   const maxPrice = filters.maxPrice ? Number(filters.maxPrice) : null;
 
   const filtered = state.allWhiskies.filter((item) => {
-    const haystack = `${item.name} ${item.category} ${item.subcategory}`.toLowerCase();
+    const haystack =
+      `${item.name} ${item.category} ${item.subcategory}`.toLowerCase();
     if (filters.search && !haystack.includes(filters.search)) {
       return false;
     }
@@ -171,16 +181,23 @@ function applyFilters() {
     return true;
   });
 
-  state.filteredWhiskies = sortWhiskies(filtered, filters.sort, filters.priceField);
+  state.filteredWhiskies = sortWhiskies(
+    filtered,
+    filters.sort,
+    filters.priceField,
+  );
   renderResults();
 }
 
 function renderResults() {
   const fragment = document.createDocumentFragment();
   const count = state.filteredWhiskies.length;
-  const priceFieldLabel = elements.priceFieldSelect.options[elements.priceFieldSelect.selectedIndex].text;
+  const priceFieldLabel =
+    elements.priceFieldSelect.options[elements.priceFieldSelect.selectedIndex]
+      .text;
   const maxPrice = elements.maxPriceInput.value.trim();
-  const sortLabel = elements.sortSelect.options[elements.sortSelect.selectedIndex].text;
+  const sortLabel =
+    elements.sortSelect.options[elements.sortSelect.selectedIndex].text;
 
   const summaryParts = [`${count} whisk${count === 1 ? "y" : "ies"} shown`];
 
@@ -204,12 +221,20 @@ function renderResults() {
   }
 
   for (const item of state.filteredWhiskies) {
-    const card = elements.cardTemplate.content.firstElementChild.cloneNode(true);
+    const card =
+      elements.cardTemplate.content.firstElementChild.cloneNode(true);
     card.querySelector(".card-category").textContent = item.category;
     card.querySelector(".card-subcategory").textContent = item.subcategory;
     card.querySelector(".card-name").textContent = item.name;
+    const independentBottler = card.querySelector(".card-ib");
+    if (item.independentBottler) {
+      independentBottler.textContent = `${item.independentBottler} IB`;
+      independentBottler.hidden = false;
+    }
     card.querySelector(".price-one-oz").textContent = currency(item.oneOz);
-    card.querySelector(".price-one-point-five-oz").textContent = currency(item.onePointFiveOz);
+    card.querySelector(".price-one-point-five-oz").textContent = currency(
+      item.onePointFiveOz,
+    );
     card.querySelector(".price-two-oz").textContent = currency(item.twoOz);
     card.querySelector(".source-link").href = item.sourcePage;
     fragment.append(card);
