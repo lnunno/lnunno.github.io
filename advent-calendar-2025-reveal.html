@@ -18,9 +18,13 @@ permalink: /advent-calendar-2025-reveal/
         max-width: 1100px;
     }
 
-    .advent-reveal * {
-        box-sizing: border-box;
-    }
+  .advent-reveal * {
+    box-sizing: border-box;
+  }
+
+  .advent-reveal [hidden] {
+    display: none !important;
+  }
 
     .advent-reveal a {
         color: inherit;
@@ -171,6 +175,7 @@ permalink: /advent-calendar-2025-reveal/
     border-radius: 18px;
     overflow: hidden;
     cursor: pointer;
+    perspective: 1800px;
     background:
             linear-gradient(
                 135deg,
@@ -187,19 +192,25 @@ permalink: /advent-calendar-2025-reveal/
         color: #fff8ef;
     }
 
-    .advent-door-face,
-    .advent-door-reveal {
-        width: 100%;
-        height: 100%;
-    }
+  .advent-door-face,
+  .advent-door-reveal {
+    width: 100%;
+    height: 100%;
+  }
 
-    .advent-door-face {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        text-align: center;
-        padding: 1.25rem;
-    }
+  .advent-door-face {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 1.25rem;
+    transform-origin: left center;
+    backface-visibility: hidden;
+    transition: transform 0.95s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.35s ease;
+    box-shadow: inset -18px 0 28px rgba(0, 0, 0, 0.12);
+  }
 
     .advent-door-face strong {
         display: block;
@@ -208,37 +219,90 @@ permalink: /advent-calendar-2025-reveal/
         margin-bottom: 0.6rem;
     }
 
-    .advent-door-reveal {
-        display: none;
-        background: #fffdf8;
-        color: var(--ink);
-    }
+  .advent-door-reveal {
+    display: block;
+    background: #fffdf8;
+    color: var(--ink);
+    opacity: 0;
+    pointer-events: none;
+    transform: scale(0.94) translateY(18px);
+    transition: opacity 0.45s ease, transform 0.55s cubic-bezier(0.16, 1, 0.3, 1);
+  }
 
-    .advent-card.is-revealed .advent-door-face {
-        display: none;
-    }
+  .advent-card.is-revealed .advent-door-face {
+    display: none;
+  }
 
   .advent-card.is-revealed .advent-door-reveal {
     display: block;
+    opacity: 1;
+    pointer-events: auto;
+    transform: scale(1);
   }
 
   .advent-card.is-revealed .advent-door {
     cursor: default;
   }
 
-    .advent-bottle {
-        width: 100%;
-        aspect-ratio: 4 / 5;
-        object-fit: cover;
-        display: block;
-        background: linear-gradient(180deg, #efe2cf, #fbf6ee);
-    }
+  .advent-card.is-animating .advent-door-face {
+    transform: rotateY(-128deg) translateX(-10px) scale(0.98);
+    opacity: 0;
+  }
+
+  .advent-card.is-animating .advent-door-reveal,
+  .advent-card.is-revealed .advent-door-reveal {
+    opacity: 1;
+    transform: scale(1);
+  }
+
+  .advent-bottle {
+    width: 100%;
+    aspect-ratio: 4 / 5;
+    object-fit: contain;
+    display: block;
+    padding: 0.75rem;
+    background: linear-gradient(180deg, #efe2cf, #fbf6ee);
+  }
+
+  .advent-bottle-link {
+    display: block;
+  }
+
+  .advent-name-row {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0.4rem;
+  }
 
   .advent-name {
     margin: 0;
     font-size: 1.45rem;
     line-height: 1.25;
     font-weight: 700;
+    flex: 1;
+  }
+
+  .advent-search {
+    flex: 0 0 auto;
+    padding: 0.42rem 0.65rem;
+    border: 1px solid rgba(158, 106, 47, 0.32);
+    border-radius: 999px;
+    background: rgba(158, 106, 47, 0.12);
+    color: var(--accent-deep);
+    font-size: 0.76rem;
+    font-weight: 700;
+    line-height: 1;
+    text-decoration: none;
+    white-space: nowrap;
+    transition: background 0.18s ease, color 0.18s ease, border-color 0.18s ease;
+  }
+
+  .advent-search:hover,
+  .advent-search:focus-visible {
+    background: rgba(158, 106, 47, 0.18);
+    border-color: rgba(158, 106, 47, 0.42);
+    color: var(--accent-deep);
   }
 
     @media (min-width: 900px) {
@@ -428,11 +492,15 @@ permalink: /advent-calendar-2025-reveal/
     function revealMarkup(item) {
         if (item.image) {
             return (
+                '<a class="advent-bottle-link" href="' +
+                item.image +
+                '" target="_blank" rel="noopener noreferrer">' +
                 '<img class="advent-bottle" src="' +
                 item.image +
                 '" alt="' +
                 item.name.replace(/"/g, "&quot;") +
-                '">'
+                '">' +
+                "</a>"
             );
         }
 
@@ -442,6 +510,7 @@ permalink: /advent-calendar-2025-reveal/
     function renderCards() {
         grid.innerHTML = bottles
             .map((item) => {
+                const searchUrl = "https://www.google.com/search?q=" + encodeURIComponent(item.name);
                 return (
                     '<article class="advent-card" data-day="' +
                     item.day +
@@ -453,9 +522,14 @@ permalink: /advent-calendar-2025-reveal/
                     '<div class="advent-status" data-status>Hidden</div>' +
                     "</div>" +
                     '<div class="advent-card-body">' +
-                    '<h2 class="advent-name" data-name hidden>' +
+                    '<div class="advent-name-row" data-name-row hidden>' +
+                    '<h2 class="advent-name" data-name>' +
                     item.name +
                     "</h2>" +
+                    '<a class="advent-search" href="' +
+                    searchUrl +
+                    '" target="_blank" rel="noopener noreferrer">Google</a>' +
+                    "</div>" +
                     '<div class="advent-door">' +
                     '<div class="advent-door-face">' +
                     "<div><strong>" +
@@ -475,14 +549,36 @@ permalink: /advent-calendar-2025-reveal/
     }
 
     function setCardState(card, revealed) {
-        const name = card.querySelector("[data-name]");
+        const nameRow = card.querySelector("[data-name-row]");
         const button = card.querySelector("[data-toggle]");
         const status = card.querySelector("[data-status]");
 
         card.classList.toggle("is-revealed", revealed);
-        name.hidden = !revealed;
+        card.classList.remove("is-animating");
+        nameRow.hidden = !revealed;
         button.textContent = revealed ? "Hide" : "Reveal";
         status.textContent = revealed ? "Revealed" : "Hidden";
+    }
+
+    function animateReveal(card) {
+        const nameRow = card.querySelector("[data-name-row]");
+        const button = card.querySelector("[data-toggle]");
+        const status = card.querySelector("[data-status]");
+
+        if (card.classList.contains("is-revealed") || card.classList.contains("is-animating")) {
+            return;
+        }
+
+        card.classList.add("is-animating");
+        nameRow.hidden = false;
+        button.textContent = "Hide";
+        status.textContent = "Opening";
+
+        window.setTimeout(function () {
+            card.classList.remove("is-animating");
+            card.classList.add("is-revealed");
+            status.textContent = "Revealed";
+        }, 780);
     }
 
     renderCards();
@@ -491,7 +587,11 @@ permalink: /advent-calendar-2025-reveal/
     const button = event.target.closest("[data-toggle]");
     if (button) {
       const card = button.closest(".advent-card");
-      setCardState(card, !card.classList.contains("is-revealed"));
+      if (card.classList.contains("is-revealed")) {
+        setCardState(card, false);
+      } else {
+        animateReveal(card);
+      }
       return;
     }
 
@@ -502,7 +602,7 @@ permalink: /advent-calendar-2025-reveal/
 
     const card = door.closest(".advent-card");
     if (!card.classList.contains("is-revealed")) {
-      setCardState(card, true);
+      animateReveal(card);
     }
   });
 
