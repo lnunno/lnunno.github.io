@@ -178,11 +178,17 @@ body {
 .card-topline {
   display: flex;
   justify-content: space-between;
-  gap: 10px;
-  color: var(--brand-deep);
+  gap: 16px;
   font-size: 0.78rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
+}
+
+.card-source-link {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
 }
 
 .card-name {
@@ -212,6 +218,19 @@ body {
 .price-grid dd {
   margin: 8px 0 0;
   font-weight: 700;
+}
+
+.source-link {
+  color: #6ea8ff;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.source-link:hover,
+.source-link:focus-visible {
+  color: #9cc4ff;
+  text-decoration: underline;
 }
 
 .empty-state {

@@ -211,6 +211,7 @@ function renderResults() {
     card.querySelector(".price-one-oz").textContent = currency(item.oneOz);
     card.querySelector(".price-one-point-five-oz").textContent = currency(item.onePointFiveOz);
     card.querySelector(".price-two-oz").textContent = currency(item.twoOz);
+    card.querySelector(".source-link").href = item.sourcePage;
     fragment.append(card);
   }
 
