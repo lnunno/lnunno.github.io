@@ -18,13 +18,13 @@ permalink: /advent-calendar-2025-reveal/
         max-width: 1100px;
     }
 
-  .advent-reveal * {
-    box-sizing: border-box;
-  }
+    .advent-reveal * {
+        box-sizing: border-box;
+    }
 
-  .advent-reveal [hidden] {
-    display: none !important;
-  }
+    .advent-reveal [hidden] {
+        display: none !important;
+    }
 
     .advent-reveal a {
         color: inherit;
@@ -169,14 +169,14 @@ permalink: /advent-calendar-2025-reveal/
         flex: 1;
     }
 
-  .advent-door {
-    position: relative;
-    min-height: 18rem;
-    border-radius: 18px;
-    overflow: hidden;
-    cursor: pointer;
-    perspective: 1800px;
-    background:
+    .advent-door {
+        position: relative;
+        min-height: 18rem;
+        border-radius: 18px;
+        overflow: hidden;
+        cursor: pointer;
+        perspective: 1800px;
+        background:
             linear-gradient(
                 135deg,
                 rgba(111, 66, 21, 0.9),
@@ -192,25 +192,27 @@ permalink: /advent-calendar-2025-reveal/
         color: #fff8ef;
     }
 
-  .advent-door-face,
-  .advent-door-reveal {
-    width: 100%;
-    height: 100%;
-  }
+    .advent-door-face,
+    .advent-door-reveal {
+        width: 100%;
+        height: 100%;
+    }
 
-  .advent-door-face {
-    position: absolute;
-    inset: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    padding: 1.25rem;
-    transform-origin: left center;
-    backface-visibility: hidden;
-    transition: transform 0.95s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.35s ease;
-    box-shadow: inset -18px 0 28px rgba(0, 0, 0, 0.12);
-  }
+    .advent-door-face {
+        position: absolute;
+        inset: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        padding: 1.25rem;
+        transform-origin: left center;
+        backface-visibility: hidden;
+        transition:
+            transform 0.95s cubic-bezier(0.16, 1, 0.3, 1),
+            opacity 0.35s ease;
+        box-shadow: inset -18px 0 28px rgba(0, 0, 0, 0.12);
+    }
 
     .advent-door-face strong {
         display: block;
@@ -219,91 +221,111 @@ permalink: /advent-calendar-2025-reveal/
         margin-bottom: 0.6rem;
     }
 
-  .advent-door-reveal {
-    display: block;
-    background: #fffdf8;
-    color: var(--ink);
-    opacity: 0;
-    pointer-events: none;
-    transform: scale(0.94) translateY(18px);
-    transition: opacity 0.45s ease, transform 0.55s cubic-bezier(0.16, 1, 0.3, 1);
-  }
+    .advent-door-reveal {
+        display: block;
+        background: #fffdf8;
+        color: var(--ink);
+        opacity: 0;
+        pointer-events: none;
+        transform: scale(0.94) translateY(18px);
+        transition:
+            opacity 0.45s ease,
+            transform 0.55s cubic-bezier(0.16, 1, 0.3, 1);
+    }
 
-  .advent-card.is-revealed .advent-door-face {
-    display: none;
-  }
+    .advent-card.is-revealed .advent-door-face {
+        display: none;
+    }
 
-  .advent-card.is-revealed .advent-door-reveal {
-    display: block;
-    opacity: 1;
-    pointer-events: auto;
-    transform: scale(1);
-  }
+    .advent-card.is-revealed .advent-door-reveal {
+        display: block;
+        opacity: 1;
+        pointer-events: auto;
+        transform: scale(1);
+    }
 
-  .advent-card.is-revealed .advent-door {
-    cursor: default;
-  }
+    .advent-card.is-revealed .advent-door {
+        cursor: default;
+    }
 
-  .advent-card.is-animating .advent-door-face {
-    transform: rotateY(-128deg) translateX(-10px) scale(0.98);
-    opacity: 0;
-  }
+    .advent-card.is-animating .advent-door-face {
+        transform: rotateY(-128deg) translateX(-10px) scale(0.98);
+        opacity: 0;
+    }
 
-  .advent-card.is-animating .advent-door-reveal,
-  .advent-card.is-revealed .advent-door-reveal {
-    opacity: 1;
-    transform: scale(1);
-  }
+    .advent-card.is-animating .advent-door-reveal,
+    .advent-card.is-revealed .advent-door-reveal {
+        opacity: 1;
+        transform: scale(1);
+    }
 
-  .advent-bottle {
-    width: 100%;
-    aspect-ratio: 4 / 5;
-    object-fit: contain;
-    display: block;
-    padding: 0.75rem;
-    background: linear-gradient(180deg, #efe2cf, #fbf6ee);
-  }
+    .advent-bottle {
+        width: 100%;
+        aspect-ratio: 4 / 5;
+        object-fit: contain;
+        display: block;
+        padding: 0.75rem;
+        background: linear-gradient(180deg, #efe2cf, #fbf6ee);
+    }
 
-  .advent-bottle-link {
-    display: block;
-  }
+    .advent-bottle-link {
+        position: relative;
+        display: block;
+    }
 
-  .advent-name-row {
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    gap: 0.4rem;
-  }
+    .advent-image-badge {
+        position: absolute;
+        top: 0.6rem;
+        right: 0.6rem;
+        padding: 0.28rem 0.5rem;
+        border-radius: 999px;
+        background: rgba(84, 53, 20, 0.8);
+        color: #fffdf8;
+        font-size: 0.68rem;
+        font-weight: 700;
+        line-height: 1;
+        letter-spacing: 0.02em;
+    }
 
-  .advent-name {
-    margin: 0;
-    font-size: 1.45rem;
-    line-height: 1.25;
-    font-weight: 700;
-    flex: 1;
-  }
+    .advent-name-row {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 0.4rem;
+    }
 
-  .advent-search {
-    flex: 0 0 auto;
-    padding: 0.42rem 0.65rem;
-    border: 1px solid rgba(158, 106, 47, 0.32);
-    border-radius: 999px;
-    background: rgba(158, 106, 47, 0.12);
-    color: var(--accent-deep);
-    font-size: 0.76rem;
-    font-weight: 700;
-    line-height: 1;
-    text-decoration: none;
-    white-space: nowrap;
-    transition: background 0.18s ease, color 0.18s ease, border-color 0.18s ease;
-  }
+    .advent-name {
+        margin: 0;
+        font-size: 1.45rem;
+        line-height: 1.25;
+        font-weight: 700;
+        flex: 1;
+    }
 
-  .advent-search:hover,
-  .advent-search:focus-visible {
-    background: rgba(158, 106, 47, 0.18);
-    border-color: rgba(158, 106, 47, 0.42);
-    color: var(--accent-deep);
-  }
+    .advent-search {
+        flex: 0 0 auto;
+        padding: 0.42rem 0.65rem;
+        border: 1px solid rgba(158, 106, 47, 0.32);
+        border-radius: 999px;
+        background: rgba(158, 106, 47, 0.12);
+        color: var(--accent-deep);
+        font-size: 0.76rem;
+        font-weight: 700;
+        line-height: 1;
+        text-decoration: none;
+        white-space: nowrap;
+        transition:
+            background 0.18s ease,
+            color 0.18s ease,
+            border-color 0.18s ease;
+    }
+
+    .advent-search:hover,
+    .advent-search:focus-visible {
+        background: rgba(158, 106, 47, 0.18);
+        border-color: rgba(158, 106, 47, 0.42);
+        color: var(--accent-deep);
+    }
 
     @media (min-width: 900px) {
         .advent-hero {
@@ -328,11 +350,6 @@ permalink: /advent-calendar-2025-reveal/
             <div class="advent-hero-copy">
                 <p class="advent-kicker">Scotch Club Source Remake</p>
                 <h1 class="advent-title">Advent Calendar 2025</h1>
-                <p class="advent-subtitle">
-                    Same lineup text and original image assets from the source
-                    page, but each day starts hidden so you can reveal the
-                    bottle and name on demand.
-                </p>
                 <div class="advent-toolbar">
                     <button class="advent-button" type="button" id="reveal-all">
                         Reveal All
@@ -418,67 +435,80 @@ permalink: /advent-calendar-2025-reveal/
         {
             day: 12,
             name: "Braeval 2008 'Some dark delicious mess' 16yr Cask 113.73 Scotch Malt Whisky Society",
-            image: null,
+            image: "/assets/advent-2025-web/day12.png",
+            addedFromWeb: true,
         },
         {
             day: 13,
             name: "Blair Athol 2013 Single Cask Nation 11yr Toasted French Oak #181283",
-            image: null,
+            image: "/assets/advent-2025-web/day13.png",
+            addedFromWeb: true,
         },
         {
             day: 14,
             name: "Mannochmore 2009 'Dessert course at the speakeasy' 15yr Cask 64.158 Scotch Malt Whisky Society",
-            image: null,
+            image: "/assets/advent-2025-web/day14.png",
+            addedFromWeb: true,
         },
         {
             day: 15,
             name: "Bunnahabhain 2013 'Hefty peat smoke!' 11yr Cask 10.285 Scotch Malt Whisky Society",
-            image: null,
+            image: "/assets/advent-2025-web/day15.png",
+            addedFromWeb: true,
         },
         {
             day: 16,
             name: "Dailuaine 2011 Creetown 14yr",
-            image: null,
+            image: "/assets/advent-2025-web/day16.jpg",
+            addedFromWeb: true,
         },
         {
             day: 17,
             name: "Glenburgie 2014 'European Vacation' 9yr Cask 71.108 Scotch Malt Whisky Society",
-            image: null,
+            image: "/assets/advent-2025-web/day17.png",
+            addedFromWeb: true,
         },
         {
             day: 18,
             name: "Teaninich 2009 Single Cask Nation 15yr Charred Red Wine #162418",
-            image: null,
+            image: "/assets/advent-2025-web/day18.png",
+            addedFromWeb: true,
         },
         {
             day: 19,
             name: "Inchgower 2008 'Bloody beautiful!' 16yr Cask 18.67 Scotch Malt Whisky Society",
-            image: null,
+            image: "/assets/advent-2025-web/day19.png",
+            addedFromWeb: true,
         },
         {
             day: 20,
             name: "Adnams English Single Malt",
-            image: null,
+            image: "/assets/advent-2025-web/day20.webp",
+            addedFromWeb: true,
         },
         {
             day: 21,
             name: "Mannochmore 2007 Single Cask Nation 17yr Charred Red Wine #173445",
-            image: null,
+            image: "/assets/advent-2025-web/day21.png",
+            addedFromWeb: true,
         },
         {
             day: 22,
             name: "Aberfeldy 2014 Single Cask Nation 10yr 2nd fill Bourbon Barrel #193020",
-            image: null,
+            image: "/assets/advent-2025-web/day22.png",
+            addedFromWeb: true,
         },
         {
             day: 23,
             name: "Compass Box Delos",
-            image: null,
+            image: "/assets/advent-2025-web/day23.jpg",
+            addedFromWeb: true,
         },
         {
             day: 24,
             name: "Isle of Arran (Lochranza) 2015 'A sensation of summer' 9yr Cask 121.116 Scotch Malt Whisky Society",
-            image: null,
+            image: "/assets/advent-2025-web/day24.png",
+            addedFromWeb: true,
         },
         {
             day: 25,
@@ -495,6 +525,9 @@ permalink: /advent-calendar-2025-reveal/
                 '<a class="advent-bottle-link" href="' +
                 item.image +
                 '" target="_blank" rel="noopener noreferrer">' +
+                (item.addedFromWeb
+                    ? '<span class="advent-image-badge" title="Image added from the web, not from the original Scotch Club page">Web image</span>'
+                    : "") +
                 '<img class="advent-bottle" src="' +
                 item.image +
                 '" alt="' +
@@ -510,7 +543,9 @@ permalink: /advent-calendar-2025-reveal/
     function renderCards() {
         grid.innerHTML = bottles
             .map((item) => {
-                const searchUrl = "https://www.google.com/search?q=" + encodeURIComponent(item.name);
+                const searchUrl =
+                    "https://www.google.com/search?q=" +
+                    encodeURIComponent(item.name);
                 return (
                     '<article class="advent-card" data-day="' +
                     item.day +
@@ -565,7 +600,10 @@ permalink: /advent-calendar-2025-reveal/
         const button = card.querySelector("[data-toggle]");
         const status = card.querySelector("[data-status]");
 
-        if (card.classList.contains("is-revealed") || card.classList.contains("is-animating")) {
+        if (
+            card.classList.contains("is-revealed") ||
+            card.classList.contains("is-animating")
+        ) {
             return;
         }
 
@@ -583,28 +621,28 @@ permalink: /advent-calendar-2025-reveal/
 
     renderCards();
 
-  grid.addEventListener("click", function (event) {
-    const button = event.target.closest("[data-toggle]");
-    if (button) {
-      const card = button.closest(".advent-card");
-      if (card.classList.contains("is-revealed")) {
-        setCardState(card, false);
-      } else {
-        animateReveal(card);
-      }
-      return;
-    }
+    grid.addEventListener("click", function (event) {
+        const button = event.target.closest("[data-toggle]");
+        if (button) {
+            const card = button.closest(".advent-card");
+            if (card.classList.contains("is-revealed")) {
+                setCardState(card, false);
+            } else {
+                animateReveal(card);
+            }
+            return;
+        }
 
-    const door = event.target.closest(".advent-door");
-    if (!door) {
-      return;
-    }
+        const door = event.target.closest(".advent-door");
+        if (!door) {
+            return;
+        }
 
-    const card = door.closest(".advent-card");
-    if (!card.classList.contains("is-revealed")) {
-      animateReveal(card);
-    }
-  });
+        const card = door.closest(".advent-card");
+        if (!card.classList.contains("is-revealed")) {
+            animateReveal(card);
+        }
+    });
 
     document
         .getElementById("reveal-all")
