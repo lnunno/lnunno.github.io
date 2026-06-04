@@ -210,8 +210,9 @@ This scrollable overview shows the biggest arcs across the whole period. The per
     <div class="binge-overview-row"><div class="binge-overview-bar sf" data-dates="Nov 18 – Nov 24, 2023" style="--start:59; --span:1;">Sun Eater side stories</div></div>
     <div class="binge-overview-row"><div class="binge-overview-bar sf" data-dates="Jan 30, 2024" style="--start:61; --span:1;">Disquiet Gods</div></div>
     <div class="binge-overview-row"><div class="binge-overview-bar visual" data-dates="Feb 14 – May 21, 2024" style="--start:62; --span:4;">Vinland Saga, 11 omnibuses</div></div>
-    <div class="binge-overview-row"><div class="binge-overview-bar sf" data-dates="Jul 13 – Sep 24, 2024" style="--start:67; --span:3;">Xeelee, 4 books</div></div>
+    <div class="binge-overview-row"><div class="binge-overview-bar sf" data-dates="Jul 13 – Nov 17, 2024" style="--start:67; --span:5;">Xeelee, 5 books</div></div>
     <div class="binge-overview-row"><div class="binge-overview-bar sf" data-dates="Jan 25 – Apr 4, 2025" style="--start:73; --span:4;">Foundation, 3 books</div></div>
+    <div class="binge-overview-row"><div class="binge-overview-bar sf" data-dates="Jul 15 – Dec 28, 2025" style="--start:79; --span:6;">Destiny's Children, 3 books</div></div>
     <div class="binge-overview-row"><div class="binge-overview-bar fantasy" data-dates="Mar 26 – Jul 22, 2025" style="--start:75; --span:5;">Forgotten Warrior, 5 books</div></div>
     <div class="binge-overview-row"><div class="binge-overview-bar fantasy" data-dates="Aug 15 – Dec 9, 2025" style="--start:80; --span:5;">The Passage, 3 books</div></div>
     <div class="binge-overview-row"><div class="binge-overview-bar fantasy" data-dates="Sep 26, 2025 – Jan 16, 2026" style="--start:81; --span:5;">Shadowmarch, 4 books</div></div>
@@ -406,7 +407,7 @@ This is the year I’d use as your ideal template: big ambition + comics + emoti
       <div class="binge-row"><div class="binge-bar sf" data-dates="Jan 30, 2024" style="--start:1; --span:1;">Disquiet Gods</div></div>
       <div class="binge-row"><div class="binge-bar fantasy" data-dates="Mar 12 – Apr 2, 2024" style="--start:3; --span:2;">Bound and Broken, 4 entries</div></div>
       <div class="binge-row"><div class="binge-bar visual" data-dates="Jun 29 – Jul 7, 2024" style="--start:6; --span:2;">Berserk, 6 volumes</div></div>
-      <div class="binge-row"><div class="binge-bar sf" data-dates="Jul 13 – Sep 24, 2024" style="--start:7; --span:3;">Xeelee, 4 books</div></div>
+      <div class="binge-row"><div class="binge-bar sf" data-dates="Jul 13 – Nov 17, 2024" style="--start:7; --span:5;">Xeelee, 5 books</div></div>
       <div class="binge-row"><div class="binge-bar visual" data-dates="Nov 19, 2024 – Jan 4, 2025" style="--start:11; --span:2;">Pluto, 8 volumes</div></div>
     </div>
   </div>
@@ -418,12 +419,12 @@ This is the year I’d use as your ideal template: big ambition + comics + emoti
 | **Feb 14 – May 21, 2024**       | **Vinland Saga Omnibus Vol. 1–11**   | Eleven omnibuses in about three months. Strong fit with your art/theme/historical mode.                                  |
 | **Mar 12 – Apr 2, 2024**        | **The Bound and the Broken cluster** | Four entries in about three weeks.                                                                                       |
 | **Jun 29 – Jul 7, 2024**        | **Berserk Vol. 36–41**               | Six volumes in about a week.                                                                                             |
-| **Jul 13 – Sep 24, 2024**       | **Xeelee Sequence #1–4**             | Four Baxter books in about 10 weeks. Strong big-SF scale binge.                                                          |
+| **Jul 13 – Nov 17, 2024**       | **Xeelee Sequence #1–4 + Vacuum Diagrams** | _Raft_, _Timelike Infinity_, _Flux_, _Ring_, and _Vacuum Diagrams_: five Baxter books across about four months.          |
 | **Oct 11, 2024 – Jan 17, 2025** | **Innocent Omnibus Vol. 1–3**        | Three omnibuses over about three months. Art-first, but your ratings were more mixed.                                    |
 | **Nov 19, 2024 – Jan 4, 2025**  | **Pluto Vol. 1–8**                   | Full Urasawa/Tezuka series in about 7 weeks. Strong ratings.                                                             |
 | **Dec 17, 2024 – Feb 16, 2025** | **Wheel of Time #1–4-ish**           | You moved through early Wheel of Time across two months, though not strictly in publication order in the export display. |
 
-**Pattern:** 2024 is less explosive than 2021–2023, but still has distinct binging: _Vinland Saga_, _Berserk_, _Xeelee_, _Pluto_. The difference is that there are fewer simultaneous major new discoveries.
+**Pattern:** 2024 is less explosive than 2021–2023, but still has distinct binging: _Vinland Saga_, _Berserk_, Baxter's Xeelee books, and _Pluto_. The difference is that there are fewer simultaneous major new discoveries.
 
 ## 2025: slower pace, longer arcs, comfort-series mode
 
@@ -436,6 +437,7 @@ This is the year I’d use as your ideal template: big ambition + comics + emoti
       <div class="binge-row"><div class="binge-bar sf" data-dates="Jan 25 – Apr 4, 2025" style="--start:1; --span:4;">Foundation, 3 books</div></div>
       <div class="binge-row"><div class="binge-bar fantasy" data-dates="Mar 26 – Jul 22, 2025" style="--start:3; --span:5;">Forgotten Warrior, 5 books</div></div>
       <div class="binge-row"><div class="binge-bar comfort" data-dates="Apr 24 – May 16, 2025" style="--start:4; --span:2;">Bosch #7-9, 3 books</div></div>
+      <div class="binge-row"><div class="binge-bar sf" data-dates="Jul 15 – Dec 28, 2025" style="--start:7; --span:6;">Destiny's Children, 3 books</div></div>
       <div class="binge-row"><div class="binge-bar fantasy" data-dates="Aug 15 – Dec 9, 2025" style="--start:8; --span:5;">The Passage, 3 books</div></div>
       <div class="binge-row"><div class="binge-bar fantasy" data-dates="Sep 26, 2025 – Jan 16, 2026" style="--start:9; --span:4;">Shadowmarch, 4 books</div></div>
       <div class="binge-row"><div class="binge-bar sf" data-dates="Jul 20 – Oct 19, 2025" style="--start:7; --span:4;">Sun Eater finale stretch, 2 entries</div></div>
@@ -449,12 +451,12 @@ This is the year I’d use as your ideal template: big ambition + comics + emoti
 | **Jan 25 – Apr 4, 2025**        | **Foundation trilogy**                 | Three Asimov books across about 10 weeks. Moderate rating signal.                                    |
 | **Mar 26 – Jul 22, 2025**       | **Saga of the Forgotten Warrior #2–6** | Five entries over four months. Strong ratings.                                                       |
 | **Apr 24 – May 16, 2025**       | **Harry Bosch #7–9**                   | Three Bosch books in three weeks.                                                                    |
+| **Jul 15 – Dec 28, 2025**       | **Destiny’s Children**                 | _Coalescent_, _Exultant_, and _Transcendent_: Baxter's Xeelee-linked trilogy across the second half of the year. |
 | **Jul 20 – Oct 19, 2025**       | **Sun Eater finale stretch**           | _Tales of the Sun Eater, Vol. 4_ in July, then _Shadows Upon Time_ in October, closing the main Ruocchio sequence. |
 | **Jul 26 – Jul 28, 2025**       | **The Climber Vol. 1–2**               | Two volumes in three days. This is small but potentially important given your art/theme preference.  |
 | **Aug 15 – Dec 9, 2025**        | **The Passage trilogy**                | Full trilogy over four months, very strong ratings.                                                  |
 | **Sep 26, 2025 – Jan 16, 2026** | **Shadowmarch**                        | Full quartet across about four months, extremely strong ratings.                                     |
 | **Nov 18, 2025 – Feb 23, 2026** | **Harry Bosch #10–13**                 | Another Bosch run across three months.                                                               |
-| **Dec 28, 2025**                | **Destiny’s Children completion**      | You finished the Baxter sequence with _Transcendent_ after reading the earlier books in July/August. |
 
 **Pattern:** 2025 is less discovery-binge and more **project completion / comfort continuation**. You’re working through series, but with longer gaps.
 
@@ -505,8 +507,9 @@ These are the most important by volume/intensity:
 |    9 | **Vagabond**                               | Jan 29 – Jul 2, 2023                            | 13 volumes / 5 months        |
 |   10 | **Monster**                                | Jul 7 – Aug 26, 2023                            | 9 volumes / 7 weeks          |
 |   11 | **Vinland Saga**                           | Feb 14 – May 21, 2024                           | 11 omnibuses / 3 months      |
-|   12 | **Matthew Corbett**                        | Jul 16, 2022 – Jan 18, 2023                     | 7 books / 6 months           |
-|   13 | **Shadowmarch**                            | Sep 26, 2025 – Jan 16, 2026                     | 4 books / 4 months           |
+|   12 | **Stephen Baxter / Xeelee-related run**    | Jul 13, 2024 – Dec 28, 2025                     | 8 books across two waves     |
+|   13 | **Matthew Corbett**                        | Jul 16, 2022 – Jan 18, 2023                     | 7 books / 6 months           |
+|   14 | **Shadowmarch**                            | Sep 26, 2025 – Jan 16, 2026                     | 4 books / 4 months           |
 
 ## What the timeline says about you
 
@@ -516,7 +519,7 @@ There are three kinds of project mode in your data:
 
 ### 1. Full-commitment epic project
 
-Examples: **Malazan, Hobb, Bakker, Dandelion Dynasty, Sun Eater, Shadowmarch, The Passage**.
+Examples: **Malazan, Hobb, Bakker, Baxter, Dandelion Dynasty, Sun Eater, Shadowmarch, The Passage**.
 
 These are slower but intense. You seem to like when the series has a full architecture and you can feel the long game.
 
@@ -541,8 +544,8 @@ For example:
 - 2021: Bakker / Expanse / Saxon Stories plus _Berserk_
 - 2022: Dandelion / Sun Eater / Three-Body plus _Saga_
 - 2023: Hamilton / Tchaikovsky / Earthsea plus _Vagabond_, _Monster_, _Real_
-- 2024: Reynolds / Xeelee plus _Vinland Saga_, _Pluto_
-- 2025: _The Passage_ / _Shadowmarch_ plus Bosch
+- 2024: Reynolds / Baxter's Xeelee books plus _Vinland Saga_, _Pluto_
+- 2025: _The Passage_ / _Shadowmarch_ plus Baxter and Bosch
 
 So the best near-term structure is probably not “pick one series and only read that.” It is:
 
