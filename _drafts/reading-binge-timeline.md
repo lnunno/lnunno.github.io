@@ -9,7 +9,109 @@ categories: books
 
 I define a reading binge as **2+ books/volumes in a series within a tight window**, with the most meaningful binges being 3+ entries or a full arc.
 
+This timeline uses month-scale sketches for the bigger binge arcs. Bar length shows the rough time span, and the label shows the amount read.
+
+<style>
+  .binge-timeline {
+    --month-border: #d7d7d7;
+    --month-text: #666;
+    --fantasy: #476a9f;
+    --sf: #4f8a7b;
+    --visual: #a35c5c;
+    --comfort: #8a6f3d;
+    display: grid;
+    gap: 1.6rem;
+    margin: 1.5rem 0 2rem;
+  }
+
+  .binge-year {
+    display: grid;
+    gap: 0.4rem;
+    min-width: 42rem;
+  }
+
+  .binge-year-wrap {
+    overflow-x: auto;
+    padding-bottom: 0.35rem;
+  }
+
+  .binge-year-title {
+    font-weight: 700;
+  }
+
+  .binge-months,
+  .binge-row {
+    display: grid;
+    grid-template-columns: repeat(12, minmax(3rem, 1fr));
+    column-gap: 0.2rem;
+    align-items: center;
+  }
+
+  .binge-months {
+    color: var(--month-text);
+    font-size: 0.75rem;
+    border-bottom: 1px solid var(--month-border);
+    padding-bottom: 0.2rem;
+  }
+
+  .binge-bar {
+    grid-column: var(--start) / span var(--span);
+    border-radius: 4px;
+    color: #fff;
+    font-size: 0.78rem;
+    line-height: 1.2;
+    padding: 0.35rem 0.45rem;
+    min-height: 1.75rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .binge-bar.fantasy { background: var(--fantasy); }
+  .binge-bar.sf { background: var(--sf); }
+  .binge-bar.visual { background: var(--visual); }
+  .binge-bar.comfort { background: var(--comfort); }
+
+  .binge-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem 1rem;
+    color: #555;
+    font-size: 0.85rem;
+  }
+
+  .binge-key {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+  }
+
+  .binge-swatch {
+    width: 0.8rem;
+    height: 0.8rem;
+    border-radius: 3px;
+    display: inline-block;
+  }
+</style>
+
+<div class="binge-legend" aria-label="Timeline legend">
+  <span class="binge-key"><span class="binge-swatch" style="background:#476a9f"></span>Fantasy</span>
+  <span class="binge-key"><span class="binge-swatch" style="background:#4f8a7b"></span>SF</span>
+  <span class="binge-key"><span class="binge-swatch" style="background:#a35c5c"></span>Manga/comics</span>
+  <span class="binge-key"><span class="binge-swatch" style="background:#8a6f3d"></span>Comfort/adventure</span>
+</div>
+
 ## 2019: Expanse into Malazan
+
+<div class="binge-timeline">
+  <div class="binge-year-wrap">
+    <div class="binge-year">
+      <div class="binge-months"><span>Jan</span><span>Feb</span><span>Mar</span><span>Apr</span><span>May</span><span>Jun</span><span>Jul</span><span>Aug</span><span>Sep</span><span>Oct</span><span>Nov</span><span>Dec</span></div>
+      <div class="binge-row"><div class="binge-bar sf" style="--start:1; --span:3;">Expanse, 5 books</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" style="--start:9; --span:4;">Malazan #1-6, 6 books</div></div>
+    </div>
+  </div>
+</div>
 
 | Dates                           | Series / cluster               | What happened                                                                                                |
 | ------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------ |
@@ -19,6 +121,18 @@ I define a reading binge as **2+ books/volumes in a series within a tight window
 **Pattern:** Your tracked reading starts with exactly the kind of thing you still like: large systems, factions, long arcs, and cumulative payoff.
 
 ## 2020: Malazan into the Robin Hobb year
+
+<div class="binge-timeline">
+  <div class="binge-year-wrap">
+    <div class="binge-year">
+      <div class="binge-months"><span>Jan</span><span>Feb</span><span>Mar</span><span>Apr</span><span>May</span><span>Jun</span><span>Jul</span><span>Aug</span><span>Sep</span><span>Oct</span><span>Nov</span><span>Dec</span></div>
+      <div class="binge-row"><div class="binge-bar fantasy" style="--start:1; --span:3;">Malazan #7-10, 4 books</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" style="--start:4; --span:2;">First Law, 3 books</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" style="--start:5; --span:8;">Realm of the Elderlings, 14+ books</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" style="--start:12; --span:1;">Faithful and the Fallen, 4 books</div></div>
+    </div>
+  </div>
+</div>
 
 | Dates                          | Series / cluster            | What happened                                                                                   |
 | ------------------------------ | --------------------------- | ----------------------------------------------------------------------------------------------- |
@@ -36,6 +150,21 @@ I define a reading binge as **2+ books/volumes in a series within a tight window
 
 ## 2021: the explosion year
 
+<div class="binge-timeline">
+  <div class="binge-year-wrap">
+    <div class="binge-year">
+      <div class="binge-months"><span>Jan</span><span>Feb</span><span>Mar</span><span>Apr</span><span>May</span><span>Jun</span><span>Jul</span><span>Aug</span><span>Sep</span><span>Oct</span><span>Nov</span><span>Dec</span></div>
+      <div class="binge-row"><div class="binge-bar fantasy" style="--start:2; --span:3;">Memory, Sorrow, and Thorn, 3+ books</div></div>
+      <div class="binge-row"><div class="binge-bar visual" style="--start:5; --span:6;">Berserk, 23 volumes</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" style="--start:6; --span:5;">Second Apocalypse, 7 books</div></div>
+      <div class="binge-row"><div class="binge-bar comfort" style="--start:7; --span:6;">Horus Heresy, 9 entries</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" style="--start:8; --span:2;">Age of Madness, 3 books</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" style="--start:11; --span:2;">Green Bone Saga, 3 books</div></div>
+      <div class="binge-row"><div class="binge-bar sf" style="--start:12; --span:1;">Sun Eater kickoff, 2 entries</div></div>
+    </div>
+  </div>
+</div>
+
 | Dates                           | Series / cluster                           | What happened                                                                                 |
 | ------------------------------- | ------------------------------------------ | --------------------------------------------------------------------------------------------- |
 | **Jan 2 – Jan 15, 2021**        | **Hyperion Cantos #1–2**                   | Two major SF books in two weeks.                                                              |
@@ -46,7 +175,7 @@ I define a reading binge as **2+ books/volumes in a series within a tight window
 | **May 2 – May 8, 2021**         | **Children of Time #1–2**                  | Two Tchaikovsky SF books in a week, both strong.                                              |
 | **May 17 – Oct 16, 2021**       | **Berserk Vol. 1–23**                      | A long visual binge over five months. This is one of your clearest manga commitments.         |
 | **May 22 – Jun 21, 2021**       | **Necroscope #1–3**                        | Three horror books in one month.                                                              |
-| **Jun 29 – Aug 14, 2021**       | **Prince of Nothing**                      | Full trilogy in about 6 weeks, very strong ratings.                                           |
+| **Jun 29 – Oct 15, 2021**       | **The Second Apocalypse**                  | Bakker's full _Prince of Nothing_ trilogy plus the four _Aspect-Emperor_ books, 7 books in about 15 weeks, with multiple favorite-level ratings. |
 | **Jul 5, 2021 – Jan 29, 2022**  | **Horus Heresy early run**                 | 9 entries over about 7 months. More of a recurring side-binge than one sprint.                |
 | **Aug 1 – Aug 20, 2021**        | **One-Punch Man Vol. 1–4**                 | Quick manga/comics burst.                                                                     |
 | **Aug 24 – Sep 17, 2021**       | **Age of Madness**                         | Full trilogy in under a month. Stronger for you than original First Law.                      |
@@ -55,15 +184,31 @@ I define a reading binge as **2+ books/volumes in a series within a tight window
 | **Sep 27 – Nov 27, 2021**       | **Saxon Stories**                          | 5 books in two months. Historical adventure mode.                                             |
 | **Nov 8 – Dec 14, 2021**        | **Green Bone Saga**                        | Full trilogy in about 5 weeks. Strong payoff signal.                                          |
 | **Dec 1, 2021 – Mar 23, 2022**  | **The Expanse late arc**                   | You returned to finish the late Expanse run from _Strange Dogs_ through _Memory’s Legion_.    |
-| **Dec 28, 2021 – Aug 21, 2022** | **Sun Eater first major arc**              | _Empire of Silence_ through _Ashes of Man_ era, 7 entries over 8 months. Very strong ratings. |
+| **Dec 28 – Dec 29, 2021**       | **Sun Eater kickoff**                      | _Empire of Silence_ and _The Lesser Devil_ back-to-back, starting the Ruocchio run right at the end of the year. |
 
-**Pattern:** 2021 is where your modern reading personality fully appears: manga, grim fantasy, Warhammer/adventure, historical warfare, idea-SF, and full-series payoff binges all happening at once.
+**Pattern:** 2021 is where your modern reading personality fully appears: manga, grim fantasy, Warhammer/adventure, historical warfare, idea-SF, and full-series payoff binges all happening at once. The Bakker run is bigger than a trilogy sample; it is one of the year's major full-commitment projects.
 
 ## 2022: peak volume and peak payoff
+
+<div class="binge-timeline">
+  <div class="binge-year-wrap">
+    <div class="binge-year">
+      <div class="binge-months"><span>Jan</span><span>Feb</span><span>Mar</span><span>Apr</span><span>May</span><span>Jun</span><span>Jul</span><span>Aug</span><span>Sep</span><span>Oct</span><span>Nov</span><span>Dec</span></div>
+      <div class="binge-row"><div class="binge-bar comfort" style="--start:1; --span:3;">Cirque du Freak, 12 books</div></div>
+      <div class="binge-row"><div class="binge-bar sf" style="--start:1; --span:8;">Sun Eater #2-5 + side story, 5 entries</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" style="--start:4; --span:4;">Dandelion Dynasty, 4 books</div></div>
+      <div class="binge-row"><div class="binge-bar visual" style="--start:6; --span:2;">Saga, 10 volumes</div></div>
+      <div class="binge-row"><div class="binge-bar comfort" style="--start:7; --span:6;">Matthew Corbett, 7 entries</div></div>
+      <div class="binge-row"><div class="binge-bar sf" style="--start:8; --span:3;">Three-Body, 3 books</div></div>
+      <div class="binge-row"><div class="binge-bar sf" style="--start:9; --span:4;">Gap Cycle, 5 books</div></div>
+    </div>
+  </div>
+</div>
 
 | Dates                           | Series / cluster                | What happened                                                                                                                        |
 | ------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | **Jan 3 – Mar 5, 2022**         | **Cirque du Freak**             | All 12 books in about two months. Many appear unrated, so this may have been nostalgia/fast-consumption rather than “rating signal.” |
+| **Jan 12 – Aug 21, 2022**       | **Sun Eater main-series catch-up** | _Howling Dark_, _Demon in White_, _Kingdoms of Death_, _Queen Amid Ashes_, and _Ashes of Man_: 5 Ruocchio entries across the year, with the main books all very strong. |
 | **Feb 4 – Feb 13, 2022**        | **Ash and Sand trilogy**        | Full trilogy in 9 days. Very strong binge.                                                                                           |
 | **Mar 8 – Apr 10, 2022**        | **Otherland #1–3**              | Three books in about a month.                                                                                                        |
 | **Mar 21 – Apr 30, 2022**       | **Harry Bosch early cluster**   | Bosch #1–3 in about 6 weeks. This starts a long-term procedural comfort lane.                                                        |
@@ -84,6 +229,22 @@ This is the year I’d use as your ideal template: big ambition + comics + emoti
 
 ## 2023: visual storytelling and modern SF/fantasy surges
 
+<div class="binge-timeline">
+  <div class="binge-year-wrap">
+    <div class="binge-year">
+      <div class="binge-months"><span>Jan</span><span>Feb</span><span>Mar</span><span>Apr</span><span>May</span><span>Jun</span><span>Jul</span><span>Aug</span><span>Sep</span><span>Oct</span><span>Nov</span><span>Dec</span></div>
+      <div class="binge-row"><div class="binge-bar sf" style="--start:1; --span:2;">Void trilogy, 3 books</div></div>
+      <div class="binge-row"><div class="binge-bar visual" style="--start:1; --span:7;">Vagabond, 13 volumes</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" style="--start:3; --span:3;">Shadows of the Apt, 4 books</div></div>
+      <div class="binge-row"><div class="binge-bar visual" style="--start:7; --span:2;">Monster, 9 volumes</div></div>
+      <div class="binge-row"><div class="binge-bar visual" style="--start:7; --span:4;">Parasyte, 8 volumes</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" style="--start:10; --span:3;">Earthsea, 4 books</div></div>
+      <div class="binge-row"><div class="binge-bar visual" style="--start:11; --span:2;">Real, 15 volumes</div></div>
+      <div class="binge-row"><div class="binge-bar sf" style="--start:11; --span:1;">Sun Eater side stories, 2 entries</div></div>
+    </div>
+  </div>
+</div>
+
 | Dates                           | Series / cluster            | What happened                                                              |
 | ------------------------------- | --------------------------- | -------------------------------------------------------------------------- |
 | **Jan 15 – Feb 10, 2023**       | **Void trilogy**            | Peter F. Hamilton’s Void trilogy in under a month.                         |
@@ -97,6 +258,7 @@ This is the year I’d use as your ideal template: big ambition + comics + emoti
 | **Jul 7 – Aug 26, 2023**        | **Monster**                 | Nine Perfect Edition volumes in about 7 weeks. Very strong Urasawa signal. |
 | **Jul 10 – Oct 9, 2023**        | **Parasyte**                | Eight volumes over three months.                                           |
 | **Oct 31, 2023 – Jan 17, 2024** | **Earthsea #1–4**           | Four books across about 11 weeks.                                          |
+| **Nov 18 – Nov 24, 2023**       | **Sun Eater side-story prep** | _The Dregs of Empire_ and _Tales of the Sun Eater, Volume 3_ in one week, setting up the return to the main series. |
 | **Nov 27, 2023 – Jan 27, 2024** | **Real Vol. 1–15**          | Fifteen volumes in two months. Major Inoue signal.                         |
 | **Nov 30 – Dec 25, 2023**       | **Empire of the Wolf**      | Three books in under a month. Strong ratings.                              |
 
@@ -104,8 +266,23 @@ This is the year I’d use as your ideal template: big ambition + comics + emoti
 
 ## 2024: continuation, consolidation, and selected binges
 
+<div class="binge-timeline">
+  <div class="binge-year-wrap">
+    <div class="binge-year">
+      <div class="binge-months"><span>Jan</span><span>Feb</span><span>Mar</span><span>Apr</span><span>May</span><span>Jun</span><span>Jul</span><span>Aug</span><span>Sep</span><span>Oct</span><span>Nov</span><span>Dec</span></div>
+      <div class="binge-row"><div class="binge-bar visual" style="--start:2; --span:4;">Vinland Saga, 11 omnibuses</div></div>
+      <div class="binge-row"><div class="binge-bar sf" style="--start:1; --span:1;">Disquiet Gods</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" style="--start:3; --span:2;">Bound and Broken, 4 entries</div></div>
+      <div class="binge-row"><div class="binge-bar visual" style="--start:6; --span:2;">Berserk, 6 volumes</div></div>
+      <div class="binge-row"><div class="binge-bar sf" style="--start:7; --span:3;">Xeelee, 4 books</div></div>
+      <div class="binge-row"><div class="binge-bar visual" style="--start:11; --span:2;">Pluto, 8 volumes</div></div>
+    </div>
+  </div>
+</div>
+
 | Dates                           | Series / cluster                     | What happened                                                                                                            |
 | ------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| **Jan 30, 2024**                | **Sun Eater #6**                     | _Disquiet Gods_ landed as a major Ruocchio continuation and favorite-level main-series entry.                            |
 | **Feb 14 – May 21, 2024**       | **Vinland Saga Omnibus Vol. 1–11**   | Eleven omnibuses in about three months. Strong fit with your art/theme/historical mode.                                  |
 | **Mar 12 – Apr 2, 2024**        | **The Bound and the Broken cluster** | Four entries in about three weeks.                                                                                       |
 | **Jun 29 – Jul 7, 2024**        | **Berserk Vol. 36–41**               | Six volumes in about a week.                                                                                             |
@@ -118,11 +295,27 @@ This is the year I’d use as your ideal template: big ambition + comics + emoti
 
 ## 2025: slower pace, longer arcs, comfort-series mode
 
+<div class="binge-timeline">
+  <div class="binge-year-wrap">
+    <div class="binge-year">
+      <div class="binge-months"><span>Jan</span><span>Feb</span><span>Mar</span><span>Apr</span><span>May</span><span>Jun</span><span>Jul</span><span>Aug</span><span>Sep</span><span>Oct</span><span>Nov</span><span>Dec</span></div>
+      <div class="binge-row"><div class="binge-bar sf" style="--start:1; --span:4;">Foundation, 3 books</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" style="--start:3; --span:5;">Forgotten Warrior, 5 books</div></div>
+      <div class="binge-row"><div class="binge-bar comfort" style="--start:4; --span:2;">Bosch #7-9, 3 books</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" style="--start:8; --span:5;">The Passage, 3 books</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" style="--start:9; --span:4;">Shadowmarch, 4 books</div></div>
+      <div class="binge-row"><div class="binge-bar sf" style="--start:7; --span:4;">Sun Eater finale stretch, 2 entries</div></div>
+      <div class="binge-row"><div class="binge-bar comfort" style="--start:11; --span:2;">Bosch #10-13, 4 books</div></div>
+    </div>
+  </div>
+</div>
+
 | Dates                           | Series / cluster                       | What happened                                                                                        |
 | ------------------------------- | -------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | **Jan 25 – Apr 4, 2025**        | **Foundation trilogy**                 | Three Asimov books across about 10 weeks. Moderate rating signal.                                    |
 | **Mar 26 – Jul 22, 2025**       | **Saga of the Forgotten Warrior #2–6** | Five entries over four months. Strong ratings.                                                       |
 | **Apr 24 – May 16, 2025**       | **Harry Bosch #7–9**                   | Three Bosch books in three weeks.                                                                    |
+| **Jul 20 – Oct 19, 2025**       | **Sun Eater finale stretch**           | _Tales of the Sun Eater, Vol. 4_ in July, then _Shadows Upon Time_ in October, closing the main Ruocchio sequence. |
 | **Jul 26 – Jul 28, 2025**       | **The Climber Vol. 1–2**               | Two volumes in three days. This is small but potentially important given your art/theme preference.  |
 | **Aug 15 – Dec 9, 2025**        | **The Passage trilogy**                | Full trilogy over four months, very strong ratings.                                                  |
 | **Sep 26, 2025 – Jan 16, 2026** | **Shadowmarch**                        | Full quartet across about four months, extremely strong ratings.                                     |
@@ -134,6 +327,19 @@ This is the year I’d use as your ideal template: big ambition + comics + emoti
 The two most important signals are **The Passage** and **Shadowmarch**: both suggest you still strongly respond to long arcs when the payoff lands.
 
 ## 2026 so far: shorter complete arcs and selective continuation
+
+<div class="binge-timeline">
+  <div class="binge-year-wrap">
+    <div class="binge-year">
+      <div class="binge-months"><span>Jan</span><span>Feb</span><span>Mar</span><span>Apr</span><span>May</span><span>Jun</span><span>Jul</span><span>Aug</span><span>Sep</span><span>Oct</span><span>Nov</span><span>Dec</span></div>
+      <div class="binge-row"><div class="binge-bar sf" style="--start:1; --span:2;">Silo, 3 books</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" style="--start:1; --span:2;">Riftwar, 2 books</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" style="--start:3; --span:1;">Dunk and Egg, 2 novellas</div></div>
+      <div class="binge-row"><div class="binge-bar sf" style="--start:3; --span:2;">Archimedes Engine, 2 books</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" style="--start:5; --span:1;">Malazan Empire, 2 books</div></div>
+    </div>
+  </div>
+</div>
 
 | Dates                    | Series / cluster                              | What happened                                         |
 | ------------------------ | --------------------------------------------- | ----------------------------------------------------- |
@@ -157,13 +363,14 @@ These are the most important by volume/intensity:
 |    3 | **Berserk**                                | May 17, 2021 – Jul 7, 2024                      | Multiple bursts, 40+ volumes |
 |    4 | **Dandelion Dynasty**                      | Apr 22 – Jul 17, 2022                           | 4 big books / 3 months       |
 |    5 | **Saga**                                   | Jun 30 – Jul 10, 2022                           | 10 volumes / 11 days         |
-|    6 | **Sun Eater**                              | Dec 28, 2021 – Aug 21, 2022, then later returns | Major ongoing obsession      |
-|    7 | **Real**                                   | Nov 27, 2023 – Jan 27, 2024                     | 15 volumes / 2 months        |
-|    8 | **Vagabond**                               | Jan 29 – Jul 2, 2023                            | 13 volumes / 5 months        |
-|    9 | **Monster**                                | Jul 7 – Aug 26, 2023                            | 9 volumes / 7 weeks          |
-|   10 | **Vinland Saga**                           | Feb 14 – May 21, 2024                           | 11 omnibuses / 3 months      |
-|   11 | **Matthew Corbett**                        | Jul 16, 2022 – Jan 18, 2023                     | 7 books / 6 months           |
-|   12 | **Shadowmarch**                            | Sep 26, 2025 – Jan 16, 2026                     | 4 books / 4 months           |
+|    6 | **Sun Eater / Ruocchio**                   | Dec 28, 2021 – Aug 21, 2022; Nov 2023; Jan 2024; Jul–Oct 2025 | #1–5 plus side entries, then _Disquiet Gods_ and _Shadows Upon Time_ |
+|    7 | **The Second Apocalypse**                  | Jun 29 – Oct 15, 2021                           | 7 books / 15 weeks           |
+|    8 | **Real**                                   | Nov 27, 2023 – Jan 27, 2024                     | 15 volumes / 2 months        |
+|    9 | **Vagabond**                               | Jan 29 – Jul 2, 2023                            | 13 volumes / 5 months        |
+|   10 | **Monster**                                | Jul 7 – Aug 26, 2023                            | 9 volumes / 7 weeks          |
+|   11 | **Vinland Saga**                           | Feb 14 – May 21, 2024                           | 11 omnibuses / 3 months      |
+|   12 | **Matthew Corbett**                        | Jul 16, 2022 – Jan 18, 2023                     | 7 books / 6 months           |
+|   13 | **Shadowmarch**                            | Sep 26, 2025 – Jan 16, 2026                     | 4 books / 4 months           |
 
 ## What the timeline says about you
 
@@ -173,7 +380,7 @@ There are three kinds of project mode in your data:
 
 ### 1. Full-commitment epic project
 
-Examples: **Malazan, Hobb, Dandelion Dynasty, Sun Eater, Shadowmarch, The Passage**.
+Examples: **Malazan, Hobb, Bakker, Dandelion Dynasty, Sun Eater, Shadowmarch, The Passage**.
 
 These are slower but intense. You seem to like when the series has a full architecture and you can feel the long game.
 
