@@ -78,6 +78,7 @@ This timeline uses month-scale sketches for the bigger binge arcs. Bar length sh
     gap: 0.75rem 1rem;
     color: #555;
     font-size: 0.85rem;
+    margin: 0.75rem 0 0.5rem;
   }
 
   .binge-key {
@@ -94,14 +95,9 @@ This timeline uses month-scale sketches for the bigger binge arcs. Bar length sh
   }
 </style>
 
-<div class="binge-legend" aria-label="Timeline legend">
-  <span class="binge-key"><span class="binge-swatch" style="background:#476a9f"></span>Fantasy</span>
-  <span class="binge-key"><span class="binge-swatch" style="background:#4f8a7b"></span>SF</span>
-  <span class="binge-key"><span class="binge-swatch" style="background:#a35c5c"></span>Manga/comics</span>
-  <span class="binge-key"><span class="binge-swatch" style="background:#8a6f3d"></span>Comfort/adventure</span>
-</div>
-
 ## 2019: Expanse into Malazan
+
+{% include binge-timeline-legend.html %}
 
 <div class="binge-timeline">
   <div class="binge-year-wrap">
@@ -121,6 +117,8 @@ This timeline uses month-scale sketches for the bigger binge arcs. Bar length sh
 **Pattern:** Your tracked reading starts with exactly the kind of thing you still like: large systems, factions, long arcs, and cumulative payoff.
 
 ## 2020: Malazan into the Robin Hobb year
+
+{% include binge-timeline-legend.html %}
 
 <div class="binge-timeline">
   <div class="binge-year-wrap">
@@ -149,6 +147,8 @@ This timeline uses month-scale sketches for the bigger binge arcs. Bar length sh
 **Pattern:** 2020 begins by completing your first huge epic fantasy project, then turns into your first big **emotional long-haul fantasy binge** year. Hobb especially seems to have taught your data that “long series with emotional payoff” is a core mode for you.
 
 ## 2021: the explosion year
+
+{% include binge-timeline-legend.html %}
 
 <div class="binge-timeline">
   <div class="binge-year-wrap">
@@ -190,6 +190,8 @@ This timeline uses month-scale sketches for the bigger binge arcs. Bar length sh
 
 ## 2022: peak volume and peak payoff
 
+{% include binge-timeline-legend.html %}
+
 <div class="binge-timeline">
   <div class="binge-year-wrap">
     <div class="binge-year">
@@ -229,6 +231,8 @@ This is the year I’d use as your ideal template: big ambition + comics + emoti
 
 ## 2023: visual storytelling and modern SF/fantasy surges
 
+{% include binge-timeline-legend.html %}
+
 <div class="binge-timeline">
   <div class="binge-year-wrap">
     <div class="binge-year">
@@ -266,6 +270,8 @@ This is the year I’d use as your ideal template: big ambition + comics + emoti
 
 ## 2024: continuation, consolidation, and selected binges
 
+{% include binge-timeline-legend.html %}
+
 <div class="binge-timeline">
   <div class="binge-year-wrap">
     <div class="binge-year">
@@ -294,6 +300,8 @@ This is the year I’d use as your ideal template: big ambition + comics + emoti
 **Pattern:** 2024 is less explosive than 2021–2023, but still has distinct binging: _Vinland Saga_, _Berserk_, _Xeelee_, _Pluto_. The difference is that there are fewer simultaneous major new discoveries.
 
 ## 2025: slower pace, longer arcs, comfort-series mode
+
+{% include binge-timeline-legend.html %}
 
 <div class="binge-timeline">
   <div class="binge-year-wrap">
@@ -327,6 +335,8 @@ This is the year I’d use as your ideal template: big ambition + comics + emoti
 The two most important signals are **The Passage** and **Shadowmarch**: both suggest you still strongly respond to long arcs when the payoff lands.
 
 ## 2026 so far: shorter complete arcs and selective continuation
+
+{% include binge-timeline-legend.html %}
 
 <div class="binge-timeline">
   <div class="binge-year-wrap">
