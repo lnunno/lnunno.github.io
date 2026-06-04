@@ -12,13 +12,16 @@ I define a reading binge as **2+ books/volumes in a series within a tight window
 This timeline uses month-scale sketches for the bigger binge arcs. Bar length shows the rough time span, and the label shows the amount read.
 
 <style>
-  .binge-timeline {
+  .post {
     --month-border: #d7d7d7;
     --month-text: #666;
     --fantasy: #476a9f;
     --sf: #4f8a7b;
     --visual: #a35c5c;
     --comfort: #8a6f3d;
+  }
+
+  .binge-timeline {
     display: grid;
     gap: 1.6rem;
     margin: 1.5rem 0 2rem;
@@ -58,10 +61,11 @@ This timeline uses month-scale sketches for the bigger binge arcs. Bar length sh
     grid-column: var(--start) / span var(--span);
     border-radius: 4px;
     color: #fff;
+    cursor: help;
     font-size: 0.78rem;
     line-height: 1.2;
-    padding: 0.35rem 0.45rem;
-    min-height: 1.75rem;
+    padding: 0.5rem 0.6rem;
+    min-height: 2.15rem;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
@@ -71,6 +75,58 @@ This timeline uses month-scale sketches for the bigger binge arcs. Bar length sh
   .binge-bar.sf { background: var(--sf); }
   .binge-bar.visual { background: var(--visual); }
   .binge-bar.comfort { background: var(--comfort); }
+
+  .binge-overview-wrap {
+    overflow-x: auto;
+    padding-bottom: 0.5rem;
+  }
+
+  .binge-overview {
+    display: grid;
+    gap: 0.35rem;
+    min-width: 170rem;
+  }
+
+  .binge-overview-years,
+  .binge-overview-months,
+  .binge-overview-row {
+    display: grid;
+    grid-template-columns: repeat(96, minmax(1.65rem, 1fr));
+    column-gap: 0.1rem;
+    align-items: center;
+  }
+
+  .binge-overview-years span {
+    border-bottom: 1px solid var(--month-border);
+    color: #444;
+    font-weight: 700;
+    padding-bottom: 0.2rem;
+    text-align: center;
+  }
+
+  .binge-overview-months {
+    color: var(--month-text);
+    font-size: 0.68rem;
+  }
+
+  .binge-overview-bar {
+    grid-column: var(--start) / span var(--span);
+    border-radius: 4px;
+    color: #fff;
+    cursor: help;
+    font-size: 0.82rem;
+    line-height: 1.2;
+    min-height: 2.25rem;
+    overflow: hidden;
+    padding: 0.55rem 0.7rem;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .binge-overview-bar.fantasy { background: var(--fantasy); }
+  .binge-overview-bar.sf { background: var(--sf); }
+  .binge-overview-bar.visual { background: var(--visual); }
+  .binge-overview-bar.comfort { background: var(--comfort); }
 
   .binge-legend {
     display: flex;
@@ -95,6 +151,76 @@ This timeline uses month-scale sketches for the bigger binge arcs. Bar length sh
   }
 </style>
 
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll(".binge-bar, .binge-overview-bar").forEach(function (bar) {
+      var label = bar.textContent.trim();
+      var dates = bar.getAttribute("data-dates");
+      var tooltip = dates ? label + " | " + dates : label;
+      if (label) {
+        bar.setAttribute("title", tooltip);
+        bar.setAttribute("aria-label", tooltip);
+      }
+    });
+  });
+</script>
+
+## Full timeline view
+
+This scrollable overview shows the biggest arcs across the whole period. The per-year sections below keep the closer month-by-month context.
+
+{% include binge-timeline-legend.html %}
+
+<div class="binge-overview-wrap">
+  <div class="binge-overview">
+    <div class="binge-overview-years">
+      <span style="grid-column: 1 / span 12;">2019</span>
+      <span style="grid-column: 13 / span 12;">2020</span>
+      <span style="grid-column: 25 / span 12;">2021</span>
+      <span style="grid-column: 37 / span 12;">2022</span>
+      <span style="grid-column: 49 / span 12;">2023</span>
+      <span style="grid-column: 61 / span 12;">2024</span>
+      <span style="grid-column: 73 / span 12;">2025</span>
+      <span style="grid-column: 85 / span 12;">2026</span>
+    </div>
+    <div class="binge-overview-months">
+      <span>J</span><span>F</span><span>M</span><span>A</span><span>M</span><span>J</span><span>J</span><span>A</span><span>S</span><span>O</span><span>N</span><span>D</span>
+      <span>J</span><span>F</span><span>M</span><span>A</span><span>M</span><span>J</span><span>J</span><span>A</span><span>S</span><span>O</span><span>N</span><span>D</span>
+      <span>J</span><span>F</span><span>M</span><span>A</span><span>M</span><span>J</span><span>J</span><span>A</span><span>S</span><span>O</span><span>N</span><span>D</span>
+      <span>J</span><span>F</span><span>M</span><span>A</span><span>M</span><span>J</span><span>J</span><span>A</span><span>S</span><span>O</span><span>N</span><span>D</span>
+      <span>J</span><span>F</span><span>M</span><span>A</span><span>M</span><span>J</span><span>J</span><span>A</span><span>S</span><span>O</span><span>N</span><span>D</span>
+      <span>J</span><span>F</span><span>M</span><span>A</span><span>M</span><span>J</span><span>J</span><span>A</span><span>S</span><span>O</span><span>N</span><span>D</span>
+      <span>J</span><span>F</span><span>M</span><span>A</span><span>M</span><span>J</span><span>J</span><span>A</span><span>S</span><span>O</span><span>N</span><span>D</span>
+      <span>J</span><span>F</span><span>M</span><span>A</span><span>M</span><span>J</span><span>J</span><span>A</span><span>S</span><span>O</span><span>N</span><span>D</span>
+    </div>
+    <div class="binge-overview-row"><div class="binge-overview-bar sf" data-dates="Jan 5 – Mar 24, 2019" style="--start:1; --span:3;">Expanse early run, 5 books</div></div>
+    <div class="binge-overview-row"><div class="binge-overview-bar fantasy" data-dates="Sep 22, 2019 – Mar 22, 2020" style="--start:9; --span:7;">Malazan Book of the Fallen, 10 books</div></div>
+    <div class="binge-overview-row"><div class="binge-overview-bar fantasy" data-dates="May 20, 2020 – Jan 3, 2021" style="--start:17; --span:9;">Realm of the Elderlings, 15-ish books</div></div>
+    <div class="binge-overview-row"><div class="binge-overview-bar fantasy" data-dates="Dec 6, 2020 – Jan 18, 2021" style="--start:24; --span:2;">Faithful and the Fallen, 4 books</div></div>
+    <div class="binge-overview-row"><div class="binge-overview-bar visual" data-dates="May 17, 2021 – Jul 7, 2024" style="--start:29; --span:39;">Berserk bursts, 40+ volumes</div></div>
+    <div class="binge-overview-row"><div class="binge-overview-bar fantasy" data-dates="Jun 29 – Oct 15, 2021" style="--start:30; --span:5;">Second Apocalypse, 7 books</div></div>
+    <div class="binge-overview-row"><div class="binge-overview-bar comfort" data-dates="Jul 5, 2021 – Jan 29, 2022" style="--start:31; --span:7;">Horus Heresy early run, 9 entries</div></div>
+    <div class="binge-overview-row"><div class="binge-overview-bar sf" data-dates="Dec 28, 2021 – Aug 21, 2022" style="--start:36; --span:9;">Sun Eater #1-5 + side stories</div></div>
+    <div class="binge-overview-row"><div class="binge-overview-bar fantasy" data-dates="Apr 22 – Jul 17, 2022" style="--start:40; --span:4;">Dandelion Dynasty, 4 books</div></div>
+    <div class="binge-overview-row"><div class="binge-overview-bar visual" data-dates="Jun 30 – Jul 10, 2022" style="--start:42; --span:2;">Saga, 10 volumes</div></div>
+    <div class="binge-overview-row"><div class="binge-overview-bar comfort" data-dates="Jul 16, 2022 – Jan 18, 2023" style="--start:43; --span:7;">Matthew Corbett, 7 entries</div></div>
+    <div class="binge-overview-row"><div class="binge-overview-bar visual" data-dates="Jan 29 – Jul 2, 2023" style="--start:49; --span:7;">Vagabond, 13 volumes</div></div>
+    <div class="binge-overview-row"><div class="binge-overview-bar visual" data-dates="Jul 7 – Aug 26, 2023" style="--start:55; --span:2;">Monster, 9 volumes</div></div>
+    <div class="binge-overview-row"><div class="binge-overview-bar visual" data-dates="Nov 27, 2023 – Jan 27, 2024" style="--start:59; --span:3;">Real, 15 volumes</div></div>
+    <div class="binge-overview-row"><div class="binge-overview-bar sf" data-dates="Nov 18 – Nov 24, 2023" style="--start:59; --span:1;">Sun Eater side stories</div></div>
+    <div class="binge-overview-row"><div class="binge-overview-bar sf" data-dates="Jan 30, 2024" style="--start:61; --span:1;">Disquiet Gods</div></div>
+    <div class="binge-overview-row"><div class="binge-overview-bar visual" data-dates="Feb 14 – May 21, 2024" style="--start:62; --span:4;">Vinland Saga, 11 omnibuses</div></div>
+    <div class="binge-overview-row"><div class="binge-overview-bar sf" data-dates="Jul 13 – Sep 24, 2024" style="--start:67; --span:3;">Xeelee, 4 books</div></div>
+    <div class="binge-overview-row"><div class="binge-overview-bar sf" data-dates="Jan 25 – Apr 4, 2025" style="--start:73; --span:4;">Foundation, 3 books</div></div>
+    <div class="binge-overview-row"><div class="binge-overview-bar fantasy" data-dates="Mar 26 – Jul 22, 2025" style="--start:75; --span:5;">Forgotten Warrior, 5 books</div></div>
+    <div class="binge-overview-row"><div class="binge-overview-bar fantasy" data-dates="Aug 15 – Dec 9, 2025" style="--start:80; --span:5;">The Passage, 3 books</div></div>
+    <div class="binge-overview-row"><div class="binge-overview-bar fantasy" data-dates="Sep 26, 2025 – Jan 16, 2026" style="--start:81; --span:5;">Shadowmarch, 4 books</div></div>
+    <div class="binge-overview-row"><div class="binge-overview-bar sf" data-dates="Jul 20 – Oct 19, 2025" style="--start:79; --span:4;">Sun Eater finale stretch</div></div>
+    <div class="binge-overview-row"><div class="binge-overview-bar sf" data-dates="Jan 5 – Feb 18, 2026" style="--start:85; --span:2;">Silo, 3 books</div></div>
+    <div class="binge-overview-row"><div class="binge-overview-bar fantasy" data-dates="May 1 – May 27, 2026" style="--start:89; --span:1;">Malazan Empire continuation</div></div>
+  </div>
+</div>
+
 ## 2019: Expanse into Malazan
 
 {% include binge-timeline-legend.html %}
@@ -103,8 +229,8 @@ This timeline uses month-scale sketches for the bigger binge arcs. Bar length sh
   <div class="binge-year-wrap">
     <div class="binge-year">
       <div class="binge-months"><span>Jan</span><span>Feb</span><span>Mar</span><span>Apr</span><span>May</span><span>Jun</span><span>Jul</span><span>Aug</span><span>Sep</span><span>Oct</span><span>Nov</span><span>Dec</span></div>
-      <div class="binge-row"><div class="binge-bar sf" style="--start:1; --span:3;">Expanse, 5 books</div></div>
-      <div class="binge-row"><div class="binge-bar fantasy" style="--start:9; --span:4;">Malazan #1-6, 6 books</div></div>
+      <div class="binge-row"><div class="binge-bar sf" data-dates="Jan 5 – Mar 24, 2019" style="--start:1; --span:3;">Expanse, 5 books</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" data-dates="Sep 22 – Dec 31, 2019" style="--start:9; --span:4;">Malazan #1-6, 6 books</div></div>
     </div>
   </div>
 </div>
@@ -124,10 +250,10 @@ This timeline uses month-scale sketches for the bigger binge arcs. Bar length sh
   <div class="binge-year-wrap">
     <div class="binge-year">
       <div class="binge-months"><span>Jan</span><span>Feb</span><span>Mar</span><span>Apr</span><span>May</span><span>Jun</span><span>Jul</span><span>Aug</span><span>Sep</span><span>Oct</span><span>Nov</span><span>Dec</span></div>
-      <div class="binge-row"><div class="binge-bar fantasy" style="--start:1; --span:3;">Malazan #7-10, 4 books</div></div>
-      <div class="binge-row"><div class="binge-bar fantasy" style="--start:4; --span:2;">First Law, 3 books</div></div>
-      <div class="binge-row"><div class="binge-bar fantasy" style="--start:5; --span:8;">Realm of the Elderlings, 14+ books</div></div>
-      <div class="binge-row"><div class="binge-bar fantasy" style="--start:12; --span:1;">Faithful and the Fallen, 4 books</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" data-dates="Jan 23 – Mar 22, 2020" style="--start:1; --span:3;">Malazan #7-10, 4 books</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" data-dates="Apr 9 – May 5, 2020" style="--start:4; --span:2;">First Law, 3 books</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" data-dates="May 20, 2020 – Jan 3, 2021" style="--start:5; --span:8;">Realm of the Elderlings, 14+ books</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" data-dates="Dec 6, 2020 – Jan 18, 2021" style="--start:12; --span:1;">Faithful and the Fallen, 4 books</div></div>
     </div>
   </div>
 </div>
@@ -154,13 +280,13 @@ This timeline uses month-scale sketches for the bigger binge arcs. Bar length sh
   <div class="binge-year-wrap">
     <div class="binge-year">
       <div class="binge-months"><span>Jan</span><span>Feb</span><span>Mar</span><span>Apr</span><span>May</span><span>Jun</span><span>Jul</span><span>Aug</span><span>Sep</span><span>Oct</span><span>Nov</span><span>Dec</span></div>
-      <div class="binge-row"><div class="binge-bar fantasy" style="--start:2; --span:3;">Memory, Sorrow, and Thorn, 3+ books</div></div>
-      <div class="binge-row"><div class="binge-bar visual" style="--start:5; --span:6;">Berserk, 23 volumes</div></div>
-      <div class="binge-row"><div class="binge-bar fantasy" style="--start:6; --span:5;">Second Apocalypse, 7 books</div></div>
-      <div class="binge-row"><div class="binge-bar comfort" style="--start:7; --span:6;">Horus Heresy, 9 entries</div></div>
-      <div class="binge-row"><div class="binge-bar fantasy" style="--start:8; --span:2;">Age of Madness, 3 books</div></div>
-      <div class="binge-row"><div class="binge-bar fantasy" style="--start:11; --span:2;">Green Bone Saga, 3 books</div></div>
-      <div class="binge-row"><div class="binge-bar sf" style="--start:12; --span:1;">Sun Eater kickoff, 2 entries</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" data-dates="Feb 26 – Apr 26, 2021" style="--start:2; --span:3;">Memory, Sorrow, and Thorn, 3+ books</div></div>
+      <div class="binge-row"><div class="binge-bar visual" data-dates="May 17 – Oct 16, 2021" style="--start:5; --span:6;">Berserk, 23 volumes</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" data-dates="Jun 29 – Oct 15, 2021" style="--start:6; --span:5;">Second Apocalypse, 7 books</div></div>
+      <div class="binge-row"><div class="binge-bar comfort" data-dates="Jul 5, 2021 – Jan 29, 2022" style="--start:7; --span:6;">Horus Heresy, 9 entries</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" data-dates="Aug 24 – Sep 17, 2021" style="--start:8; --span:2;">Age of Madness, 3 books</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" data-dates="Nov 8 – Dec 14, 2021" style="--start:11; --span:2;">Green Bone Saga, 3 books</div></div>
+      <div class="binge-row"><div class="binge-bar sf" data-dates="Dec 28 – Dec 29, 2021" style="--start:12; --span:1;">Sun Eater kickoff, 2 entries</div></div>
     </div>
   </div>
 </div>
@@ -196,13 +322,13 @@ This timeline uses month-scale sketches for the bigger binge arcs. Bar length sh
   <div class="binge-year-wrap">
     <div class="binge-year">
       <div class="binge-months"><span>Jan</span><span>Feb</span><span>Mar</span><span>Apr</span><span>May</span><span>Jun</span><span>Jul</span><span>Aug</span><span>Sep</span><span>Oct</span><span>Nov</span><span>Dec</span></div>
-      <div class="binge-row"><div class="binge-bar comfort" style="--start:1; --span:3;">Cirque du Freak, 12 books</div></div>
-      <div class="binge-row"><div class="binge-bar sf" style="--start:1; --span:8;">Sun Eater #2-5 + side story, 5 entries</div></div>
-      <div class="binge-row"><div class="binge-bar fantasy" style="--start:4; --span:4;">Dandelion Dynasty, 4 books</div></div>
-      <div class="binge-row"><div class="binge-bar visual" style="--start:6; --span:2;">Saga, 10 volumes</div></div>
-      <div class="binge-row"><div class="binge-bar comfort" style="--start:7; --span:6;">Matthew Corbett, 7 entries</div></div>
-      <div class="binge-row"><div class="binge-bar sf" style="--start:8; --span:3;">Three-Body, 3 books</div></div>
-      <div class="binge-row"><div class="binge-bar sf" style="--start:9; --span:4;">Gap Cycle, 5 books</div></div>
+      <div class="binge-row"><div class="binge-bar comfort" data-dates="Jan 3 – Mar 5, 2022" style="--start:1; --span:3;">Cirque du Freak, 12 books</div></div>
+      <div class="binge-row"><div class="binge-bar sf" data-dates="Jan 12 – Aug 21, 2022" style="--start:1; --span:8;">Sun Eater #2-5 + side story, 5 entries</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" data-dates="Apr 22 – Jul 17, 2022" style="--start:4; --span:4;">Dandelion Dynasty, 4 books</div></div>
+      <div class="binge-row"><div class="binge-bar visual" data-dates="Jun 30 – Jul 10, 2022" style="--start:6; --span:2;">Saga, 10 volumes</div></div>
+      <div class="binge-row"><div class="binge-bar comfort" data-dates="Jul 16, 2022 – Jan 18, 2023" style="--start:7; --span:6;">Matthew Corbett, 7 entries</div></div>
+      <div class="binge-row"><div class="binge-bar sf" data-dates="Aug 24 – Oct 7, 2022" style="--start:8; --span:3;">Three-Body, 3 books</div></div>
+      <div class="binge-row"><div class="binge-bar sf" data-dates="Sep 2 – Dec 26, 2022" style="--start:9; --span:4;">Gap Cycle, 5 books</div></div>
     </div>
   </div>
 </div>
@@ -237,14 +363,14 @@ This is the year I’d use as your ideal template: big ambition + comics + emoti
   <div class="binge-year-wrap">
     <div class="binge-year">
       <div class="binge-months"><span>Jan</span><span>Feb</span><span>Mar</span><span>Apr</span><span>May</span><span>Jun</span><span>Jul</span><span>Aug</span><span>Sep</span><span>Oct</span><span>Nov</span><span>Dec</span></div>
-      <div class="binge-row"><div class="binge-bar sf" style="--start:1; --span:2;">Void trilogy, 3 books</div></div>
-      <div class="binge-row"><div class="binge-bar visual" style="--start:1; --span:7;">Vagabond, 13 volumes</div></div>
-      <div class="binge-row"><div class="binge-bar fantasy" style="--start:3; --span:3;">Shadows of the Apt, 4 books</div></div>
-      <div class="binge-row"><div class="binge-bar visual" style="--start:7; --span:2;">Monster, 9 volumes</div></div>
-      <div class="binge-row"><div class="binge-bar visual" style="--start:7; --span:4;">Parasyte, 8 volumes</div></div>
-      <div class="binge-row"><div class="binge-bar fantasy" style="--start:10; --span:3;">Earthsea, 4 books</div></div>
-      <div class="binge-row"><div class="binge-bar visual" style="--start:11; --span:2;">Real, 15 volumes</div></div>
-      <div class="binge-row"><div class="binge-bar sf" style="--start:11; --span:1;">Sun Eater side stories, 2 entries</div></div>
+      <div class="binge-row"><div class="binge-bar sf" data-dates="Jan 15 – Feb 10, 2023" style="--start:1; --span:2;">Void trilogy, 3 books</div></div>
+      <div class="binge-row"><div class="binge-bar visual" data-dates="Jan 29 – Jul 2, 2023" style="--start:1; --span:7;">Vagabond, 13 volumes</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" data-dates="Mar 5 – May 14, 2023" style="--start:3; --span:3;">Shadows of the Apt, 4 books</div></div>
+      <div class="binge-row"><div class="binge-bar visual" data-dates="Jul 7 – Aug 26, 2023" style="--start:7; --span:2;">Monster, 9 volumes</div></div>
+      <div class="binge-row"><div class="binge-bar visual" data-dates="Jul 10 – Oct 9, 2023" style="--start:7; --span:4;">Parasyte, 8 volumes</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" data-dates="Oct 31, 2023 – Jan 17, 2024" style="--start:10; --span:3;">Earthsea, 4 books</div></div>
+      <div class="binge-row"><div class="binge-bar visual" data-dates="Nov 27, 2023 – Jan 27, 2024" style="--start:11; --span:2;">Real, 15 volumes</div></div>
+      <div class="binge-row"><div class="binge-bar sf" data-dates="Nov 18 – Nov 24, 2023" style="--start:11; --span:1;">Sun Eater side stories, 2 entries</div></div>
     </div>
   </div>
 </div>
@@ -276,12 +402,12 @@ This is the year I’d use as your ideal template: big ambition + comics + emoti
   <div class="binge-year-wrap">
     <div class="binge-year">
       <div class="binge-months"><span>Jan</span><span>Feb</span><span>Mar</span><span>Apr</span><span>May</span><span>Jun</span><span>Jul</span><span>Aug</span><span>Sep</span><span>Oct</span><span>Nov</span><span>Dec</span></div>
-      <div class="binge-row"><div class="binge-bar visual" style="--start:2; --span:4;">Vinland Saga, 11 omnibuses</div></div>
-      <div class="binge-row"><div class="binge-bar sf" style="--start:1; --span:1;">Disquiet Gods</div></div>
-      <div class="binge-row"><div class="binge-bar fantasy" style="--start:3; --span:2;">Bound and Broken, 4 entries</div></div>
-      <div class="binge-row"><div class="binge-bar visual" style="--start:6; --span:2;">Berserk, 6 volumes</div></div>
-      <div class="binge-row"><div class="binge-bar sf" style="--start:7; --span:3;">Xeelee, 4 books</div></div>
-      <div class="binge-row"><div class="binge-bar visual" style="--start:11; --span:2;">Pluto, 8 volumes</div></div>
+      <div class="binge-row"><div class="binge-bar visual" data-dates="Feb 14 – May 21, 2024" style="--start:2; --span:4;">Vinland Saga, 11 omnibuses</div></div>
+      <div class="binge-row"><div class="binge-bar sf" data-dates="Jan 30, 2024" style="--start:1; --span:1;">Disquiet Gods</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" data-dates="Mar 12 – Apr 2, 2024" style="--start:3; --span:2;">Bound and Broken, 4 entries</div></div>
+      <div class="binge-row"><div class="binge-bar visual" data-dates="Jun 29 – Jul 7, 2024" style="--start:6; --span:2;">Berserk, 6 volumes</div></div>
+      <div class="binge-row"><div class="binge-bar sf" data-dates="Jul 13 – Sep 24, 2024" style="--start:7; --span:3;">Xeelee, 4 books</div></div>
+      <div class="binge-row"><div class="binge-bar visual" data-dates="Nov 19, 2024 – Jan 4, 2025" style="--start:11; --span:2;">Pluto, 8 volumes</div></div>
     </div>
   </div>
 </div>
@@ -307,13 +433,13 @@ This is the year I’d use as your ideal template: big ambition + comics + emoti
   <div class="binge-year-wrap">
     <div class="binge-year">
       <div class="binge-months"><span>Jan</span><span>Feb</span><span>Mar</span><span>Apr</span><span>May</span><span>Jun</span><span>Jul</span><span>Aug</span><span>Sep</span><span>Oct</span><span>Nov</span><span>Dec</span></div>
-      <div class="binge-row"><div class="binge-bar sf" style="--start:1; --span:4;">Foundation, 3 books</div></div>
-      <div class="binge-row"><div class="binge-bar fantasy" style="--start:3; --span:5;">Forgotten Warrior, 5 books</div></div>
-      <div class="binge-row"><div class="binge-bar comfort" style="--start:4; --span:2;">Bosch #7-9, 3 books</div></div>
-      <div class="binge-row"><div class="binge-bar fantasy" style="--start:8; --span:5;">The Passage, 3 books</div></div>
-      <div class="binge-row"><div class="binge-bar fantasy" style="--start:9; --span:4;">Shadowmarch, 4 books</div></div>
-      <div class="binge-row"><div class="binge-bar sf" style="--start:7; --span:4;">Sun Eater finale stretch, 2 entries</div></div>
-      <div class="binge-row"><div class="binge-bar comfort" style="--start:11; --span:2;">Bosch #10-13, 4 books</div></div>
+      <div class="binge-row"><div class="binge-bar sf" data-dates="Jan 25 – Apr 4, 2025" style="--start:1; --span:4;">Foundation, 3 books</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" data-dates="Mar 26 – Jul 22, 2025" style="--start:3; --span:5;">Forgotten Warrior, 5 books</div></div>
+      <div class="binge-row"><div class="binge-bar comfort" data-dates="Apr 24 – May 16, 2025" style="--start:4; --span:2;">Bosch #7-9, 3 books</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" data-dates="Aug 15 – Dec 9, 2025" style="--start:8; --span:5;">The Passage, 3 books</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" data-dates="Sep 26, 2025 – Jan 16, 2026" style="--start:9; --span:4;">Shadowmarch, 4 books</div></div>
+      <div class="binge-row"><div class="binge-bar sf" data-dates="Jul 20 – Oct 19, 2025" style="--start:7; --span:4;">Sun Eater finale stretch, 2 entries</div></div>
+      <div class="binge-row"><div class="binge-bar comfort" data-dates="Nov 18, 2025 – Feb 23, 2026" style="--start:11; --span:2;">Bosch #10-13, 4 books</div></div>
     </div>
   </div>
 </div>
@@ -342,11 +468,11 @@ The two most important signals are **The Passage** and **Shadowmarch**: both sug
   <div class="binge-year-wrap">
     <div class="binge-year">
       <div class="binge-months"><span>Jan</span><span>Feb</span><span>Mar</span><span>Apr</span><span>May</span><span>Jun</span><span>Jul</span><span>Aug</span><span>Sep</span><span>Oct</span><span>Nov</span><span>Dec</span></div>
-      <div class="binge-row"><div class="binge-bar sf" style="--start:1; --span:2;">Silo, 3 books</div></div>
-      <div class="binge-row"><div class="binge-bar fantasy" style="--start:1; --span:2;">Riftwar, 2 books</div></div>
-      <div class="binge-row"><div class="binge-bar fantasy" style="--start:3; --span:1;">Dunk and Egg, 2 novellas</div></div>
-      <div class="binge-row"><div class="binge-bar sf" style="--start:3; --span:2;">Archimedes Engine, 2 books</div></div>
-      <div class="binge-row"><div class="binge-bar fantasy" style="--start:5; --span:1;">Malazan Empire, 2 books</div></div>
+      <div class="binge-row"><div class="binge-bar sf" data-dates="Jan 5 – Feb 18, 2026" style="--start:1; --span:2;">Silo, 3 books</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" data-dates="Jan 14 – Feb 2, 2026" style="--start:1; --span:2;">Riftwar, 2 books</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" data-dates="Feb 25 – Mar 3, 2026" style="--start:3; --span:1;">Dunk and Egg, 2 novellas</div></div>
+      <div class="binge-row"><div class="binge-bar sf" data-dates="Mar 22 – Apr 4, 2026" style="--start:3; --span:2;">Archimedes Engine, 2 books</div></div>
+      <div class="binge-row"><div class="binge-bar fantasy" data-dates="May 1 – May 27, 2026" style="--start:5; --span:1;">Malazan Empire, 2 books</div></div>
     </div>
   </div>
 </div>
