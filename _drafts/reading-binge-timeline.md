@@ -1,20 +1,28 @@
-Yes. I pulled this from your Goodreads **Date Read** field, so these are **finish/log dates**, not necessarily start dates. A few same-day clusters may mean you logged several at once, especially manga/comics, but the sequence still shows your binge behavior pretty clearly.
+---
+layout: post
+title: "Reading binge timeline"
+date: 2026-06-04
+categories: books
+---
 
-I’d define your “binge” pattern as: **2+ books/volumes in a series within a tight window**, with the most meaningful binges being 3+ entries or a full arc.
+> **Note:** This is AI-generated analysis based on my Goodreads **Date Read** field. I found it pretty interesting, however.
+
+I define a reading binge as **2+ books/volumes in a series within a tight window**, with the most meaningful binges being 3+ entries or a full arc.
 
 ## 2019: Expanse into Malazan
 
 | Dates                           | Series / cluster               | What happened                                                                                                |
 | ------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------ |
 | **Jan 5 – Mar 24, 2019**        | **The Expanse**                | You read/logged _Caliban’s War_ through _Nemesis Games_, 5 entries in about 11 weeks.                        |
-| **Sep 22, 2019 – Mar 22, 2020** | **Malazan Book of the Fallen** | The first huge binge: _Gardens of the Moon_ through _The Crippled God_, all 10 main books in about 6 months. |
+| **Sep 22 – Dec 31, 2019**       | **Malazan Book of the Fallen #1–6** | The first huge binge began here: _Gardens of the Moon_ through _The Bonehunters_, 6 big books in just over 3 months. |
 
 **Pattern:** Your tracked reading starts with exactly the kind of thing you still like: large systems, factions, long arcs, and cumulative payoff.
 
-## 2020: the Robin Hobb year
+## 2020: Malazan into the Robin Hobb year
 
 | Dates                          | Series / cluster            | What happened                                                                                   |
 | ------------------------------ | --------------------------- | ----------------------------------------------------------------------------------------------- |
+| **Jan 23 – Mar 22, 2020**      | **Malazan Book of the Fallen #7–10** | The Malazan binge continued with _Reaper's Gale_ through _The Crippled God_, completing all 10 main books in about 6 months overall. |
 | **Apr 9 – May 5, 2020**        | **First Law trilogy**       | _The Blade Itself_ → _Last Argument of Kings_ in under a month.                                 |
 | **Apr 14 – May 26, 2020**      | **Dresden Files #1–5**      | You moved quickly through the early Dresden books, but your ratings were not especially strong. |
 | **May 20 – Jun 13, 2020**      | **Farseer Trilogy**         | _Assassin’s Apprentice_ → _Assassin’s Quest_ in under a month.                                  |
@@ -24,7 +32,7 @@ I’d define your “binge” pattern as: **2+ books/volumes in a series within 
 | **Nov 8, 2020 – Jan 3, 2021**  | **Fitz and the Fool**       | Full trilogy in about 8 weeks.                                                                  |
 | **Dec 6, 2020 – Jan 18, 2021** | **Faithful and the Fallen** | Four books in about 6 weeks, with very high ratings.                                            |
 
-**Pattern:** 2020 is your first big **emotional long-haul fantasy binge** year. Hobb especially seems to have taught your data that “long series with emotional payoff” is a core mode for you.
+**Pattern:** 2020 begins by completing your first huge epic fantasy project, then turns into your first big **emotional long-haul fantasy binge** year. Hobb especially seems to have taught your data that “long series with emotional payoff” is a core mode for you.
 
 ## 2021: the explosion year
 
