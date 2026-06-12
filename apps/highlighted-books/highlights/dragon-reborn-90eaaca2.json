@@ -1,0 +1,600 @@
+{
+  "id": "dragon-reborn-90eaaca2",
+  "title": "The Dragon Reborn",
+  "author": "Jordan, Robert",
+  "highlightCount": 74,
+  "highlights": [
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzo5NTE0OkhJR0hMSUdIVDphYTA1YzhlYWUtOTZhYy00YTgxLWE0MTUtNzQyM2I5MjlmNzI5",
+      "text": "Lews Therin Kinslayer. The man who had begun the Breaking of the World, when madmen who could tap the power that drove the universe leveled mountains and sank ancient lands beneath the seas, when the whole face of the earth had been changed and all who survived fled like beasts before a wildfire. It had not ended until the last male Aes Sedai lay dead, and a scattered human race could begin trying to rebuild from the rubble—where even rubble remained.",
+      "color": "yellow",
+      "location": "64",
+      "page": "2",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxODQyODpISUdITElHSFQ6YTNjNDIwMzIxLWY4OGEtNDNjYy1hYzU3LTM4MTI1ZTIzYzgyZQ",
+      "text": "The pattern chilled the marrow in his bones. Chaos multiplied; what was unheard of, happening again and again. The whole world seemed to be milling, stirring near the boil. It was clear to him. The Last Battle really was coming.",
+      "color": "yellow",
+      "location": "123",
+      "page": "6",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzozMjA3NDpISUdITElHSFQ6YTdmNDE0MmNlLTM1MDEtNDAwYi1iYTE3LWQ3MGM4MWU3YjQxMA",
+      "text": "“It is no treason to do what must be done. And even blasphemy can be tolerated for a cause.”",
+      "color": "yellow",
+      "location": "214",
+      "page": "11",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzozMjIzMDpISUdITElHSFQ6YTEyMmVmZmQ0LTQzZjYtNGRjMy05MGFhLWViOWIzYTVlMDc5NQ",
+      "text": "“Do you know how to unite people behind you, Child Carridin? The quickest way? No? Loose a lion—a rabid lion—in the streets. And when panic grips the people, once it has turned their bowels to water, calmly tell them you will deal with it. Then you kill it, and order them to hang the carcass up where everyone can see. Before they have time to think, you give another order, and it will be obeyed. And if you continue to give orders, they will continue to obey, for you will be the one who saved them, and who better to lead?”",
+      "color": "yellow",
+      "location": "215",
+      "page": "11",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzo0NjYyOTpISUdITElHSFQ6YWViYzVjODNhLWM5NmItNGExYS1hYWU4LThmZmU1NWU4M2NjYw",
+      "text": "It is not your part to question. Or to understand. It is your part to obey! You will give dogs lessons in obedience. Do you understand that? Heel, dog, and obey your master.”",
+      "color": "yellow",
+      "location": "311",
+      "page": "17",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzo0ODk0NzpISUdITElHSFQ6YTVhYjhmMWNkLTY0ODktNDhmNi1hMzcyLWI2MWM4NmZjNjVkMw",
+      "text": "Halfmen rode shadows like horses, so the legends said, and when they turned sideways, they disappeared. No wall could keep them out.",
+      "color": "yellow",
+      "location": "327",
+      "page": "18",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzo5NDM5MDpISUdITElHSFQ6YWRlYzVjYzQ0LWNiOGMtNDY0MS1iMDA4LWQ0Njk0ZmVlMjIyMQ",
+      "text": "Aes Sedai, who made thrones and nations dance to their hidden strings. Aes Sedai, whose gift always had a hook in it, whose price was always smaller than you could believe, yet always turned out to be greater than you could imagine.",
+      "color": "yellow",
+      "location": "630",
+      "page": "36",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzo5ODQyNDpISUdITElHSFQ6YWI3Nzc3NGRiLTUxOTQtNGJjZS05YmYxLWM0ZDIwODNlMTQ0Yg",
+      "text": "A man—a thing!—everyone was taught to loathe and fear from childhood. Only . . . it was hard to stop seeing the boy he had grown up with. How do you just stop being somebody’s friend?",
+      "color": "yellow",
+      "location": "657",
+      "page": "37",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzo5OTgzMDpISUdITElHSFQ6YTRhZDg2NzFjLWVhZDEtNDE4Ny05NzAxLWRmNGM4Yzg4YzY5YQ",
+      "text": "“Death is lighter than a feather, duty heavier than a mountain.",
+      "color": "yellow",
+      "location": "666",
+      "page": "38",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMDYxOTM6SElHSExJR0hUOmFmMmI5Nzk3OC0zYzZhLTRhNmQtYWE1NS1hYTZhMWE4MjI0YzU",
+      "text": "“I can feel the taint even before I touch it. The Dark One’s taint, like a thin coat of vileness trying to hide the Light. It turns my stomach, but I cannot help myself.",
+      "color": "yellow",
+      "location": "708",
+      "page": "40",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMDgzOTI6SElHSExJR0hUOmFjZWZlNWM5NC1kOWNjLTQ3ZWItYmVmZi0wMjk2MjEwNzZiNjY",
+      "text": "“They’re always there, dreams,” Rand said, so softly Perrin barely heard. “Maybe they tell us things. True things.”",
+      "color": "yellow",
+      "location": "723",
+      "page": "41",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMTI2MTI6SElHSExJR0hUOmE1YTRjYzZiNy1lODZkLTQyNjMtYmI4ZS00YjFjOTExNTEyNWI",
+      "text": "If the Dragon wants to shake the mountain down on our heads, then the Dragon must have a good reason for it. If he decided to make them take off their skins and dance in their bones, they would think it all right.”",
+      "color": "yellow",
+      "location": "751",
+      "page": "43",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMTQ1Mjk6SElHSExJR0hUOmFhMDljOTBhZS1hNWMwLTRiMjctOGY3My1hNDMyYWZmMDU5YzY",
+      "text": "“Just because fate has chosen something for you instead of you choosing it for yourself doesn’t mean it has to be bad.",
+      "color": "yellow",
+      "location": "764",
+      "page": "44",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMTUxNTI6SElHSExJR0hUOmE2YTUwZmY5MC1iZjQzLTQwODctYTNmNS02OTUyN2RjOGUyMmQ",
+      "text": "“You are a very nice man, Perrin Aybara. Even if you don’t understand anything.”",
+      "color": "yellow",
+      "location": "768",
+      "page": "44",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMjAzMTI6SElHSExJR0hUOmE5YmU3M2MyOC04ZjJiLTRjYzctYTFjMi04NWNkYjkxZDY0NTE",
+      "text": "“The Wheel weaves as the Wheel wills, Perrin. I told you long ago that we were in a war. We cannot stop just because some of us may die. Any of us may die before it is done.",
+      "color": "yellow",
+      "location": "803",
+      "page": "46",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMjEwNTA6SElHSExJR0hUOmE2ZjM2NWIyZC04OWFjLTRmZDItOWRhZS1hNDhhMTY0NTMyYzU",
+      "text": "Sometimes it seemed only a dark gray cloak, or black, but the gray and black appeared to crawl and change if you looked too closely, shades and shadows sliding across it, soaking into it. Other times, it looked as if Lan had somehow made a hole in the night and pulled darkness ’round his shoulders.",
+      "color": "yellow",
+      "location": "808",
+      "page": "46",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMjE0NzQ6SElHSExJR0hUOmE3ZTU2NmQ4Zi1jNWYyLTRkZjItYjgyZi0zZGQwNTIxOTIxNmI",
+      "text": "Lan was tall and hard, broad-shouldered, with blue eyes like frozen mountain lakes, and he moved with a deadly grace that made the sword on his hip seem a part of him. It was not that he seemed merely capable of violence and death; this man had tamed violence and death and kept them in his pocket, ready to be loosed in a heartbeat, or embraced, should Moiraine give the word.",
+      "color": "yellow",
+      "location": "810",
+      "page": "47",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMjU0NTk6SElHSExJR0hUOmE1ZDQzZTYxZi05YmNiLTQ2MTAtODZkMy01YjUyZjYyMTMxMzQ",
+      "text": "But when the Whitecloaks give me a gift, I search for the poisoned needle hidden in it.”",
+      "color": "yellow",
+      "location": "837",
+      "page": "48",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMjcyMDU6SElHSExJR0hUOmE3ODY3NTU0OC0yYTQ4LTQ3YzMtYjMzMC1hNjczYmM3Y2YzZTE",
+      "text": "When Moiraine decided enough had been said about something, she would not talk of it anymore. And when she shut her mouth, you could not pry Lan’s open with an iron bar.",
+      "color": "yellow",
+      "location": "849",
+      "page": "49",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMjc5NTI6SElHSExJR0hUOmE0ZjkwYzEwZS00MDQxLTRjYTEtODMwZS0zYzQ0NzBhMWUxMWI",
+      "text": "We must ride on the Pattern, not on the changes of a moment.”",
+      "color": "yellow",
+      "location": "854",
+      "page": "49",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxNjQ0MzU6SElHSExJR0hUOmFiNzRlZWUzZC02NDFlLTQ2NTQtOWQ2NC1lMjI2ZDViNTdmYjU",
+      "text": "He felt the urge to hurl the axe aside and use his teeth, to run on all fours as his brothers did. Run through the high mountain passes. Run belly-deep in powdery snow pursuing deer. Run, with the cold wind ruffling his fur. He snarled with his brothers, and Trollocs howled with fear at his yellow-eyed gaze even more than they did at the other wolves.",
+      "color": "yellow",
+      "location": "1097",
+      "page": "64",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxNzc0NTU6SElHSExJR0hUOmFhMDc2NTY2OS0yMDk4LTQxYmUtOGY1NS00Y2UyNTgyNWYzNTc",
+      "text": "The Aes Sedai’s eyes suddenly seemed to be seeing inside him, seeing through him. He gasped and almost dropped his axe. He could feel the skin on his back crawling, muscles writhing as they knit back together. His shoulder quivered uncontrollably, and everything blurred. Cold seared him to the bone, then deeper still. He had the impression of moving, falling, flying; he could not tell which, but he felt as if he were rushing—somewhere, somehow—at great speed, forever. After an eternity the world came into focus again.",
+      "color": "yellow",
+      "location": "1184",
+      "page": "68",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxODMzMzg6SElHSExJR0hUOmE5MWUwYTVmZi01YWExLTRiMDgtOGQ3Mi1mMGQ4M2UwZmJiYTY",
+      "text": "“Pull yourself together, sheepherder,” Lan said harshly. “The whole world rides on your shoulders. Remember you’re a man, and do what needs to be done.”",
+      "color": "yellow",
+      "location": "1223",
+      "page": "71",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxODM2NDU6SElHSExJR0hUOmEyN2Y3MTMzMC1hMWYzLTQzZTItOTVkYy1jN2I3MzIwMTU4MzA",
+      "text": "“I will fight the best I can,” he said. “Because there’s no one else, and it has to be done, and the duty is mine. I’ll fight, but I do not have to like what I’ve become.”",
+      "color": "yellow",
+      "location": "1225",
+      "page": "71",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxOTAyODc6SElHSExJR0hUOmE0ODViYmQzNy05YWY5LTQ5MTgtYjJiOS0xMzRmM2UxMzY2YjM",
+      "text": "“Never anger an Aes Sedai,” he said in a whisper obviously meant just for himself, but audible to everyone. “ ‘Better to embrace the sun than to anger an Aes Sedai.’",
+      "color": "yellow",
+      "location": "1269",
+      "page": "73",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxOTE1MzA6SElHSExJR0hUOmE0YTAzZmYzZC01M2ZmLTQ5NzMtYWY1MS1kMjcxMDExMjVlZjY",
+      "text": "There are lies in dreams, and death, but dreams hold truth, too.",
+      "color": "yellow",
+      "location": "1277",
+      "page": "74",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxOTQyODY6SElHSExJR0hUOmE4OGU1MDBlYy02MmQ0LTQ1ODQtODYzNS03NDE4ZGQ3MTdjNjM",
+      "text": "“You split hairs and lay false trails, Moiraine.”",
+      "color": "yellow",
+      "location": "1296",
+      "page": "75",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxOTU2OTE6SElHSExJR0hUOmE0ZTc3OWI3OS0wNDhmLTQ0ZmItOTM4MS01NTQ5ODljYTA2ODA",
+      "text": "Thirteen of the most powerful Aes Sedai of the Age of Legends, the weakest of them stronger than the ten strongest Aes Sedai living today, the most ignorant with all the knowledge of the Age of Legends. And every man and woman of them gave up the Light and dedicated their souls to the Shadow.",
+      "color": "yellow",
+      "location": "1305",
+      "page": "75",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoyMDA1MDI6SElHSExJR0hUOmE4NDkxMDg2Mi01OGU3LTQ1ZjItODUxMC04ZjE5ZDMwNjI1Yjk",
+      "text": "What does it mean that he ‘shall slay his people with the sword of peace, and destroy them with the leaf’?",
+      "color": "yellow",
+      "location": "1337",
+      "page": "77",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoyMDI4MDg6SElHSExJR0hUOmFjNzFmZWM0YS02N2YzLTQ1ODQtYWQwYS1mZDc3ZTNlMzI0N2M",
+      "text": "“It is not comfortable being chosen by the Wheel, to be great or to be near greatness. The chosen of the Wheel can only take what comes.”",
+      "color": "yellow",
+      "location": "1353",
+      "page": "78",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoyMDUwNDc6SElHSExJR0hUOmEwZjYyMzlmMi0zYzE1LTRjMDItYTljNC0wZThhNjdlMmRlYmU",
+      "text": "“There’s always something new from you,” Perrin growled. “Can’t you tell us what to expect once in a while, instead of explaining after it happens?”",
+      "color": "yellow",
+      "location": "1367",
+      "page": "79",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoyMDUzNjc6SElHSExJR0hUOmE0ZWFhZmVlMi0zN2ZhLTQ1NDktOWRiNS02ZTRjY2RmMWI2ZjM",
+      "text": "“You want me to share a lifetime of knowledge with you in a single afternoon? Or even a single year? I will tell you this. Be wary of dreams, Perrin Aybara. Be very wary of dreams.” He pulled his eyes away from hers. “I am,” he murmured. “I am.”",
+      "color": "yellow",
+      "location": "1370",
+      "page": "79",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoyNzQ1NTA6SElHSExJR0hUOmE2NmNhNmQwNi0zYjUwLTRkZjgtYWVmNC05MWNhZTJiY2VjYmI",
+      "text": "“I have not spoken about this before because it was obvious you did not want me to. After tonight, though. . . . What do you want to know?” “Is that what I can expect?” he asked. “To end like that?” “Perhaps.”",
+      "color": "yellow",
+      "location": "1831",
+      "page": "106",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoyOTA3OTA6SElHSExJR0hUOmE0YjhjZmIzMi03ZGZiLTQ0MzEtYjVkYS1jMjQ3ZmNkZDBiZGU",
+      "text": "Life without saidin was a pale copy. Anything else was a wan imitation.",
+      "color": "yellow",
+      "location": "1939",
+      "page": "112",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzozMjcyMDY6SElHSExJR0hUOmFmZGQzZjg3OS0xZWNhLTQxMmEtODMwOC1jODg3NGQzMTUyMTc",
+      "text": "Always plan for the worst, child; that way, all your surprises will be pleasant ones.”",
+      "color": "yellow",
+      "location": "2182",
+      "page": "126",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzozMjc3ODI6SElHSExJR0hUOmE5NDU2NzA2My05YjVkLTQzYzctOGJlNS0xZThiMzc1MDM4MjU",
+      "text": "“The world is strange, and all things change.”",
+      "color": "yellow",
+      "location": "2186",
+      "page": "126",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzozMzQwNTc6SElHSExJR0hUOmFlM2E5ZGU1Yi1lZDlmLTQwMWItYjc4NC1iNjQ4N2I5ZTBjMjY",
+      "text": "Listen less to rumor, and more to the Amyrlin Seat. The Light shine on you.”",
+      "color": "yellow",
+      "location": "2228",
+      "page": "130",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzozMzY2ODg6SElHSExJR0hUOmFmMzFkZTk2Ny1mNjljLTRiMGYtOTFmZC0xNmIwZDVhZDYwNTU",
+      "text": "What was plain in form might have so many ornaments and carvings that it seemed an ornament itself, or, lacking decoration, used its form alone for grandeur. Great buildings and small, in stone of every color, looking like shells, or waves, or wind-sculpted cliffs, flowing and fanciful, captured from nature or the flights of men’s minds. The dwellings, the inns, the very stables—even the most insignificant buildings in Tar Valon had been made for beauty.",
+      "color": "yellow",
+      "location": "2245",
+      "page": "131",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzozMzgxOTU6SElHSExJR0hUOmE4ZTNmOWVhOC0zNmUyLTQ0NjMtOTU4MC00MTczOWZkOGZlMTA",
+      "text": "A hum filled the city like the song of a thing alive.",
+      "color": "yellow",
+      "location": "2255",
+      "page": "132",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzozMzk4MTg6SElHSExJR0hUOmEzZjVlZGYwNy01ZTRkLTQ2NGEtYTdhMC04MzVmNjI3MjQ3Mzg",
+      "text": "“And I truly hope you have learned the folly of speaking when you should be silent.”",
+      "color": "yellow",
+      "location": "2266",
+      "page": "132",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzozODY4Nzg6SElHSExJR0hUOmFkZDI2NDQ0OS02NjljLTQ3NDMtYjUxNy1lNDkwNjQ5ZTQ3Yjk",
+      "text": "When there are fish heads and blood in the water, you don’t need to see the silverpike to know they are there.”",
+      "color": "yellow",
+      "location": "2580",
+      "page": "151",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzo0MjA0NDc6SElHSExJR0hUOmFjYjliMmNmZS00N2UyLTQ4MTQtOGIxNi0zNTVhNzZlYWFkZGM",
+      "text": "You have pushed every limit they’ve put on you. Why would you accept limits now, when we might have to ignore them to stay alive?”",
+      "color": "yellow",
+      "location": "2803",
+      "page": "164",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzo0OTE4MTQ6SElHSExJR0hUOmE0YzE5NTc4MC1mNDFlLTQ1N2UtOWI2OS03MTYzODc3ODcxMGM",
+      "text": "A man is the easiest animal to put on a leash, and the hardest to keep leashed. Even when he chooses it himself.”",
+      "color": "yellow",
+      "location": "3279",
+      "page": "191",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzo1NjI0ODc6SElHSExJR0hUOmE3MzBiYzM3YS00N2Q5LTQ4ZTAtYjJkYi0yMGVjYjg2NmIwODQ",
+      "text": "‘Once you decide to gut a fish, there’s no use waiting till it rots.’",
+      "color": "yellow",
+      "location": "3750",
+      "page": "219",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzo2NzMxNzQ6SElHSExJR0hUOmFlN2Y1MzU1My1hOWRkLTQzZTAtOWQ3Yy0wY2RmM2E0Yjk3M2Y",
+      "text": "He thought that if he parted his coat, he would see a hole where his stomach should have been, a hole growing larger as it pulled the rest of him in. But he hardly thought of hunger. He kept hearing voices in his head. You speak the Old Tongue, lad? Manetheren.",
+      "color": "yellow",
+      "location": "4488",
+      "page": "261",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzo5Nzk3ODM6SElHSExJR0hUOmE1M2U5MjMxOS1jMzEzLTQzMzgtOTk2Yy0yNmU4ODk1OGFhMjU",
+      "text": "“Do not question me,” she said coldly. “You do not know which questions to ask, and you would comprehend less than half the answers if I gave them. Which I will not.”",
+      "color": "yellow",
+      "location": "6532",
+      "page": "381",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMTk1MjkyOkhJR0hMSUdIVDphNDE3Mjk2NzgtMmNmMC00OGE0LWEzZjgtYWY5MjQzYTM3NDRi",
+      "text": "A darkness formed among the clouds, a hole into somewhere else.",
+      "color": "yellow",
+      "location": "7969",
+      "page": "464",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMTk2NTY0OkhJR0hMSUdIVDphMjJkMzM0MjctOWIxNi00M2VkLWExNTYtOTM5YzVjMTBhZWJh",
+      "text": "What is real is not real. What is not real is real. Flesh is a dream, and dreams have flesh.",
+      "color": "yellow",
+      "location": "7978",
+      "page": "465",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMjA5OTYxOkhJR0hMSUdIVDphNjkzYWI3YzItNTk1Yy00MjcxLWJhNDEtNjdjYThiMGMwNDY1",
+      "text": "“There are many threads woven in the Pattern, and some are as black as the Shadow itself. Take care one of them does not strangle you.”",
+      "color": "yellow",
+      "location": "8067",
+      "page": "470",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMjEwMjU2OkhJR0hMSUdIVDphNDUxNWNlYzctNGUzOS00NDRhLWI5MjgtNWMzODVhN2I1N2Yy",
+      "text": "Burn you, Moiraine, Perrin thought as he rode after them. Sometimes I do not know which side you are on.",
+      "color": "yellow",
+      "location": "8069",
+      "page": "470",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMjEzMzI4OkhJR0hMSUdIVDphM2E1Mjk2YjAtMDEzYi00NzE3LWEwZWMtOTRkZGQwZDNmZDQz",
+      "text": "but it would not have been a bad life. Plenty of books. I did not have to come Outside.”",
+      "color": "yellow",
+      "location": "8089",
+      "page": "471",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMjE1MTQyOkhJR0hMSUdIVDphMzE0OTg0ODUtYTk1My00MDU0LTgyNjYtMjM3ODYwNDc0N2Ux",
+      "text": "“Many nations have risen and fallen since the Breaking,” Moiraine said without turning, “some leaving no more than names on a yellowed page, or lines on a tattered map. Will we leave as much behind?”",
+      "color": "yellow",
+      "location": "8101",
+      "page": "472",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMjIwMTk3OkhJR0hMSUdIVDphZDJkMGQzOGItNGM2Yy00ZDU3LTk4ZDItMjg3MGU1NzkxZWJi",
+      "text": "What did you do?” “Something forbidden,” Moiraine said coolly. “Forbidden by vows almost as strong as the Three Oaths.”",
+      "color": "yellow",
+      "location": "8135",
+      "page": "474",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMjIyMDE0OkhJR0hMSUdIVDphZDllNjhiNTQtN2U1YS00YWQ1LWI3NTQtNjcwMWMwODM3N2Jl",
+      "text": "“Once again events outpace me. I do not like that. And neither should you. If events outrun me, they may well trample you, and the rest of the world with you.”",
+      "color": "yellow",
+      "location": "8147",
+      "page": "475",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMjI1MTQyOkhJR0hMSUdIVDphZDhmMzAxZDAtNWQ0MC00MGEwLThlNGYtNmJjNzM1ZGE2NTEw",
+      "text": "“Even a bad clockmaker is a fairly rich man, and they earn it. But a clock does not explode in your face!”",
+      "color": "yellow",
+      "location": "8168",
+      "page": "476",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMjg1MjI5OkhJR0hMSUdIVDphMjViZjhmMjktNjUyMi00N2Q2LWIwZDktOWU3MzVlMjlhMDQ0",
+      "text": "“Are you anxious then to milk cows, boy? Perhaps you should see something of the world before it changes.",
+      "color": "yellow",
+      "location": "8569",
+      "page": "499",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMjk5OTI0OkhJR0hMSUdIVDphMzM2ZmIyN2UtMGFmYi00YzM0LWE0MjctMjBkNWYxMDQyMjk2",
+      "text": "“Her temper was ever as sudden as lightning, and twice as dangerous.”",
+      "color": "yellow",
+      "location": "8667",
+      "page": "505",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMzAwNjY5OkhJR0hMSUdIVDphNzJmMjAzZmQtZDY3MC00Nzk3LTkwYmUtZTljNDllMTU2ZjEx",
+      "text": "Rumor is the voice of the people, and the voice of the people often speaks truth.",
+      "color": "yellow",
+      "location": "8672",
+      "page": "505",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMzAzNzc2OkhJR0hMSUdIVDphYTkxMzRlMDItYjYwZi00NWFkLWI4NzItMWE0ZDRlYzI1YWY1",
+      "text": "Any fool knows men and women think differently at times, but the biggest difference is this. Men forget, but never forgive; women forgive, but never forget.",
+      "color": "yellow",
+      "location": "8692",
+      "page": "506",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMzA0NTM5OkhJR0hMSUdIVDphMWFlNWVhZjYtZGRkOC00MWM5LWFmMTYtOGUwNTc3YmQ1NTM1",
+      "text": "I thought you meant to stay here.” “Did you not just hear me say I had decided not to have my head cut off?",
+      "color": "yellow",
+      "location": "8697",
+      "page": "507",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMzA1NjY0OkhJR0hMSUdIVDphZDc2ZTc5NDYtMTk3OC00ZGFkLTlkYTctNTkyYmE3MDFmOGZh",
+      "text": "“What’s this, lad? Coin?” “Stakes. Gaebril doesn’t know it, but he and I have a wager.” The cat jumped down as Mat picked up the wooden dice cup and spun the dice out on the table. Five sixes. “And I always win.”",
+      "color": "yellow",
+      "location": "8705",
+      "page": "507",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMzE1Mzc4OkhJR0hMSUdIVDphZDc0ZDRjYzMtYTEyOS00ODRiLTkwOGEtNjhlNDcwZTA4Zjhh",
+      "text": "it was difficult to believe the Stone of Tear had been built rather than carved out of a mountain already there.",
+      "color": "yellow",
+      "location": "8770",
+      "page": "511",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMzE1NjEzOkhJR0hMSUdIVDphOWQ4NzQ3NDYtZDI2MS00NTJmLWJiNmYtNjAxZjQ5MjNjM2Yw",
+      "text": "“Flows of Earth woven to draw stone from the ground, Air to bring it from every corner of the world, and Earth and Fire to make it all in one piece, without seam or joint or mortar.",
+      "color": "yellow",
+      "location": "8771",
+      "page": "511",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMzM0Mjg2OkhJR0hMSUdIVDphNjRkNjY4YTAtNjRmMy00NzBhLWIwYzUtZTRjYTc5M2JkY2Fm",
+      "text": "There are some will buy anything, if it costs enough.”",
+      "color": "yellow",
+      "location": "8896",
+      "page": "519",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMzM5ODY0OkhJR0hMSUdIVDphZjlkNzlkM2EtYzQ5Mi00MDRjLWFkZTYtODJmNjZhNTAyODgz",
+      "text": "Men are not good for much beyond heavy hauling and getting in the way, most of the time—and kissing and such—but if there’s a battle to be fought or a thief to catch, I say let them do it.",
+      "color": "yellow",
+      "location": "8933",
+      "page": "521",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxMzQxNTAwOkhJR0hMSUdIVDphZjlhOGUwZmYtMzZiZi00M2FhLWE2OTItMzE0MTE0NmE5NThi",
+      "text": "“Of the four most dangerous folk I know, two are women who never carry as much as a knife,",
+      "color": "yellow",
+      "location": "8944",
+      "page": "521",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxNDI0NDg2OkhJR0hMSUdIVDphNzhhYmIzYmEtZTc3Mi00OTM0LTgyYWItMzcxMzVmNjVlMzk4",
+      "text": "“I suppose. . . . I suppose . . . if I have a choice . . . that I will stay with all of you. I have taken a great many notes, but not nearly enough to complete my book,",
+      "color": "yellow",
+      "location": "9497",
+      "page": "553",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxNDI0ODAzOkhJR0hMSUdIVDphNjAyMjcyMjQtMDZlMy00ODkxLTk5ZDYtYTAzYzY1YTIxOTJk",
+      "text": "“Good, Loial. I am glad that you are staying. I will be glad to use any knowledge you have. But until this is done, I have no time to listen to your complaints!”",
+      "color": "yellow",
+      "location": "9499",
+      "page": "553",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxNDI4NzUwOkhJR0hMSUdIVDphNzI0ODRiZTUtYmIxMi00YzM0LTkxZTctOGRhNjJhZDQzNjgy",
+      "text": "Now tell me, Loial. What do you know of Be’lal. And briefly, for once. I want your long memory, not your long wind.”",
+      "color": "yellow",
+      "location": "9526",
+      "page": "555",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxNDMzNTY5OkhJR0hMSUdIVDphNTIxOTdlMDktN2M2Yy00YjAzLWE2YWQtZjBhODUyOWNjZGNj",
+      "text": "We stagger blindly while Be’lal weaves his nets, and the Wheel weaves the Pattern around us.",
+      "color": "yellow",
+      "location": "9558",
+      "page": "557",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxNDkyNjQzOkhJR0hMSUdIVDphMzI0NjdhMjItY2I3NS00M2IxLTg4ZGMtYWI5N2FmYmRkYzBl",
+      "text": "Loial raised those huge hands that held books so carefully, and his thick fingers curled as if to crush stone. “None will pass me while I live, Perrin. Not Myrddraal or the Dark One himself.” He said it like a simple statement of fact.",
+      "color": "yellow",
+      "location": "9951",
+      "page": "579",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxNDk0OTQ0OkhJR0hMSUdIVDphYmUwZjM2YzMtYjAzMS00YTFlLWI5MTAtMDE0NDYyZjQyNGVm",
+      "text": "You will die, Young Bull! If I do not free the falcon, I do not care, brother. Then we hunt, brother. Noses to the wind, the two wolves ran across the plain, seeking the falcon.",
+      "color": "yellow",
+      "location": "9967",
+      "page": "580",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxNjA2NDU5OkhJR0hMSUdIVDphMTY3N2Q1ZjQtMTJhNS00OTQzLWEwODAtMjI4OTc0N2MzMTJk",
+      "text": "her dress of the finest red silk left those shoulders bare, along with a considerable expanse of what Mat noted as an admirable bosom.",
+      "color": "yellow",
+      "location": "10710",
+      "page": "624",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMzBBRjVETzoxNjA5Nzc1OkhJR0hMSUdIVDphMmNiYTYxOTItZGI0ZS00MGRlLWIyYTEtNWFjYTQ2OWRkYzM2",
+      "text": "And it was written that no hand but his should wield the Sword held in the Stone, but he did draw it out, like fire in his hand, and his glory did burn the world. Thus did it begin. Thus do we sing his Rebirth. Thus do we sing the beginning.",
+      "color": "yellow",
+      "location": "10732",
+      "page": "628",
+      "source": "kindle"
+    }
+  ]
+}

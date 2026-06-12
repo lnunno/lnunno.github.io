@@ -1,0 +1,592 @@
+{
+  "id": "curse-of-chalion-9d90ebb1",
+  "title": "The Curse of Chalion",
+  "author": "Bujold, Lois McMaster",
+  "highlightCount": 73,
+  "highlights": [
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUToxNDkyNzpISUdITElHSFQ6YTQ3Yzg4MjdmLTgxYzItNDgzOC04MjU4LThjMTFlM2YwMDZmMw",
+      "text": "Now he had a hope for bandits to steal again. Now he had a reason to fear. He reflected on his new burden, so great for its weight, as he stumped up the road in the wake of the soldier-brothers. Almost not worth it. Almost. Gold. Temptation to the weak, weariness to the wise…what was it to a dull-eyed bull of a soldier, embarrassed by his accidental largesse?",
+      "color": "yellow",
+      "location": "100",
+      "page": "4",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUToyNjA0MDpISUdITElHSFQ6YTViODRjOWJiLTc4MmYtNDUxOC04OTAwLWZmNWVkYmRmN2E4OA",
+      "text": "All offerings must be one’s best, even if all one had to offer was words.",
+      "color": "yellow",
+      "location": "174",
+      "page": "8",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUToyNjM0MjpISUdITElHSFQ6YTQwYzhiYjQ0LTY3NjYtNDAzYy1iNDkwLTM3ZGZjZmZlODZjMA",
+      "text": "Mercy, High Ones. Not justice, please, not justice. We would all be fools to pray for justice.",
+      "color": "yellow",
+      "location": "176",
+      "page": "8",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTozMDA2ODpISUdITElHSFQ6YWQzNjVlMzNmLTg0NTYtNDU5Zi04NzRjLWM2NzNkZDRhZmU1YQ",
+      "text": "Cazaril blinked at the dazzle of color in his blurring eyes, the familiar hues of his homeland.",
+      "color": "yellow",
+      "location": "201",
+      "page": "10",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTozODMyODpISUdITElHSFQ6YTU3ZWE4MWY2LWIwZmYtNDdiNC04ZmJiLTE3NDI3MTk0YTVmZA",
+      "text": "He would need paper and pen, a quiet place, time, and a good light, if he was to make head or tail of this mess.",
+      "color": "yellow",
+      "location": "256",
+      "page": "13",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo2NjU4ODpISUdITElHSFQ6YTVhMWRjNDg2LTZjMzgtNDFmZC1hMGI4LWExMzI2NGU0YjIzNg",
+      "text": "“Now…now, well, I know how to row boats. And five ways of preparing a dish of rats.” I could relish a mighty dish of rat right now, in fact.",
+      "color": "yellow",
+      "location": "444",
+      "page": "25",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo3Njg5MzpISUdITElHSFQ6YTU1NTk2NmEwLTg1ZTktNDEzZC04ZmUyLTJhZmE5Yzk5NGQzZA",
+      "text": "“The difference, Royse, is that a skilled soldier kills your enemies, but a skilled duelist kills your allies. I leave you to guess which a wise commander prefers to have in his camp.”",
+      "color": "yellow",
+      "location": "513",
+      "page": "29",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo4MTM1NTpISUdITElHSFQ6YTE4ZWQ1MjRlLTIxZTUtNGIxNi1iYTNmLWMxZTJkZDgzYTI2NQ",
+      "text": "“To a man of a certain age, Cazaril, all young ladies start to look delightful. It’s the first symptom of senility.”",
+      "color": "yellow",
+      "location": "543",
+      "page": "31",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo5Mjg2MzpISUdITElHSFQ6YTFlMDBiN2Y4LTJlNWUtNDk2OS04OGJmLTc4Mjc0OTQ2MGI3Yw",
+      "text": "He was certainly moving up to a better grade of castoffs.",
+      "color": "yellow",
+      "location": "620",
+      "page": "37",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo5NjM2MzpISUdITElHSFQ6YThjY2E2ZmM2LTZiZTctNGE5Zi04YzRlLTA1MzA2MTIxN2MyMA",
+      "text": "“If the gods hear. If they hear, they do not speak. Their faces are turned from me, Mother.”",
+      "color": "yellow",
+      "location": "643",
+      "page": "38",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUToxMTM4NTk6SElHSExJR0hUOmEwYmRjMWFkNS03Y2M3LTQxOTgtYjgzMi0xNTQ1Y2MwMTYzMmY",
+      "text": "“If tolerating injustice and turning a blind eye to men’s tragic and unnecessary damnations are among the first duties of a pious maiden, then the divines never taught it to me!”",
+      "color": "yellow",
+      "location": "760",
+      "page": "45",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUToxMTk0MjU6SElHSExJR0hUOmEyNzM5MDg1MC0xZDNiLTQ2OTAtYjQ5MS05NjkxY2U0NzkxNzc",
+      "text": "“The gods have surely landed you upon my wrist. Bastard’s demons take me if I haven’t the wit to jess you.”",
+      "color": "yellow",
+      "location": "797",
+      "page": "47",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUToxMjA0NjI6SElHSExJR0hUOmEyNzViODk2My02YTcxLTQ4YTMtOGM3NC1iNmI0MTI1ZDQ3NzE",
+      "text": "Cazaril swallowed. “I think…I think if you lent me a razor now, for me to cut my throat with, it would save ever so many steps. Please Your Grace.” The Provincara snorted. “Good, Cazaril, good. I do so like a man who doesn’t underestimate his situation.”",
+      "color": "yellow",
+      "location": "804",
+      "page": "48",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUToxMjczMTQ6SElHSExJR0hUOmE0MjUzNzJlNy0zNzEzLTRlOTItOGNlYy0xYTFmMTc2MWI4NTA",
+      "text": "“Yes; you speak like a South Ibran fishwoman hawking her wares. They are very melodic, too. But any Darthacan lordling, and they are all arrogant as wasps about their dreadful tongue, would laugh in your face.” At least, they had in Cazaril’s, once. “Your governess flattered you, Royesse.” She frowned across at him. “I take it you do not fancy yourself a flatterer, Castillar?”",
+      "color": "yellow",
+      "location": "849",
+      "page": "51",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUToxMjgwMTk6SElHSExJR0hUOmE3NWEyMmZhNi1kMDk3LTQ1NWMtODMxMS0zZjE5MWZmNTA3M2Y",
+      "text": "“I trust I am not a complete lout. But if you desire a man to tell you comfortable lies about your prowess, and so fetter any hope of true excellence, I’m sure you may find one anywhere. Not all prisons are made of iron bars. Some are made of feather beds.",
+      "color": "yellow",
+      "location": "854",
+      "page": "52",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUToxMzI0MDg6SElHSExJR0hUOmE3MDg3YmM1NC03MzFmLTRkZDgtYjc2OC02OTczMjk5YjY4ZDE",
+      "text": "“You may have slandered an honest man. Or you may have struck a blow for justice. I don’t know. The point is…neither do you.”",
+      "color": "yellow",
+      "location": "883",
+      "page": "53",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUToxMzI3NjM6SElHSExJR0hUOmFjNTI3OGQ4NC0xZGQ3LTQ1MzYtYmY3NS03MmFlMWE3OWU1OTc",
+      "text": "“And right or wrong, what I also saw was that you made an enemy, and left him alive behind you. Great charity. Bad tactics.”",
+      "color": "yellow",
+      "location": "886",
+      "page": "54",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUToxNTM1MjI6SElHSExJR0hUOmEyNWYwNGVmNC1lYzAyLTQwMzMtYmRjMy1jZWJkZTkxYTNkMDI",
+      "text": "he glanced up at the sky overhead, brightening to a washed cerulean as the dawn mists burned away. The quietude of the Provincara’s household, balm to Cazaril’s soul, was doubtless acid to poor constricted Teidez.",
+      "color": "yellow",
+      "location": "1024",
+      "page": "62",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUToxNzE0NTE6SElHSExJR0hUOmFlYjM1MTk2MS0yMTg2LTRkZTktYjhkYy00YTUwNzUyMjlkZTI",
+      "text": "“I had nineteen months to think of it, Palli. I rubbed every possibility as thin as an old coin in my brain. I thought of it till I was sick to death of the thinking, and called it done. It’s done.”",
+      "color": "yellow",
+      "location": "1144",
+      "page": "69",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUToxODc4MDA6SElHSExJR0hUOmEzYmE2NGNmYS0xNjlhLTQ4MGEtOGFmOS03YTg1M2MzMGY0MWI",
+      "text": "“Of course, the whole world was only a few dozen paces long, and made of wood, and rocked on the water…all time was the turning of a glass. I planned my life by the hour as closely as one plans a year, and no further than an hour.",
+      "color": "yellow",
+      "location": "1253",
+      "page": "76",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUToxOTAxMjg6SElHSExJR0hUOmFkYThlZjAwMy02NWYwLTQ4NWItYWNkMS1lZjM5ZTJkNGRkMGI",
+      "text": "We slaves, we lords, we fools, we men and women, we mortals, we toys of the gods—all the same thing, Palli. They are all the same to me now.”",
+      "color": "yellow",
+      "location": "1268",
+      "page": "77",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUToyMDA2ODA6SElHSExJR0hUOmE0MTc3OTQ5YS1mMWI5LTQyMGEtODY5NS1iYWY3YWQwODc1NzE",
+      "text": "Don’t put your trust in dreams, Castillar. Or in the promises of men.”",
+      "color": "yellow",
+      "location": "1338",
+      "page": "81",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUToyMDIyNDI6SElHSExJR0hUOmEzYWZlZWE4MC1mNzgzLTQ1ZmUtOTRkYi0yNzdlN2RiMDk0YjM",
+      "text": "I have not much consolation anywhere. The gods have surely made a mock of me. I would return the favor, but they hold my heart and my breath hostage to their whims. My children are prisoners of fortune. And fortune is gone mad, in Chalion.”",
+      "color": "yellow",
+      "location": "1349",
+      "page": "82",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUToyMDM5OTc6SElHSExJR0hUOmEyYTBmMTgyMy04MTE1LTQ2OTYtYWFiMy0yODEzMGFjZTg4MGQ",
+      "text": "The gods’ most savage curses come upon us as answers to our own prayers, you know. Prayer is a dangerous business. I think it should be outlawed.”",
+      "color": "yellow",
+      "location": "1360",
+      "page": "83",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUToyMDkwMjI6SElHSExJR0hUOmE0ODljMzQwYy03ZTMwLTRjNzAtOWI4Ny1kNWM4OTM4NTk2ODQ",
+      "text": "“The swordmaster wasn’t training us to be gentlemen. He was training us to be soldiers. I’ll give his old method this credit—any battlefield I was ever on was a lot more like a butcher’s yard than it was like a dueling ring.",
+      "color": "yellow",
+      "location": "1394",
+      "page": "85",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUToyODQyNjM6SElHSExJR0hUOmE4YzY2YzBlMC0xODc2LTRhY2EtOTY2NS0xN2Y0MDRmNGFiZWQ",
+      "text": "It’s a wondrous transmutation, where the blood of one man is turned into the money of another. Lead into gold is nothing to it.”",
+      "color": "yellow",
+      "location": "1896",
+      "page": "117",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTozMzIyMTc6SElHSExJR0hUOmE1Y2YyYjliYy04YjUzLTQ4ZGUtOGY1Yi1iYWEzMzVkZWUxMTE",
+      "text": "“Save your treasure, my lord, to buy yourself a man with a lower price. I’m sure you can find one.”",
+      "color": "yellow",
+      "location": "2215",
+      "page": "137",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTozODYxMjU6SElHSExJR0hUOmExMDA2NzVmOC02YjU0LTRiODUtYjIwZC01ODE1OGMzMTQwNGQ",
+      "text": "It’s a continuing source of amazement to me, the lies that men will tell these days for their profit.”",
+      "color": "yellow",
+      "location": "2575",
+      "page": "160",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo0MDc3NzM6SElHSExJR0hUOmEwY2UxYjRlZi1mMmM4LTRmZTctYTVhMi01NWMyMTVlMTVlYmQ",
+      "text": "I thought the only place that courage didn’t matter was on a Roknari slave galley. I was wrong.",
+      "color": "yellow",
+      "location": "2719",
+      "page": "169",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo0MTc2Nzg6SElHSExJR0hUOmFmMDcyODZmNC04MjI3LTQ2ZWEtODk5ZS01ZmExZjBkODE5MTY",
+      "text": "Animals were innocent, even the grisly crows; that innocence surely made them all a little sacred.",
+      "color": "yellow",
+      "location": "2785",
+      "page": "173",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo0MjM1NTA6SElHSExJR0hUOmFjNzQwNTRmYy0xMjQ2LTRlMjUtYTQ5Ni05OWM3MjgyMzdlZTM",
+      "text": "Catch a crow. Right. It had sounded so simple, back in his bedchamber. He couldn’t even see the crows in these flickering shadows.",
+      "color": "yellow",
+      "location": "2824",
+      "page": "175",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo0MjQ4NDE6SElHSExJR0hUOmEyNjM0MzcwZC04ZGQzLTRiOTYtYTEwNS1iMzc2NzA4NzA4YjU",
+      "text": "“Forgive me. My need is great. Maybe the Bastard will feed you the bread of the gods, and you can ride on His shoulder, when you reach Him. Fly to your lord with my prayer.”",
+      "color": "yellow",
+      "location": "2833",
+      "page": "176",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo0MjUxODQ6SElHSExJR0hUOmEzMDEzN2M0OS04YWYzLTRlZTQtYmEyMi1kMWU3NmI5Y2JhZWY",
+      "text": "“Lord Bastard, god of justice when justice fails, of balance, of all things out of season, of my need. For dy Sanda. For Iselle. For all who love her—Lady Betriz, Royina Ista, the old Provincara. For the mess on my back. For truth against lies. Receive my prayer.”",
+      "color": "yellow",
+      "location": "2835",
+      "page": "176",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo0MjYxNjE6SElHSExJR0hUOmFjYjQ0ZDg1Mi0wOWIzLTQ1ZmQtOTBjMi05MTc2YjNkMjAzZGU",
+      "text": "The candle flames guttered and died. The dark world darkened further, and went out.",
+      "color": "yellow",
+      "location": "2842",
+      "page": "176",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo0NDE0MzU6SElHSExJR0hUOmEzYzU4YjY1MS04ODBmLTRjMTItOWRkZC0wOWFkZjA0Zjk0MmQ",
+      "text": "“And at such a cost. May the Bastard’s demons grant him what mercy ever they can.”",
+      "color": "yellow",
+      "location": "2943",
+      "page": "183",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo0NDIwMjI6SElHSExJR0hUOmE3NTUyMzE0MC1mODgyLTQ0YjYtODBhOS0wMWI1ODgxZDEzZGM",
+      "text": "“So we prepare today not for grievous wedding but joyous funeral. I trust you ladies will contain your glee in public?”",
+      "color": "yellow",
+      "location": "2947",
+      "page": "183",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo0NDY1MTM6SElHSExJR0hUOmFmODAxYTFmNy1lYzVjLTQzMTgtYTAzOC03ZjJkMDJhMGRlNjA",
+      "text": "“Bastard’s demons!” Cazaril, who had slid down into his covers, struggled up again. “Is nothing sacred to castle gossip? Can’t a man even call his chamber pot his own here?”",
+      "color": "yellow",
+      "location": "2977",
+      "page": "185",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo0NTIxNTY6SElHSExJR0hUOmE1MzcyOGY3NS1kNGNlLTQzNGYtYTU5My0yNzcyZDNkMmUxZmI",
+      "text": "A shadowless gray light filled the court as the cold wet day sank toward foggy evening. The air was hazy violet with a clashing mélange of the incenses burned in the prayers and rites of cleansing.",
+      "color": "yellow",
+      "location": "3015",
+      "page": "187",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo0NTk0NDA6SElHSExJR0hUOmE3OWY3MGRmNC0wM2Q2LTRhYzItOTZmMi02NmNmMDEzNjA5YzE",
+      "text": "“If no god has taken up Lord Dondo’s soul…then it’s still in the world. I mean, if it’s not there, then it has to be here. Somewhere…” An unquiet ghost, a revenant spirit. Sundered and damned.",
+      "color": "yellow",
+      "location": "3063",
+      "page": "190",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo0NjU0NjE6SElHSExJR0hUOmE2Yzk2MDA5NC1hYjI3LTRhMzYtYWIxYi0yOGE2MzM2NTNhNWQ",
+      "text": "One can never see oneself, alas. No mundane mirror reflects this. Only the eyes of a soul.”",
+      "color": "yellow",
+      "location": "3104",
+      "page": "192",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo0NzA4MDc6SElHSExJR0hUOmFlOTg1ZDVlMi03OTNlLTRlMWUtOGQ5OS1iOGIwOWIxMmFlMDM",
+      "text": "“I thought—I hoped—I wondered—if you might have been sent by the gods. To guide and guard me.” Umegat’s lip quirked up. “Indeed? And here I was wondering if you had been sent by the gods to guide and guard me.”",
+      "color": "yellow",
+      "location": "3139",
+      "page": "196",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo0ODQ0NTA6SElHSExJR0hUOmFkNzY3OWI2Ni1jOWFkLTQ0YjMtODI1Mi03ZTI1MjYyOTY0ZTU",
+      "text": "And what does He send instead? An overexcited crow with a one-word vocabulary.” Cazaril winced in guilt, thinking of that poor crow. In truth, he felt far worse about the crow’s death than Dondo’s.",
+      "color": "yellow",
+      "location": "3230",
+      "page": "201",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo0OTM4MzI6SElHSExJR0hUOmFkZDY4YzczMC04OGUzLTQ5ZTctYjFkZC1mY2NmZjZjNWM2MzM",
+      "text": "“So you’re saying that I could die at any moment!” “Yes. And this is different from your life yesterday in what way?”",
+      "color": "yellow",
+      "location": "3293",
+      "page": "205",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo0OTUxNzM6SElHSExJR0hUOmEwYWM0NGIxZi02M2ExLTQzNTQtOTA3Ni02NGFmZTMyZDgyMWM",
+      "text": "My personal recommendation to you, tonight, is to get pie-eyed drunk and go to sleep.” “So I can wake in the morning both demon-ridden and with a hangover?”",
+      "color": "yellow",
+      "location": "3302",
+      "page": "205",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo0OTY5MTU6SElHSExJR0hUOmFlZTA4ODE4Ny1hMTk1LTQzN2EtOGQ2NS0wNzc1MzkwNGEzYmQ",
+      "text": "He found oddly little regret in his heart for his own lost life. He’d seen more of the world than most men ever did, and he’d had his chances, though the gods knew he’d made little enough of them.",
+      "color": "yellow",
+      "location": "3313",
+      "page": "207",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo1MDM4NjY6SElHSExJR0hUOmFjZjhjMjRhZC0xNmY4LTQ1NDktOGYxYy0xNDk1ZDBjMzJlOTY",
+      "text": "“As a divine, I defer to my superiors. As a saint, I answer to my god. Alone. If He trusts my judgment, so perforce must I. And so must my superiors.” He looked up, and now his gaze was unsettlingly direct. “That the goddess has set your feet on some journey on her behalf—courier—is abundantly plain from Her hour-by-hour preservation of your life.",
+      "color": "yellow",
+      "location": "3360",
+      "page": "210",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo1MDY3MzM6SElHSExJR0hUOmFmM2I2NzA3Yi04OTYxLTRiOWQtODIwOC0xMzRkZWNjYmIzYzE",
+      "text": "“Lately—we’ve redoubled our petitions to the gods for aid.” “And how have the gods answered?” “It would seem—by sending you.”",
+      "color": "yellow",
+      "location": "3379",
+      "page": "211",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo1NDc3MTU6SElHSExJR0hUOmFlNjVkZTQzOS1iZWQ0LTRiZDYtOTg4Ni0wNjI0ZjUyNWNjYTI",
+      "text": "“If I stay here talking theology with you much longer, I swear I’ll end up drinking myself blind again, just to make my brain stop spinning round and round inside my skull.”",
+      "color": "yellow",
+      "location": "3652",
+      "page": "228",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo1NDgxNzY6SElHSExJR0hUOmEzYjdlM2U0Zi05YjczLTRmMzMtODhhYy1jOTc3ZjRlZTI3YWM",
+      "text": "if I must ask of every action not only if it is wise or good, but also if it’s the one I’m supposed to choose, I shall go mad. Madder. I’ll end up curled in a corner not doing anything at all, except maybe mumbling and weeping.”",
+      "color": "yellow",
+      "location": "3655",
+      "page": "228",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo1NDg1MTQ6SElHSExJR0hUOmEzOTgyM2RjMi00Mjc1LTRmODktOWZjNi05Nzc0ZTY1YzUwZjc",
+      "text": "“You cannot outguess the gods. Hold to virtue—if you can identify it—and trust that the duty set before you is the duty desired of you. And that the talents given to you are the talents you should place in the gods’ service. Believe that the gods ask for nothing back that they have not first lent to you. Not even your life.”",
+      "color": "yellow",
+      "location": "3657",
+      "page": "228",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo1NTAzMjQ6SElHSExJR0hUOmFjYzJjZmM4ZS1kMjlkLTRhZTEtOTlmMy1jZTlkOWJiODc3NWI",
+      "text": "“Cazaril, must you believe you are about to die in order to bring yourself to kiss a lady?”",
+      "color": "yellow",
+      "location": "3669",
+      "page": "229",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo1ODA0NjU6SElHSExJR0hUOmFiMDE1YjA4Ny1mZWU1LTRlMjYtODU4Zi0xYTIzMTIxYjUyNzU",
+      "text": "They all died. I don’t care to kill any more good people that way. Do not tease and torment yourself with such desperate impossibilities. Take what you can of life meantime, and pray.” It was praying that got me into this—or this into me…",
+      "color": "yellow",
+      "location": "3870",
+      "page": "242",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo2MDQ0OTg6SElHSExJR0hUOmE0NThjZDFkMy00ODgwLTRjNzEtOGZiOC0wZmQ3Njc5MjNhYzc",
+      "text": "“I don’t duel. But if you seek to die like a bludgeoned steer, cross me again.”",
+      "color": "yellow",
+      "location": "4030",
+      "page": "252",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo2ODA5MTY6SElHSExJR0hUOmE1ZjI1NjRjYy05NzNmLTQ0YzktYTBhMi1hZTMyYzAzZDgxNmU",
+      "text": "The gods do not grant miracles for our purposes, but for theirs,",
+      "color": "yellow",
+      "location": "4540",
+      "page": "285",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo3MDUzOTI6SElHSExJR0hUOmFjMWI4NWUyYi04NDMzLTQ0MTMtYTgxZi04ZTFlYjZhNWI2OTU",
+      "text": "“Coy, Caz. Just what kind of noose are you offering to put round my neck, here? Is this treason?” “Worse,” Cazaril sighed. “Theology.”",
+      "color": "yellow",
+      "location": "4703",
+      "page": "295",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo3NDk4NTM6SElHSExJR0hUOmEzMTk0YjEzOS0wYzUxLTRmZmMtODIyZS1hNThjMGU5NTFjN2I",
+      "text": "Fonsa’s crow did not follow farther, but perched upon the gate’s high crenellations and vented a few sad caws, which echoed as they descended into the ravine. The Zangre’s cliff wall, naked of verdure in the winter, rose high and stark across the dark, rapid water of the river.",
+      "color": "yellow",
+      "location": "5000",
+      "page": "314",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo3NTEyNjA6SElHSExJR0hUOmE3Yzg5Y2UxMy1mNDdhLTRmNTctYTZkNi0xODQ0OWVkY2UzMzI",
+      "text": "The road opened before them across the snow-streaked dun landscape, winding into gray mists heavy with the faint sweet rot of winter vegetation. Vanishing into uncertainty.",
+      "color": "yellow",
+      "location": "5009",
+      "page": "314",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo3NTIzNDU6SElHSExJR0hUOmE2NTZmNGNmMS04MjM5LTRiOTUtYTNlNi0yMDBkMzgyMDExZjI",
+      "text": "In minutes, it would be his task to tell a mother that her son was dead. Of all the trials he expected to face on this journey, this was the worst.",
+      "color": "yellow",
+      "location": "5016",
+      "page": "315",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo3NTY1Mzk6SElHSExJR0hUOmFkMDFiNGJhMC04ZTUwLTQ4MTQtODhmNC1lNTE3YzhiOWNkMDI",
+      "text": "“When it is too-long-anticipated, a blow falls as a relief, you see. The waiting is over. I can stop fearing, now. Can you understand that?”",
+      "color": "yellow",
+      "location": "5044",
+      "page": "317",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo3NTk4NDE6SElHSExJR0hUOmExNWI3YjNlZC02MDY5LTQ1NWYtODViYS0zNzdlNWQ3Yjg3MDk",
+      "text": "But please, please, lady, tell me how you came to know. What did you see, and when, and how? I must understand. Because I think—I fear—it has been given to me, it has fallen to me, to act. Yet nothing has told me what that action must be. Even second sight cannot pierce this dark.”",
+      "color": "yellow",
+      "location": "5066",
+      "page": "318",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo3NjAxODI6SElHSExJR0hUOmFhODk1YTNhZS00ODdhLTQzZDUtOThhMi1iYWFkNjE0Mzg5ZmY",
+      "text": "“I can tell you truths. I cannot give you understanding. For how can one give what one does not possess? I have always told the truth.”",
+      "color": "yellow",
+      "location": "5068",
+      "page": "318",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo3NjI4MTE6SElHSExJR0hUOmFhNzhkODM3NS00MDM1LTQ1NmMtYTkwNC0wNTkzMDE5Y2JlOTA",
+      "text": "Ista’s lips softened; even now, the peace of that vision echoed briefly in her face, a flash of beauty like the reflection of sunlight on dark waters.",
+      "color": "yellow",
+      "location": "5086",
+      "page": "319",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo3NzM2OTc6SElHSExJR0hUOmFiZTc0Y2M3Ny0zZTQxLTRmYWItYWJkNS1lZWNlNDQ5MWUzYzQ",
+      "text": "“I, I, I’m only Cazaril, my lady! I am no dy Lutez, I am sure. I am not brilliant, or rich, or strong. Or beautiful, the gods know. Or brave, though I fight when I’m trapped, I suppose.”",
+      "color": "yellow",
+      "location": "5158",
+      "page": "324",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo3NzU1NzQ6SElHSExJR0hUOmE1YWE2ZmY3My0zOGVjLTQ3N2MtYjVjMS0yYmNhZjZhYzYyZWI",
+      "text": "It’s not a bad life, being mad, you know. It has its advantages. You don’t have to make any decisions. What to eat, what to wear, where to go…who lives, who dies…You can try it yourself, if you like. Just tell the truth. Tell people you are pregnant with a demon and a ghost, and you have a tumor that talks vilely to you, and the gods guard your steps, and see what happens next.”",
+      "color": "yellow",
+      "location": "5171",
+      "page": "324",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo3ODg2NDM6SElHSExJR0hUOmE4MzRiYTAzNS1lZjYwLTRjNTctYWE5Ny1hZTdjYmIxZDk5OGI",
+      "text": "Children in charge of the whole world these days, no wonder it’s all gone mad.",
+      "color": "yellow",
+      "location": "5258",
+      "page": "330",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo4MzM2MTM6SElHSExJR0hUOmEzODJjM2M0OS1mMzcwLTRhNzgtODI5OC05OTFhYmMzNzFjOTg",
+      "text": "The gods’ most savage curses come to us as answers to our own prayers. Prayer is a dangerous business.",
+      "color": "yellow",
+      "location": "5558",
+      "page": "348",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo4MzUyNDU6SElHSExJR0hUOmFhNTc2Nzc4ZS0yYmI0LTQwZDgtYTY4Yy02MzdjNzM4ZDBjMDE",
+      "text": "Prayer, he suspected as he hoisted himself up and turned for the door, was putting one foot in front of the other. Moving all the same.",
+      "color": "yellow",
+      "location": "5569",
+      "page": "349",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo4ODI0MTk6SElHSExJR0hUOmFkZDcwYjY2OS01YmMwLTRjN2MtYTRmNS1iYWExNWZjNjA3ZTI",
+      "text": "“The gods are on our side, right enough. Can we fail?” Cazaril snorted bitterly. “Yes.” He thought of Ista, Umegat, the tongueless groom. Of the deathly straits he was in. “And when we fail, the gods do, too.”",
+      "color": "yellow",
+      "location": "5883",
+      "page": "369",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo4ODY0MzE6SElHSExJR0hUOmE4Y2I3MTFjOC0xMWU0LTRmZmEtYWMwZi04ZjA1MDA2NmRhNzM",
+      "text": "It was a great work, one any man might look back on and say, That was my life; it was enough. He asked nothing more now but to be permitted to finish what he’d started. Iselle’s wedding, and Betriz made safe—if the gods would but give him those two gifts, he thought he could go in quiet content. I’m tired.",
+      "color": "yellow",
+      "location": "5910",
+      "page": "371",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo5MTcyNTg6SElHSExJR0hUOmFhMWVjMmE2Zi1iODliLTQxYWYtYmI5Ny04YmQ4ZGY0NmEwMTQ",
+      "text": "He claims that the gods, and we, are both right here all the time, a shadow’s thickness apart. We’ve no distance to cross at all to get to each other.”",
+      "color": "yellow",
+      "location": "6116",
+      "page": "385",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo5Mjc3MDU6SElHSExJR0hUOmEyYjk1ZDVlZS04YWE0LTQ2NDYtYTMwNy0zNjU4ZTcyMTlmZjU",
+      "text": "Have you discovered how to save yourself? Maybe you couldn’t save yourself. Maybe you had to take turns saving each other…“",
+      "color": "yellow",
+      "location": "6185",
+      "page": "389",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUTo5MzI5MzM6SElHSExJR0hUOmE3ZTdlYWFkMi1iZmIwLTQyYzMtOWQzMy1lOWE3MmEzNGMwZTI",
+      "text": "I can’t go on like this much longer. Something had to give way—his body, his sanity, his breath. His faith. Something.",
+      "color": "yellow",
+      "location": "6220",
+      "page": "391",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMTFBUToxMDQ0ODAwOkhJR0hMSUdIVDphYjZhNjQxZjktMjNiYS00YjYxLWI5NDYtOTkzZjYyZTUzYjFh",
+      "text": "“Well, it is a particular sin to permit grief for what is gone to poison the praise for what blessings remain to us.”",
+      "color": "yellow",
+      "location": "6966",
+      "page": "438",
+      "source": "kindle"
+    }
+  ]
+}

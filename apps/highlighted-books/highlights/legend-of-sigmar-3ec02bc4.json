@@ -1,0 +1,32 @@
+{
+  "id": "legend-of-sigmar-3ec02bc4",
+  "title": "The Legend of Sigmar (Warhammer Chronicles Book 1)",
+  "author": "Graham McNeill",
+  "highlightCount": 3,
+  "highlights": [
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3NDZKRFc5Tjo4NzQxOkhJR0hMSUdIVDphZjc5MTcxYmUtNzkzZC00ODEyLWExNDAtYThmZWU2OWQ1NDg1",
+      "text": "The enemies of man are many and if men cannot overcome their differences and rally together, their demise is assured.",
+      "color": "yellow",
+      "location": "59",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3NDZKRFc5TjoxMDgxODpISUdITElHSFQ6YWNmN2U1ZjYwLTY3MmYtNDllOS05ZTVmLTg0ZTM3YWM1MTAzOA",
+      "text": "But when all you have is the strength in your sword arm and the fellowship of your brothers, a man has to dig deep within himself to become a hero.",
+      "color": "yellow",
+      "location": "73",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3NDZKRFc5TjoxNzkwMTpISUdITElHSFQ6YTIwMzBmZWNiLWZmNzYtNDNkNC04MjVhLTVkYzdjNjU2N2I3MA",
+      "text": "When the sun rests And the world is dark And the great fires are lit And the ale is poured into flagons Then is the time to sing sagas as dwarfs do And the greatest of sagas Is the saga of Sigmar, mightiest warrior. Harken now, hear these words. And live in hope.",
+      "color": "yellow",
+      "location": "120",
+      "page": "",
+      "source": "kindle"
+    }
+  ]
+}

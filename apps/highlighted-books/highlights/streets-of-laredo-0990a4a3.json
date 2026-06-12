@@ -1,0 +1,704 @@
+{
+  "id": "streets-of-laredo-0990a4a3",
+  "title": "Streets of Laredo",
+  "author": "McMurtry, Larry",
+  "highlightCount": 87,
+  "highlights": [
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo1MzU2MTpISUdITElHSFQ6YTY4NDdjMDVjLWJhMDktNDhiMi04YzE1LTRkMmI0ZGJhN2NkOA",
+      "text": "Lorena said. “I wouldn’t marry a man just for conversation. I’d rather read, now that I know how, than listen to any man talk.”",
+      "color": "yellow",
+      "location": "358",
+      "page": "20",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo1NTczOTpISUdITElHSFQ6YWQwZjY2NmRmLTY0NGItNDA4YS05ZmM1LTA1OWQxMzAwODcxYg",
+      "text": "Someday, Lorena imagined, some bandit would finally outshoot Captain Call, and she would finally have Pea Eye all to herself—if he could just stay alive, in the meantime.",
+      "color": "yellow",
+      "location": "372",
+      "page": "21",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo1OTUwNTpISUdITElHSFQ6YWRhNDMwMmM0LTk0YWEtNDUzNC1iZjA4LTVmYWExODJlZGZkNg",
+      "text": "She didn’t say anything, but there was something disquieting in her look. Of course, that was nothing new. There was something disquieting in most of Lorena’s looks. Pea Eye tried to think of something more to say, but failed. He had never been a man of many words, and being married to a schoolteacher hadn’t changed him much.",
+      "color": "yellow",
+      "location": "397",
+      "page": "23",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo2MDMwMjpISUdITElHSFQ6YTg2Y2RlZWIxLTNjMDYtNDAyYS1hMTNhLTkxZjNlMjllZTI5MQ",
+      "text": "It was a fine, crisp day, but Pea Eye didn’t feel fine. He had never said no to the Captain, and now he would have to. The Captain wasn’t going to like the news, either—the Captain definitely wasn’t going to like the news.",
+      "color": "yellow",
+      "location": "403",
+      "page": "23",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo2Mzc5OTpISUdITElHSFQ6YWNkNWQ5Y2E4LWU1NmMtNGY0My1iNWQ4LTcxZGNjNGRmMjgxMw",
+      "text": "The woman had won. In the end, it seemed they always did.",
+      "color": "yellow",
+      "location": "426",
+      "page": "25",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo3MjE4NjpISUdITElHSFQ6YTEyZjdiODdiLTZlY2MtNGI4MS05ZTcyLTc1ODc4Yzk0ODExYg",
+      "text": "Because of Clara’s meddling, or Lorena’s boldness, or a combination of the two, Call was riding south with only a Yankee office worker, to go after the most enterprising young bandit to show up on the border in a decade or more.",
+      "color": "yellow",
+      "location": "482",
+      "page": "28",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo3Njk0NTpISUdITElHSFQ6YWEwM2UwZTAzLTk0ZDMtNDg2My04MDdjLWE5Y2NiYzNhNTU5Zg",
+      "text": "In Call’s view, there was an obligation stronger than those, and that obligation was loyalty. It seemed to him the highest principle, loyalty. He preferred it to honor. He had never been exactly sure what men meant when they spoke of their honor, though it had been a popular word during the time of the War. He was sure, though, what he meant when he spoke of loyalty. A man didn’t desert his comrades, his troop, his leader. If he did he was, in Call’s book, worthless.",
+      "color": "yellow",
+      "location": "513",
+      "page": "30",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo4MzkwNTpISUdITElHSFQ6YTI0OWZhYjBiLTM4NWMtNDU4ZC1iYTFkLWYwM2QwYWRlZGNkYQ",
+      "text": "He hadn’t wanted to go with the Captain, and he still didn’t. But, despite that, he missed his old partners of the trail. The boys would never ride out together again; they would never be an outfit again. It was sad, but it was life.",
+      "color": "yellow",
+      "location": "560",
+      "page": "33",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo4NTA5NDpISUdITElHSFQ6YTA2Y2Q5MGU5LTIzOTYtNGVjNi05ZTI0LTA4YzAzYWJiOWQ2NQ",
+      "text": "Pea Eye had to admit that the order of things had changed. This was one of the days when it changed.",
+      "color": "yellow",
+      "location": "568",
+      "page": "34",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODoxMTM0MjY6SElHSExJR0hUOmE5Njk4YmI0MS04MDFhLTQ2ZDktYjM3NC1mZWM0NjhjMmE5NWE",
+      "text": "“He liked the way I look,” Maria said. “He mistook that for me.”",
+      "color": "yellow",
+      "location": "757",
+      "page": "45",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODoxMzExNDA6SElHSExJR0hUOmFmZTI2ZTk2NS1iYzMzLTRkYmEtODhlZS0wY2QxYmMyYzEzNGY",
+      "text": "“I hope I’m not getting deaf,” Call said. “I didn’t hear you answer. What happens if I ain’t quick enough?” “He’ll fire you in a minute,” Brookshire said. “I’m glad you admit it,” Call said. “I’ll get Joey Garza for you, but I can’t say when I’ll get him, and God couldn’t either. Mexico is a big place—so is West Texas.",
+      "color": "yellow",
+      "location": "875",
+      "page": "53",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODoxMzIyMzE6SElHSExJR0hUOmExZmExNDRkZC03NmFmLTQ0ODAtOWZhNi1jNmUzYTAxN2ZjOGM",
+      "text": "“I like a loyal man,” Call said, seeing that Brookshire had nothing to say. “I think you are a loyal man. But being loyal don’t mean you’re suited for this work.",
+      "color": "yellow",
+      "location": "882",
+      "page": "53",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODoxMzY4Mjc6SElHSExJR0hUOmEzOTllNGYyOC00ZGMyLTRkOTItYjVlMy1lMTkxZjdhYWRkODk",
+      "text": "“There’s one sure thing about my reputation, Mr. Brookshire,” Call said. “It won’t stop a bullet.",
+      "color": "yellow",
+      "location": "913",
+      "page": "55",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODoxNTA1NDY6SElHSExJR0hUOmE1ZWRjZDc3ZS1mNzkxLTQwZDctYmUzYy1lYzE2YmQ0MDkwNzA",
+      "text": "She knew her son didn’t like her. He was smiling because of the death he was about to deal. Joey’s smile soon became part of the legend the gringos made about him: Joey Garza always smiled before he killed.",
+      "color": "yellow",
+      "location": "1004",
+      "page": "61",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODoxNTkxODc6SElHSExJR0hUOmExYTJiY2E1MS1jZmRkLTQ4NGYtYWViYi0wZDgzNDRhZWZmNzc",
+      "text": "“Good God, Tom, where’s your other ear?” Joe Means asked, horrified. “It’s in my shirt pocket,”",
+      "color": "yellow",
+      "location": "1062",
+      "page": "64",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODoxNjc3MzM6SElHSExJR0hUOmFhM2I0YTNhYy1lNzMzLTQ5MWQtODJlNy0xNDZkM2E1YjJjMGU",
+      "text": "Many a traveler had been casually shot down in the street, his death watched only by the crows. The crows rested in the skinny mesquite. Sometimes they walked among the buildings, as if they were people. The air, even on nice spring days, had a kind of rotten smell, the legacy of thousands of rotting hides.",
+      "color": "yellow",
+      "location": "1119",
+      "page": "68",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODoxNzg3ODU6SElHSExJR0hUOmFkMjhhNTUwNC1iODUzLTQxN2MtYmIxOS01MjIxZDM0NDYyMmM",
+      "text": "Men who lived in the past brought out her restlessness. Life was there, in the house, in the yard, in the town; in the bedroom, in her hands, in her womb. It was not in the past. The bad things that had happened to her had not killed her. They had not even killed the laughter in her.",
+      "color": "yellow",
+      "location": "1192",
+      "page": "72",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODoxNzkyMDc6SElHSExJR0hUOmFhMWFiODVjYS1lNzg2LTRiNDEtOTczNy1mNTIzMzUzM2E1MGU",
+      "text": "Men were odd. One day they were hard, far too hard; the next day they were soft, far too soft. They were like porcupines: prickly on the outside, but with soft bellies.",
+      "color": "yellow",
+      "location": "1195",
+      "page": "72",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODoxODQzMjY6SElHSExJR0hUOmFlYWUzM2U3ZC03MGQ1LTRiYzQtODkyNi0yMDRiZjExNjM1ZGQ",
+      "text": "They were damaged; Joey was damaged, too. His limbs were normal, his eyes were clear, but his soul was sick.",
+      "color": "yellow",
+      "location": "1229",
+      "page": "75",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODoxODcwMTA6SElHSExJR0hUOmE4MmY2ZTYxYS1lODVhLTQzZWItOWRhNS1lNWY5MDM4NDU3Mzk",
+      "text": "Maria didn’t believe in hell. If there was a hell it came to you in life. The Texans brought it. They had evil in them and they had exercised their evil on her, when they caught her in her house. That was hell, and it had happened to her in her own house.",
+      "color": "yellow",
+      "location": "1247",
+      "page": "76",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODoyMTIxODE6SElHSExJR0hUOmE3NDkwYTgyNy05NmQ5LTQ5NWMtOTc4ZC1kOTAxZTJhMTczMDA",
+      "text": "“Yesterday you didn’t own a horse.” “I only stole six coins, Mother,” Joey said. “If the old man comes back, I’ll just kill him.”",
+      "color": "yellow",
+      "location": "1415",
+      "page": "86",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODoyMTQ0NzE6SElHSExJR0hUOmFjYTgxMzdhZi1hNzA2LTQ2YWMtODkwZS1iYTY2MTE5MjAyMWU",
+      "text": "An old trader had it, a Frenchman, a man with a vast belly and empty eyes. Joey had the urge to stick a knife in the man’s belly, to see if he could cause the emptiness to leave his eyes. Perhaps as he died, the man would look alive for a few moments.",
+      "color": "yellow",
+      "location": "1430",
+      "page": "87",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODoyMjQzOTg6SElHSExJR0hUOmE2M2YyZjk1OS04OTNiLTQyNzctOThiNy1kYjU4NDdjYTQyNzM",
+      "text": "The men from the railroad had to wrap wet blankets around their heads in order to be able to run in and disconnect the cars that held the hundreds of dead and melting sheep. The buzzards were so thick around the sides of the cars that the men had to beat them away with clubs. The couplings of the cars were fouled so badly that some men fainted and some ran away.",
+      "color": "yellow",
+      "location": "1496",
+      "page": "91",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODoyNTA1MTA6SElHSExJR0hUOmFhMjQwNzM5YS1kNGJhLTRmZGQtOGVjOC00NDU0YzZkYmY5YTk",
+      "text": "There was no degree of competence that would assure anyone of survival, and no scale that would tell a commander which man would live and which man would die.",
+      "color": "yellow",
+      "location": "1671",
+      "page": "102",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODoyNjUxMjg6SElHSExJR0hUOmE2OGU4OGY1Zi0wYzI5LTQyNzUtYTQzZC02NjhmZjI3OTg5MzI",
+      "text": "There were rules, just as Ted had warned her, and the main one seemed to be that men could leave when they chose to.",
+      "color": "yellow",
+      "location": "1768",
+      "page": "108",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODoyOTI2NDk6SElHSExJR0hUOmFkNDIwODZlOC0wM2JmLTQ4NDYtOGM3ZC1kOTBlY2MyZTBkMGU",
+      "text": "“Life makes everybody strange, if you keep living long enough,”",
+      "color": "yellow",
+      "location": "1951",
+      "page": "120",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODozMTQ1MjM6SElHSExJR0hUOmEyN2JiOTIwYy0xNzE3LTQ2NjMtYjNhZS0wNTIyOGEwODYxYTk",
+      "text": "“There’s always a trip you don’t come back from,”",
+      "color": "yellow",
+      "location": "2097",
+      "page": "129",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODozMTUzMDk6SElHSExJR0hUOmFlMjM5ZTA1OS05NDc2LTQ0OWEtYmQ5MC01YmMyZjU0ZTY3ZGU",
+      "text": "He had never supposed Charles Goodnight would speak to him at all, much less lecture him. It was a little like being lectured by God, or at least, by the prophet Moses.",
+      "color": "yellow",
+      "location": "2103",
+      "page": "129",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODozMTYwNjQ6SElHSExJR0hUOmEwOGVlM2I0YS04ZGE0LTQxZDMtODExMy1jNzk0OWRjZDU3Njc",
+      "text": "Not too many men, in his experience, had achieved a great thing, even one. Very few ever achieved more than one,",
+      "color": "yellow",
+      "location": "2108",
+      "page": "130",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODozMTgyNDk6SElHSExJR0hUOmFmNjk2MzVhMC0wZWJmLTQwNGUtYjVmZC1jZGVmNzc5MjIzMTc",
+      "text": "“You think Joey Garza could kill the Captain?” he asked. “Yes, I do,” Goodnight said, and turned and rode away.",
+      "color": "yellow",
+      "location": "2122",
+      "page": "130",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODozMjIzMjM6SElHSExJR0hUOmExODI5ZjQ5MC1mNTljLTRlZTctOWRmYi1jYjNjMmM4NTMxMTU",
+      "text": "Too much of her life had been spent at the mercy of men she didn’t want, even of men she despised; or in having to refuse the love of decent men—Dish",
+      "color": "yellow",
+      "location": "2149",
+      "page": "132",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODozMjU5MDg6SElHSExJR0hUOmEzYmYwZTRjNS1mYjE1LTRhYjgtYjMyZi01NmFjMTBmNjFhNGM",
+      "text": "She could change her husband’s habits, and she had, but she couldn’t change his history, and it was in his history that the problem lay. “I ought to go find him,” Pea Eye whispered. “He’s an old man. I ain’t.”",
+      "color": "yellow",
+      "location": "2173",
+      "page": "134",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODozMzIzMDI6SElHSExJR0hUOmFlNDEyZDNjZS02OGFlLTQ0YTctYjQ2Mi1jZGVjN2E1NThiZDQ",
+      "text": "But leaving him behind had become, to Call, like leaving his own life behind.",
+      "color": "yellow",
+      "location": "2216",
+      "page": "136",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODozMzgyMjg6SElHSExJR0hUOmExMGRhZGMzMy1mZDgxLTQ0Y2YtOGRiMy0xNDFkZjU1MjIzMzY",
+      "text": "Why had he thought he wanted to leave? It had all been because the old Captain enjoyed such a blinding reputation. Doubting him was like doubting the sun.",
+      "color": "yellow",
+      "location": "2255",
+      "page": "139",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODozNDAyOTk6SElHSExJR0hUOmE0YjdlYjU0MC0yNjkyLTQzNzEtODA0ZC1iNDBkZjRhODY1Nzk",
+      "text": "It amazed him that he couldn’t seem to help lying. What he heard himself say to the Captain was exactly the opposite of what he had just been feeling, the opposite of what he had planned to say. But he couldn’t help himself. Saying the truth wasn’t possible, not when Captain Call was looking at you, hard.",
+      "color": "yellow",
+      "location": "2269",
+      "page": "140",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODozNjU4MzM6SElHSExJR0hUOmFjMWQ0ZGI0ZS1mNzA3LTQ5ZWYtYjk2Yy1hOWU4ZjYwNjFlODg",
+      "text": "They were a rough lot, and also dumb. In his view, only smart people had a chance in life, and only smart people deserved a chance.",
+      "color": "yellow",
+      "location": "2439",
+      "page": "150",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODozNjgyNDQ6SElHSExJR0hUOmE0YjkzODc3Yi01ZjVkLTRhZGQtOWRjOS03ZjQ2YTVhYzlkNTQ",
+      "text": "The bullet had taken off much of the cowboy’s skull. The man wore a large pistol, which Joey used to smash the skull open a little more. Then he took a cup from the dead man’s saddlebags and filled it with his brains. When it was darker still, he walked into town, holding the cup full of brains.",
+      "color": "yellow",
+      "location": "2455",
+      "page": "151",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODozODIwNzI6SElHSExJR0hUOmE1Zjc4M2E0My04MDEyLTQwNTQtOGI3YS0wOTZiOTJlNDE2ODY",
+      "text": "“Don’t sit there and die, you damn bastard,” Wesley Hardin said. “Go outside and die. Nobody wants you dying in here.”",
+      "color": "yellow",
+      "location": "2548",
+      "page": "157",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODozODYwOTg6SElHSExJR0hUOmFmNDVmMWM5OS1jMDQ2LTRhNWEtYjkwYy1iMDRjZjk2YmYzYzM",
+      "text": "“I might shoot every man, woman, and child in this stinkin’ nigger-bird town, and then you wouldn’t need a goddamn blacksmith. How’s that?”",
+      "color": "yellow",
+      "location": "2574",
+      "page": "159",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODozOTY5NjE6SElHSExJR0hUOmE5NTY3MWFjYy00MjYxLTRlZmItOGIyMy0xMjRmNjNiNmMzY2Y",
+      "text": "WHEN FAMOUS SHOES decided to take a walk, it was usually a long one.",
+      "color": "yellow",
+      "location": "2647",
+      "page": "163",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo0MDYyNzc6SElHSExJR0hUOmFjMjU3YTMxOC1iYjIzLTRhODktYThkYi05ODAyOTkwODQ4MmQ",
+      "text": "He needed to recover from the vanity of thinking that he was as special as the birds. He did not deserve to see the great nesting places, nor to look off the edge of the world. He was only a man, of the earth and not of the sky, and his skills were not the skills of birds.",
+      "color": "yellow",
+      "location": "2709",
+      "page": "167",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo0MDkzODE6SElHSExJR0hUOmExMjFhMGQ4Ni0zNzQ1LTQxOWQtODIyNy1jNzA5MzUxYjdlODk",
+      "text": "Marshall had told them that the books came from the god who made all the whites. There were many whites, and they were rich; the god must be powerful, if he had made them all. It might anger him if the book with his tracks in it was not treated properly,",
+      "color": "yellow",
+      "location": "2730",
+      "page": "168",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo0MTM2NDc6SElHSExJR0hUOmE3MzllMzNhOS02ZGZhLTQ2MjAtYjE4Zi05ZWNmODAxZDJjODI",
+      "text": "“They’re words, not tracks, you damn Indian!” Roy Bean insisted. “They’re words, like I’m saying to you, now.” “But words are made from breath. How can they live in such a thing as this book?” Famous Shoes asked. He might as well have asked his question of an eagle, or of the moon, for Roy Bean had not only lost interest, he had lost consciousness as well.",
+      "color": "yellow",
+      "location": "2758",
+      "page": "170",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo0MTUyNjU6SElHSExJR0hUOmFhMjYwYjViNS05Yjg1LTRlYzItYTJjNC04MTUzMmJmOTgwN2U",
+      "text": "Among his people, the Kickapoo, respect for the gods caused most people to behave well, at least to behave well most of the time. But the same did not appear to be true of whites, most of whom behaved as if they knew no god and had no guidance stronger than their own passions, when it came to deciding how to behave.",
+      "color": "yellow",
+      "location": "2769",
+      "page": "171",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo0MTgyODk6SElHSExJR0hUOmE5ODViZjkxNi01ZWU0LTQ2NTgtYWViNC04YjU4ZTM3YzhlZDc",
+      "text": "“If you are chasing somebody, I don’t think you are going to catch up with them, unless they are crippled,”",
+      "color": "yellow",
+      "location": "2789",
+      "page": "172",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo0MzY0MTQ6SElHSExJR0hUOmFlODc0Yzk5OS04Nzc3LTRlMDQtYmI0YS03M2VkYzVkMjgzZTA",
+      "text": "It was like a wind had swept through Laredo one afternoon, carrying him away with it. Would there be another wind, to carry him back home?",
+      "color": "yellow",
+      "location": "2910",
+      "page": "179",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo0NjIyNTA6SElHSExJR0hUOmE1MDY5YjM2MC02ZmYwLTQ3YjAtYjIzOS1mZDZjN2I3NDcyZTI",
+      "text": "“Learning may be the best thing we have. It may be all that we can truly keep,",
+      "color": "yellow",
+      "location": "3082",
+      "page": "193",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo0NzI5OTQ6SElHSExJR0hUOmE1MzY0OGNkNi01NTU0LTQ1NmEtYjFhMi04ODk4OWY2ODM2YTI",
+      "text": "Though used to plain speech, he knew that there were times when it wasn’t the best way to talk.",
+      "color": "yellow",
+      "location": "3154",
+      "page": "198",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo0ODAwMjY6SElHSExJR0hUOmE2NzczNDkwNS1kODNhLTQ1NWEtODlkYy1lOTIyYjRlMDIwYzY",
+      "text": "Though he was old, and should have been used to all suffering, to any misery that life could place in his path, he had never accustomed himself to the deep sobbing of women, to the grief that seized them when their children died, or their men.",
+      "color": "yellow",
+      "location": "3201",
+      "page": "201",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo0ODI0MjE6SElHSExJR0hUOmEwZDIwNTFlOC03MTA3LTRjMTItYjQ2My1jN2E5NWEwNjI4ZWE",
+      "text": "“Do you ever c-c-cry, mister?” the bold Georgie asked. “Seldom, son, very seldom,” Goodnight replied. “Is it b-b-because you have a b-b-beard?”",
+      "color": "yellow",
+      "location": "3217",
+      "page": "202",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo1MzM3MjU6SElHSExJR0hUOmFjNGFlMmVkZC1iMWU5LTQyNTgtYTQ3MC1kY2JiYjFiMDRjOTI",
+      "text": "Life was much easier when women were broken, when they didn’t dare express a feeling, whether happy or sad. It was not something to question; it was just how men were.",
+      "color": "yellow",
+      "location": "3559",
+      "page": "223",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo1NDExOTM6SElHSExJR0hUOmFkMTBlNDNkZi0zN2Y5LTQwYWYtYjM3ZS0zNDBiNDQ5MmE2ODc",
+      "text": "“You know what we are to these men,” she said. “Look between your legs—that’s what we are. That’s why they even let us be alive. Do you think they will let us all walk off, and not do something about it?”",
+      "color": "yellow",
+      "location": "3608",
+      "page": "226",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo1NTgyMjA6SElHSExJR0hUOmFlYTg5M2IwNy0zOTc4LTQwODctODQ3MC1lOWE0OWUwNDZlNjE",
+      "text": "“There wouldn’t be a soul left in the state, if you hung all the people you didn’t like,” Jimmy Cumsa said. “I don’t notice that you like too many people, Mox.” “I don’t, for a fact, and you’re getting to be a prime candidate for hanging yourself,”",
+      "color": "yellow",
+      "location": "3722",
+      "page": "233",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo1NjM2NDc6SElHSExJR0hUOmFhODYyM2RjMC1mNzM3LTRjZmMtYmE2Ni1iNzBiZDkwZjg4NDE",
+      "text": "“There ain’t no chair for me,” Hergardt informed him. “Then sit on the floor, you damn German,” Wesley Hardin said. “If you don’t get out of my light, you’ll soon be enjoying a few holes in your liver.”",
+      "color": "yellow",
+      "location": "3758",
+      "page": "236",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo1NzI1NDU6SElHSExJR0hUOmFjZTUyZjBlMC1jNmE3LTRkZTctYTI3Ni03YmM1OTU3MmEwZjU",
+      "text": "“I wouldn’t give a nickel’s worth of dogshit for the whole bunch of you, and I don’t care what it says in the papers. If you want to sit here and drink, do it quietly. Maybe I won’t have to whack you like I whacked that lunkhead.”",
+      "color": "yellow",
+      "location": "3817",
+      "page": "239",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo1OTAwOTM6SElHSExJR0hUOmE0MTJjM2I0MC0yMjU0LTQ3ZGMtYmIwMC1iMzZkODlkZDY5OGU",
+      "text": "“What are you dragging him along for, he’s worthless,” Billy said. “I wouldn’t hire him to shovel out shit, if I had a livery stable full of it.”",
+      "color": "yellow",
+      "location": "3934",
+      "page": "247",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo2MDIyNjk6SElHSExJR0hUOmE0YjYwN2I0ZC0yMjliLTQ4N2EtODJjNy1lMTk3YzU4ZjUyYWU",
+      "text": "For wisdom, in his view, had ever been a downward path: luck was better than wisdom, while one was alive. It was mainly the lucky who got to die in the right time, or the right place,",
+      "color": "yellow",
+      "location": "4016",
+      "page": "252",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo2MjM2MjQ6SElHSExJR0hUOmFkY2QxOTJiNS1lNjZmLTRiMTItOWM0NS02MDI5N2ZlMWNlOTI",
+      "text": "The next time he lifted a gun to shoot, a little less than a year after the beating, but long after the pursuit of Joey Garza had ended, it was to put a .45-caliber bullet into his own brain. His wife, Martha, was in the kitchen, rolling biscuit dough. When she heard the gun go off in the bedroom, Martha was glad.",
+      "color": "yellow",
+      "location": "4158",
+      "page": "261",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo2NDAzNDQ6SElHSExJR0hUOmFlYjIwMjk1Yi03ZGZkLTRjMjEtOGY0OC1lY2FkZTRlYWM0NmI",
+      "text": "Maria didn’t know why men resented the very women who gave them the most pleasure, and gave it generously. It was foolish, very foolish, of men to resent the good that came from women. Still, they did.",
+      "color": "yellow",
+      "location": "4269",
+      "page": "268",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo2ODM2NDM6SElHSExJR0hUOmFlY2NhZjViYy1mMDhjLTQyMmQtOWRmYS0xNDAxYTU1MWE2M2U",
+      "text": "“He’s always been loco,” Call said. “Now he’s old, and he’s lost his dogs. If I were him I’d quit, but I ain’t him.”",
+      "color": "yellow",
+      "location": "4558",
+      "page": "286",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo2ODkwODE6SElHSExJR0hUOmEyMWFjMDk4MS03YTQ2LTQyODAtYjkxNC1mNmYwMjA2Zjk4OTA",
+      "text": "When Lily fell, and Goodnight, and Bean and himself, there wouldn’t even be echoes, just memories. Call mounted up, feeling that he had begun to miss Ben Lily, a man he had never liked. Yet, a time or two in his life, he had even missed enemies:",
+      "color": "yellow",
+      "location": "4594",
+      "page": "288",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo2OTA2MDc6SElHSExJR0hUOmEyZWZiYmZlMi05NTk5LTRiMjAtYTgxOC1mZWZmM2E5NDYyN2Y",
+      "text": "he knew men did bad things to other men. That was an old lesson, learned and learned well in the Indian wars.",
+      "color": "yellow",
+      "location": "4605",
+      "page": "289",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo2OTk3ODY6SElHSExJR0hUOmE1OWZhZjExYy04Mzc4LTQ3MmYtYjk2My0zMDE2YWExMDhjODc",
+      "text": "Brookshire had a compass, but he didn’t use it. Captain Call was his compass. Without him, Brookshire doubted that he could find the will to keep himself going across the empty country, toward the dim horizon. He would simply stop, at some point. He would just stop and sit down and wait to be dead.",
+      "color": "yellow",
+      "location": "4666",
+      "page": "293",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo3MTU0MTg6SElHSExJR0hUOmExODZlMjgxYS0xNTkwLTQwZjEtOTY5NS02OTAwMmVhNWVjNTU",
+      "text": "It seemed to Brookshire that they were traveling in circles. Every curve took them farther from civilization and produced another killer.",
+      "color": "yellow",
+      "location": "4770",
+      "page": "299",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo3MjEyNDk6SElHSExJR0hUOmE0YzJiN2VjOC1jZDJhLTQxOWMtOTM3ZC04MDU4MWM5MDA3ZWU",
+      "text": "As he grew older, he felt more keenly how hard it was to know anyone. Lorena and the Captain, in turn, let him stay with them and share their lives. But Lorena and the Captain were complete, in a way that he wasn’t, and being complete, they didn’t realize how partial he felt. He was not as good as they were, not as smart and not as strong. They might know him, but he felt he would never be much good at knowing them.",
+      "color": "yellow",
+      "location": "4809",
+      "page": "302",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo3MjI2MzI6SElHSExJR0hUOmE2M2RlMzk1Mi04N2I1LTQwNjQtOWIwNy05ODI0ODk5Yjc0NDg",
+      "text": "“You oughtn’t to leave that pistol cocked,” Pea Eye said, as they watched the Captain lope away to the east. “You might have a bad dream and jerk and shoot your knee off.” “It might rain whores out of the sky, too, but I doubt it,” Roy Bean said.",
+      "color": "yellow",
+      "location": "4818",
+      "page": "302",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo3Mzc5OTE6SElHSExJR0hUOmE1NDc5ODYxMy04NGU4LTQ2NGYtOTcyNy1hZjBkZTljZDY3MDU",
+      "text": "Once a quarrel broke out, it was like a prairie fire—neither reason nor patience could extinguish it. Mainly, it had to be left to burn itself out. Many times he had thought such a quarrel burned out, only to have it flare up again as a result of some chance remark, and consume another hundred acres of his time.",
+      "color": "yellow",
+      "location": "4920",
+      "page": "309",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo3NTkxMTY6SElHSExJR0hUOmE1MDhlMjE5YS1mOGRlLTQ1MzUtYWQyMi1jMDBmMWRkN2YxOTM",
+      "text": "If such a time could be the whole of life, then life could be happiness. If Teresa could remain a child in her arms, then Teresa would never know the deep sorrows of womanhood, sorrows as deep as the cold water in the village well.",
+      "color": "yellow",
+      "location": "5061",
+      "page": "318",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo3NjAwMTE6SElHSExJR0hUOmE5MDY1NzVkOC1hYzQyLTQ5NzAtYWUwMS04Mjg0OWZmMzdhN2Q",
+      "text": "Someday, she would escape from her mother’s arms and walk out in her beauty into the world of sorrows. Maria didn’t want it to be soon.",
+      "color": "yellow",
+      "location": "5067",
+      "page": "318",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo4MDkwODg6SElHSExJR0hUOmEwZDM4YTczYy1hOGNhLTQ2ZDgtYmY3YS05YjFhNmNjNGMxYTk",
+      "text": "Building you a fire would be a waste of matches, and I ain’t got the time to waste on a man that’s dying anyway.” “I ain’t dying, I’m just shot,” Mox Mox said. “I’ll live if I can get warm.” “Hellfire will warm you, Mox,” Jimmy Cumsa said,",
+      "color": "yellow",
+      "location": "5394",
+      "page": "342",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo4MTUzMjQ6SElHSExJR0hUOmFiYjRmMTY1Ni1kMDQxLTQ5MWItOWFjYy1jYzA5Nzk3ZjQ4ZDE",
+      "text": "Soon, the savage wind began to bite. Mox Mox began to think of cutting himself in order to feel the warmth of his own blood.",
+      "color": "yellow",
+      "location": "5436",
+      "page": "344",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo4MTU3MDg6SElHSExJR0hUOmFiMzcwNjIxYS02YjU2LTRhOGQtYjFjYy1mYzgyNmY5YWMzNWE",
+      "text": "The blood seeping out of his chest began to freeze on his shirt. When he put his hand on his side, his blood was cold. He wanted a fire, but there was no fire and no way to make one.",
+      "color": "yellow",
+      "location": "5439",
+      "page": "344",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo4MTY4ODE6SElHSExJR0hUOmEyZmVjZDYzNi1hMzFiLTRlYmMtODAxNC0xZmQ3OThmOTBiMjE",
+      "text": "There was no warmth anywhere—only the yipping of the coyotes and the yellow of the shining stars.",
+      "color": "yellow",
+      "location": "5446",
+      "page": "345",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo4MzI5NTI6SElHSExJR0hUOmFjODQ5Yzc2Ni03NjQzLTRhYjktOGI5Yi0xZGFiOTAwNzdiYmY",
+      "text": "He couldn’t stop. He was freezing, his wife was dead, and now the deputy’s wife was dead. He was in a cold place, in a strange, forbidding country, hunting a bandit. How could it all have happened?",
+      "color": "yellow",
+      "location": "5554",
+      "page": "352",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo4Njk5MTk6SElHSExJR0hUOmFmNzE2YTA1OS0zZTQ5LTRjNjYtOTU4OS0wNDhkZTc3ZTQ4MGI",
+      "text": "But then it seemed to Call that despite himself, he was floating away into the world behind his eyelids. They wouldn’t stay open. They wouldn’t. In the world behind his eyelids, everything was white.",
+      "color": "yellow",
+      "location": "5800",
+      "page": "368",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo4ODk1MTY6SElHSExJR0hUOmFhMGU3YTdlZC02M2MzLTQwZGMtODljYS1jMDM5YTc4YzlmY2E",
+      "text": "“You might bleed to death,” she said. “I didn’t yet,” Call whispered. “I ain’t handsome, like Gus. I’ve got no women to lose. If I have to be one-legged, I will. I want to live to kill that boy.”",
+      "color": "yellow",
+      "location": "5931",
+      "page": "376",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo4OTAxMzg6SElHSExJR0hUOmE1YjdlNTdmOS1mZGM1LTRkY2EtOWQwYy0wYzQ2MTllYTE0ZGQ",
+      "text": "“You ought to think of a better reason to live than killing a boy,” Lorena said. “If killing is the only reason you can think of to live, then you might as well die.”",
+      "color": "yellow",
+      "location": "5935",
+      "page": "376",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo5MzE0MzY6SElHSExJR0hUOmE2ODdlNGQ0OC00MzhhLTQwZTctYTJhNC0xMDNiNTk4NTY4MjQ",
+      "text": "Gus had been himself—a full man. He’d had his flaws, and Lorena knew them. He was selfish at times past believing, as selfish as Pea Eye was unselfish. Gus knew himself. He knew how he wanted to be, and he had chosen in the critical hour not to accept being less.",
+      "color": "yellow",
+      "location": "6210",
+      "page": "393",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODo5Mzk5OTY6SElHSExJR0hUOmFhOWJmYmY2MS0yNDcyLTRhOGMtOTE0ZS1mY2M0MTgyMWEyNmE",
+      "text": "Though he bore the name of the man who had killed her father and her brother, Maria knew he was no longer that man, the one she had wanted to kill. She had wanted to kill him in his power because he had used his power wrongly. She wanted him to know that he could not simply kill people, good people, and be excused.",
+      "color": "yellow",
+      "location": "6267",
+      "page": "397",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODoxMDM2OTc5OkhJR0hMSUdIVDphZTI3NjU2ZmItOTkzYS00NjlkLTk5NzUtMDU4MTQ2ZWMwYWNh",
+      "text": "The tortured look left Jorge’s face and he looked at his son with surprise, the surprise men so often showed when they saw that a living human had been created from the actions of love—actions they had taken long before and perhaps had forgotten.",
+      "color": "yellow",
+      "location": "6914",
+      "page": "438",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODoxMDQ1MTA1OkhJR0hMSUdIVDphNjVkNmFlMzUtNDExNS00ZTNhLWI0ZTYtNjU2YmVmODYyMGQ2",
+      "text": "Her sweetest, most beguiling dreams were dreams in which Joey was good again, as he had been when he was just a little boy. But then she would awaken to heartache and discouragement so profound that it made her limbs heavy, for Joey was no longer a little boy and he was no longer good.",
+      "color": "yellow",
+      "location": "6968",
+      "page": "441",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODoxMDUyODAyOkhJR0hMSUdIVDphZDA4NzkwMTQtM2ZiMy00YzBlLWIxOTMtNTUwNDk2OGMyNzk0",
+      "text": "“Don’t kill her, you rascal!” Gordo yelled. “Don’t kill her—I might want to marry her!”",
+      "color": "yellow",
+      "location": "7019",
+      "page": "444",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODoxMDgxNDE4OkhJR0hMSUdIVDphZjg3NzVlY2YtYjk5Mi00OTgzLWFiNjUtZGI3ODFkYmYyYzk1",
+      "text": "Evil men or evil circumstances would come and prove stronger than all the good in her life.",
+      "color": "yellow",
+      "location": "7210",
+      "page": "456",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODoxMDgxOTIwOkhJR0hMSUdIVDphZDJmYzJhNDYtOWZlYi00NjlmLWFiZmEtMjQ0OWUyZmU4M2Vk",
+      "text": "Lorena couldn’t control her fear, for it came from places too deep and too real, from what she had known and what she had seen.",
+      "color": "yellow",
+      "location": "7213",
+      "page": "456",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODoxMDg5NDgwOkhJR0hMSUdIVDphNjI1Njk0ZGItYjA0OS00OGM2LTg0YmEtMTY4Njg2NjJlNTlk",
+      "text": "Probably there was no explaining any of it; probably it had been mostly luck. The night grew colder, and the stars shone even more sharply in the deep, inky sky. Lorena drank most of the bottle of whiskey.",
+      "color": "yellow",
+      "location": "7264",
+      "page": "460",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODoxMTQ4MjE4OkhJR0hMSUdIVDphNWU3YzViNDEtMjdlMy00OTE4LWJkYmMtYWE3NTAzNWFkOTEw",
+      "text": "He was no longer the man who had lived the old times; he was no longer even the man who had killed Mox Mox. That man was not the cripple who lived in a granary, in a barn on the Quitaque. That man lived back somewhere in memory, across a canyon, across the Pecos; that man had been blown away, as Brookshire feared he would be, on the plains of time.",
+      "color": "yellow",
+      "location": "7655",
+      "page": "490",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwM05FNkhKODoxMTYzMzY4OkhJR0hMSUdIVDphYmFmOTRlNmQtYzQ3My00NGJkLWIyMzQtMDdiMmJlY2Q2NDg2",
+      "text": "“Woodrow Call had his time,” he said, finally. “It was a long time, too. Life’s but a knife edge, anyway. Sooner or later people slip and get cut.” “Well, you ain’t slipped,” J. D. Brown said. “How would you know, son?” Goodnight said.",
+      "color": "yellow",
+      "location": "7756",
+      "page": "498",
+      "source": "kindle"
+    }
+  ]
+}

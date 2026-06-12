@@ -1,0 +1,656 @@
+{
+  "id": "ship-of-destiny-8d07b5db",
+  "title": "Ship of Destiny",
+  "author": "Hobb, Robin",
+  "highlightCount": 81,
+  "highlights": [
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo2MTcyODpISUdITElHSFQ6YTJJN0I0WlI1SFRUUkQ",
+      "text": "“If my children are dead, who am I?”",
+      "color": "yellow",
+      "location": "412",
+      "page": "24",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo2MzE2MTpISUdITElHSFQ6YTIxUVBSWDI2OTlHOUw",
+      "text": "woman is more than mother, more than daughter, more than wife. Those are the facets of a full life, but no single facet defines the jewel.”",
+      "color": "yellow",
+      "location": "422",
+      "page": "25",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxNjM1NDE6SElHSExJR0hUOmEzVFRIMEUyWVFIRTVM",
+      "text": "From the very beginning, Kennit had been unlike any other man she had ever known. None of the rules had ever seemed to apply to him. He had succeeded where any other man would have failed, achieved the impossible effortlessly.",
+      "color": "yellow",
+      "location": "1091",
+      "page": "69",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxNzE4ODg6SElHSExJR0hUOmEzNjBRQVdLTFJSTUk5",
+      "text": "Fault has no place in the greater scheme of things, little one. Fault and guilt are as useless as apology once the deed is done. Once the action has been taken, all must endure what follows.",
+      "color": "yellow",
+      "location": "1146",
+      "page": "72",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxNzI5NjU6SElHSExJR0hUOmExNTU2SFhNOTQ4WTBR",
+      "text": "This was the wonder and glory of a liveship. He must consort forever with death.",
+      "color": "yellow",
+      "location": "1154",
+      "page": "73",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoyMDA3NDc6SElHSExJR0hUOmEyREM4RFozVlhXTTRV",
+      "text": "He sensed her disgust that there was no wide, flat space prepared for a dragon to land. What sort of a city was this?",
+      "color": "yellow",
+      "location": "1339",
+      "page": "85",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoyMjgyNTE6SElHSExJR0hUOmExNU43UVFJV1Q4STRX",
+      "text": "“Long or short, if you worry about every step of a journey, you will divide it endlessly into pieces, any one of which may defeat you. Look only to the end.”",
+      "color": "yellow",
+      "location": "1522",
+      "page": "97",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoyMjg3NTM6SElHSExJR0hUOmFET01YREVaMlo1NkE",
+      "text": "Be now what you must be to succeed at the end of your journey, and when the end comes, you will find it is just another beginning.”",
+      "color": "yellow",
+      "location": "1526",
+      "page": "97",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoyMjk0MTM6SElHSExJR0hUOmExVlJBOExDRzFVSEhQ",
+      "text": "Being with Paragon was often like caring for a beloved but ill-mannered and difficult child.",
+      "color": "yellow",
+      "location": "1530",
+      "page": "97",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoyMzY1OTU6SElHSExJR0hUOmEySU05ODhGSENPWEpL",
+      "text": "For too many, when they get their dream, they discover it is not what they wanted. Or the dream is bigger than their abilities, and all ends in bitterness.",
+      "color": "yellow",
+      "location": "1578",
+      "page": "101",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoyNDA2NjY6SElHSExJR0hUOmEySUVNRTcwVzkwUUE4",
+      "text": "“Is there any man who does not speak far too freely when he is around other men?”",
+      "color": "yellow",
+      "location": "1605",
+      "page": "103",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoyNzY2ODc6SElHSExJR0hUOmExSkJDS1o5STc0SlpN",
+      "text": "Well, she had power now, and as long as she guarded that power well, she would be safe. No man could ever impose his will on her again.",
+      "color": "yellow",
+      "location": "1845",
+      "page": "119",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoyOTA2ODg6SElHSExJR0hUOmFQUzg5RzEyUjk5OEg",
+      "text": "Ronica suddenly knew that the right choice of words and threats could reduce this woman to a sniveling child. Whoever had broken her had broken her completely. She was a hollow shell of authority concealing an abyss of fear.",
+      "color": "yellow",
+      "location": "1938",
+      "page": "125",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoyOTMwOTA6SElHSExJR0hUOmEzSEFRQjlJT05YRUpN",
+      "text": "“Life is not a race to restore a past situation. Nor does one have to hurry to meet the future. Seeing how things change is what makes life interesting.”",
+      "color": "yellow",
+      "location": "1954",
+      "page": "126",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoyOTM5NDQ6SElHSExJR0hUOmExRjZWNkRROE5QQklV",
+      "text": "To take what has happened to you and learn from it, instead of being trapped by it. Nothing is quite so destructive as pity, especially self-pity. No event in life is so terrible that one cannot rise above it.”",
+      "color": "yellow",
+      "location": "1960",
+      "page": "127",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoyOTQ3NDg6SElHSExJR0hUOmFORDNITjJZVjFWUUk",
+      "text": "This terrible event—whatever it was—is over and done. Cling to it and let it shape you and you are doomed to live it forever. You are granting it power over you. Set it aside, and shape your future as you wish it to be, in spite of what happened to you. Then you have seized control of it.”",
+      "color": "yellow",
+      "location": "1965",
+      "page": "127",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDozNTY1NjE6SElHSExJR0hUOmExUklVN1VJSlNBTTEz",
+      "text": "When one falls in dreams, one always awakens before the impact. Not this time.",
+      "color": "yellow",
+      "location": "2378",
+      "page": "155",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDozNTgyMzM6SElHSExJR0hUOmEyOExZSURaRU5FMEpB",
+      "text": "Hers was a life stolen. She was half a being, less than half, a makeshift creature cobbled together out of human wills and buried dragon memories, sexless, deathless and, in the long run, meaningless. A slave. They had used the stolen memories of a dragon to create a great wooden slave for themselves.",
+      "color": "yellow",
+      "location": "2389",
+      "page": "155",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDozNzU4NDk6SElHSExJR0hUOmEzVEdWTENDMjNITkdW",
+      "text": "“Kennit, the serpents are dragon spawn.",
+      "color": "yellow",
+      "location": "2506",
+      "page": "163",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDozODAzODA6SElHSExJR0hUOmEzUDlHQUNXRk1ZUjFR",
+      "text": "Would the one I have treated as a son lift a scorpion’s sting to me now?”",
+      "color": "yellow",
+      "location": "2536",
+      "page": "166",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDozODExNzk6SElHSExJR0hUOmEyTFY0N0ZYMjhKSk9M",
+      "text": "“In truth, you have treated me better than my own father ever did. When you came aboard Vivacia, I expected death at your hands. Instead you have challenged me, every day, to find my life and live it. Kennit: you are more than captain to me.",
+      "color": "yellow",
+      "location": "2542",
+      "page": "166",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo0MjcyNzU6SElHSExJR0hUOmEySThDUlRBRkdaNDBR",
+      "text": "There had been a time, her ancestors whispered in the back of her brain, when dragon essence mingled with the nature of men, and Elderlings emerged from that accidental blending. Tall and slender, dragon-eyed and golden-skinned, that ancient race had lived alongside dragons and gloried in the symbiosis.",
+      "color": "yellow",
+      "location": "2849",
+      "page": "187",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo0NDkwMTI6SElHSExJR0hUOmFWMVhFWTJaNTROSzQ",
+      "text": "“Remember, Malta. On this ship, you might as well be in Chalced. On this boat, if you are not mine, then you are no man’s woman. And in Chalced, no man’s woman is every man’s woman.”",
+      "color": "yellow",
+      "location": "2994",
+      "page": "197",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo0NjU0MDE6SElHSExJR0hUOmEyUjk1NThTOTlROEdD",
+      "text": "“The profit from danger only pays you interest in trouble,”",
+      "color": "yellow",
+      "location": "3103",
+      "page": "204",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo2MDM2ODI6SElHSExJR0hUOmEzRUhTM0pBUVRPVlVR",
+      "text": "When I recall what we have been, what we should be now and compare it to what we have become … I gag.",
+      "color": "yellow",
+      "location": "4025",
+      "page": "266",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo2MzU5ODU6SElHSExJR0hUOmEzUDNMV1pNT0VJUTgx",
+      "text": "Why hadn’t he realized that the first ones to kill were the ones closest to you, the ones who knew you best? It was the only way to eliminate the threat to yourself. What was the sense of killing a stranger? Strangers had small interest in hurting you. That was always done best by your own family and friends.",
+      "color": "yellow",
+      "location": "4240",
+      "page": "283",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo2NTAyNTk6SElHSExJR0hUOmFYSVJJOU1VMEY2OFM",
+      "text": "Duress or bribe? Bargain or threaten? She would consider every option before she returned to Trehaug. The humans could be made to serve her. Her kind might still survive.",
+      "color": "yellow",
+      "location": "4336",
+      "page": "289",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo2ODc4MjM6SElHSExJR0hUOmEzQTlISU5EVkxVSzIz",
+      "text": "Hope was too steep a mountain to climb. She feared she would only fall into an abyss of despair when the hope proved futile. She lived instead in a suspension of all feeling. Now was all there was.",
+      "color": "yellow",
+      "location": "4586",
+      "page": "306",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo3MTY0NTQ6SElHSExJR0hUOmEyQlZFUk43VUhHNTVG",
+      "text": "“She’s dead, isn’t she?” He shook his head sadly. “What a nuisance.”",
+      "color": "yellow",
+      "location": "4777",
+      "page": "319",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo3NDU3MzE6SElHSExJR0hUOmEyOTBUMElFVjBYRU5H",
+      "text": "“A manner of speaking becomes a manner of thinking.”",
+      "color": "yellow",
+      "location": "4972",
+      "page": "333",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo3NTIzNTM6SElHSExJR0hUOmE1UUozM1c4UzRUQlQ",
+      "text": "Do you know how small we truly are, how pitiful are even our greatest works? I have felt her heart beating. When she touched me, I realized there could be something beyond good and evil. She … transcends.” He stared, unseeing. “In my dreams, I fly with her.”",
+      "color": "yellow",
+      "location": "5016",
+      "page": "336",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo3NjkxMzQ6SElHSExJR0hUOmEyV0NBSkJEVjRPWjhK",
+      "text": "Let them discover how it felt to have to place your life in the hands of one you feared. For they all feared him, even Lavoy.",
+      "color": "yellow",
+      "location": "5128",
+      "page": "343",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo3NzE2MjE6SElHSExJR0hUOmFUQUYwMUlYQ1RWQUs",
+      "text": "It has been so long since I last heard the wind in the trees and smelled earth smells. It is like being in a silver dream on a magic ship.”",
+      "color": "yellow",
+      "location": "5145",
+      "page": "344",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo4MDg3OTA6SElHSExJR0hUOmFDMjNaNDM2VDJGUjg",
+      "text": "“Many bear tattoos they cannot erase. So they obscure them with others. They dim the past with a brighter future.”",
+      "color": "yellow",
+      "location": "5392",
+      "page": "361",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo4MTY3Mjk6SElHSExJR0hUOmEySVY1U0VJSTFTNUJU",
+      "text": "Better she mourn her husband’s death, Althea thought grimly, than to mourn a long life with him.",
+      "color": "yellow",
+      "location": "5445",
+      "page": "365",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo4MTY4NzQ6SElHSExJR0hUOmFVRk1QTDQyRDNIN04",
+      "text": "Time had become a slippery creature that writhed in Paragon’s grip.",
+      "color": "yellow",
+      "location": "5446",
+      "page": "365",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo4NDk5Mzc6SElHSExJR0hUOmEzM05ZTDg3VjhHNUsx",
+      "text": "“It is enough. Rest. She Who Remembers, Maulkin’s Tangle is now We Who Remember. Your duty is fulfilled.”",
+      "color": "yellow",
+      "location": "5667",
+      "page": "380",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo4NTM2NjA6SElHSExJR0hUOmEyMzdZNVpGTkhOREVa",
+      "text": "“And what does it cost me? Only ‘what you ask for, when you ask for it’?” Her red lips curved in a sweet smile. “Exactly.” The time for hesitation was past. “You have it,” he assured her quietly. “I know,” she replied.",
+      "color": "yellow",
+      "location": "5692",
+      "page": "381",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo4NjU5MDE6SElHSExJR0hUOmEzQjlVRkc4NzZVQk5Y",
+      "text": "Who loves you or who you love is not as significant as who you are. Too many folk, women and men, love the person they wish to be, as if by loving that person, or being loved by that person, they could attain the importance they long for.",
+      "color": "yellow",
+      "location": "5773",
+      "page": "387",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo4NzUyMzI6SElHSExJR0hUOmEySzlIOTVFRVhXWllI",
+      "text": "“I propose another solution. Let us accept what we have become, and admit all parts of ourselves.",
+      "color": "yellow",
+      "location": "5835",
+      "page": "391",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo4ODQyOTI6SElHSExJR0hUOmFDOTFIV1ZWVzhaV04",
+      "text": "Now that the day is finally here, each moment drags, and yet I wish we had more time to prepare.",
+      "color": "yellow",
+      "location": "5896",
+      "page": "395",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo4ODU4NzY6SElHSExJR0hUOmEzUTVZMTBSUU41N1FC",
+      "text": "All we know how to do is negotiate, and our enemies are not interested in that.”",
+      "color": "yellow",
+      "location": "5906",
+      "page": "396",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo4OTI5MTc6SElHSExJR0hUOmE5VFpPNkszUEM5SzQ",
+      "text": "There was no point in holding anything back anymore, whether food or beloved lives.",
+      "color": "yellow",
+      "location": "5953",
+      "page": "399",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo4OTc4NDQ6SElHSExJR0hUOmExTkNZQTExUFJBWkJB",
+      "text": "“It would take nothing at all for me to bring your city crashing down!” she roared at them. “Remember it, puny two-legs.",
+      "color": "yellow",
+      "location": "5986",
+      "page": "401",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo5MTkwNzg6SElHSExJR0hUOmExQldERzBFRUo2V1ZC",
+      "text": "“She’s magnificent. And she’s our only chance.”",
+      "color": "yellow",
+      "location": "6128",
+      "page": "411",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo5MjgzMzI6SElHSExJR0hUOmE0TDlONEwwUTJESlE",
+      "text": "“Not even Chalcedeans deserve to die like that.” “Don’t they? They deserve to die however we can manage it.”",
+      "color": "yellow",
+      "location": "6189",
+      "page": "415",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo5NjA5NzY6SElHSExJR0hUOmEzVThCS1pCVUVYREZU",
+      "text": "“Enough. Solve these petty issues on your own time. I care not how you color your skins or name yourselves, so long as the work is done.”",
+      "color": "yellow",
+      "location": "6407",
+      "page": "430",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo5NzA1Nzg6SElHSExJR0hUOmEzSkxTQ0ZGSlNXOUU4",
+      "text": "He felt Tintaglia’s efforts, as if she sorted Malta’s thread from a tangled skein of sensations. Here it was strong and clean, and then it vanished into memories of wind and rain and salt water.",
+      "color": "yellow",
+      "location": "6471",
+      "page": "434",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDo5ODEyMzg6SElHSExJR0hUOmEySTRXUDc0MjNPMFJN",
+      "text": "“Set your pen to paper, and do it swiftly. I am bound by my name and not by a mark. Tomorrow, Tintaglia begins to do what she has promised. See that you are as quick to keep your word.”",
+      "color": "yellow",
+      "location": "6542",
+      "page": "439",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxMDM5MjQ4OkhJR0hMSUdIVDphMVBQRk1UUFM0WDMxRQ",
+      "text": "No need to cut his tongue out, when he hardly spoke a word for three years. Oh, Igrot believed his secrets were quite safe. All his secrets. But secrets do have a way of leaking out.”",
+      "color": "yellow",
+      "location": "6929",
+      "page": "465",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxMTA1Mjg4OkhJR0hMSUdIVDphVVNRNkpPRDJPUjJF",
+      "text": "“I thought you were dead. I had forgotten that humans are not so well attached to their bodies as dragons are. When you venture too far from them, you can lose your way back.”",
+      "color": "yellow",
+      "location": "7369",
+      "page": "494",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxMTExNjI1OkhJR0hMSUdIVDphN0hDM1FTVzBCWkQz",
+      "text": "“What man would dare to physically assault the Satrap of Jamaillia? Those pirate dogs may dispute my rule, but only from a safe distance. When they look me in the face, they will cower in shame.”",
+      "color": "yellow",
+      "location": "7411",
+      "page": "497",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxMTI5NzY3OkhJR0hMSUdIVDphMjJKTzZLUzkyNkE1MQ",
+      "text": "The ship would take joy in how he had prospered and grown and … No. It would not be like that; it would be confrontation and accusation, humiliation and shame. It would be opening the door to all past sorrows and letting them pour out to poison the present. It would be looking into the face of your betrayed beloved.",
+      "color": "yellow",
+      "location": "7532",
+      "page": "504",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxMTMxODc3OkhJR0hMSUdIVDphMVFWSUZWVlM4M1hQNg",
+      "text": "Feelings change, he reminded himself savagely. This is the choking of a boy, the tears of a boy who no longer exists. I stopped feeling this long ago. I do not feel this.",
+      "color": "yellow",
+      "location": "7546",
+      "page": "505",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxMTMzNTI4OkhJR0hMSUdIVDphMU0zODA5SExQNEZCNQ",
+      "text": "Paragon had to die. There was no other way. And this time, Kennit must be sure of it.",
+      "color": "yellow",
+      "location": "7557",
+      "page": "506",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxMTM0NTU5OkhJR0hMSUdIVDphUDdQWUVGNElLUlRC",
+      "text": "“You let him take all the pain for you,” the charm breathed by his ear. “He said he would, and you let him.” The charm smiled. “It’s all still there, just waiting for you. With him.”",
+      "color": "yellow",
+      "location": "7564",
+      "page": "506",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxMTUzODc2OkhJR0hMSUdIVDphMllBMDhUTDNKMFhDRA",
+      "text": "“Danger cups us under its hand, and we can do nothing but stand witness to the turning of the world. Here we walk on the balancing line between futures. Humanity always believes it decides the fate of the whole world, and so it does, but never in the moment that it thinks it does.",
+      "color": "yellow",
+      "location": "7693",
+      "page": "514",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxMTkyODk2OkhJR0hMSUdIVDphMUgzSEY4MFpHRzNMWg",
+      "text": "He had known then that never, never, never would he love anyone or anything as Paragon loved him.",
+      "color": "yellow",
+      "location": "7953",
+      "page": "531",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxMTk5NzYwOkhJR0hMSUdIVDphM044RFUxNk9FN0sxTA",
+      "text": "A man could face hard truths, and know that life was seldom even or fair. And another hard truth: the shortest distance between a man and his goal was often a lie.",
+      "color": "yellow",
+      "location": "7999",
+      "page": "534",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxMjU1MjM3OkhJR0hMSUdIVDphMTZEUEpBSkhJMjIwRA",
+      "text": "Paragon felt her floundering, overwhelmed by the unending chain of memories, going from dragon to serpent to dragon to serpent, back beyond to the very first egg.",
+      "color": "yellow",
+      "location": "8369",
+      "page": "559",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxMzYyNjQ1OkhJR0hMSUdIVDphM1JCNjdJUllDN1hENg",
+      "text": "I have been called a fool as often as I have been called a prophet. I always have known that there were things I must do for the world, things no one else could do. Well. The same is true of every man, I do not doubt. Yet I follow a path I cannot see clearly. There are guides along the way, but I cannot always find them. I set out seeking a slave boy with nine fingers.”",
+      "color": "yellow",
+      "location": "9085",
+      "page": "606",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxMzY0MjU0OkhJR0hMSUdIVDphMkNCSFBKWUw1T1NZMg",
+      "text": "Liveships they call us, but we are truly dead.",
+      "color": "yellow",
+      "location": "9096",
+      "page": "607",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxMzY0OTU1OkhJR0hMSUdIVDphM09LSkhIUDMyVk5VOA",
+      "text": "“What else do you think Paragon is, save a human veneer of memories over battling dragons? In quarreling with one another for mastery, they allowed me ascendance. When I say ‘I,’ I scarcely know what I mean.”",
+      "color": "yellow",
+      "location": "9100",
+      "page": "607",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxMzc2NzE4OkhJR0hMSUdIVDphMkhWNUhZUFdSRFlGOQ",
+      "text": "What gold cannot buy, blood may. I will take you to the key to Kennit’s heart.”",
+      "color": "yellow",
+      "location": "9179",
+      "page": "612",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxNDAzODc1OkhJR0hMSUdIVDphM0I5S0RYQ09DS080VQ",
+      "text": "Kennit had no one to fear and would fear no one. Tonight, the last of his demons had been banished.",
+      "color": "yellow",
+      "location": "9360",
+      "page": "624",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxNDA1MjI5OkhJR0hMSUdIVDphM0JRWUdEWjhETVFBRw",
+      "text": "“You poor, pathetic bastard,” the charm ground out the slow accusing words. “You’ve become Igrot. Do you know that? To defeat the monster, you became the monster.” The tiny voice became even fainter. “You have only yourself to fear now.”",
+      "color": "yellow",
+      "location": "9369",
+      "page": "624",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxNDE5OTI4OkhJR0hMSUdIVDphR1YzTTdBTDZWTE0w",
+      "text": "Why? You know why. Because life is ruined for me. There can be no good in any tomorrow.",
+      "color": "yellow",
+      "location": "9467",
+      "page": "631",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxNDIzMDM2OkhJR0hMSUdIVDphMloxTFpFWjJHRzVCSQ",
+      "text": "Death could make things stop, but it could not make things right.",
+      "color": "yellow",
+      "location": "9487",
+      "page": "632",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxNTQ5MTQ1OkhJR0hMSUdIVDphMlEzQzRURVBJSVNOSA",
+      "text": "“Love can exist without need,”",
+      "color": "yellow",
+      "location": "10328",
+      "page": "688",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxNTU3NDgwOkhJR0hMSUdIVDphM1BBTkhIUlAxNlFFUA",
+      "text": "“Fuck you, Wintrow,” she retaliated savagely. “Because you’re exactly what I’d expect of Kyle Haven’s son.”",
+      "color": "yellow",
+      "location": "10384",
+      "page": "692",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxNTY3NTE2OkhJR0hMSUdIVDphUDZGSjg3TUNBRVZE",
+      "text": "“You loved him, didn’t you?” “Of course I did. Now stop asking about it.”",
+      "color": "yellow",
+      "location": "10451",
+      "page": "696",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxNTc0Njk3OkhJR0hMSUdIVDphSFowMlhBSDMyNElY",
+      "text": "“I do not know Wintrow. But this I do know. When circumstances are right, unlikely people do extraordinary things. When the weight of the world is behind them, the push of events and time itself will align to make incredible things happen.",
+      "color": "yellow",
+      "location": "10498",
+      "page": "700",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxODExNTMwOkhJR0hMSUdIVDphMkkyNVRLSDQwNk8zRw",
+      "text": "When you fear to fail, you fear something that has not happened yet. You predict your own failure, and by inaction, lock yourself into it.",
+      "color": "yellow",
+      "location": "12077",
+      "page": "807",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxODcyNDAxOkhJR0hMSUdIVDphMkFOQUpBRDFLWElKMg",
+      "text": "“I am a dragon, human. In the greater scheme of things, your dreams, plans and ambitions count for next to nothing. You simply do not live long enough to matter.”",
+      "color": "yellow",
+      "location": "12483",
+      "page": "833",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxODg2NTQ1OkhJR0hMSUdIVDphOEFSUElOSDZOTUNE",
+      "text": "“Ship, she is beyond words. As a liveship is beyond words, and for much the same reason.”",
+      "color": "yellow",
+      "location": "12577",
+      "page": "839",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxOTQ5OTQ5OkhJR0hMSUdIVDphM0dDOUJSU0Y4WFRaSQ",
+      "text": "Does someone wait there for you, dearie?” Ophelia asked. Jek laughed aloud. “They all wait for me. They just don’t know it yet.”",
+      "color": "yellow",
+      "location": "13000",
+      "page": "869",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxOTU5NzU2OkhJR0hMSUdIVDphMkkxOUk2V0o4N1o0MQ",
+      "text": "The year was turning, and the luck of the Vestrit family with it. Perhaps.",
+      "color": "yellow",
+      "location": "13066",
+      "page": "873",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoxOTc1NTQyOkhJR0hMSUdIVDphNEVDT0wzNUQxMEhH",
+      "text": "“Every day, I think these jungles cannot be greener. Every morning, I awake and find I am wrong.”",
+      "color": "yellow",
+      "location": "13171",
+      "page": "879",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoyMDA0NTIxOkhJR0hMSUdIVDphMlBUR0lVWDYxSTNYMg",
+      "text": "“Vengeance for both of you. For the times when he had beaten Kennit to death.” He nodded above her. “Twice he did that. Once the boy died on my deck. But I couldn’t let him go. I could not. He was all I had. Another time, curled up belowdecks in his hidey-hole, he died slowly. He was bleeding inside, growing so cold, so cold. He cried for his mother.”",
+      "color": "yellow",
+      "location": "13364",
+      "page": "893",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoyMDA4NjU4OkhJR0hMSUdIVDphMTRTSVBCTjhSUjZUWA",
+      "text": "“Be content with your own life, my friend, and live it well. Let others decide for themselves what path they will follow.” She frowned up at him. “Even when you see, with absolute clarity, that it is wrong for them? That they hurt themselves?” “Perhaps people have a right to their pain,” he hazarded. Reluctantly he added, “Perhaps they even need it.”",
+      "color": "yellow",
+      "location": "13392",
+      "page": "895",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkY1MDoyMDI3ODI0OkhJR0hMSUdIVDphMVFYNURJUjg3NVpIUQ",
+      "text": "In her dreams, the skies were filled with dragons. The Lords of the Three Realms had returned.",
+      "color": "yellow",
+      "location": "13519",
+      "page": "903",
+      "source": "kindle"
+    }
+  ]
+}
