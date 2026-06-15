@@ -1,0 +1,603 @@
+{
+  "id": "dark-forest-c515c6aa",
+  "title": "The Dark Forest",
+  "author": "Cixin Liu",
+  "review": "This book has definitely objectively weak points and some pretty bad character development... However I just love the ideas explored and some of the aspects I'll be thinking about for quite some time to come. Very different from the first book in many ways so the style can be a bit jarring, once I got into it though I really enjoyed it.",
+  "highlightCount": 74,
+  "myGoodreadsRating": 5,
+  "myReviewRating": null,
+  "highlights": [
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo4NDg4OkhJR0hMSUdIVDphNDg0MjUwNGUtMWExMi00NzFkLWFjMGYtNTEyMmM3M2QzOThl",
+      "text": "Turbulence was everywhere, within every blade of grass, every drop of dew on a leaf, every cloud in the sky, and every star beyond. The turbulence was purposeless, but in huge quantities of purposeless turbulence, purpose took shape.",
+      "color": "yellow",
+      "location": "57",
+      "page": "9",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxMjE1NzpISUdITElHSFQ6YTA5OWVjYzIwLTFjZDQtNGM4YS1hZGFmLWU0M2FjYjk2MjJiOQ",
+      "text": "“It’s a wonder to be alive. If you don’t understand that, how can you search for anything deeper?” The being made a sound like a gust of wind blowing across the grass—a sigh—and then stood up.",
+      "color": "yellow",
+      "location": "82",
+      "page": "11",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxNDQyNTpISUdITElHSFQ6YThmMWMxNDJhLWI3ZjYtNDJiMy1hNTFjLWI0YzI0YTY2M2U5NA",
+      "text": "A primitive, single-celled state of happiness. These two spiritual monocells, aesthetics and pleasure had never evolved. They had been the same a billion years ago, and would be the same a billion years hence.",
+      "color": "yellow",
+      "location": "97",
+      "page": "11",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxNTM2NjpISUdITElHSFQ6YWM5MWQyMjA1LWFiNzEtNGRjMy05ZTQyLWQ4ODI1NmQyODBmYQ",
+      "text": "I just felt astronomy was an undrillable chunk of iron. Sociology is a plank of wood, and there’s bound to be someplace thin enough to punch through.",
+      "color": "yellow",
+      "location": "103",
+      "page": "12",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxNzMwNjpISUdITElHSFQ6YWEwNTY3MjBlLWM5YjAtNGJkYy05ODIzLTJkNDk0OTY2NzE1OQ",
+      "text": "Life needed smoothness, but it also needed direction. One could not always be returning to the point of origin.",
+      "color": "yellow",
+      "location": "116",
+      "page": "12",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxODQ3NTpISUdITElHSFQ6YTUzMTM2MGZkLTY1MjAtNGM2NS1hOTZmLWM1YTExM2JlZWQ3NQ",
+      "text": "Now, though the stars were few in number, the giant eyes had pupils. The void was filled. The universe had sight. The stars were tiny, just single twinkling points of silver that hinted at some unease on the part of its creator.",
+      "color": "yellow",
+      "location": "124",
+      "page": "13",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxOTg5OTpISUdITElHSFQ6YTdhZWE2OWQwLTFhMTctNGFjZC1iODc0LWJkZWYxY2JkMWEwMA",
+      "text": "“First: Survival is the primary need of civilization. Second: Civilization continuously grows and expands, but the total matter in the universe remains constant.”",
+      "color": "yellow",
+      "location": "133",
+      "page": "13",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoyNDgyOTpISUdITElHSFQ6YTdjODc4NDdjLWU1NWQtNDI3Ni1iNmZiLTc5MWQ1OTRkNjRmYQ",
+      "text": "Without the fear of heights, there can be no appreciation for the beauty of high places.",
+      "color": "yellow",
+      "location": "166",
+      "page": "15",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoyNTIzMjpISUdITElHSFQ6YWEyZTEyZGZmLWM0NDgtNDM1YS04YTRjLTIxYzlhNDE0ZDYxMw",
+      "text": "Ten thousand times the web could be destroyed, and ten thousand times the spider would rebuild it. There was neither annoyance nor despair, nor any delight, just as it had been for a billion years.",
+      "color": "yellow",
+      "location": "169",
+      "page": "15",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo3MzI3NDpISUdITElHSFQ6YThmODE2YTc4LWI5YmEtNGY0OS1iODQ5LThiMDY4Y2Q5ZmE3Yw",
+      "text": "Your Bible mentions an animal called the snake. If a snake crawled up to you and said it would serve you, would your fear and disgust cease?",
+      "color": "yellow",
+      "location": "489",
+      "page": "37",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo4ODUwMTpISUdITElHSFQ6YWZjOGU2NTQ0LWY1NTAtNDRiZi1iNzJjLTg5NjFhNDhlMzc0Mg",
+      "text": "Ahead of them stretched the leaden road of time, terminating somewhere in the mists of the future, where all they could see were flickering flames and luster of blood. The brevity of a human lifespan tormented them as never before, and their hearts soared above the vault of time to join with their descendants and plunge into blood and fire in the icy cold of space, the eventual meeting place for the souls of all soldiers.",
+      "color": "yellow",
+      "location": "591",
+      "page": "43",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxMTM1OTI6SElHSExJR0hUOmExYTcwNTFiNy1jMTVlLTQ1NTItYTcwYy0xMTJhYTQyZDIyNWE",
+      "text": "My children, will your grandpa really send you someplace where night lasts forever?",
+      "color": "yellow",
+      "location": "758",
+      "page": "52",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoyOTcwNTg6SElHSExJR0hUOmFjNDg3ZTA2ZS1iYzgwLTQ0YmItYmUwNi1lOGYyYTRhNGU4OGQ",
+      "text": "“You don’t have any confidence in me, do you?” Luo Ji asked. “I said that choosing you was a huge gamble.” “Then you’re right.” “Right to have gambled?” “No. Right to have no confidence in me.”",
+      "color": "yellow",
+      "location": "1981",
+      "page": "118",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjozNzM5ODI6SElHSExJR0hUOmE4MGI1OGY3Ni1jZTYxLTQxMWMtYTYzMS04NzNlYWZhYjllZjQ",
+      "text": "He knew that his recent leisure was merely the weightlessness of tumbling into the abyss of loneliness, and now he had reached the bottom. But he had anticipated this moment, and he had been prepared. He was waiting for someone, and then the next step of the plan would begin.",
+      "color": "yellow",
+      "location": "2494",
+      "page": "146",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo0MjczMDE6SElHSExJR0hUOmE5MmU2NmI2MS1jNGZiLTQ3YzAtYWM0NC02MzA3NjE5MmExNzg",
+      "text": "“Wallfacers are the most untrustworthy people in history. The world’s greatest liars.” “That’s your duty.”",
+      "color": "yellow",
+      "location": "2849",
+      "page": "164",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo0MzMzOTg6SElHSExJR0hUOmE1MjEyYjc0Ni0wODIxLTQ0OWItYWVlNi1hNmI4OTM5OGI1M2U",
+      "text": "“My dad said that people who are sensitive to beauty are good by nature, and if they’re not good, then they can’t appreciate beauty.”",
+      "color": "yellow",
+      "location": "2890",
+      "page": "166",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo0NTAxMTg6SElHSExJR0hUOmFiOGQwODQ3ZC1mNzkyLTQ3YzMtOTZlZi1mY2IxYWQ1Njk0MjQ",
+      "text": "You can’t get a sane, rational person to believe in and die for that. It exists because it possesses something, something that’s its air and blood, and without which the organization would wither away immediately.” “What’s that?” “Hatred.”",
+      "color": "yellow",
+      "location": "3001",
+      "page": "172",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo0NTA4NzU6SElHSExJR0hUOmFjNjlkMzU4OS03MDAzLTRmMGQtODA1YS0zZDk2ZjlkOTZhODA",
+      "text": "“You see, hatred is a treasure more precious than gold or diamonds, and a weapon keener than any in the world, but now it’s gone. It’s not yours to give back. So the organization, like me, does not have long to live.”",
+      "color": "yellow",
+      "location": "3006",
+      "page": "172",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo0NjUxNDQ6SElHSExJR0hUOmFhYzdhMjEyMi04NTcxLTRiOWYtODQxNC1iYTliZWFhY2ZkYmU",
+      "text": "do you know what the greatest expression of regard for a race or civilization is?” “No, what?” “Annihilation. That’s the highest respect a civilization can receive. They would only feel threatened by a civilization they truly respect.”",
+      "color": "yellow",
+      "location": "3101",
+      "page": "177",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo0NzM4MzY6SElHSExJR0hUOmFiNTYzZDJlNS1kZTE5LTRiNmQtOTQ2ZS03ZjcyNDI1NzEwMjM",
+      "text": "Then the sparks extinguished, and in the twinkling of an eye, space became crystal clear. The stars wove crystal beams into a giant silver blanket, and the planets vibrated, emitting beautiful music. The starfield grew dense like a surging tide. The universe contracted and collapsed, until at last everything was annihilated in the creative light of love.",
+      "color": "yellow",
+      "location": "3159",
+      "page": "180",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo0ODU3ODY6SElHSExJR0hUOmFmYjI4NjRlMi1hYThjLTQwODctOWZkOC02MmI0M2E2MjAyZTU",
+      "text": "the final confirmation of the reality of the Trisolaran invasion, extinguished the last of humanity’s fantasies. The descent of a new round of despair, panic, and confusion ushered the human race into life under the Trisolar Crisis. Then the hard times began. With a rocky change of direction, the vehicle of time veered off along a new track. The only constant in a world of tremendous change is the swift passage of time. Five years passed like a blur.",
+      "color": "yellow",
+      "location": "3239",
+      "page": "184",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo1NDQwMTg6SElHSExJR0hUOmFiNzRhMmRjMS00Y2JhLTQxOWQtODY1YS0wOGQwODczZDlmODA",
+      "text": "“You politicians sound off about humanity at the drop of a hat, but I can’t see humanity. I can only see individuals. I’m just one individual, an ordinary person, and I can’t take on the responsibility of saving all of humanity. I just want to live my own life.”",
+      "color": "yellow",
+      "location": "3627",
+      "page": "210",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo1NDUzNjk6SElHSExJR0hUOmExZTM4MmIyZC1hNDQzLTQ3ZWEtOTM3My03MGQzYmVmOGRiNTA",
+      "text": "What sort of a person will they see? A man who abandoned the woman he loves most, together with all of humanity? A man unwilling to save all of the world’s children? A man who wouldn’t even save his own child? Are you, as a man, capable of withstanding their gaze?”",
+      "color": "yellow",
+      "location": "3636",
+      "page": "210",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo1NTUxNzU6SElHSExJR0hUOmFmYzQ4NjZkMC0wMTM3LTRiZWQtODJjNi03MmVkZTU1ODNiMzc",
+      "text": "We’ll try to put more strategists into space soon, since we’re the space force, after all. Right now we’re more like a college of bullshit, and that just won’t do.”",
+      "color": "yellow",
+      "location": "3702",
+      "page": "213",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo1Nzc0Nzg6SElHSExJR0hUOmFjZDhjOGRlOS0yMmI5LTQ5MWYtYmZhMC1jMmI4ZDI0NDhkMDA",
+      "text": "Don’t dismiss simplicity. Simple means solid. The entire mansion of mathematics was erected on a foundation of this kind of irreducibly simple, yet logically rock-solid, axiom.",
+      "color": "yellow",
+      "location": "3850",
+      "page": "221",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo3MDM1NDg6SElHSExJR0hUOmEzODUyYTkyYS05MWJmLTRiN2MtOGRhOS1lZTM0ODYyNzgwNTk",
+      "text": "“That’s right, dear. This question tortures me. It’s the most incredible thing in the universe.”",
+      "color": "yellow",
+      "location": "4691",
+      "page": "269",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo3MTI3NzQ6SElHSExJR0hUOmE1MDM4MTc3MC1kYmE5LTRhZjgtYmI3MS1iZDFiMThiYjE5OTg",
+      "text": "Technology is now capable of modifying thoughts just like modifying a computer program. After the modifications, are people still people, or are they automatons?”",
+      "color": "yellow",
+      "location": "4752",
+      "page": "272",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo3MTM5NzA6SElHSExJR0hUOmFiODU4MGE1Yi0zM2RiLTQyNzMtODhkZC1hYjc0YTZiZTBhM2E",
+      "text": "“Which is more tragic for humanity: the loss of the ability and right to think freely, or defeat in this war?”",
+      "color": "yellow",
+      "location": "4760",
+      "page": "273",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo3MTUwODU6SElHSExJR0hUOmFjYmJjOTlhZi1mMjBiLTRjMTctYjk0NC04YmQ1ZGUyYzlkNWM",
+      "text": "“Why is it that everyone gets so sensitive at the mention of thought control? From commercial advertising to Hollywood culture, thought control is everywhere in modern society. You are, to use a Chinese phrase, mocking people for retreating a hundred paces when you’ve retreated fifty yourselves.”",
+      "color": "yellow",
+      "location": "4768",
+      "page": "273",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo3MTY2NTI6SElHSExJR0hUOmFmY2M3MThkOS1iYTQ2LTQ3ZjMtYjc3My1mZWY2MGU1NjQ4ODA",
+      "text": "“Humanity is now facing a life-and-death problem. The life or death of our species and civilization as a whole. In these circumstances, how can we not give up a few things?”",
+      "color": "yellow",
+      "location": "4778",
+      "page": "274",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo3MjEzMDc6SElHSExJR0hUOmEzMGQxMGNhNC04NjQwLTQ5Y2EtYmNiMi1kMjYyNjExMWM2ZTQ",
+      "text": "Give me your hopeless souls, Your fearful crowds that thirst for victory, The dazed refuse of your treacherous shoals. Send these, the downcast, wand’ring ones to me, For lo, my lamp of golden faith consoles.",
+      "color": "yellow",
+      "location": "4809",
+      "page": "275",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo3MzI2MjE6SElHSExJR0hUOmFiY2M2YjFjZC00ZDcyLTQwZjctYWFiMy03MTgwZDRiYTdhM2Y",
+      "text": "“This is the mental seal I wanted to apply to myself. I was hesitant, of course, and in the end didn’t do it.” The bold text on the paper read: God is dead. “Why?” asked Wu Yue, raising his head. “Isn’t it obvious? Isn’t God dead? Screw the Lord’s plan. Screw his mild yoke!”",
+      "color": "yellow",
+      "location": "4885",
+      "page": "279",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo3NDQzODY6SElHSExJR0hUOmE3ZjdkN2Y2NC04YjdlLTRkNWEtOWUyOC0zZWEwNjQ2NTE0MjM",
+      "text": "“He’s afraid of the sun, but he wants to go to the planet closest to it. Isn’t that a little strange?”",
+      "color": "yellow",
+      "location": "4963",
+      "page": "284",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo3NDgwMTI6SElHSExJR0hUOmE1NmQ1NDc4Mi04OWVhLTQyYTYtODJlMS1kYzk2MmYzMmE1NGE",
+      "text": "And on this hard chunk of rock suspended atop the sun’s fiery sea, humanity was planting another small sun.",
+      "color": "yellow",
+      "location": "4987",
+      "page": "285",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo3Njc0ODk6SElHSExJR0hUOmFkOTlkZDBhYi1mMzU0LTQyNTUtOWJlZS0yMWY3OGQ3MDVhZDI",
+      "text": "I am not seeking your opinion or critique, because I know that all of this is true.”",
+      "color": "yellow",
+      "location": "5117",
+      "page": "292",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo3NzAwNjE6SElHSExJR0hUOmE4ZmJhOTNjYy1mMzcyLTQyMjMtODIyNS1lNWNmZTdkOWFkMWU",
+      "text": "Mr. Rey Diaz, you are a Wallfacer with the makings of a god. It is my honor to become your Wallbreaker.”",
+      "color": "yellow",
+      "location": "5134",
+      "page": "293",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo3NzQ4MTM6SElHSExJR0hUOmE0YThlZTViMS1mMTk5LTQwZGQtOGE3Ni0zNTFiNDUwZDlmMzc",
+      "text": "The Wallbreaker looked back over the guard’s shoulder, a smile on his bruised and swollen face. He opened up a mouth that was missing several teeth and said, “I’ve lived a full life.”",
+      "color": "yellow",
+      "location": "5166",
+      "page": "295",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo3NzgxMjI6SElHSExJR0hUOmEyYTA5MzI0YS0xMjMzLTQ0YTAtODUxYi1hNTFlNjljOTM3Yjg",
+      "text": "“That’s the preposterous logic of a terrorist and a dictator. Rey Diaz is the kind of man who, granted the status and power of a Wallfacer, turns the Wallfacer Project into as big a danger as the Trisolaran invasion. We must take decisive action to correct this mistake.”",
+      "color": "yellow",
+      "location": "5188",
+      "page": "296",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo3OTgyMjA6SElHSExJR0hUOmFmYzYwOWEyNy0xNDFmLTRjMTgtYWM3Mi1iMDJjZTEyZjViYzc",
+      "text": "Time is the one thing that can’t be stopped. Like a sharp blade, it silently cuts through hard and soft, constantly advancing. Nothing is capable of jolting it even the slightest bit, but it changes everything.",
+      "color": "yellow",
+      "location": "5322",
+      "page": "303",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo4MDM3ODc6SElHSExJR0hUOmFiOWViODc5NS0zMzgxLTQxMDItYmE0NS00Y2M5ZGVjMjY4M2Q",
+      "text": "As the elderly passed away, the departed Golden Shore vanished into the smoke of history. The ship of human civilization floated alone in the vast ocean, surrounded on all sides by endless, sinister waves, and no one knew if there even was an opposite shore.",
+      "color": "yellow",
+      "location": "5359",
+      "page": "306",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo4MDQ3MDY6SElHSExJR0hUOmEwNzYxODM4YS02ZTllLTRjZmEtYWY2NS1mOGMyNDYxMDAxZGE",
+      "text": "Darkness. Before the darkness there was nothing but nothingness, and the nothingness was without color. Nothing was in the nothingness. Darkness at least meant that there was space. Soon, disturbances appeared in the darkness of space, penetrating everything like a gentle breeze. It was the sensation of time passing, for the nothingness was without time, but now time took shape in a glacial thaw. Only much later was there light, at first as a shapeless blob of brightness, and then, after another long wait, the shape of the world gradually emerged.",
+      "color": "yellow",
+      "location": "5365",
+      "page": "309",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo4MTA4NTg6SElHSExJR0hUOmE4ODc5YTlkZS04YzE3LTRiZDktOWQyYi1lNTMzZjc4MWI0MTI",
+      "text": "This did not seem to be an age of despair, and that was another unexpected surprise.",
+      "color": "yellow",
+      "location": "5406",
+      "page": "311",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo4MjU1NTU6SElHSExJR0hUOmFlMDM0NDI5Zi1lZWFhLTQyZmUtOWU5Yy1jZjEzOTEyMWZiZmU",
+      "text": "“The world was scared to death back then and lots of silly things happened.”",
+      "color": "yellow",
+      "location": "5504",
+      "page": "316",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo4Mzg4NDQ6SElHSExJR0hUOmFhODc0YzVlZC1mMjU5LTQ3NzgtOTE2My1iMDNlMjUyMDA0OWY",
+      "text": "“You can see how this is a pretty decent age. Think of your past as a dream. See you tomorrow!”",
+      "color": "yellow",
+      "location": "5593",
+      "page": "321",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo4MzkxMzQ6SElHSExJR0hUOmFjMjFhNjE4NC1lM2MyLTQwOWEtYWZkYS0xZDdkYWMxYjRmM2M",
+      "text": "Swarms of these dragonflies flew between the giant trees of the city. More notable still were the streams of flying cars like schools of fish navigating endlessly among the plants on the ocean floor. The rising sun shone onto the city and was cut into shafts of light by the trees, coating the traffic with a layer of gold. Tears streamed down Luo Ji’s face at the sight of this brave new world, and the sensation of newborn life permeated his every cell. The past really was a dream.",
+      "color": "yellow",
+      "location": "5595",
+      "page": "321",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo4NDEyNzA6SElHSExJR0hUOmFjOGNmZjI3Ny0zZjRlLTQ1Y2ItOWZlNy0yY2VkZGJmZGFmMDA",
+      "text": "The past isn’t a dream, Luo Ji thought. The past catches up with you.",
+      "color": "yellow",
+      "location": "5609",
+      "page": "322",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo4NTAzNjI6SElHSExJR0hUOmE2MGQyMDVmZC02YTY4LTRlNTItOTAzMC0xOGIwZDk0M2JhODg",
+      "text": "This was the climate into which the Wallfacer Project was born. It was not a rational choice, but a struggle of desperation. “The facts of history have proven that, as a strategic plan, the Wallfacer Project was a complete and utter failure. It is no exaggeration to say that it was the most naïve and foolish action that human society as a whole has ever taken.",
+      "color": "yellow",
+      "location": "5670",
+      "page": "325",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo4NTcyMTQ6SElHSExJR0hUOmFkOWJhMDE1OC1lYzgyLTQwZDQtYjk2MS0zNTcyOTFjNjBlMGE",
+      "text": "“Doctor, out of all the historical figures I’ve seen, you’ve got the greatest sense of humor. A spell. A spell on a star. Ha ha ha…” Luo Ji stood alone in the reception room, ruminating in silence over the reality before him. After two centuries as a messiah, he was once again an ordinary person. A new life was waiting before him.",
+      "color": "yellow",
+      "location": "5715",
+      "page": "328",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo4NzYwMzA6SElHSExJR0hUOmExZDU0OTlkOC03M2RkLTQ3MWItOTA3Zi0zYmZiNGNhYjEzOWY",
+      "text": "Yes, right now I believe all I’ve done is correct. I absolutely believe it, regardless of what reality says. I used the mental seal to turn myself into my own god, and God can’t repent.”",
+      "color": "yellow",
+      "location": "5841",
+      "page": "334",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjo4OTA2NTM6SElHSExJR0hUOmFkZmM3OTZlNy00NGEwLTQ5YzMtYTQwMS1iNTMyZWQ5YmRiNmE",
+      "text": "“Da Shi, you saved my life again,” Luo Ji said, leaning on his shoulder and massaging his injured leg. “I don’t know how many times I’ll have to. You really ought to grow some sense, and a few more eyes.”",
+      "color": "yellow",
+      "location": "5938",
+      "page": "339",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxMDQ4MjEzOkhJR0hMSUdIVDphZmU4ZDU5ZWQtMDRiMy00NjVhLWE4NzMtOGM2MTI3ZGRjYWM5",
+      "text": "At this moment, all the stars in the galaxy silently held back their light, and Human and God stepped out proudly into the universe as one.",
+      "color": "yellow",
+      "location": "6989",
+      "page": "395",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxMDU1MzU4OkhJR0hMSUdIVDphY2U2NGQ1NGUtYTg3YS00ZWNkLTgxNjgtYjFhYzZlYTBmNzEz",
+      "text": "“The people of my time have our own ways of thinking.” “But we’re not enemies.” “There are no permanent enemies or comrades, only permanent duty.”",
+      "color": "yellow",
+      "location": "7036",
+      "page": "398",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxMDg5MzAwOkhJR0hMSUdIVDphYjBkZDk1NjYtMThkYi00MDE3LWE4OWEtNjg1YWMzN2U4ODAy",
+      "text": "“What can happen? The future is clear: The war will end and humanity will win, and you’ll be proven totally wrong!”",
+      "color": "yellow",
+      "location": "7263",
+      "page": "410",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxMDk5ODIyOkhJR0hMSUdIVDphM2VjMmQ2ZjQtNmNkNi00ZmFiLTlhZTUtMWQ2ZmY3NWNiNDli",
+      "text": "Yes, in the cold expanse of the universe, all carbon-based life shared a common destiny, one that might take billions of years to cultivate, but a destiny that cultivated feelings of love that transcended time and space. And now, they sensed that love in the droplet, a love that could bridge the chasm of any enmity.",
+      "color": "yellow",
+      "location": "7333",
+      "page": "413",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxMTE5ODE4OkhJR0hMSUdIVDphOTNiZmM4NjEtZTFhMS00OTI3LTk3MzAtNGNhNDQ4YjBiY2Ew",
+      "text": "When the last nuclear fireball in the line went out and darkness fell upon space once more, the gradually cooling magma that had barely been visible reappeared as dark red lights in the blackness of space, like a two-thousand-kilometer-long river of blood.",
+      "color": "yellow",
+      "location": "7466",
+      "page": "420",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxMTIxODAwOkhJR0hMSUdIVDphODQwZDQ1YzgtZTAyMC00YjQ4LWEzMGQtOTQ1ZGM4NzliNDAy",
+      "text": "For nearly two centuries, research into space strategy and tactics had dreamed up every possible kind of extreme battle condition, but witnessing a hundred warships blowing up like a string of firecrackers in under a minute was beyond what their minds could comprehend.",
+      "color": "yellow",
+      "location": "7479",
+      "page": "421",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxMTI4MDQyOkhJR0hMSUdIVDphYWEzMGRlZGUtY2QxNC00ZTJkLTgzMWUtMzE1MDFlZWJmNWM5",
+      "text": "The diabolical flight path demonstrated a space drive entirely beyond human comprehension, as if the droplet was a shadow without mass, unconcerned with the principles of dynamics, moving at will like the nib of God’s pen.",
+      "color": "yellow",
+      "location": "7521",
+      "page": "423",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxMTQ1ODc4OkhJR0hMSUdIVDphMTU0OWEzN2EtMGU5NC00ODIzLTg3OWItZmM4YTNkZTg2YTQ1",
+      "text": "a hundred people who were flattened against the deck by the high gs once acceleration began. From this vantage point, observers saw crimson flowers of blood bloom on the white space the size of a football field, forming extremely thin layers that spread out and ultimately merged into one under the immense force.",
+      "color": "yellow",
+      "location": "7640",
+      "page": "429",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxMTUzOTQ2OkhJR0hMSUdIVDphMmZkYjE2ZjQtMGQxMC00MTkxLTg1ZmEtNTYzODExMWE4MTMy",
+      "text": "Over the years, under the pull of the sun’s gravity, the cloud stopped its expansion and began to lengthen, ultimately forming a long strip that turned into an extremely thin metallic belt around the sun, as if a million restless souls were floating endlessly in the cold outer reaches of the Solar System.",
+      "color": "yellow",
+      "location": "7693",
+      "page": "432",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxMTU0Njk1OkhJR0hMSUdIVDphYzJhZDNkOTItZjVhZS00ZmUyLWI4ZGEtNzVkYTZiMmFkNzQ4",
+      "text": "“If I destroy you, what business is it of yours?”",
+      "color": "yellow",
+      "location": "7698",
+      "page": "432",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxMTY5MDYwOkhJR0hMSUdIVDphNzkwYWNlZTItMGFhZC00M2IxLWJiYTItOGI2ZmYxMDg4NjNl",
+      "text": "Together, the 5,500 crewmembers were like an infant who had been cut from its cord, then cruelly tossed into the abyss of space. Like that infant, there was nothing they could do but cry.",
+      "color": "yellow",
+      "location": "7794",
+      "page": "438",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxMTc2MzA4OkhJR0hMSUdIVDphZmM1ODc4MzYtYzBkNS00NDNiLWFiOTEtZjkzN2Y5YjkzYzVk",
+      "text": "And thus the human world was divided into three internationals: the ancient Earth International, the Fleet International of the new era, and the Starship International that was voyaging into the depths of the cosmos. The last group had just over five thousand people, but it carried with it all the hope of human civilization.",
+      "color": "yellow",
+      "location": "7843",
+      "page": "440",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxMjAxMjUxOkhJR0hMSUdIVDphOThiNDdiNjgtNTA2OS00NWQ1LTk3YjAtNzRhYzU2NGY0Mzdl",
+      "text": "The depth and expanse of deep space exhibited an arrogance that left no support for the mind or the eyes. “Dark. It’s so fucking dark,” the captain murmured, and then shot himself.",
+      "color": "yellow",
+      "location": "8009",
+      "page": "449",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxMjI2MzQ5OkhJR0hMSUdIVDphYjkxNzE5MzItYzM3NS00N2Y2LWI1MzMtM2M3OWYwMzJmZmYy",
+      "text": "The boundlessness of space nurtured a dark new humanity in its dark embrace.",
+      "color": "yellow",
+      "location": "8176",
+      "page": "458",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxMjMwMTY3OkhJR0hMSUdIVDphNDAyNTc0NTctNmYyMS00MzNkLThiNmMtNjRiYzkwNWU4YTQx",
+      "text": "The universe had once been bright, too. For a short time after the big bang, all matter existed in the form of light, and only after the universe turned to burnt ash did heavier elements precipitate out of the darkness and form planets and life. Darkness was the mother of life and of civilization.",
+      "color": "yellow",
+      "location": "8202",
+      "page": "459",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxMjMwODA5OkhJR0hMSUdIVDphMTc5OGFkOGMtY2I3Ny00N2RlLWE5NzMtOWZhNGQyOGQzNjA0",
+      "text": "The two dark ships became one with the darkness, separated by the Solar System and drifting further apart. Carrying with them the entirety of human thoughts and memories, and embracing all of the Earth’s glory and dreams, they quietly disappeared into the eternal night.",
+      "color": "yellow",
+      "location": "8206",
+      "page": "460",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxMjYyMzQ3OkhJR0hMSUdIVDphNzI5ZWQwMjQtYTNjNy00NzViLWIyODItOWIwMmE0MDMyN2Zi",
+      "text": "The past was like a handful of sand you thought you were squeezing tightly, but which had already run out through the cracks between your fingers. Memory was a river that had run dry long ago, leaving only scattered gravel in a lifeless riverbed. He had lived life always looking out for the next thing, and whenever he had gained, he had also lost, leaving him with little in the end.",
+      "color": "yellow",
+      "location": "8416",
+      "page": "471",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxMjY5MjQ0OkhJR0hMSUdIVDphMmM5YzZmNzAtZmIyNi00NWU3LWFkMWMtNGRmNmUzMjAwNTY4",
+      "text": "“My boy, this is the last time I help you do Wallfacer stuff,” Shi Qiang said on the road back. “That occupation must cause mental problems, and you’ve just had another episode.”",
+      "color": "yellow",
+      "location": "8462",
+      "page": "474",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxMjc2MDQ3OkhJR0hMSUdIVDphNDgyOWY3MDctMGJhMy00YTIxLWEzZjUtYmQ0MThhYzk3ODI3",
+      "text": "For theists, you are the angel of justice. To atheists, you are the spokesperson for a just, superior civilization in the Milky Way.”",
+      "color": "yellow",
+      "location": "8507",
+      "page": "476",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxMzAwMjY0OkhJR0hMSUdIVDphYzA1NDg4NDItNDcyYi00YzJlLThhZGUtZDkxOTY4ZTI3ZGJk",
+      "text": "“The universe is a dark forest. Every civilization is an armed hunter stalking through the trees like a ghost, gently pushing aside branches that block the path and trying to tread without sound.",
+      "color": "yellow",
+      "location": "8669",
+      "page": "484",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxMzAwODAzOkhJR0hMSUdIVDphODM5ZGUwYjUtZGQxNi00NmRmLTgxMTMtNGI3OGQxNTU0YzBk",
+      "text": "In this forest, hell is other people. An eternal threat that any life that exposes its own existence will be swiftly wiped out. This is the picture of cosmic civilization. It’s the explanation for the Fermi Paradox.”",
+      "color": "yellow",
+      "location": "8673",
+      "page": "484",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxMzU4ODg1OkhJR0hMSUdIVDphZmU1NjJjMWItNzczZi00MTM3LThlMTEtODRmMDM4YTc2YTFh",
+      "text": "It’s strange. Right now I don’t feel like a member of the human race. My greatest desire is to be rid of it all as soon as possible.”",
+      "color": "yellow",
+      "location": "9060",
+      "page": "507",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxMzYwNzM0OkhJR0hMSUdIVDphYWJhOGU4MDUtZTY0My00MjE2LWJlMDgtNGM5OTc5ODk1MDk4",
+      "text": "The ant had reached the summit of the headstone and proudly waved its feelers at the rising sun. Out of all life on Earth, it was the only witness to what had just taken place.",
+      "color": "yellow",
+      "location": "9072",
+      "page": "508",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUjEzT1lVNjoxMzY4NzM1OkhJR0hMSUdIVDphNWJkMWMyOWEtOWY1Mi00YmQ4LTg2MjMtMWFhZjdjMzdmYTVj",
+      "text": "I only wish to discuss with you one possibility: Perhaps seeds of love are present in other places in the universe. We ought to encourage them to sprout and grow. “That’s a goal worth taking risks for.” Yes, we can take risks. “I have a dream that one day brilliant sunlight will illuminate the dark forest.”",
+      "color": "yellow",
+      "location": "9125",
+      "page": "512",
+      "source": "kindle"
+    }
+  ]
+}

@@ -1,0 +1,819 @@
+{
+  "id": "house-of-chains-7cfb8f37",
+  "title": "House of Chains",
+  "author": "Steven Erikson",
+  "review": "**spoiler alert** Although I rated this a 3/5 and Gardens of the Moon a 4/5, I liked this entry more than the first, but my expectations have been adjusted as I've gotten deeper into the series.\n\nThings I liked about this entry:\n\n- Karsa Orlong: I enjoyed the focus on this character in the beginning and his overall arc in this entry. Having more time with a subset of the characters is why I liked Deadhouse Gates so much and the story is the strongest and most coherent when we're not constantly jumping around (although there is probably the most jumping around since Gardens in the second half of the book). Icarium vs Karsa was probably my favorite part of the book and made me really nervous since I'm a big fan of them both (and Mappo of course), I hope the series continues to have main characters at odds with each other. If anything, this novel could have been more aggressive with that, there seemed to be some pretty obvious baddies here on Shaik's side with Korbolo Dom and Bidithal, would be more interesting to have main characters be on opposite sides with a more dedicated view that their side is right.\n- Theme and imagery: Just really strong images of chains and the thematic cohesion around slavery in society and to gods was really great here. I like this trend that Erikson has of making each entry thematically distinct while also adding little nuggets here and there of ice, dust, etc that you can guess are the thematic core of future entries based on their titles.\n- Heboric: I'm really interested in the development in his character, and his dream / trip with the tea was one of my favorite parts of the series and seemed to really pull back the curtain on some of the larger conflicts going on in the series. Heboric just seems like a very flawed character but inherently good with an interesting background that makes for developments surrounding him to be unexpected.\n- Larger scope: It's interesting that this series starts with a very narrow scope; a single character who is naive of the larger world, its history, and even themselves and then explodes into a multi-realm power struggle. Erikson comes close to tipping his hand here where you can see some of the larger threads of the story connecting between gods. I get the feeling that Osric, Cotillion, and some other gods that are alluded to will become bigger players in future entries.\n\nThings I'm indifferent to:\n\n- Crokus and Apsalar: Had potential, but kind of fell flat, not sure where they are really going and some of their time together wasn't that interesting, but I did like their interactions with Cotillion even though I don't really buy their relationship to him. Shouldn't Apsalar hate Cotillion? Especially after he possessed her and destroyed her whole fishing village?\n- Shaik vs Tavore: Felt pretty anticlimactic after everything after the first book onward foreshadows the clash between them only to have it end so quickly and no real character developments follow from it. Felisin elder felt kind of wasted here, she didn't have many meaningful decisions to make and didn't seem to particularly take a stance about why the Malazan empire was evil.\n\nThings I didn't like:\n\n- Trull Sengar and Onrack: Just not very invested in this storyline and it wasn't particularly interesting. Hopefully the development of these characters continues more throughout the series to make sense of their appearance here. Was just pretty bored with their adventures in this one.\n- Pearl and Lostara: Felt like a pretty pointless side quest here and wasted potential. Might have accomplished some world building, but I would have been fine with this being left out of the book. I was hoping for some interaction between Pearl and Kalam after their encounter in Deadhouse Gates.",
+  "highlightCount": 101,
+  "myGoodreadsRating": 3,
+  "myReviewRating": 3,
+  "highlights": [
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWTo2NTA4NzpISUdITElHSFQ6YTFERlZBTEZRRVNKMk8",
+      "text": "‘Neither of us shall live to see Karsa’s return. The bridge between you and me is now swept away. Come to my door again, Father, and I shall kill you.’",
+      "color": "yellow",
+      "location": "434",
+      "page": "47",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWTo4Nzc1MTpISUdITElHSFQ6YTIxSkRXTFVCSlIwTUU",
+      "text": "‘One day,’ Karsa said, ‘that Rathyd warleader shall kneel before me. This, I vow, here, on the blood of his kin, I so vow.’",
+      "color": "yellow",
+      "location": "586",
+      "page": "57",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWTo4ODc2MTpISUdITElHSFQ6YVM2NEkyRU9ZRkJPVA",
+      "text": "‘Remind me to tell you one day, Karsa Orlong.’ ‘Tell me of what?’ ‘What life is like, for those of us in your shadow.’",
+      "color": "yellow",
+      "location": "592",
+      "page": "58",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWTo5ODQ2MTpISUdITElHSFQ6YTNKUUhPNjBITzdGNzE",
+      "text": "I lost a cousin in such a manner. Ridden down by a Rathyd. Ears and tongue taken. Body strung by one foot from a branch. The head propped beneath, smeared in excrement. The deed is answered. Answered.",
+      "color": "yellow",
+      "location": "657",
+      "page": "62",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMjkzODU6SElHSExJR0hUOmFZQTVKWEFWR0Q0S08",
+      "text": "‘I have lost a finger,’ Delum said as he drew out a leather strap and approached the wounded dog, ‘but not an important one.’",
+      "color": "yellow",
+      "location": "863",
+      "page": "77",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMzc2ODE6SElHSExJR0hUOmEyRURHVFM3TjhHNDVM",
+      "text": "‘T’lan Imass? I do not know those two words.’",
+      "color": "yellow",
+      "location": "918",
+      "page": "81",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMzkxMzA6SElHSExJR0hUOmExSUNINzA1WVlLQUpS",
+      "text": "‘“To survive, we must forget. So Icarium told us.",
+      "color": "yellow",
+      "location": "928",
+      "page": "81",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxNDU4MDk6SElHSExJR0hUOmEyMFJIOVk4UFc0NEFY",
+      "text": "Are we a fallen people? That is not a revelation. Our legends all speak of an age of glory, long past, when a hundred heroes strode among the Teblor, heroes that would make even my own grandfather, Pahlk, seem but a child among men",
+      "color": "yellow",
+      "location": "973",
+      "page": "84",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxNTA2MjQ6SElHSExJR0hUOmEyOTNBRVFOOFlISVJG",
+      "text": "‘You do not see what I see,’ he said quietly. ‘There is the potential within you, Karsa Orlong, to be your father’s son. I lied earlier when I said I prayed that you would remain free of doubt. I pray for the very opposite, Warleader. I pray that doubt comes to you, that it tempers you with its wisdom. Those heroes in our legends, Karsa Orlong, they were terrible, they were monsters, for they were strangers to uncertainty.’",
+      "color": "yellow",
+      "location": "1005",
+      "page": "87",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWTo0MTQ0MTM6SElHSExJR0hUOmEyR01CQjlUOUdWN1o1",
+      "text": "Subtlety had been a venomed serpent slithering unseen through his life.",
+      "color": "yellow",
+      "location": "2763",
+      "page": "210",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWTo0MTUzNjA6SElHSExJR0hUOmExNk1USE5KUlBaRjFJ",
+      "text": "The Seven Faces in the Rock never spoke of freedom. The Teblor were their servants. Their slaves.",
+      "color": "yellow",
+      "location": "2770",
+      "page": "210",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWTo0NzE3NTU6SElHSExJR0hUOmEzN1E0SEFPREY3UTU0",
+      "text": "It’s well known that Seven Cities was a rat’s warren of feuds and civil wars, leaving most of the population suffering and miserable and starving under the heels of fat warlords and corrupt priest-kings.",
+      "color": "yellow",
+      "location": "3146",
+      "page": "236",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWTo0NzI4Mjg6SElHSExJR0hUOmEyRlhYUTNNNEtTMTUz",
+      "text": "Hatred is a most pernicious weed, finding root in any kind of soil. It feeds on itself.’",
+      "color": "yellow",
+      "location": "3153",
+      "page": "236",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWTo0NzM2Nzg6SElHSExJR0hUOmEzNVJDWjFXSkRXSThL",
+      "text": "We love words, Karsa, as much as you love cutting off heads and collecting ears and tongues.",
+      "color": "yellow",
+      "location": "3158",
+      "page": "237",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWTo0OTQyNjY6SElHSExJR0hUOmFKNlpWVEY5MlU3VkI",
+      "text": "‘What is this “otataral” everyone speaks of?’ ‘A bane to magic.’ ‘And it must be mined.’ ‘Yes. It’s usually a powder, found in layers, like sandstone. Resembles rust.’",
+      "color": "yellow",
+      "location": "3296",
+      "page": "246",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWTo1MDYyOTQ6SElHSExJR0hUOmExV0VZN0FFMjJTQ0pG",
+      "text": "Now, enough words—as you are wont to say",
+      "color": "yellow",
+      "location": "3376",
+      "page": "252",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWTo1MTM2OTI6SElHSExJR0hUOmExRUpFS0FSUjVJVlZE",
+      "text": "The lowlanders filled this world like vermin—more tribes than the Teblor had thought possible, and it was clear that none liked each other.",
+      "color": "yellow",
+      "location": "3425",
+      "page": "255",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWTo1MTQwODE6SElHSExJR0hUOmEyQ0hOTzlPUjE1QTVI",
+      "text": "The lowlanders seemed so obsessed with their differences that they had no comprehension of what unified them.",
+      "color": "yellow",
+      "location": "3428",
+      "page": "255",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWTo2MTA2NDE6SElHSExJR0hUOmEzOTlWT0FFMzA2RFZY",
+      "text": "Braven who’d named most of the Bridgeburners. Whiskeyjack. Trotts, Mallet, Hedge, Blend, Picker, Toes…Fiddler",
+      "color": "yellow",
+      "location": "4071",
+      "page": "302",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWTo2MTYyMjE6SElHSExJR0hUOmEzREhFVE1LQjkxRUdQ",
+      "text": "‘Polish whatever you like,’ the man replied disinterestedly, ‘just not in public.",
+      "color": "yellow",
+      "location": "4109",
+      "page": "304",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWTo2MTg0ODU6SElHSExJR0hUOmExMElCOUM1NThKWFZN",
+      "text": "she’s never commanded anything more than a damned noble household, and here she’s been handed three legions and told to reconquer an entire subcontinent.’",
+      "color": "yellow",
+      "location": "4124",
+      "page": "305",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWTo2MjI2OTY6SElHSExJR0hUOmEySVFSNlIxMElOSkQ3",
+      "text": "In the months of their travelling together, he had come, perversely, to know her less and less. Her soul’s depths had become unfathomable, and whatever lay at its heart was otherworldly and…not quite human.",
+      "color": "yellow",
+      "location": "4152",
+      "page": "307",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWTo2MjMzMzU6SElHSExJR0hUOmFYSjUzNFJPNjMwRVM",
+      "text": "Ascendancy was but one of the countless mysteries of the world, a world where uncertainty ruled all—god and mortal alike—and its rules were impenetrable.",
+      "color": "yellow",
+      "location": "4156",
+      "page": "307",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWTo2NTA5MzE6SElHSExJR0hUOmEzNE5aSUk5REtOS0M5",
+      "text": "feint. Or perhaps it was the city itself, Darujhistan, that would serve our purposes better if it remained free, independent.",
+      "color": "yellow",
+      "location": "4340",
+      "page": "320",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWTo2NTEzNTU6SElHSExJR0hUOmExSVA3ODZJN0hLSENU",
+      "text": "One day, perhaps, you will see for yourself that regrets are as nothing. The value lies in how they are answered.’",
+      "color": "yellow",
+      "location": "4343",
+      "page": "320",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWTo2NTI0NjE6SElHSExJR0hUOmExTklDNkYzRDlFUzFP",
+      "text": "‘Now, what would you have me do on your behalf?’",
+      "color": "yellow",
+      "location": "4350",
+      "page": "321",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWTo3ODA5OTA6SElHSExJR0hUOmFMWFRFQlNJU0hSSFQ",
+      "text": "‘Hood’s balls skewered on a spit.’",
+      "color": "yellow",
+      "location": "5207",
+      "page": "380",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWTo4MzM0NDI6SElHSExJR0hUOmE1VVZWQVBMOUdSQjA",
+      "text": "The three of them—Gesler, Stormy and Truth—there’s more that’s strange about them than just their skin.’ ‘Any theories?’ ‘They went through a warren of fire—and somehow survived, though it seems that Felisin, Baudin and Heboric didn’t.",
+      "color": "yellow",
+      "location": "5557",
+      "page": "403",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWTo4MzQxNjk6SElHSExJR0hUOmFIRTg5STk5V0w0UlU",
+      "text": "Oh, and next time don’t offer to pay off someone else’s debt…until you find out how big it is.’ And next time, leave that pompous attitude at the stable doors.",
+      "color": "yellow",
+      "location": "5562",
+      "page": "404",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWTo5MTQ0NTM6SElHSExJR0hUOmEyMlRSWkFBSEwxS1Q1",
+      "text": "‘Death is not an unkind fate,’ Darist said above him. ‘If she was a friend, you will miss her company, and that is the true source of your grief—your sorrow is for yourself. My words may displease you, but I speak from experience. I have felt the deaths of many of my kin, and I mourn the spaces in my life where they once stood. But such losses serve only to ease my own impending demise.’",
+      "color": "yellow",
+      "location": "6097",
+      "page": "440",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWTo5NDIzMDk6SElHSExJR0hUOmExRzRJRlJFMVpRUFVU",
+      "text": "We tolerate the Edur, for they contain something of the Father, but the Andii—death by our hands is the only mercy they deserve.",
+      "color": "yellow",
+      "location": "6283",
+      "page": "453",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWTo5NTAxNTM6SElHSExJR0hUOmFMQlZGTjFLUU42OVE",
+      "text": "‘Did you say my blood?’ ‘Not all of it, Edur…if all goes as planned.’",
+      "color": "yellow",
+      "location": "6335",
+      "page": "457",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWTo5Njk0ODI6SElHSExJR0hUOmExSFUwS1AzWkY2NEpR",
+      "text": "I grieve for humanity. This family, so at war with itself.",
+      "color": "yellow",
+      "location": "6464",
+      "page": "466",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMDA2MDEzOkhJR0hMSUdIVDphM0I2NzZTWkhaSlc4VQ",
+      "text": "‘Words need not be spoken aloud, friend, to prove unwelcome.",
+      "color": "yellow",
+      "location": "6707",
+      "page": "483",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMDA3NTIyOkhJR0hMSUdIVDphMzU0RzlXMkFXWks4Vw",
+      "text": "Tell me, what would your kin say to you in parting?’ ‘“May you slay a thousand children.”’",
+      "color": "yellow",
+      "location": "6717",
+      "page": "484",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMDA4NDYwOkhJR0hMSUdIVDphM0xGRkIxRVIxTjBLMA",
+      "text": "None the less, he realized after a moment, if there must be ghosts, it was better to lead them than to be chased by them. ‘If that",
+      "color": "yellow",
+      "location": "6724",
+      "page": "484",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMDEwMDA5OkhJR0hMSUdIVDphMUZPOTdBVFk3TDNLVg",
+      "text": "Reloe sneered. ‘A blind, doddering fool. Does he even know that hen’bara tea is itself the source of the thinning fabric between his world and all that he would flee from?",
+      "color": "aqua",
+      "location": "6734",
+      "page": "485",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMDExMzU3OkhJR0hMSUdIVDphOVY3NVhQRVBBTkRG",
+      "text": "Febryl kills Sha’ik, Tavore kills Febryl, and we destroy Tavore and her army.’",
+      "color": "yellow",
+      "location": "6743",
+      "page": "485",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMDEyOTk1OkhJR0hMSUdIVDphMks0UTJMQlJIRlhSVw",
+      "text": "The death of warrens, the dissolution of gods as memory of them and their meddling slowly vanished, the withering of all magic…the world then would belong to men such as Korbolo himself.",
+      "color": "yellow",
+      "location": "6754",
+      "page": "486",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMDEzNDUxOkhJR0hMSUdIVDphM1FJVE5OMDlaQTRWNQ",
+      "text": "I will bring order. And from that unity, we shall rid the world of every other race, every other people,",
+      "color": "yellow",
+      "location": "6757",
+      "page": "486",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMDEzOTIzOkhJR0hMSUdIVDphWERSOVFZMzhJTFdX",
+      "text": "You are now at Hood’s feet, Whiskeyjack. Where I have always wanted you. You and your damned company, feeding worms in a foreign land. None left to stop me, now…",
+      "color": "yellow",
+      "location": "6760",
+      "page": "487",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMDIwMTg2OkhJR0hMSUdIVDphMk1aRk1RNjFaUFNOMw",
+      "text": "Duiker had delivered the refugees. Only to end up staked to a tree. It was beyond him, Gamet realized, to comprehend the depth of that betrayal. A body never recovered. No bones laid to rest.",
+      "color": "yellow",
+      "location": "6802",
+      "page": "490",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMDIxMDg3OkhJR0hMSUdIVDphMUVQQVhTR1RQNUVCSw",
+      "text": "‘One day, Gamet, you shall have to tell me what she has done, to earn such loyalty as you display.’",
+      "color": "yellow",
+      "location": "6808",
+      "page": "491",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMDIyMDcyOkhJR0hMSUdIVDphNFpBUldDNkFWNE5a",
+      "text": "there is the faith that you cannot be killed. Those two and those two alone—they are the legs holding up every army.’",
+      "color": "yellow",
+      "location": "6814",
+      "page": "491",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMDI1ODkzOkhJR0hMSUdIVDphMlpTWEVITDBKTTRYWg",
+      "text": "As if Tavore and Sha’ik—the two armies, the forces in opposition—are in some way mirrored reflections of the other.",
+      "color": "yellow",
+      "location": "6840",
+      "page": "493",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMTU0NjMxOkhJR0hMSUdIVDphM0RKWUFURDk2RFU1Tg",
+      "text": "Fire is life and life is fire. Fire is the war against the cold, the slayer of ice. It is our salvation.",
+      "color": "yellow",
+      "location": "7698",
+      "page": "553",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMTYxNTkyOkhJR0hMSUdIVDphM0Y4N1NGS0E1RDJISw",
+      "text": "‘You, Edur, have much to learn. We shall create this gate, and then there will come a reckoning.’",
+      "color": "yellow",
+      "location": "7744",
+      "page": "556",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMTY4NTQxOkhJR0hMSUdIVDphM1A0T05FUUJSNklD",
+      "text": "‘Listen! I, Onrack, once of the Logros but now stranger to the Ritual, avow service to Trull Sengar of the Tiste Edur. I pledge to defend your life. This vow cannot be sundered. Now, lead us from here!’",
+      "color": "yellow",
+      "location": "7791",
+      "page": "559",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMTcwOTkzOkhJR0hMSUdIVDphMkFUSUQzUFRDNDdNQg",
+      "text": "‘Walked into? Why?’ Onrack managed a one-sided shrug. ‘They went, Trull Sengar, to kill the Liosan god.’",
+      "color": "yellow",
+      "location": "7807",
+      "page": "560",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMTc1MzgyOkhJR0hMSUdIVDphMkE3MU9ENU1DUzZUQQ",
+      "text": "Does a man even exist who believes there can be too many words?’",
+      "color": "yellow",
+      "location": "7836",
+      "page": "562",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMjI4NzQ3OkhJR0hMSUdIVDphMVRCMURCNVBRUkhNTQ",
+      "text": "Each star. Every star. And those spheres—they are worlds, realms, each one different yet the same. The Abyss was not as empty as he’d believed it to be. But…where dwell the gods? These worlds—are they warrens? Or are the warrens simply passageways connecting them?",
+      "color": "yellow",
+      "location": "8192",
+      "page": "587",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMjMxMzA1OkhJR0hMSUdIVDphT1RUS0k2V1ZPTjhS",
+      "text": "Thus, the Crippled God was brought down to our world. Through this…this terrible puncture. And these giants…follow. Like an army behind its commander. Or an army in pursuit.",
+      "color": "yellow",
+      "location": "8209",
+      "page": "589",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMjQwMzQwOkhJR0hMSUdIVDphWko4TEZVODJVSTNE",
+      "text": "No gifts were truly clean in the giving. And nature ever strives for balance.",
+      "color": "yellow",
+      "location": "8269",
+      "page": "593",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMjQzODM5OkhJR0hMSUdIVDphUUxTR1VBREhKREhG",
+      "text": "They are human, after all, and it is human nature to transform loss into a virtue. So that it might be lived with, so that it might be justified.",
+      "color": "yellow",
+      "location": "8293",
+      "page": "594",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMjQ1OTA2OkhJR0hMSUdIVDphSEFZQ0ZYWUhQOEdN",
+      "text": "‘We shall ensure that Bidithal’s death is in a manner to match his crimes, and that it shall be…timely.’ ‘And how am I to be the knife?’ ‘Child,’ the god calmly replied, ‘you already are.’",
+      "color": "yellow",
+      "location": "8307",
+      "page": "595",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMjU3MzY4OkhJR0hMSUdIVDphM1RRQjYxWjY3MDNDUg",
+      "text": "Forkrul Assail. Soletaken. D’ivers. None are demons in truth, for none were summoned to this world, none belong to any other realm but this one. They are in truth no different from us Teblor, or the lowlanders. No different from rhizan and capemoths, from horses and dogs. They are all of this world, Delum Thord.’",
+      "color": "yellow",
+      "location": "8383",
+      "page": "601",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMjcxMDIyOkhJR0hMSUdIVDphMlBBWTFLQkE4RDRBVg",
+      "text": "‘I shall endeavour to be efficient, then, so as to diminish the duration of your discomfort.’ ‘Clearly impossible,’ Karsa muttered, ‘given your love of words.’ He readied his sword. ‘Be on with it, then, I have a horse to find.’",
+      "color": "yellow",
+      "location": "8474",
+      "page": "607",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMjc1MTA0OkhJR0hMSUdIVDphM0oyNkMwNzlYVENMRw",
+      "text": "‘He has lived too long, I think,’ Karsa murmured.",
+      "color": "yellow",
+      "location": "8501",
+      "page": "609",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMjc5NjY0OkhJR0hMSUdIVDphMVdXS08zR0ZVR042Ng",
+      "text": "What matter the colour of the collar around a man’s neck, if the chains linked to them were identical?",
+      "color": "yellow",
+      "location": "8532",
+      "page": "611",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMzEzOTAzOkhJR0hMSUdIVDphMzIySjlQRjFSNFRRTw",
+      "text": "‘There is place for you none the less,’ Urugal said, ‘in the House of Chains.’ ‘Aye. Knight of Chains, champion of the Crippled God.’ ‘You have learned much, Karsa Orlong.’ He stared down at his bloodied hands. ‘I have, T’lan Imass. As you shall witness.’",
+      "color": "yellow",
+      "location": "8760",
+      "page": "627",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMzQ1MzE4OkhJR0hMSUdIVDphMVY0OUhBNTRHSjFKRA",
+      "text": "I joined for revenge, but it’s not filling my belly like it used to",
+      "color": "yellow",
+      "location": "8969",
+      "page": "641",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxMzQ3MTg0OkhJR0hMSUdIVDphMkJMNjEyMUNXNkFF",
+      "text": "So you run. Then what? Nothing. You’re not here, but wherever you are, you’re still there.’",
+      "color": "yellow",
+      "location": "8982",
+      "page": "642",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxNDAzMDY2OkhJR0hMSUdIVDphMUhDMEtTN0xNSDgyQg",
+      "text": "We found what was left of Kulp back at Gryllen’s wagon. And this’—his gesture was fierce—‘is Baudin.",
+      "color": "yellow",
+      "location": "9354",
+      "page": "668",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxNDA5NTgzOkhJR0hMSUdIVDphMjZPUlJOTkUyQzNFQQ",
+      "text": "But he remembered the expression on the young face of Onos T’oolan, when he had first looked upon the painting of his sister.",
+      "color": "yellow",
+      "location": "9398",
+      "page": "671",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxNDEyOTYzOkhJR0hMSUdIVDphM1NWWDJKM1NWNVVXQw",
+      "text": "‘And you enjoy killing.’ ‘Artistry finds new forms, Edur. It defies being silenced.’",
+      "color": "yellow",
+      "location": "9420",
+      "page": "672",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxNDE3NDk4OkhJR0hMSUdIVDphMjRaSFlaSDRFM05aUg",
+      "text": "would object,’ the Tiste Edur said, ‘to this notion of being doomed to repeat our mistakes, Onrack. Are no lessons learned? Does not experience lead to wisdom?’",
+      "color": "yellow",
+      "location": "9450",
+      "page": "675",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxNDMyMTI5OkhJR0hMSUdIVDphMVFBWDNKV1BITlhDSA",
+      "text": "To the Teblor, T’lan Imass, you were slave-masters, eager and hungry, making harsh demands, and expecting cruel sacrifices—all to feed your own desires. You were the Teblor’s unseen chains.’",
+      "color": "yellow",
+      "location": "9548",
+      "page": "682",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxNDQyOTg5OkhJR0hMSUdIVDphMlFEVFY1TkJDUjMyRA",
+      "text": "Perhaps he should retrace his route. His sword had yet to drink real blood, after all. Barring his own, of course.",
+      "color": "yellow",
+      "location": "9620",
+      "page": "687",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxNDYxNTI1OkhJR0hMSUdIVDphUkZNSUhUQ0ZLRzBH",
+      "text": "‘Have you no means to defend yourself, then?’ ‘Against Icarium, no-one has, Karsa Orlong.’",
+      "color": "yellow",
+      "location": "9744",
+      "page": "696",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxNDY1MzgyOkhJR0hMSUdIVDphMUQ0VVRWU09DMDJEUQ",
+      "text": "‘Not on you. In you. It courses in your veins, Karsa Orlong. Bloodwood has not existed in the Jhag Odhan for tens of thousands of years. Yet these horses remember. Now, you must choose.’",
+      "color": "yellow",
+      "location": "9770",
+      "page": "697",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxNDY4NjgzOkhJR0hMSUdIVDphMURGQ09CMEVaSkdHRw",
+      "text": "Witness? Yes, you are witness. Even so, what I, Karsa Orlong, shall shape, you cannot imagine. No-one can.",
+      "color": "yellow",
+      "location": "9792",
+      "page": "699",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxNDczMzU0OkhJR0hMSUdIVDphMjlFRkFQSDJHQkFCOA",
+      "text": "You have barred the doors caged the windows every portal sealed to the outside world, and now you find what you feared most— there are killers, and they are in the House.",
+      "color": "yellow",
+      "location": "9823",
+      "page": "702",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxNDc2NjE1OkhJR0hMSUdIVDphMUk1VFUxQlBGU0NPTg",
+      "text": "It seemed, to Felisin, that her sister had never been a child, had never known a playful moment.",
+      "color": "yellow",
+      "location": "9845",
+      "page": "704",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxNDc3MjY5OkhJR0hMSUdIVDphTUEzTk1EQTJVUElN",
+      "text": "The stigma of meaning ever comes later, like a brushing away of dust to reveal shapes in stone.",
+      "color": "yellow",
+      "location": "9849",
+      "page": "704",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxNDgwODEyOkhJR0hMSUdIVDphVjlYVVQxUjFXWVpD",
+      "text": "Until one day, soon, it will demand its own place in the Deck of Dragons. As with the House of Chains. A new House, of the Whirlwind.",
+      "color": "yellow",
+      "location": "9873",
+      "page": "706",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxNTA3MjgzOkhJR0hMSUdIVDphMjlJRjBKTDdVWkJJTw",
+      "text": "‘There is nothing simple about that simple warrior,’",
+      "color": "yellow",
+      "location": "10049",
+      "page": "717",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxNTQ5MzE3OkhJR0hMSUdIVDphMjhIRlcxNjBQUlA2Qg",
+      "text": "They all thought themselves too clever, and that was a flaw inviting exploitation.",
+      "color": "yellow",
+      "location": "10329",
+      "page": "736",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxNTcyNDU4OkhJR0hMSUdIVDphVFhRNVpPQkgzRjgz",
+      "text": "Oh, Hood’s balls under a big rock.",
+      "color": "yellow",
+      "location": "10484",
+      "page": "747",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxNjEwMjkzOkhJR0hMSUdIVDphM1BINFYyVFJKVVVMVA",
+      "text": "They’re all too young for this. It’s Laseen’s war—let her fight it. Tavore—she was a child, once. But then the Empress murdered that child. Murdered her. I must tell the Adjunct…",
+      "color": "yellow",
+      "location": "10736",
+      "page": "764",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxNjU2MzMxOkhJR0hMSUdIVDphM0tBVzFMOE9WM1JRNA",
+      "text": "All, but for that one obnoxious Toblakai…",
+      "color": "yellow",
+      "location": "11043",
+      "page": "786",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxNjYxMDUxOkhJR0hMSUdIVDphMUFZNThLQ0VOT1hMWA",
+      "text": "‘A murder of crows, a murder of gods—I like that, lass. As for tortured irony, more like exquisite irony. You don’t think Felisin would leap at the chance to become such a direct instrument of vengeance against her sister? Against the empire that sent her to a prison mine?",
+      "color": "yellow",
+      "location": "11074",
+      "page": "788",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxNzA5MjkzOkhJR0hMSUdIVDphM1JHSDAzNldSWDYwRw",
+      "text": "He did not believe order could be shaped by a sword’s edge. Finality, yes, but finality stained with failure.",
+      "color": "yellow",
+      "location": "11396",
+      "page": "811",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxNzY2NTA2OkhJR0hMSUdIVDphTzc5UFozWkVLVFdM",
+      "text": "There will be…vast slaughter.’ ‘Then why are you staying?’ ‘To witness, lass. For as long as I can.’",
+      "color": "yellow",
+      "location": "11777",
+      "page": "837",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxNzc2OTIwOkhJR0hMSUdIVDphM05WQVlLRTc2VkVOTA",
+      "text": "day of chaos, and Karsa Orlong meant to add to it. Sha’ik or no Sha’ik, there are those in her camp who deserve only death. And I shall deliver it.",
+      "color": "yellow",
+      "location": "11847",
+      "page": "842",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxNzc5NTgwOkhJR0hMSUdIVDphM000RUZDNkkxVVNUOA",
+      "text": "‘Because, Karsa Orlong, we are within the same House. The House of Chains. Our master—’ ‘I have no master,’ the Teblor growled. ‘As he would have it,’ ’Siballe replied. ‘The Crippled God does not expect you to kneel. He issues no commands to his Mortal Sword, his Knight of Chains—for that is what you are, the role for which you have been shaped from the very beginning.’",
+      "color": "yellow",
+      "location": "11864",
+      "page": "843",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxNzgwNzY3OkhJR0hMSUdIVDphMUJBRDZHMjBYWUEwSw",
+      "text": "‘Then I shall break his chains—’ ‘I am pleased—’ ‘And then kill him.’",
+      "color": "yellow",
+      "location": "11872",
+      "page": "844",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxODI0MTY2OkhJR0hMSUdIVDphMVRLUE8wRENYSURHUg",
+      "text": "Consider the last chaining, in which Hood, Fener, the Queen of Dreams, Osserc and Oponn all participated, in addition to Anomander Rake, Caladan Brood and a host of other ascendants.",
+      "color": "yellow",
+      "location": "12162",
+      "page": "865",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxODQwNjg0OkhJR0hMSUdIVDphM0tLOVQ5SE81TVJSSg",
+      "text": "He is as a T’lan Imass, yet clothed in mortal flesh. We ask that he resurrect his memories of life, then wonder at his struggle to satisfy our demands. The failure is ours, not his.",
+      "color": "yellow",
+      "location": "12272",
+      "page": "872",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxODQ2MjAwOkhJR0hMSUdIVDphQ0dGQkJKTjZYQURF",
+      "text": "‘Reasonably. I have come to believe that the rebellion was compromised long ago, perhaps from the very start. That the aim of winning independence for Seven Cities was not quite as central to some as it should have been, and indeed, that those hidden motives are about to be unveiled.’",
+      "color": "yellow",
+      "location": "12309",
+      "page": "875",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxODUwNzYwOkhJR0hMSUdIVDphMjkyRUtTR1EwM1EzVQ",
+      "text": "‘Fires neither push nor pull. They simply exist, compassionless, indifferent to the suicidal urges of flitting bugs.",
+      "color": "yellow",
+      "location": "12339",
+      "page": "877",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToxOTczNjQzOkhJR0hMSUdIVDphTjQzNFdQWDRKTTU1",
+      "text": "Kill the enemy—it is what you must do—’ Karsa smiled. ‘And so I shall.’ He reversed his grip on his sword and drove the point down between Silgar’s shoulder blades,",
+      "color": "yellow",
+      "location": "13158",
+      "page": "934",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToyMDAwNjI3OkhJR0hMSUdIVDphMUExSkVQR1cwNVFXMQ",
+      "text": "lifetime of vicious pleasure. An eternity of pain in answer. For even Hood understood the necessity for balance.",
+      "color": "yellow",
+      "location": "13338",
+      "page": "947",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToyMDI3MzIzOkhJR0hMSUdIVDphMUhaTE1BQ1hMRjhZRQ",
+      "text": "‘the Bridgeburners have now ascended—’ ‘Ascended? What in the Queen’s name does that mean?’",
+      "color": "yellow",
+      "location": "13516",
+      "page": "959",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToyMDk3OTU4OkhJR0hMSUdIVDphMjAzNlI2WTRVS1hMRg",
+      "text": "If we have to cross this entire continent, I will see them cornered, and then I will destroy them. This rebellion will be ashes on the wind when we are done.",
+      "color": "yellow",
+      "location": "13987",
+      "page": "993",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToyMTAwMzE3OkhJR0hMSUdIVDphMUdZWEJSQkFPQ0gzTQ",
+      "text": "The more enemies the better. So it was, once. But no longer. Malazan, you are no longer my enemy. Thus, I will not kill you.’",
+      "color": "yellow",
+      "location": "14003",
+      "page": "994",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToyMTExODczOkhJR0hMSUdIVDphMUlWVU5DRk9JQ0FYMQ",
+      "text": "It’s all the dragon’s fault, in fact. Who would refute that?",
+      "color": "yellow",
+      "location": "14080",
+      "page": "999",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToyMTMyMDYyOkhJR0hMSUdIVDphM0xaUU1VS05CMFVFUQ",
+      "text": "Beautiful women with their hands on my legs, my thighs! I can’t wait! Do they see the avid lust in my eyes? Of course not,",
+      "color": "yellow",
+      "location": "14214",
+      "page": "1,008",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToyMTM0MzM4OkhJR0hMSUdIVDphMVU2VkZPRzdCWjFZSA",
+      "text": "This man did the best he could, but he failed. And now the girl is dead. She was named Felisin. Of House Paran.’",
+      "color": "yellow",
+      "location": "14229",
+      "page": "1,009",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToyMTM2OTY4OkhJR0hMSUdIVDphMUJMUklGQ0xROEE2TQ",
+      "text": "And, in your worst moments, think of how Baudin felt.’",
+      "color": "yellow",
+      "location": "14247",
+      "page": "1,010",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToyMTM5ODIyOkhJR0hMSUdIVDphMUdLOEpORTdGM0IwQw",
+      "text": "‘When I began this journey, I was young. I believed in one thing. I believed in glory. I know now, ’Siballe, that glory is nothing. Nothing. This is what I now understand.’",
+      "color": "yellow",
+      "location": "14266",
+      "page": "1,012",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFNFSUtCWToyMTQ2MjQzOkhJR0hMSUdIVDphMkkxMk9FSzAwV1gyTw",
+      "text": "To grieve is a gift best shared. As a song is shared.",
+      "color": "yellow",
+      "location": "14309",
+      "page": "1,015",
+      "source": "kindle"
+    }
+  ]
+}

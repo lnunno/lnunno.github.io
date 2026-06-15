@@ -1,0 +1,491 @@
+{
+  "id": "snow-crash-fe051a19",
+  "title": "Snow Crash",
+  "author": "Neal Stephenson",
+  "review": "4.25/5 Great book. Stephenson continues throwing a lot of wild ideas into a single novel and seeing what sticks.\n\nI'm happy this exists as proof that I don't dislike the Cyberpunk genre, just the attempts that I've read of it before. Would definitely try more books in the genre, love the corporate dystopia and integration of high technology to question the path we're going down.\n\nI do think some aspects worked better than others, the tone can be a bit dissonant at times between the satirical cyberpunk pizza delivery dystopia and the deep philosophical and religious connection to computers and humanity itself.\n\nThe latter felt a little underdeveloped but the ideas are incredibly unique and interesting, I hope he digs into this deeper in another book of his I haven't read or a future book.\n\nIf anything, this book could have been twice as long and weaved some of the ideas, exposition, and world building more seamlessly into the story.\n\nThe world building of this futuristic Cyberpunk dystopia is incredibly interesting overall, especially for when this was written. Obviously there's aspects that did not come to pass but some of the ideas about the metaverse and how technology and corporations might shape us are very prescient and relevant. It's interesting to get these predictions from someone very technically savvy and compare what was predicted and how our current 2025 world differs.\n\nReally good overall and cements Stephenson as my favorite discovery of the year. Can't wait to dig more into his other works and be challenged and entertained by the way his brain works.",
+  "highlightCount": 60,
+  "myGoodreadsRating": 4,
+  "myReviewRating": 4.25,
+  "highlights": [
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToyNTYwMjpISUdITElHSFQ6YTI0MlJJM0lZVFYzVDk",
+      "text": "This is America. People do whatever the fuck they feel like doing, you got a problem with that? Because they have a right to. And because they have guns and no one can fucking stop them. As a result, this country has one of the worst economies in the world.",
+      "color": "yellow",
+      "location": "171",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTo0MzI1MzpISUdITElHSFQ6YTExUEZNNllGODk1S0c",
+      "text": "everything is going exactly the way it shouldn’t go in the three-ring binder that spells out all the rhythms of the pizza universe.",
+      "color": "yellow",
+      "location": "289",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTo0NDkyMDpISUdITElHSFQ6YTlXMVMzVEcwMzRJWg",
+      "text": "The tape is being pipelined, as it happens, to CosaNostra Pizza University, where it will be analyzed in a pizza management science laboratory. It will be shown to Pizza University students, perhaps to the very students who will replace this man when he gets fired, as a textbook example of how to screw up your life.",
+      "color": "yellow",
+      "location": "300",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTo0NTUzNDpISUdITElHSFQ6YTJTNlRPTDdIWkM0SDM",
+      "text": "A new immigrant from Abkhazia trying to operate a microwave was like a deep-sea tube worm doing brain surgery. Where did they get these guys? Weren’t there any Americans who could bake a fucking pizza?",
+      "color": "yellow",
+      "location": "304",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTo3ODQ4NDpISUdITElHSFQ6YWRiYjU4YmNlLTkyMWMtNDNmOS04ZTgwLWY3NzIzZWMzOWRkYw",
+      "text": "In the lingo, this imaginary place is known as the Metaverse. Hiro spends a lot of time in the Metaverse. It beats the shit out of the U-Stor-It.",
+      "color": "yellow",
+      "location": "524",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToxMDAzMzA6SElHSExJR0hUOmE1Y2FhZDc2MS00ZTJlLTRiZTAtOTllMy1kOGNlNDAwYTE4YjQ",
+      "text": "The world is full of power and energy and a person can go far by just skimming off a tiny bit of it.",
+      "color": "yellow",
+      "location": "669",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToxMTE0NTI6SElHSExJR0hUOmE3YzBkMTMxMC01MjU1LTRhYzItOTRhNC1hZjI5Mzc5MzgyNDA",
+      "text": "When white-trash high school girls are going on a date in the Metaverse, they invariably run down to the computer-games section of the local Wal-Mart and buy a copy of Brandy. The user can select three breast sizes: improbable, impossible, and ludicrous. Brandy has a limited repertoire of facial expressions: cute and pouty; cute and sultry; perky and interested; smiling and receptive; cute and spacy.",
+      "color": "yellow",
+      "location": "744",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToxMTQ1ODQ6SElHSExJR0hUOmFkZjVjZDg0My04ZGFhLTQ4YTctYjJiZS01M2FlZGIyM2RmOTA",
+      "text": "We’re making bucks here—Kongbucks and yen—and we can be flexible on pay and bennies. We’re putting together a swords-and-sorcery thing, and we can use a hacker with your skills. Come on down and talk to me, okay?”",
+      "color": "yellow",
+      "location": "764",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToxMTU0MzM6SElHSExJR0hUOmE5OGIzNzUxNC0xZjI2LTQzNzItOGU1ZC0yMWJiOTYzOGFlZjk",
+      "text": "When Hiro learned how to do this, way back fifteen years ago, a hacker could sit down and write an entire piece of software by himself. Now, that’s no longer possible. Software comes out of factories, and hackers are, to a greater or lesser extent, assembly-line workers. Worse yet, they may become managers who never get to write any code themselves.",
+      "color": "yellow",
+      "location": "770",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToxMzY0Njc6SElHSExJR0hUOmEyYjQzODk3Mi03ZTBjLTQzYjgtYmZmNS1lMmM0YWIxMjk3ZDU",
+      "text": "“By speaking English you implicitly and irrevocably agree for all our future conversation to take place in the English language,”",
+      "color": "yellow",
+      "location": "910",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToxMzc1ODM6SElHSExJR0hUOmEyM2ZkY2ZjNS0yZGI0LTRkZWUtODY4MC1mOWY1NzdmNmY0ZmE",
+      "text": "“As your demeanor has been nonaggressive and you carry no visible weapons, we are not authorized to employ heroic measures to ensure your cooperation,”",
+      "color": "yellow",
+      "location": "918",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToxNTczNjA6SElHSExJR0hUOmFjOWI1M2EyNi1iMTU2LTQ4ZWYtODVjMy0zZjU4NjQxN2UzNTg",
+      "text": "Software development, like professional sports, has a way of making thirty-year-old men feel decrepit.",
+      "color": "yellow",
+      "location": "1050",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToxNTk2NjE6SElHSExJR0hUOmEwMDJlZDdmNS1kODA2LTQxZWQtOTcyMi02Y2YzZjQyNDBlYjg",
+      "text": "It was, of course, nothing more than sexism, the especially virulent type espoused by male techies who sincerely believe that they are too smart to be sexists.",
+      "color": "yellow",
+      "location": "1065",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToxNjAwMzI6SElHSExJR0hUOmEzZjBjMDUxMi1mODczLTQ3NzctOTA0MS01MWRkYzhmMTQ2ZDI",
+      "text": "His mind was good, but he only understood one or two things in the whole world—samurai movies and the Macintosh—and he understood them far, far too well.",
+      "color": "yellow",
+      "location": "1067",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToxNjY5NjU6SElHSExJR0hUOmE0ZWFlODlkZC0zYzM4LTQzOWMtYjIwNy1jZGZhNzI4YWE5NTk",
+      "text": "Condense fact from the vapor of nuance.",
+      "color": "yellow",
+      "location": "1114",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToxNjk2OTk6SElHSExJR0hUOmFmNDRkYTM1MC1iYjE4LTQ3NDQtYThiMi1mOGVhNjM3NDRkZjc",
+      "text": "because class is more than income—it has to do with knowing where you stand in a web of social relationships. Juanita and her folks knew where they stood with a certitude that bordered on dementia. Hiro never knew.",
+      "color": "yellow",
+      "location": "1132",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToxNzExNTU6SElHSExJR0hUOmE0ZGQ4NmI1NC1mMzNlLTQ2M2MtYTc5Ny1iOGY4YjFkNGJmNTI",
+      "text": "with a Torah on his lap, he could trace his bloodlines all the way back to Adam and Eve.",
+      "color": "yellow",
+      "location": "1142",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToxNzE1Nzc6SElHSExJR0hUOmEzNjUzZmI5ZS1lYWNiLTQ4YWUtYmNmZC0zNmNlYmE1YjljOTQ",
+      "text": "Da5id has always been certain of everything. Even when he’s totally wrong.",
+      "color": "yellow",
+      "location": "1144",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToxNzIwMjA6SElHSExJR0hUOmFlYWQwOGEyYi1hODE2LTRhNzEtYjVhZC1kYjEwOWMyZDkyOTY",
+      "text": "He had been found in Golden Gate Park, lovesick, wearing nothing but a thong, taking long pulls from a jumbo bottle of Courvoisier and practicing kendo attacks with a genuine samurai sword, floating across the grass on powerfully muscled thighs to slice other picnickers’ hurtling Frisbees and baseballs in twain.",
+      "color": "yellow",
+      "location": "1147",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToxNzQyOTM6SElHSExJR0hUOmE0ZGE4ZmQ4MS02NjNkLTQ4MjEtYTZiZC1mMWJlNGIxYzZkZGE",
+      "text": "when you live in a shithole, there’s always the Metaverse, and in the Metaverse, Hiro Protagonist is a warrior prince.",
+      "color": "yellow",
+      "location": "1162",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToxOTIyNDA6SElHSExJR0hUOmEzZTVhZTZhOS1jMzQ3LTRmYjktODZjMC1lYWViMzk4ZTdkMjY",
+      "text": "“It’s fucking hard,” Hiro says. “There’s no place for a freelance hacker anymore. You have to have a big corporation behind you.”",
+      "color": "yellow",
+      "location": "1282",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToyMzIxMzA6SElHSExJR0hUOmEyYWM4MjY0MC05ZWIxLTRjMWMtODEyNS0yZTBhYjU0MWY1ZWU",
+      "text": "zanshin. Translating this concept into English is like translating “fuckface” into Nipponese, but it might translate into “emotional intensity” in football lingo.",
+      "color": "yellow",
+      "location": "1548",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToyMzUyMzE6SElHSExJR0hUOmEyZDJmNWYxYS1hZTAwLTQ0ZTctYTg1YS0zMWQ2MjhlYTg3ODQ",
+      "text": "It takes a lot of practice to make your avatar move through the Metaverse like a real person. When your avatar has just lost its legs, all that skill goes out the window.",
+      "color": "yellow",
+      "location": "1569",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToyNDIzNTA6SElHSExJR0hUOmEyMmQwYzg1YS0wNjRkLTRlN2EtOWRkMC0yODNjOGNkOWMzNzM",
+      "text": "The things that the strangers are carrying are bad. Scary things. He gets excited. He gets angry. He gets a little bit scared, but he likes being scared, to him it is the same thing as being excited. Really, he has only two emotions: sleeping and adrenaline overdrive.",
+      "color": "yellow",
+      "location": "1616",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToyNzYzOTM6SElHSExJR0hUOmE3ODJjZGMwMS02MjBjLTQ2NjctODFhYS05NjEyNjhiZjljZjc",
+      "text": "“Of course I won the fucking sword fight,” Hiro says. “I’m the greatest sword fighter in the world.” “And you wrote the software.” “Yeah. That, too,”",
+      "color": "yellow",
+      "location": "1843",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTozMjgyNzg6SElHSExJR0hUOmFmNTQ4OGQxMS1hMThhLTQ4ZGUtYjAwYy1jMzQ4ODE2N2E1MzQ",
+      "text": "For all he knows, Lagos is standing there measuring the length of Hiro’s cock through his trousers while they pretend to make conversation.",
+      "color": "yellow",
+      "location": "2189",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTozODUyOTE6SElHSExJR0hUOmFiYWJlMGFmMi1lNzMxLTQ1NTYtYTQ3My03Y2QwNjA0N2VjZTU",
+      "text": "It’s the worst thing he has ever seen, Compton. Lepers roasting dogs on spits over tubs of flaming kerosene. Street people pushing wheelbarrows piled high with dripping clots of million- and billion-dollar bills that they have raked up out of storm sewers. Road kills—enormous road kills—road kills so big that they could only be human beings, smeared out into chunky swaths a block long.",
+      "color": "yellow",
+      "location": "2569",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTozOTEwNTc6SElHSExJR0hUOmEzZGMwYzBiNS0xNGQ5LTRiZTEtYjI4Yi1hYjk0NDY4ZjA3ZGY",
+      "text": "It’s too late to save your franchise, Jason The Iron Pumper, but it might not be too late to keep the sewer rats from eating your nipples for dinner.”",
+      "color": "yellow",
+      "location": "2608",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTo0MDc4NTA6SElHSExJR0hUOmFhOGU1YTEyZS1jNDU2LTQzYTgtYjZiOC1jNmE3MTlmNWYwMmY",
+      "text": "katana held down at groin level like an extension of the phallus.",
+      "color": "yellow",
+      "location": "2720",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTo0NTkzNTU6SElHSExJR0hUOmE5MWQ3MGZiZS03MDIyLTQzNGQtYjhiOS0xYzY2N2U1NTIwMTY",
+      "text": "Government should govern. It’s not in the entertainment industry, is it? Leave entertaining to Industry weirdos—people who majored in tap dancing. Feds aren’t like that. Feds are serious people. Poli sci majors. Student council presidents. Debate club chairpersons.",
+      "color": "yellow",
+      "location": "3063",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTo0NzA5MDk6SElHSExJR0hUOmE1MWQ5MDUxNy1iODk1LTRlMDktYmNkMS0xMjlkMmM0OGVjODg",
+      "text": "If she screws up this delivery, that means she’s double-crossing God, who may or may not exist, and in any case who is capable of forgiveness. The Mafia definitely exists and hews to a higher standard of obedience.",
+      "color": "yellow",
+      "location": "3140",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTo0NzYxOTU6SElHSExJR0hUOmE4OTdhNjk0Zi0xNjNkLTQ4MDEtOTI5Ny03OTBiNjExMDI3ZTM",
+      "text": "He is holding a one-meter-long piece of heavy rebar with tape wrapped around one end to make a handle. The rebar approximates a katana, but it is very much heavier. He calls it redneck katana.",
+      "color": "yellow",
+      "location": "3175",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTo0Nzc5ODI6SElHSExJR0hUOmFkY2IzMjM4NC0zYjZmLTQ3ODYtYTE5Yy0yMWVkZGM5MzBiNTc",
+      "text": "If you strike a man on the top of his head with a katana and do not make any effort to stop the blade, it will divide his skull and probably get hung up in his collarbone or his pelvis, and then you will be out there in the middle of the medieval battlefield with a foot on your late opponent’s face, trying to work the blade loose as his best friend comes running up to you with a certain vengeful gleam in his eye.",
+      "color": "yellow",
+      "location": "3187",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTo1MTk2NDI6SElHSExJR0hUOmE4MjYyY2Y1OS1mY2NhLTQ2YTQtOWNkZC1hODE0NTU1NzEwODg",
+      "text": "This Snow Crash thing—is it a virus, a drug, or a religion?” Juanita shrugs. “What’s the difference?”",
+      "color": "yellow",
+      "location": "3465",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTo1NDAwMDQ6SElHSExJR0hUOmE3ZjBiM2JhOS05NDUwLTQ3ODEtYjU2Mi1hOWE5NTViYjM3YzE",
+      "text": "“Computers rely on the one and the zero to represent all things. This distinction between something and nothing—this pivotal separation between being and nonbeing—is quite fundamental and underlies many Creation myths.”",
+      "color": "yellow",
+      "location": "3601",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTo1NjQ2NzA6SElHSExJR0hUOmEwMzk2ODE3NC1kYzQzLTQ5NDktYjAzNi1kMmIyYTIwODg2OTA",
+      "text": "“If there was some phenomenon that moved through the population, altering their minds in such a way that they couldn’t process the Sumerian language anymore. Kind of in the same way that a virus moves from one computer to another, damaging each computer in the same way. Coiling around the brainstem.”",
+      "color": "yellow",
+      "location": "3765",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTo2NDQ3ODM6SElHSExJR0hUOmE5MWY4ZmViZi1jMDIyLTRjZTktOTM1ZC1hMGU5MDU2YTFiMTE",
+      "text": "“This guy I was talking to said that it fucks with your actual DNA. I don’t know what half of this shit means, but that’s what he said.”",
+      "color": "yellow",
+      "location": "4299",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTo2NTg4MDk6SElHSExJR0hUOmE3NGE2MTdkZC1jYjk4LTRkYWItOGVhOS1mZGJjYjY0ZmM1MDQ",
+      "text": "He fills the rivers, and the extensive Sumerian canal system, with his life-giving semen. He is said to have created the Tigris in a single epochal act of masturbation.",
+      "color": "yellow",
+      "location": "4393",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTo2NjA4NzE6SElHSExJR0hUOmE0ZjJmNzNmNC1mODliLTRjZjctYmIzZi0yMWI0MGM4MjU5NTE",
+      "text": "“Why, exactly, is Marduk handing Hammurabi a one and a zero in this picture?” Hiro asks. “They were emblems of royal power,” the Librarian says. “Their origin is obscure.”",
+      "color": "yellow",
+      "location": "4406",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTo2NjM2NTg6SElHSExJR0hUOmE3Y2I5N2JjNi1mNGMyLTQ4ZDUtYWZlNy0yMDUzYTIwNjNhMGI",
+      "text": "It sounds as though these me served as the operating system of the society, organizing an inert collection of people into a functioning system.”",
+      "color": "yellow",
+      "location": "4425",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTo2Nzc2NzY6SElHSExJR0hUOmE2ZjY5NDk0MC1iYzJmLTQyNGItOTAwZS02YWJlOTJlOTVmMDk",
+      "text": "when I was a hacker. I never thought about the important things. God. Heaven. The things of the spirit. It’s hard to think about those things in America. You just put them aside. But those are really the important things—not programming computers or making money.",
+      "color": "yellow",
+      "location": "4518",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTo2OTQ4MzA6SElHSExJR0hUOmE1OTRmYmVmOS02MDU5LTRmNWYtYjAyYi1lMjI3NGMyOTNiN2E",
+      "text": "The aerodynamic cowling is totally flexible, calculates its own most efficient shape for the current speed and wind conditions, changes its curves accordingly, wraps around you like a nymphomaniacal gymnast.",
+      "color": "yellow",
+      "location": "4633",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTo2OTc3MzU6SElHSExJR0hUOmFkYjMyMWRiYS1mM2QzLTQ4OGMtYWMzMy1mYWFkZGFmMGFkZjY",
+      "text": "UNTIL A MAN IS twenty-five, he still thinks, every so often, that under the right circumstances he could be the baddest motherfucker in the world.",
+      "color": "yellow",
+      "location": "4652",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTo2OTgzMDM6SElHSExJR0hUOmFiMzE3NDFjYi1jODIzLTRlM2QtYjk3NS01MWVmNGM1YjBkZTQ",
+      "text": "In a way, this is liberating. He no longer has to worry about trying to be the baddest motherfucker in the world. The position is taken.",
+      "color": "yellow",
+      "location": "4656",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTo3MTU2NjY6SElHSExJR0hUOmFhZmUzM2IyNy00YzBiLTQ0NDEtODQxNi01MTZhYmE2MWQzOTM",
+      "text": "But you never can tell exactly what the compiler is doing. It doesn’t always come out the way you want. Like a dusty pane or warped mirror.",
+      "color": "yellow",
+      "location": "4772",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTo3MzM4NDY6SElHSExJR0hUOmExZTBkNjcwYi1jYjQwLTRmNDctYjIwZi1iMGY5MmUyZGQzOTY",
+      "text": "While creative, this approach has two drawbacks: 1) It clogs the plumbing, and 2) It constitutes defacement of U.S. currency, which is a federal crime. DON’T DO IT. Join your office bathroom-tissue pool instead. It’s easy, it’s hygienic, and it’s legal. Happy pooling!",
+      "color": "yellow",
+      "location": "4893",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTo3Njk1MDY6SElHSExJR0hUOmFlMWQ2ZGU4NC02ODJiLTQ4MjItYTFiOC1hYjY4ZGQwZDI3OTU",
+      "text": "“On a sub, you know, there’s no place for things to drain to. The survivors claimed that the blood was knee-deep all through the submarine. Raven just killed everyone.",
+      "color": "yellow",
+      "location": "5131",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTo4NTgwMTU6SElHSExJR0hUOmFjNzBjMTA0My0xMjYwLTQ0MmQtODllOS04M2MzMjRmMDVkMDI",
+      "text": "“Time for Phase Five,” the man with the glass eye says. “A big fucking breakfast.”",
+      "color": "yellow",
+      "location": "5721",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTo4ODgzOTQ6SElHSExJR0hUOmFhOWRjMWE0Mi01OTU5LTRmNWQtYWExMC02ODhiYjYzYjlkNDY",
+      "text": "in northern waters, the only thing a life vest does is make your corpse float.",
+      "color": "yellow",
+      "location": "5923",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTo5NjIzMDQ6SElHSExJR0hUOmE5ODYwZWIwNi03NDU0LTRlZTYtYmFmOC00NjQ3NGE1NGViMGY",
+      "text": "“See, the world is full of things more powerful than us. But if you know how to catch a ride, you can go places,”",
+      "color": "yellow",
+      "location": "6416",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTo5ODI2Njc6SElHSExJR0hUOmFiNmYyYzI2ZC03YzVhLTQwZTMtYjQwYS0wMDVlOGZiMmY2MDM",
+      "text": "Computers this powerful are supposed to shut themselves down, after you’ve asked them to. Turning one off with the hard switch is like lulling someone to sleep by severing their spinal column.",
+      "color": "yellow",
+      "location": "6552",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRTo5OTE5NTg6SElHSExJR0hUOmFlZDE4ZWJkNC1kYzQ0LTQzOTAtOTdjOS1jZTM2ZmZkZDgzYzU",
+      "text": "She could really get to like this relationship with Raven, if it weren’t for the fact that he’s a homicidal mutant.",
+      "color": "yellow",
+      "location": "6614",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToxMDgwNzYyOkhJR0hMSUdIVDphOTg5YmIzMzYtMmYyMS00ZTU1LTkyMzAtY2FlYzZiMmFhNTYx",
+      "text": "I got a million Myrmidons here. You gonna kill ’em all?” “Swords don’t run out of ammo,” Hiro shouts.",
+      "color": "yellow",
+      "location": "7206",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToxMTA4NDUyOkhJR0hMSUdIVDphODk5NjZkOTgtZTMyOC00YWM4LWFjYzgtODMwMWUxZWM2ZTA4",
+      "text": "“It’s the Government of the United States,” Juanita says. “Where hackers go to die,” Hiro says. The largest, and yet the least efficient, producer of computer software in the world.",
+      "color": "yellow",
+      "location": "7390",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToxMTA5NjE4OkhJR0hMSUdIVDphZDIxMGYxMzAtNDBiNi00NGVhLTk0YTYtNmMxYTdmNzhkOWYw",
+      "text": "The programmers work twelve hours a day out of some twisted sense of personal loyalty. Their software-engineering techniques, while cruel and ugly, are very sophisticated. They must have been up to something.",
+      "color": "yellow",
+      "location": "7398",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToxMTI2MzcxOkhJR0hMSUdIVDphYjViNDE2N2YtNzQwZC00MTk3LTkyZDMtMjkzYzI4NzI2Njky",
+      "text": "Fido sees the place in his mind. It is big and wide and flat and open, like a nice field for chasing Frisbees. It has lots of big flying things. Around the edges are a couple of yards where nice doggies live.",
+      "color": "yellow",
+      "location": "7510",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToxMTM1OTM0OkhJR0hMSUdIVDphYzk5ZGMyNjktMzExYy00YmNkLWI2ZTQtYTdmYWNjYWI0NGI0",
+      "text": "“It was a half-blind, one-legged samurai with a katana versus a big strong healthy man with his arms tied behind his back,” Hiro says. “A pretty interesting fight. A pretty fair one. My father won. And that was the end of the war.",
+      "color": "yellow",
+      "location": "7573",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToxMTUwMDQxOkhJR0hMSUdIVDphZDViNWFjZDQtZDg5YS00YzkzLTg5MzktZDZkNmZhMjExZTdi",
+      "text": "Y.T. bites her lower lip and flips him the bird. With that, the relationship is over, hopefully for all time.",
+      "color": "yellow",
+      "location": "7667",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToxMTU5NDM0OkhJR0hMSUdIVDphOGQxNjhlM2YtNjQzYy00MmM2LTkzNzAtNjU4MTZmYzNhNGIy",
+      "text": "IF THIS WERE A VIRUS YOU WOULD BE DEAD NOW FORTUNATELY IT’S NOT THE METAVERSE IS A DANGEROUS PLACE; HOW’S YOUR SECURITY? CALL HIRO PROTAGONIST SECURITY ASSOCIATES FOR A FREE INITIAL CONSULTATION",
+      "color": "yellow",
+      "location": "7730",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZCSkNKRToxMTkwMjE3OkhJR0hMSUdIVDphMmYyNGU5ZDYtOGQwZi00NWM5LWI0NTctMTJkZjA5NDcwZGNm",
+      "text": "I have probably spent more hours coding during the production of this work than I did actually writing it, even though it eventually turned away from the original graphic concept, rendering most of that work useless from a practical viewpoint.",
+      "color": "yellow",
+      "location": "7935",
+      "page": "",
+      "source": "kindle"
+    }
+  ]
+}

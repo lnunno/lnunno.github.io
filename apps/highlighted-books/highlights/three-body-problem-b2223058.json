@@ -1,0 +1,499 @@
+{
+  "id": "three-body-problem-b2223058",
+  "title": "The Three-Body Problem",
+  "author": "Cixin Liu",
+  "review": "Even though this has some rough edges, this is one of the best sci-fi books I've read and the ideas explored here are mind blowing.\n\nThis is probably the \"hardest\" sci-fi book I've read where Liu goes deep into the physics and some of the technical details about why the things explored here might be possible. I personally loved this aspect of the book but I could see it causing issues for others.\n\nAt times it feels like reading physics proofs and theorems, but in a dramatized way, he also takes interesting applications of computer science concepts that were pretty unexpected to me and that I appreciated a lot.\n\nThis book gets criticized for the thin characters which I think overall is fair; it definitely focuses on the ideas and sci-fi concepts, but I didn't think that the characters were poorly written, a couple are interesting and even funny. He definitely sort of puts this on the side about halfway through the book and focuses primarily on the ideas, which I'm ok with.\n\nReally looking forward to the next two books as I've heard they're even better. I'm really glad to have read this and kind of mad at myself for waiting so long. Definitely a unique style of sci-fi that is sort of a more technical version of Clarke in a lot of ways. Can't say I've read anything quite like this even though it uses familiar sci-fi concepts, the way they are blended together and executed is really interesting.",
+  "highlightCount": 61,
+  "myGoodreadsRating": 5,
+  "myReviewRating": null,
+  "highlights": [
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoxMjM0MzpISUdITElHSFQ6YTEwWENaREdCRkZCWFE",
+      "text": "imagining that an ideal world would be born tomorrow from the ardor and zeal coursing through her blood.… She was intoxicated by her brilliant, crimson dream until a bullet pierced her chest.",
+      "color": "yellow",
+      "location": "83",
+      "page": "10",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoxMzkyMDpISUdITElHSFQ6YTNQUURTMU5ZRzBRSA",
+      "text": "And then half of her young head was blown away, and only a single, beautiful eye remained to stare at the blue sky of 1967. There was no pain in that gaze, only solidified devotion and yearning. And yet, compared to some others, she was fortunate. At least she died in the throes of passionately sacrificing herself for an ideal.",
+      "color": "yellow",
+      "location": "93",
+      "page": "11",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoyNjMyMjpISUdITElHSFQ6YTJSTUdQMDhZTUs2NVk",
+      "text": "This was the only time he spoke with the great scientist who changed the world. There was no discussion of physics, of relativity, only cold, harsh reality.",
+      "color": "yellow",
+      "location": "176",
+      "page": "16",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoyNjc0NDpISUdITElHSFQ6YTJISkdOVkxUMVQ3SlA",
+      "text": "“In China, any idea that dared to take flight would only crash back to the ground. The gravity of reality is too strong.”",
+      "color": "yellow",
+      "location": "179",
+      "page": "16",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoyODc5MTpISUdITElHSFQ6YU1WTURITTdaU1k2Sg",
+      "text": "“Should philosophy guide experiments, or should experiments guide philosophy?”",
+      "color": "yellow",
+      "location": "192",
+      "page": "17",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoyOTIyNDpISUdITElHSFQ6YTJCRURVUUJURThDNVg",
+      "text": "“Then that’s equivalent to saying that the correct philosophy falls out of the sky. This is against the idea that the truth emerges from experience. It’s counter to the principles of how Marxism seeks to understand nature.”",
+      "color": "yellow",
+      "location": "195",
+      "page": "17",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzozMTcxNDpISUdITElHSFQ6YTE0NE1EMFM5OVEzQUI",
+      "text": "“The theory leaves open a place to be filled by God.”",
+      "color": "yellow",
+      "location": "212",
+      "page": "18",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzozMzA5NDpISUdITElHSFQ6YTIwWVVNSzBTQUVSSzA",
+      "text": "“God does not exist. All religions are tools concocted by the ruling class to paralyze the spirit of the people!” “That is a very one-sided view,” Ye said calmly.",
+      "color": "yellow",
+      "location": "221",
+      "page": "19",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzozNDU2MTpISUdITElHSFQ6YTFXOEc1RERITDhZT00",
+      "text": "The only thing that moved was a thin stream of blood. Like a red snake, it slowly meandered across the stage, reached the edge, and dripped onto a chest below. The rhythmic sound made by the blood drops was like the steps of someone walking away.",
+      "color": "yellow",
+      "location": "231",
+      "page": "19",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzozNTgwNjpISUdITElHSFQ6YTFRU1dDNDUwVUJIU0Y",
+      "text": "She stared at her father’s lifeless body, and the thoughts she could not voice dissolved into her blood, where they would stay with her for the rest of her life.",
+      "color": "yellow",
+      "location": "239",
+      "page": "20",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzo0MjM4NjpISUdITElHSFQ6YTJFS0VGQVc0SzMxWk8",
+      "text": "Even if they spilled all of their blood, it would cool faster than a pile of cow dung, and not be as useful. But burning was their fate; they were the generation meant to be consumed by fire.",
+      "color": "yellow",
+      "location": "283",
+      "page": "24",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzo0NjA5MDpISUdITElHSFQ6YTJSWVhONDZQWUNRMDQ",
+      "text": "“Intellectuals always make a fuss about nothing,”",
+      "color": "yellow",
+      "location": "308",
+      "page": "25",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzo1MDg1NTpISUdITElHSFQ6YTJOVTZaR0lENDBLNlk",
+      "text": "If this was so, then how many other acts of humankind that had seemed normal or even righteous were, in reality, evil?",
+      "color": "yellow",
+      "location": "340",
+      "page": "27",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzo1MTQ5NTpISUdITElHSFQ6YTFWSUlVVDNFUDY1VE0",
+      "text": "It was impossible to expect a moral awakening from humankind itself, just like it was impossible to expect humans to lift off the earth by pulling up on their own hair. To achieve moral awakening required a force outside the human race. This thought determined the entire direction of Ye’s life.",
+      "color": "yellow",
+      "location": "344",
+      "page": "28",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzo3MDMwNDpISUdITElHSFQ6YTNHU1BaRldPTlNCTUM",
+      "text": "Young people are all the same. The more books you read, the more confused you become.",
+      "color": "yellow",
+      "location": "469",
+      "page": "35",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzo3OTg2ODpISUdITElHSFQ6YVpYSlBZODE0R0w2Mw",
+      "text": "The coldness penetrated into her bones, and the world in her eyes turned milky white. She felt that the entire universe was a huge block of ice, and she was the only spark of life within it. She was the little girl about to freeze to death, and she didn’t even have a handful of matches, only illusions.",
+      "color": "yellow",
+      "location": "533",
+      "page": "40",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoxMTExOTQ6SElHSExJR0hUOmEzNUhXSFFRSDNQREdQ",
+      "text": "“You’re right. Even a fish can be used to commit a crime. I handled a murder case once. Some bitch cut off her husband’s family jewels. You know what she used? A frozen tilapia she got out of the freezer! The spines along the back were like razors",
+      "color": "yellow",
+      "location": "742",
+      "page": "55",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoxMTc5NTI6SElHSExJR0hUOmExT1lXN0ZGNjdFS0U2",
+      "text": "Shi, who appeared so vulgar and careless, had eyes as sharp as knives. Maybe he wasn’t a good cop, but he was certainly a fearsome one.",
+      "color": "yellow",
+      "location": "787",
+      "page": "57",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoxMjU4NjM6SElHSExJR0hUOmExMDUzREpUMlBYUVMz",
+      "text": "All the evidence points to a single conclusion: Physics has never existed, and will never exist. I know what I’m doing is irresponsible. But I have no choice.",
+      "color": "yellow",
+      "location": "840",
+      "page": "61",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoxMjc2MjM6SElHSExJR0hUOmEzSjdMWTlES0lJMk9U",
+      "text": "To put it simply, they want to use the methods of science to discover the limits of science, to try to find out if there is a limit to how deeply and precisely science can know nature—a boundary beyond which science cannot go. The development of modern physics seems to suggest that such a line has been touched.”",
+      "color": "yellow",
+      "location": "851",
+      "page": "61",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoxMjg5NzM6SElHSExJR0hUOmFMVE05RFJIS1VTWk4",
+      "text": "“Do you think we’ll forget you have a mouth if you don’t use it all the time?”",
+      "color": "yellow",
+      "location": "860",
+      "page": "62",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoxMzI4ODA6SElHSExJR0hUOmExWjRNU1lKMDBQQUFP",
+      "text": "“The way you speak is not appropriate for a good police officer.” “Who said I’m a good cop?”",
+      "color": "yellow",
+      "location": "886",
+      "page": "63",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoxMzMzMzI6SElHSExJR0hUOmFZTU42RUJUSU9GQ0g",
+      "text": "“You’re saying they’re better than me?” Still seated, Shi lifted his eyes to meet Wang’s. “At least I wouldn’t kill myself just because someone told me some bullshit.”",
+      "color": "yellow",
+      "location": "889",
+      "page": "64",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoxMzM3ODI6SElHSExJR0hUOmEyTDRPVkYzUlEyOU1J",
+      "text": "“I think I would be much safer than you in such situations. You must know that a person’s ability to discern the truth is directly proportional to his knowledge.” “I’m not sure about that. Take someone like you",
+      "color": "yellow",
+      "location": "892",
+      "page": "64",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoxMzQ3NjY6SElHSExJR0hUOmEzTFlaRlA0MjREM1FK",
+      "text": "“That’s enough! You misunderstand me. I don’t want to be a spy. I just want to prove you’re an idiot!” “If you remain alive after you’ve joined them for a while, that would be the best proof. But I’m afraid for you…”",
+      "color": "yellow",
+      "location": "899",
+      "page": "64",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoxMzc2MDk6SElHSExJR0hUOmFTM1RORTZSUFkxS1Y",
+      "text": "“Yes, the entire history of humankind has been fortunate. From the Stone Age till now, no real crisis has occurred. We’ve been very lucky. But if it’s all luck, then it has to end one day. Let me tell you: It’s ended. Prepare for the worst.”",
+      "color": "yellow",
+      "location": "918",
+      "page": "66",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoxMzk2OTc6SElHSExJR0hUOmEyVkZXTlhGODJKN1pM",
+      "text": "“She was like a star, always so distant. Even the light she shone on me was always cold.”",
+      "color": "yellow",
+      "location": "932",
+      "page": "67",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoxNDU5MDk6SElHSExJR0hUOmExWkI2MUE0MVRBMlZH",
+      "text": "“Imagine another set of results. The first time, the white ball drove the black ball into the pocket. The second time, the black ball bounced away. The third time, the black ball flew onto the ceiling. The fourth time, the black ball shot around the room like a frightened sparrow, finally taking refuge in your jacket pocket. The fifth time, the black ball flew away at nearly the speed of light, breaking the edge of the pool table, shooting through the wall, and leaving the Earth and the Solar System, just like Asimov once described.13 What would you think then?”",
+      "color": "yellow",
+      "location": "973",
+      "page": "70",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoxNDg5MDc6SElHSExJR0hUOmExWkNTOVdRNFFKMFBD",
+      "text": "“It means that laws of physics that could be applied anywhere in the universe do not exist, which means that physics … also does not exist.”",
+      "color": "yellow",
+      "location": "993",
+      "page": "72",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoxNDk2NDA6SElHSExJR0hUOmFRME8yQzZMTVk3OTU",
+      "text": "“To accomplish something in theoretical physics requires one to have almost religious faith. It’s easy to be led to the abyss.”",
+      "color": "yellow",
+      "location": "998",
+      "page": "72",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoxNTI1NzU6SElHSExJR0hUOmExQTJTVUZQUlZBOExW",
+      "text": "Can the fundamental nature of matter really be lawlessness? Can the stability and order of the world be but a temporary dynamic equilibrium achieved in a corner of the universe, a short-lived eddy in a chaotic current?",
+      "color": "yellow",
+      "location": "1018",
+      "page": "74",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoxNTM3NTc6SElHSExJR0hUOmEyNzNCMlVHWlJKMkhS",
+      "text": "In the shooter hypothesis, a good marksman shoots at a target, creating a hole every ten centimeters. Now suppose the surface of the target is inhabited by intelligent, two-dimensional creatures. Their scientists, after observing the universe, discover a great law: “There exists a hole in the universe every ten centimeters.” They have mistaken the result of the marksman’s momentary whim for an unalterable law of the universe.",
+      "color": "yellow",
+      "location": "1026",
+      "page": "74",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoxODM1NjU6SElHSExJR0hUOmEzSUhXR0lTOEk4ODI",
+      "text": "Wang even tried to temporarily overwhelm the display by staring into the rising sun. But it was useless. The infernal numbers turned black and showed up against the orb of the sun like projected shadows, which made them even more frightening.",
+      "color": "yellow",
+      "location": "1224",
+      "page": "86",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoyMDIxMzI6SElHSExJR0hUOmEyWUdGTzBHVjlWV0RC",
+      "text": "Wang subconsciously thought of her as the long-obsolete DOS operating system: a blank, black screen, a bare “C:\\>” prompt, a blinking cursor. Whatever you entered, it echoed back. Not one extra letter and not a single change. But now he knew that behind the “C:\\>” was a bottomless abyss.",
+      "color": "yellow",
+      "location": "1348",
+      "page": "94",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoyMTgzNDY6SElHSExJR0hUOmEzOElVMU9GQktDUEIx",
+      "text": "“What are you talking about? Three flying stars … pray that such a thing never happens.”",
+      "color": "yellow",
+      "location": "1456",
+      "page": "100",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoyMjA3MjI6SElHSExJR0hUOmFUUTVXV1FEUEVFNTQ",
+      "text": "“Based on my observations, there is no pattern to the sun’s movement at all.” “That’s because you do not understand the fundamental nature of the world.”",
+      "color": "yellow",
+      "location": "1472",
+      "page": "101",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoyNTEzOTk6SElHSExJR0hUOmEzUUlaQzk4OExHQlU1",
+      "text": "“You were a great teacher for your daughter,” Wang said. “No. I failed. Her world was too simple, and all she had were ethereal theories. When they collapsed, she had nothing to lean on to keep on living.”",
+      "color": "yellow",
+      "location": "1676",
+      "page": "116",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoyNTQ2MzE6SElHSExJR0hUOmExV1Y2VVRPTDZTM1ZX",
+      "text": "Wang accepted the box, warmth filling his chest. His eyes moistened. It was as though his heart, stressed almost beyond the breaking point by the last few days, had been placed onto a pile of soft down feathers. “Professor Ye, I will come visit you often.”",
+      "color": "yellow",
+      "location": "1698",
+      "page": "118",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoyNzU4NDU6SElHSExJR0hUOmEyUlMwQjVZN0wwSDI1",
+      "text": "The universe was a cramped heart, and the red light that suffused everything was the translucent blood that filled the organ. Suspended in the blood, he saw that the flickering of the red light was not periodic—the pulsing was irregular. He felt a strange, perverse, immense presence that could never be understood by human intellect.",
+      "color": "yellow",
+      "location": "1839",
+      "page": "127",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzoyODU2MzY6SElHSExJR0hUOmEyRlYwVlVETFgxSkFE",
+      "text": "I’m a simple man without a lot of complicated twists and turns. Look down my throat and you can see out my ass.",
+      "color": "yellow",
+      "location": "1905",
+      "page": "132",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzozMjg2Nzc6SElHSExJR0hUOmEyMENSUTUzSEZVUjU5",
+      "text": "Everyone likes to reminisce, but no one wants to listen, and everyone feels annoyed when someone else tells a story.",
+      "color": "yellow",
+      "location": "2192",
+      "page": "150",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzozNjM2MTg6SElHSExJR0hUOmEzU0gyV0U3WjZDTTQz",
+      "text": "Others have already sent their messages out into space. It’s dangerous if extraterrestrials only hear their voices. We should speak up as well. Only then will they get a complete picture of human society. It’s not possible to get the truth by only listening to one side. We must make this happen, and quickly.",
+      "color": "yellow",
+      "location": "2425",
+      "page": "168",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzozNzQ5NDQ6SElHSExJR0hUOmFYOVpYQlFLOUZURlU",
+      "text": "How wonderful it will be if the universe really contains other intelligences and other societies! Bystanders have the clearest view. Someone truly neutral will then be able to comment on whether we’re the heroes or villains of history.",
+      "color": "yellow",
+      "location": "2500",
+      "page": "174",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzozODAxNjk6SElHSExJR0hUOmEzSUs5NzlQTEFORU0",
+      "text": "Civilization on Earth is currently about a Type 0.7, not even a full Type I. And the transmissions from Red Coast used only about one ten-millionth of the amount of power the Earth could muster. Our call was like the buzzing of a mosquito in the sky. No one could hear it.”",
+      "color": "yellow",
+      "location": "2535",
+      "page": "177",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzo1MTkwOTI6SElHSExJR0hUOmEzSEhHNk02NExCN1ZO",
+      "text": "“If even an extremely simple arrangement like the three-body system is unpredictable chaos, how can we have any faith in discovering the laws of the complicated universe?” “God is a shameless old gambler. He has abandoned us!”",
+      "color": "yellow",
+      "location": "3461",
+      "page": "236",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzo1MzEyOTc6SElHSExJR0hUOmEyMzlCSlhTQzdYWDRW",
+      "text": "Civilization 192 was a milestone in Trisolaran civilization. It finally proved that the three-body problem had no solution. It gave up the useless effort that had already lasted through 191 cycles and set the course for future civilizations. Thus, the goal of Three Body has changed. The new goal is: Head for the stars; find a new home. We invite you to log on again.",
+      "color": "yellow",
+      "location": "3542",
+      "page": "242",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzo2MDA5Mzk6SElHSExJR0hUOmExS09FVzhORlFaUExC",
+      "text": "Come here! I will help you conquer this world. Our civilization is no longer capable of solving its own problems. We need your force to intervene.",
+      "color": "yellow",
+      "location": "4007",
+      "page": "276",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzo2NDYyNTA6SElHSExJR0hUOmExQktOUThWOVRUMEFG",
+      "text": "Could the sun really amplify radio signals? Did she really use it as an antenna to send a message about human civilization into the universe? Did she really receive a message from the stars? Did that blood-hued morning, when she had betrayed the entire human race, really happen? And those murders …",
+      "color": "yellow",
+      "location": "4309",
+      "page": "297",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzo2NjQyMzQ6SElHSExJR0hUOmEzME9DNzdDOUdGOUdG",
+      "text": "“Why does one have to save people to be considered a hero? Why is saving other species considered insignificant? Who gave humans such high honors? No, humans do not need saving. They’re already living much better than they deserve.”",
+      "color": "yellow",
+      "location": "4429",
+      "page": "305",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzo3MDA5NTU6SElHSExJR0hUOmEySTZVQ1lVVlpER0ha",
+      "text": "Let’s look at the current composition of the ETO. The Adventists would like to destroy the human race by means of an alien power; the Redemptionists worship the alien civilization as a god; the Survivors wish to betray other humans to buy their own survival. None of these is in line with your original ideal of using the alien civilization as a way to reform humanity. YE: I started the fire, but I couldn’t control how it burnt.",
+      "color": "yellow",
+      "location": "4674",
+      "page": "324",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzo3MTU3OTE6SElHSExJR0hUOmEzTDYwVUs2UEVFSjhL",
+      "text": "I don’t know anything. What can a bug know?” “But you’re a physicist among bugs. You know more than I do.",
+      "color": "yellow",
+      "location": "4772",
+      "page": "329",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzo3MTYyODg6SElHSExJR0hUOmEyODk1VVpVWERNQTZB",
+      "text": "We should learn to be as philosophical as Wei Cheng and Shi Qiang. Just do the best within your responsibility. Let’s go drinking and then go back to sleep like good bugs.”",
+      "color": "yellow",
+      "location": "4776",
+      "page": "330",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzo3NDQwNzY6SElHSExJR0hUOmFENFEwNlZLUVdYMVI",
+      "text": "Suppose two thousand years ago, or even earlier, humanity learned that an alien invasion fleet would arrive a few thousand years later. What would human civilization be like now? Professor, can you imagine it?”",
+      "color": "yellow",
+      "location": "4961",
+      "page": "341",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzo3NTY1OTc6SElHSExJR0hUOmEzUERYODVYWVJJSTNP",
+      "text": "Under the starlight, the ground looked like a giant sheet of cold metal. This was the loneliest time. In the deep silence of midnight, the universe revealed itself to its listeners as a vast desolation.",
+      "color": "yellow",
+      "location": "5044",
+      "page": "348",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzo3NjAzOTg6SElHSExJR0hUOmEzT0U1Q0xHQUcwMEUy",
+      "text": "Two hundred cycles of civilization had been crawling through a dark tunnel, and there was finally a glimmer of light before them.",
+      "color": "yellow",
+      "location": "5070",
+      "page": "349",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzo3NjM5MjI6SElHSExJR0hUOmExTlFMNzBJU1RDQjUx",
+      "text": "In the last few years, the listener had asked himself millions of times: Is this all there is to my life? And millions of times he had answered himself: Yes, this is all there is. All that you have in this life is the endless loneliness in the tiny space of this listening post. He couldn’t lose that paradise, even if it was only in a dream.",
+      "color": "yellow",
+      "location": "5093",
+      "page": "351",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzo3NjkwODA6SElHSExJR0hUOmExSlpPUzM2UUFaM1M1",
+      "text": "Trisolaran civilization’s desire to possess living space is like the desire of a man who has been starving for a long time for food, and it is similarly boundless. We cannot share the Earth with the people of that world. We could only destroy Earth civilization and completely take over that solar system.",
+      "color": "yellow",
+      "location": "5128",
+      "page": "353",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzo3NzA3MDQ6SElHSExJR0hUOmFZR0JPT0FUTjlCSFA",
+      "text": "Anything that can lead to spiritual weakness is declared evil. We have no literature, no art, no pursuit of beauty and enjoyment. We cannot even speak of love.… Princeps, is there meaning to such a life?”",
+      "color": "yellow",
+      "location": "5139",
+      "page": "353",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzo3NzE2NTY6SElHSExJR0hUOmEyNzJKUUo2Tko5UzRC",
+      "text": "“That flower may be delicate, but it possesses peerless splendor. She enjoys freedom and beauty in the ease of paradise.”",
+      "color": "yellow",
+      "location": "5145",
+      "page": "354",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzo3NzI5NTk6SElHSExJR0hUOmExUzBQMlhCRlpGTzE0",
+      "text": "“For you, dehydration followed by burning is not even remotely adequate as punishment. You’re old, and you will not live to see the final destruction of Earth civilization. But I will at least make sure that you know that you cannot save her. I want to let you live until the day she loses all hope.",
+      "color": "yellow",
+      "location": "5154",
+      "page": "354",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwSVFPNDAzSzo4MTE4NTE6SElHSExJR0hUOmEyNldKSjlSREJYQzBG",
+      "text": "The humanism of Earth will lead many Trisolarans onto the wrong path. Just as Trisolaran civilization has already become a religion on Earth, Earth civilization has this potential on Trisolaris.”",
+      "color": "yellow",
+      "location": "5413",
+      "page": "371",
+      "source": "kindle"
+    }
+  ]
+}

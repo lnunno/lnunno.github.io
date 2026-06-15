@@ -1,0 +1,35 @@
+{
+  "id": "kafka-on-shore-59b284bd",
+  "title": "Kafka on the Shore",
+  "author": "Haruki Murakami",
+  "review": "",
+  "highlightCount": 3,
+  "myGoodreadsRating": 3,
+  "myReviewRating": null,
+  "highlights": [
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMlJPVTo3ODg4MTpISUdITElHSFQ6YTNGUExCUEszNFEyMUI",
+      "text": "In traveling, a companion, in life, compassion,’”",
+      "color": "yellow",
+      "location": "526",
+      "page": "21",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMlJPVTo3OTI5OTpISUdITElHSFQ6YTJFRkhWQVdQR1hCQTY",
+      "text": "“I think it means,” I say, “that chance encounters are what keep us going.",
+      "color": "yellow",
+      "location": "529",
+      "page": "21",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMEZDMlJPVTo0NjUzNDc6SElHSExJR0hUOmFiOWM5MTJmYS00NjFlLTQ0OTctYTEwNC0xYTczZGU2ZDNkNGI",
+      "text": "“Kafka, in everybody’s life there’s a point of no return. And in a very few cases, a point where you can’t go forward anymore. And when we reach that point, all we can do is quietly accept the fact. That’s how we survive.”",
+      "color": "yellow",
+      "location": "3103",
+      "page": "148",
+      "source": "kindle"
+    }
+  ]
+}

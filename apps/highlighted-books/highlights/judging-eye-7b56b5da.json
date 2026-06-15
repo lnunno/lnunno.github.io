@@ -1,0 +1,667 @@
+{
+  "id": "judging-eye-7b56b5da",
+  "title": "The Judging Eye",
+  "author": "R. Scott Bakker",
+  "review": "Bakker keeps getting better. This is way more of a slow burn, but you spend a lot of time developing and catching up on characters you spent time with in the first trilogy and dealing with the fallout from it.\n\nThe world building and lore in this one is next level, also has some deeply disturbing and horrifying scenes; great stuff for grimdark fans.\n\nThe writing is some of the best, silky smooth prose and the scenery descriptions really pop and immerse you deeply into the world. Really can't say enough good things, I want to find out what happens really badly.",
+  "highlightCount": 82,
+  "myGoodreadsRating": 5,
+  "myReviewRating": null,
+  "highlights": [
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo5NjUyOkhJR0hMSUdIVDphRDFHVElPRjAyUlpX",
+      "text": "It is our doom to suffer the consequences of our acts, regardless of the piety of our intentions. Some pollution begs not the cloth, but the knife; this I accept and understand. Sin is sin.",
+      "color": "yellow",
+      "location": "65",
+      "page": "2",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5SzoxMDE0OTpISUdITElHSFQ6YTE1QzFXWEQzTU1RVFY",
+      "text": "When a man possesses the innocence of a child, we call him a fool. When a child possesses the cunning of a man, we call him an abomination. As with love, knowledge has its season.",
+      "color": "yellow",
+      "location": "68",
+      "page": "3",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5SzozMDI4OTpISUdITElHSFQ6YTIyRUlETzlTNlIxWlE",
+      "text": "Father. Hate him, the secret voice said, but fear him more.",
+      "color": "yellow",
+      "location": "202",
+      "page": "10",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo0MzQwMjpISUdITElHSFQ6YUdHTjREWkFXOTBYQg",
+      "text": "Ever do they think their cause the just cause. Like cats chasing sunlight thrown from a mirror, they never tire of their own delusions.",
+      "color": "yellow",
+      "location": "290",
+      "page": "16",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo0NDMxNTpISUdITElHSFQ6YTNRNDRBM0w0OU1TVEw",
+      "text": "the Holy War against the apocalyptic designs of the Consult … Or as it came to be called, the Great Ordeal.",
+      "color": "yellow",
+      "location": "296",
+      "page": "17",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo1NDE5NDpISUdITElHSFQ6YTIxMlRJMEFaVVJONzI",
+      "text": "So many cities. So many campaigns. So many proud peoples broken.",
+      "color": "yellow",
+      "location": "362",
+      "page": "20",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo2MDE1NTpISUdITElHSFQ6YTFWTUVYOEhPWFNQRzE",
+      "text": "Only the Sranc began with blood. For Men, it was always the conclusion.",
+      "color": "yellow",
+      "location": "402",
+      "page": "23",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo2NDg4NjpISUdITElHSFQ6YTFHUDFNVlFWTkpFSkw",
+      "text": "“There is the surrender that leads to slavery,” he said. “And there is the surrender that sets one free. Soon, very soon, your people shall know that difference.” “So says the slave!”",
+      "color": "yellow",
+      "location": "433",
+      "page": "24",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo4MTEwNzpISUdITElHSFQ6YTJDTTZZMVRBNVI1VVM",
+      "text": "“For two thousand years, our walls have stood unbroken. For two thousand years, the line of our fathers has reached unbroken! We are their culmination. We are the Men of Sakarpus, the Lonely City. We are survivors of the Worldfall, Keepers of the Chorae Hoard, a solitary light against the pitch of Sranc",
+      "color": "yellow",
+      "location": "541",
+      "page": "30",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5SzoxMDE1NTM6SElHSExJR0hUOmExQ1lFUThCM01WQjlH",
+      "text": "Years. Months. Days. For so long the Aspect-Emperor had been an uneasy rumour to the South, a name as heaped in atrocity as it was miracle … No more.",
+      "color": "yellow",
+      "location": "678",
+      "page": "38",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5SzoxMTI2NDY6SElHSExJR0hUOmEzSjdOMzlKQTQ0N0dO",
+      "text": "Not all facts are equal. Some hang like leaves from the branching of more substantial truths. Others stand like trunks, shouldering the beliefs of entire nations. And a few—a desperate few—are seeds.",
+      "color": "yellow",
+      "location": "751",
+      "page": "43",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5SzoxMTgyNDk6SElHSExJR0hUOmEyOEZPS0IzWUFENFRJ",
+      "text": "No matter, the rule had been simple over the years: Visitors meant grief, the Gods and their laws of hospitality be damned.",
+      "color": "yellow",
+      "location": "789",
+      "page": "45",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5SzoxMzU0OTk6SElHSExJR0hUOmE4NzczYjE0ZS01YjJiLTQ5ZDktYTAwYy1mMDc5OTVkYWNkMmI",
+      "text": "but where they drape silks and perfume about their stain, he wears wool patched with rancid fur. How could anyone sing songs about such a man?",
+      "color": "yellow",
+      "location": "904",
+      "page": "51",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5SzoxNTY0Mzc6SElHSExJR0hUOmFGNkYzQUs4MTVBRUw",
+      "text": "At such a remove, so far from the gutters of living truth, how could she not be a tyrant? Not matter how balanced, thoughtful, or sincerely considered her judgments, how could they not crack like clubs or pierce like spears?",
+      "color": "yellow",
+      "location": "1043",
+      "page": "60",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5SzoxNTk2MTM6SElHSExJR0hUOmEzQzVOWUtRRjQzN0ZF",
+      "text": "Only an idiot, she found herself thinking, asks an idiot for advice.",
+      "color": "yellow",
+      "location": "1065",
+      "page": "61",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5SzoxNjY3NTE6SElHSExJR0hUOmEzUkZBWjFMOTFEMjJK",
+      "text": "Kelmomas. Godlike Kelmomas. Healthy, loving, devoted to the point of comedy … So unlike the others. Please let it be.",
+      "color": "yellow",
+      "location": "1112",
+      "page": "64",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5SzoxODYwNTU6SElHSExJR0hUOmExNTBWNEhEOTY1UFFX",
+      "text": "One of the Consult’s most lethal weapons. A skin-spy. A living justification. The threat that forgave her tyranny.",
+      "color": "yellow",
+      "location": "1241",
+      "page": "71",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5SzoxOTMyMDc6SElHSExJR0hUOmFYSkxZWFRZVk1SMTk",
+      "text": "The Ainoni have a saying, ‘When the hands are strong, attack the feet.’”",
+      "color": "yellow",
+      "location": "1289",
+      "page": "74",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5SzoyMDQyMjU6SElHSExJR0hUOmExWDM3UFFWMVBHRU44",
+      "text": "“Don’t hate yourself for hating me, Mommy. Hate yourself for who you are.” Hate yourself for who you are, spoken in the dulcet tones of child adoration.",
+      "color": "yellow",
+      "location": "1362",
+      "page": "78",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5SzoyMDUyNDQ6SElHSExJR0hUOmEzR09SRkxZVUZJWg",
+      "text": "Of the seventeen concubines he impregnated, ten died in childbirth, and the others gave birth to more … nameless ones. Thirteen in sum, all drowned in wine.",
+      "color": "yellow",
+      "location": "1369",
+      "page": "78",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5SzoyMTk2NDc6SElHSExJR0hUOmExWkVGMTA3SVVRUEox",
+      "text": "She believed in her husband. She believed in the Great Ordeal. She believed in the Second Apocalypse. She believed in all of it. She just couldn’t believe that any of it happened.",
+      "color": "yellow",
+      "location": "1465",
+      "page": "84",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5SzoyMjkyNDY6SElHSExJR0hUOmEyWk5RVFNISlpNU1VN",
+      "text": "The world hates you, she thinks, staring at the broken tower. Even here. The last place.",
+      "color": "yellow",
+      "location": "1529",
+      "page": "88",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5SzoyMzkzMjk6SElHSExJR0hUOmFTRTdZSVVYQlRFQ04",
+      "text": "‘Seswatha,’ the old Mandate joke goes, ‘does not shit.’ The banalities—the substance of his life—is missing … The truth of his life is missing.”",
+      "color": "yellow",
+      "location": "1596",
+      "page": "91",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5SzoyNTUzMDE6SElHSExJR0hUOmEyTk1ZQUlWNkxRN1lY",
+      "text": "“The only thing I took with me from my previous life was a simple question: Who is Anasûrimbor Kellhus? Who?”",
+      "color": "yellow",
+      "location": "1703",
+      "page": "97",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5SzozMDU0MzU6SElHSExJR0hUOmE3Nk9BWVRBWkQ0V0Y",
+      "text": "Their fear of the Aspect-Emperor had come to eclipse all other terrors, even those reserved for the Goddess. One could only worship at angles without fear.",
+      "color": "yellow",
+      "location": "2037",
+      "page": "117",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5SzozMDY2NzI6SElHSExJR0hUOmEzQTJQNjVEOFJHM1BN",
+      "text": "“It is the Goddess who is displeased,” she said. “I simply find you ridiculous.”",
+      "color": "yellow",
+      "location": "2045",
+      "page": "117",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5SzozMjI1MjU6SElHSExJR0hUOmFXWjIxU0hVUzZNNTQ",
+      "text": "“Beasts move. Men reflect. Gods make real.",
+      "color": "yellow",
+      "location": "2151",
+      "page": "123",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5SzozMzg3NDM6SElHSExJR0hUOmEyNDUxNVVJM0lHNlo4",
+      "text": "Ask the dead and they will tell you. All roads are not equal. Verily, even maps can sin.",
+      "color": "yellow",
+      "location": "2259",
+      "page": "130",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5SzozNDI4NjY6SElHSExJR0hUOmEyNEpZVzVLUDVGSEdY",
+      "text": "Twenty years had slipped away, and not a day had passed.",
+      "color": "yellow",
+      "location": "2286",
+      "page": "131",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5SzozNDgxNzA6SElHSExJR0hUOmEyUjFKSUxWUVo0OUJT",
+      "text": "It was as though common origins were all that guaranteed civilization, a shared language of life, and that everything was fury and miscommunication otherwise. Hungers—that was all these men had in common.",
+      "color": "yellow",
+      "location": "2322",
+      "page": "134",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo0MzMwMjc6SElHSExJR0hUOmEzMFZCWjRRU0pXUDhY",
+      "text": "They’re hunters, he told himself, sent to run down my heart.",
+      "color": "yellow",
+      "location": "2887",
+      "page": "166",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo0NDM0NDU6SElHSExJR0hUOmEzTVlPSVBENEJWVjk0",
+      "text": "Wasn’t there proof in miracles? Isn’t that what the priests said?",
+      "color": "yellow",
+      "location": "2957",
+      "page": "169",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo0ODI2MDk6SElHSExJR0hUOmFaRFNBRzZZV0tKQjk",
+      "text": "And they fell to their knees—warriors and scribes, kings and slaves, priests and sorcerers, more than two hundred and eighty thousand souls, the greatest gathering of human arms and glory the world had ever seen. So many that it seemed that the floor of the world had dropped with their kneeling. They raised their faces and cried out, for light had come to them … And the sun had followed.",
+      "color": "yellow",
+      "location": "3218",
+      "page": "184",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo0ODQxMTU6SElHSExJR0hUOmExMUU2RE5KWlRLVUJY",
+      "text": "They knew the scene before them would be celebrated for a thousand years, that accounts of it would be recited in the manner of The Sagas or even The Chronicle of the Tusk. The day the Great Ordeal marched beyond the frontiers of Men.",
+      "color": "yellow",
+      "location": "3228",
+      "page": "184",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo0ODU1NjI6SElHSExJR0hUOmFBMEVYTkpTSU5LNjk",
+      "text": "They held their Circumfixes hot between moist palms, and they prayed. And the chill that pimpled their skin seemed holy. They knew what they had seen, what they had felt. For who could be such a fool as to mistake Truth?",
+      "color": "yellow",
+      "location": "3238",
+      "page": "185",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo1MDI2NDc6SElHSExJR0hUOmE4VVlaUDhDOE1FNDY",
+      "text": "Achamian the talker, the asker of questions, had died a long time ago.",
+      "color": "yellow",
+      "location": "3351",
+      "page": "192",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo1MDg2MjU6SElHSExJR0hUOmEzUUtGQ1lCNEdZMkRE",
+      "text": "Achamian laughed and nodded, glanced out beyond the circle of illumined faces to the night-hooded world. It was no simple or mean thing, the companionship of killers.",
+      "color": "yellow",
+      "location": "3391",
+      "page": "194",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo1MTgyMjI6SElHSExJR0hUOmExMU8wTVdXSDU3OElN",
+      "text": "“Either she carries her weight like a man,” he shouted as he walked away. “Or she carries our weight like a woman!”",
+      "color": "yellow",
+      "location": "3455",
+      "page": "198",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo1MjEwODU6SElHSExJR0hUOmFaUDY4VzZXOVpDRkM",
+      "text": "“This is a journey without any return.” She sneered and laughed. “So is every life.”",
+      "color": "yellow",
+      "location": "3474",
+      "page": "199",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo1MjQ0ODI6SElHSExJR0hUOmFSWkI1VEQxWVFYNE0",
+      "text": "This Gift I have, this ability to see the world the way you see it, it’s the only Gift I have ever received, the only hope I have ever known. I will be a witch, or I will be dead.” “Didn’t you hear me? My teaching is cursed!” “We’re a fine match then.”",
+      "color": "yellow",
+      "location": "3497",
+      "page": "200",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo1NDI4Mzg6SElHSExJR0hUOmFSV0FPSU85RVczQzc",
+      "text": "A beggar’s mistake harms no one but the beggar. A king’s mistake, however, harms everyone but the king. Too often, the measure of power lies not in the number who obey your will, but in the number who suffer your stupidity.",
+      "color": "yellow",
+      "location": "3619",
+      "page": "208",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo1NTMxOTA6SElHSExJR0hUOmEzNEIwNzMzODcxQ1VH",
+      "text": "The streets. Miraculous numbers. Miraculous movement, like threads of sand falling into and through one another without collision or redirection. The alleyways. The rainbow awnings, cooling the dust, shielding the walking files, dimming the sun to a threaded glare.",
+      "color": "yellow",
+      "location": "3688",
+      "page": "212",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo1NzI4NzE6SElHSExJR0hUOmEzVFRWRUNaWFBEMjBT",
+      "text": "Rumours are like locusts or slaves or rats. They breed indiscriminately.”",
+      "color": "yellow",
+      "location": "3820",
+      "page": "219",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo1NzYxNTE6SElHSExJR0hUOmE5R1NNNjBRNUpYV0w",
+      "text": "Confidence, which in all complicated situations is nothing more than the pretence of premeditation, is ever the outward marker of power. There could be no appearance of improvisation.",
+      "color": "yellow",
+      "location": "3842",
+      "page": "220",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo1ODQwOTk6SElHSExJR0hUOmEzT0pWUEVHRzJMWENY",
+      "text": "There were no accidents with Anasûrimbor Kellhus.",
+      "color": "yellow",
+      "location": "3894",
+      "page": "223",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo2MDEzMzU6SElHSExJR0hUOmFBSlpSM1BHQkw2NVo",
+      "text": "Look unto others and ponder the sin and folly you find there. For their sin is your sin, and their folly is your folly. Seek ye the true reflecting pool? Look to the stranger you despise, not the friend you love.",
+      "color": "yellow",
+      "location": "4009",
+      "page": "230",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo2MDk2MTg6SElHSExJR0hUOmExUE5TMDZFTEZUWThJ",
+      "text": "And the God himself marched with them, speaking through the mouth, glaring through the eyes of Anasûrimbor Kellhus I. They were plain men—warriors. They understood that doubt was hesitation, and that hesitation was death, not only on the field of war, but on the field of souls as well. Only believers persevered. Only believers conquered.",
+      "color": "yellow",
+      "location": "4065",
+      "page": "233",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo2Mzg5NTI6SElHSExJR0hUOmEyNTJBSDZVNTZDRFBX",
+      "text": "Your ancient fathers weathered Mog-Pharau, turned aside the No-God! And the Aspect-Emperor broke you in the space of a morning.”",
+      "color": "yellow",
+      "location": "4260",
+      "page": "244",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo2MzkzMjY6SElHSExJR0hUOmFEMUpSUThSSVBIQUI",
+      "text": "And Sorweel realized that his question—his discovery—was the same question everyone was asking, and had been asking for years. Everyone who was not a believer. Who was the Aspect-Emperor?",
+      "color": "yellow",
+      "location": "4263",
+      "page": "244",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo2NTM2MzA6SElHSExJR0hUOmExTTlYSjFOQUJENE9B",
+      "text": "All men are slaves before my father. Do you understand?”",
+      "color": "yellow",
+      "location": "4358",
+      "page": "249",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo2NTU4Nzg6SElHSExJR0hUOmFGUEg3Vjk0M1I2T1g",
+      "text": "“I have no need of spies, Sorweel,” the Prince-Imperial said, snatching the thought from his face. He leaned back and with a gentle laugh added, “My father is a god.”",
+      "color": "yellow",
+      "location": "4373",
+      "page": "250",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo2NTYzNzE6SElHSExJR0hUOmExT1pETUlMNDJVMTBJ",
+      "text": "Since all men count themselves righteous, and since no righteous man raises his hand against the innocent, a man need only strike another to make him evil.",
+      "color": "yellow",
+      "location": "4376",
+      "page": "251",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo2NjkzODU6SElHSExJR0hUOmEyUElGRERUSTFZMFQ3",
+      "text": "this was the prototype, what tyrants aped with their God-mocking works, mountains into monument, migrations into pageant and parade. This was the most primordial rule—the world itself—too vast, too elemental, to be called sacred or holy. And it weakened the knees, as all true spectacle should. The Ziggurat had become as much argument as mountain, posed not in claims or premises, but in immensities, in features that encompassed experience, saying, murmuring, You are small … So very small. And they walked, willingly, between the cracks of its hoary fingers.",
+      "color": "yellow",
+      "location": "4463",
+      "page": "256",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo2NzY1NTY6SElHSExJR0hUOmEzSlpUUlhMWFhTUVNQ",
+      "text": "His face pinched into a cackle. “This is the slog of slogs, boys!”",
+      "color": "yellow",
+      "location": "4511",
+      "page": "258",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo3MDg2NzA6SElHSExJR0hUOmExMUNFQks4MEFLRzMw",
+      "text": "“Tweet!” he trilled. “Tweet-tweet!” His giggling was uncontrollable … Almost as much as her shrieking.",
+      "color": "yellow",
+      "location": "4725",
+      "page": "271",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo3MjkyMDk6SElHSExJR0hUOmExM0JSMEVIRUVZRFZJ",
+      "text": "So he came to realize that learning a language was perhaps the most profound thing a man could do. Not only did it require wrapping different sounds around the very movement of your soul, it involved learning things somehow already known, as though much of what he was somehow existed apart from him. A kind of enlightenment accompanied these first lessons, a deeper understanding of self.",
+      "color": "yellow",
+      "location": "4862",
+      "page": "279",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo3Mzk0NjQ6SElHSExJR0hUOmE5MksySlo5TkpaSzc",
+      "text": "“We’re not equal, most assuredly not, but we remain fragments of God nonetheless.”",
+      "color": "yellow",
+      "location": "4930",
+      "page": "283",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo3NjM3MTc6SElHSExJR0hUOmEzVjlaNThZRVNSN0E3",
+      "text": "This apocalypse. This … religion he has created. They are the kinds of lies we tell children to assure they act in accord with our wishes. To make us love, to incite us to sacrifice … This is what Drusas Achamian seems to be saying.”",
+      "color": "yellow",
+      "location": "5092",
+      "page": "292",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo3NjQyMjQ6SElHSExJR0hUOmEyTjlCUlRUMFJRS08y",
+      "text": "How does a child war against a father? How does a child not … love?",
+      "color": "yellow",
+      "location": "5095",
+      "page": "292",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo3NzM1NjA6SElHSExJR0hUOmFPQVNHT0g1V0dBQVM",
+      "text": "Nothing was more ancient. Nothing could be. Yet the Skin Eaters found themselves walking halls older than even the language of the Tusk, let alone the ivory into which it had been cut. No one had to tell them this, though they sometimes glanced at Achamian as if pleading to be told otherwise. They could see it scrawling through the light about them. They could smell it hanging in the dust. They could feel it creeping through meek bones and chastened hearts.",
+      "color": "yellow",
+      "location": "5158",
+      "page": "296",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo3Nzc0Mzk6SElHSExJR0hUOmFSMzYxNlE3SkVTMDc",
+      "text": "The war depicted on these walls, he realized, had never ended, not truly. Ten thousand years of woe.",
+      "color": "yellow",
+      "location": "5183",
+      "page": "298",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo3ODM1MTA6SElHSExJR0hUOmEyUDBWUEJSUkEzOVNN",
+      "text": "But there was nothing here, save the odour of ancient magicks, long dead.",
+      "color": "yellow",
+      "location": "5224",
+      "page": "300",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo3ODM3MzQ6SElHSExJR0hUOmEyNFlMWTJMUTlLNDlI",
+      "text": "Cil-Aujas was a topos. A place where hell leaned heavy against the world.",
+      "color": "yellow",
+      "location": "5225",
+      "page": "300",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo3OTcxMzM6SElHSExJR0hUOmEyOEtGWlEyVTJBN1lV",
+      "text": "Someone listened. Of that much he was certain. Someone or something.",
+      "color": "yellow",
+      "location": "5315",
+      "page": "305",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo4MDAzNzY6SElHSExJR0hUOmE0TzJIN0FVVDZSNkM",
+      "text": "Before they began forgetting, the Nonmen had been obsessed with the mysteries of time, particularly with the way the present seemed to bear the past and the future within it.",
+      "color": "yellow",
+      "location": "5336",
+      "page": "306",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo4MDcxMTc6SElHSExJR0hUOmExVjdLOEE1QjZCU0tW",
+      "text": "The darkness became liquid, it seemed so deep, and their light became the only air.",
+      "color": "yellow",
+      "location": "5381",
+      "page": "308",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo4NDYyOTQ6SElHSExJR0hUOmE1STNXR1o3VFlSUTM",
+      "text": "“Fear. This is how you ask the question. For you are Men, and fear is ever the way your race questions great things.”",
+      "color": "yellow",
+      "location": "5642",
+      "page": "323",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo4NDY4NzU6SElHSExJR0hUOmEyVDNNTk5ONDNLRVpY",
+      "text": "‘Because darkness,’ he told me, ‘is ignorance made visible.’ ‘And do Men despise ignorance?’ I asked. ‘No,’ he said, ‘they prize it above all things—all things!—but only so long as it remains invisible.’”",
+      "color": "yellow",
+      "location": "5646",
+      "page": "323",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo4NzI3Mjg6SElHSExJR0hUOmEyV1dWMFNTS1gwNVdH",
+      "text": "He found himself wondering if this was the place … The place where grief had burned through the rind of worldly things.",
+      "color": "yellow",
+      "location": "5819",
+      "page": "333",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo4ODE3NTY6SElHSExJR0hUOmExSTlPRlE4QlhLSzRJ",
+      "text": "Something moral as opposed to merely aesthetic …” He paused to catch his breath. What new madness was this? “What antique Mandate scholars called the Judging Eye.”",
+      "color": "yellow",
+      "location": "5879",
+      "page": "336",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo4ODYzMTI6SElHSExJR0hUOmEyQ1FORzQ3SkVCNjVC",
+      "text": "Anasûrimbor Kellhus was Dûnyain, and the Dûnyain cared for naught but domination. Of course he was false. It was for her sake that the Wizard trembled. She possessed the Judging Eye!",
+      "color": "yellow",
+      "location": "5909",
+      "page": "337",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo4OTAxOTQ6SElHSExJR0hUOmExR0VWUERUSlZPVFk1",
+      "text": "Circumstances always encompassed, but sometimes they encircled as well, as many-chambered as this mountain and every bit as dark. His heart seemed to beat against sagging bandages.",
+      "color": "yellow",
+      "location": "5935",
+      "page": "339",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo4OTIyMDA6SElHSExJR0hUOmEyVTNaMzQ5STlNM0Y",
+      "text": "Men condemned others to better celebrate themselves. And what could be easier to condemn than women?",
+      "color": "yellow",
+      "location": "5949",
+      "page": "339",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo4OTczNjY6SElHSExJR0hUOmFIUFVVNElCVUdFWVo",
+      "text": "“Yes, diplomacy!” he cried in sudden savagery. “Fine fucking words spoken to fine fucking fools!”",
+      "color": "yellow",
+      "location": "5983",
+      "page": "341",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo4OTg1MTA6SElHSExJR0hUOmFBN1k3REk1S0RGTUs",
+      "text": "But then that was the problem with reason: It was as much a whore as Fate. Like rope, you could use it to truss or snare any atrocity … Another lesson learned at Kellhus’s knee.",
+      "color": "yellow",
+      "location": "5991",
+      "page": "342",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo5MDMxMjM6SElHSExJR0hUOmFWREQ3RFFWMzUxTFc",
+      "text": "If the immutable appears recast, then you yourself have been transformed.",
+      "color": "yellow",
+      "location": "6021",
+      "page": "344",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo5MDkwMjQ6SElHSExJR0hUOmExVzZNOVZCNkRDWEZQ",
+      "text": "In the hearts of heroes, words cancelled out words, so that only truth and certainty remained. Not for him. In his heart, words simply accumulated, piled one on top of the other.",
+      "color": "yellow",
+      "location": "6061",
+      "page": "346",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo5MTU3MDk6SElHSExJR0hUOmEyVTJJT0VBNDFMUjBP",
+      "text": "I hope the day comes when you can fathom your fortune. Despite all the pain, all the wrenching loss, there is no greater glory than a complicated life.”",
+      "color": "yellow",
+      "location": "6105",
+      "page": "349",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5Szo5OTcyMzg6SElHSExJR0hUOmEzOFdVMDM1NUwwVURF",
+      "text": "No one recognizes their own death. It comes inevitable and absolute. It comes as a stranger.",
+      "color": "yellow",
+      "location": "6649",
+      "page": "379",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5SzoxMDkwNDk5OkhJR0hMSUdIVDphQ0Q3Vk5IUjgwMklK",
+      "text": "But something had happened. She had happened. Anasûrimbor Mimara, cursed with the Judging Eye.",
+      "color": "yellow",
+      "location": "7270",
+      "page": "413",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5SzoxMDkzNzk0OkhJR0hMSUdIVDphM0pFUEVNNTY5RTRVNA",
+      "text": "It was no small thing to crawl out of the abyss, to rise from Hell to the very roof of the World.",
+      "color": "yellow",
+      "location": "7292",
+      "page": "415",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3TlFCUjk5SzoxMDk0MjU1OkhJR0hMSUdIVDphMjJDM1NZN1RLQzAwNw",
+      "text": "With light comes life. With sky comes freedom. The Halls of Cil-Aujas, the dread Black Halls, had at last relinquished them.",
+      "color": "yellow",
+      "location": "7296",
+      "page": "415",
+      "source": "kindle"
+    }
+  ]
+}

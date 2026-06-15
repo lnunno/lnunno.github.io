@@ -1,0 +1,675 @@
+{
+  "id": "shadowplay-ff42229c",
+  "title": "Shadowplay",
+  "author": "Tad Williams",
+  "review": "Really great series. This definitely feels like a middle book but the scope gets expanded significantly and there's still a lot of great moments, just less of a clear beginning and end goal with a lot set up for the conclusion of the story.\n\nHas one storyline that's one of the best Tad's written so far but also a couple that are treading water the whole book. However, even some of the slower ones have high moments and all the POVs end up in pretty interesting spots.\n\nTad makes some major world building choices here that are great and really commit the series to an interesting direction, still a lot of mystery left to uncover.\n\nLooking forward to continuing, definitely one of the most overlooked series by a master of dark epic fantasy.",
+  "highlightCount": 83,
+  "myGoodreadsRating": 4,
+  "myReviewRating": null,
+  "highlights": [
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo1NDYzMTpISUdITElHSFQ6YTY4NDRjNjU3LTEwMWYtNDlhZi1iODNhLWE0NGIxNGFhZGQ5Yg",
+      "text": "But this is not the time for good hearts. This is the hour for suspicion and treachery and murder, and I have much experience of all those things.",
+      "color": "yellow",
+      "location": "365",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo3NTk3ODpISUdITElHSFQ6YTRkNTU2YzFhLTUxNjItNDg5MC05ZWZiLTc3NzY1NmM1ZjhhNw",
+      "text": "and it was the time of night when strange things were said, things that were sometimes difficult to forget, although most folk did their best.",
+      "color": "yellow",
+      "location": "507",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo4NzA1OTpISUdITElHSFQ6YTE4ZTAxZjM1LThhODgtNGU5Yi1iY2I1LTVlNDVlZDdjMzE2NA",
+      "text": "Instead of a soldier, I should have been a king’s poison-taster, he thought bleakly. At least then I wouldn’t have survived to see the outcome of my failures.",
+      "color": "yellow",
+      "location": "581",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo5NjUzNDpISUdITElHSFQ6YThkNTBkMTEwLTYzZjMtNDE4MS1iYWI1LWVmYzAwMGEyMjA2Nw",
+      "text": "Even here, surely, at the end of the world, a man’s pledge meant something—perhaps everything. If not, the world tottered, the skies fell, the gods turned their back on meaning.",
+      "color": "yellow",
+      "location": "644",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxMDAxNTc6SElHSExJR0hUOmFjYTVkMjZjNi0wYzAyLTRiZGMtYWIwMi02YzBmZjI3MjQwZmQ",
+      "text": "Perhaps madness was simply something he would have to learn to live in, as a fish could live in water without drowning.",
+      "color": "yellow",
+      "location": "668",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxODM4OTc6SElHSExJR0hUOmEzODU1MjQ2ZC05YjA0LTQ5ZTEtYTU2MC0xNDRmZWY2ZTEwMmQ",
+      "text": "When the autarch’s men come to cut my head off and drag my wife and children into slavery, I will be certain to tell them what you said…that it was not your fault.”",
+      "color": "yellow",
+      "location": "1226",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxOTE2MDg6SElHSExJR0hUOmE4MzRhYjllOS02ZjlkLTQ4YWUtYWNjYy1lZGI5NTIwZjE3ZTQ",
+      "text": "in the land of the mad, a land of talking animals and faceless fairies, madness was the only sane creed.",
+      "color": "yellow",
+      "location": "1278",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoyNTc2MzM6SElHSExJR0hUOmFhM2I5ZGQzNy00NDFkLTQwZTItOTQyNS0zYmE3MjJhZTYzZDY",
+      "text": "“This is not the world you knew, Briony Eddon. This is not a world that anyone knows, and what it will become is yet to be seen. Your part may be great or small, but I am sworn to your family and I want you alive to play that part.”",
+      "color": "yellow",
+      "location": "1718",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDozMjg4NDg6SElHSExJR0hUOmFhNzVhYzU1My1jNTljLTRjZTgtYmRhMS1mZGNlYWJlNjdiMjg",
+      "text": "BARRICK EDDON WOKE UP in the grip of utter terror, feeling as though his heart might crack like an egg. He could smell something burning, but the world was cold and astonishingly dark.",
+      "color": "yellow",
+      "location": "2193",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDozNTU3MDc6SElHSExJR0hUOmEzNGNkMTBmYS1lZmRjLTQ4NzItYmY2OC0zMTI4MWYxYjIwNWY",
+      "text": "Anyone who knew what I know and did not worry would be a fool.",
+      "color": "yellow",
+      "location": "2372",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDozNTg0MTg6SElHSExJR0hUOmEwN2EzYzQ0MS1iZWVmLTRjNTYtOTE3MS00MThhMGI5Y2NkNjU",
+      "text": "Very few of my people would not gladly die with their teeth locked in the throat of one of your kind,",
+      "color": "yellow",
+      "location": "2390",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDozNzMxMjA6SElHSExJR0hUOmFmZWQ5MDI3Ny0yYjEyLTQzMWQtOTg2MC1jZjRkN2RjZWViYWE",
+      "text": "He understood that copulation was a great motivator of mankind and perhaps even womankind as well, but to him it seemed only another ape trick, different from eating and defecating only because it could not be practiced solitarily, but required company.",
+      "color": "yellow",
+      "location": "2488",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDozOTAzNjg6SElHSExJR0hUOmE4MGZlODdiZS1jMDUzLTQxNGUtYmRmNS0xOTgxN2Q4NjAwMTM",
+      "text": "“Swearing by the ruler you betrayed? Not a good choice of oaths, I think.”",
+      "color": "yellow",
+      "location": "2603",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo0MDIwMjA6SElHSExJR0hUOmFkYzEzYjA4Zi00N2Y5LTRmOGMtOTY5Yi03NGU3MDMxMjk0ZjA",
+      "text": "“The responsibility for one’s own safety is no gift,” he said. “It is much more pleasant to be a child and let someone else bear the burden.",
+      "color": "yellow",
+      "location": "2681",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo0MTAwMDk6SElHSExJR0hUOmFjZWQwOTQ5MS05NDBhLTQ0ODYtODA1ZC1kZjllYWEwZWVkY2U",
+      "text": "“Sometimes we don’t see the shape of things until we’re a long way away, do we?”",
+      "color": "yellow",
+      "location": "2734",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo0NTMwMzg6SElHSExJR0hUOmFkNGI0YWNiYS04NTc1LTRhOTgtOTA1My02ZDkwY2JlYTJhMDk",
+      "text": "Just as an ordinary mirror bounces back the vision that is before it, so too can a special mirror be constructed and employed that will send back visions of…other places.”",
+      "color": "yellow",
+      "location": "3021",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo0OTIzMjE6SElHSExJR0hUOmFkZGRiMWNkMy1lZTQwLTQ0MmYtYWVkNi0wYWY0OWQyNGYwYTY",
+      "text": "Would you rather be enslaved or eaten? It is not a good choice, is it?",
+      "color": "yellow",
+      "location": "3283",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo0OTY5Mzg6SElHSExJR0hUOmFiN2E0YzFlZC05MmY4LTQ1MTAtYWQ1Mi00OGFhMDA5MmE4MWM",
+      "text": "I am the Storm Lantern, he said finally. It is given to me to see in darkness, to see what is behind the light, to see things that are far away. I have an eye inside me, inside my head.",
+      "color": "yellow",
+      "location": "3313",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo1MjAyOTA6SElHSExJR0hUOmE0Y2U1NWJjYy1jOWE2LTQxYjktOTAyNi02MGY5YTc5YzhjNTU",
+      "text": "“Better to surrender than die needlessly, Highness. For the living, there is always hope.” “Or torture.”",
+      "color": "yellow",
+      "location": "3469",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo1MjEzNjk6SElHSExJR0hUOmFhYWMzNWI1Ny0xMjBkLTQyNDktODZhMi1kYTg5OTM2ODk4MmI",
+      "text": "Ferras Vansen could hear the heart-rending screams of his horse in the valley behind them as the Longskulls began to hack it into pieces. Slaves or meat, he thought, feeling as hollow as a lightning-burned tree. My horse is meat, but we are slaves—and still alive. At least for now.",
+      "color": "yellow",
+      "location": "3476",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo1Mzc0Njg6SElHSExJR0hUOmFjMGQxMzFjYy0yNjNkLTQ2MTQtYjRmZC01NTc1ZmVmYWE2NzY",
+      "text": "“That’s why I preferred Gailon Tolly, for all his faults, to his brothers. Hendon is a cat if ever there was one. You can see the cruelty—he wears it like a fancy outfit, with pride.”",
+      "color": "yellow",
+      "location": "3584",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo1NDY3OTY6SElHSExJR0hUOmEyYjQyM2ZlYS0xNjUwLTRhNjYtYTZlZi05YWI0MGQzOTYxODA",
+      "text": "How could you consider someone your son who first of all didn’t belong to you, whose mother and father might be alive and living nearby, and who in a few years would be twice your own size?",
+      "color": "yellow",
+      "location": "3646",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo1NDgzMjg6SElHSExJR0hUOmFjYTE5OTFmNS1mZDJiLTQ5NjItYTcwZS01YWNmMGI3NTI2NjY",
+      "text": "Even what we usually walk about in would seem like deep dark to you, and what you think is ordinary light makes my head ache.”",
+      "color": "yellow",
+      "location": "3656",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo1NDkzNjk6SElHSExJR0hUOmE3MzZhYjY1Mi02ODI1LTQzOGUtYTM3MC02NzAzNGY2YzI3NmU",
+      "text": "by this one act, the lighting of a candle, and the knowledge that more was to come, the day and their house itself had been transformed into something quite different, almost frightening.",
+      "color": "yellow",
+      "location": "3663",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo1ODIyNTA6SElHSExJR0hUOmEwN2E0MWYxMy1lNTg2LTRmYzctOWQzYi03MmQzMjViYTEwZWY",
+      "text": "‘Errors of caution are more likely to be considered at leisure than errors of boldness—but less likely to be considered after a victory.’ In other words, if you are too careful, you are more likely to live, but less likely to win.",
+      "color": "yellow",
+      "location": "3882",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo2MDY0ODk6SElHSExJR0hUOmE1M2E2OTkzNi1kNWViLTRmZTgtYjFhOS02ODU5NmQ4NzFkOWQ",
+      "text": "Certainly there seemed to be at least one of every misshapen creature Ferras Vansen could have imagined in his wildest night-terrors—squint-eyed, sharp-toothed goblins; apish Followers; and even tiny, misshapen men called Drows that looked like ill-made Funderlings. There was also an entire menagerie of animal-headed creatures with disturbingly manlike bodies, things that crawled and things that stood upright, even some that crouched in the shadows singing sad songs and weeping what looked to be tears of blood.",
+      "color": "yellow",
+      "location": "4044",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo2MTM2ODk6SElHSExJR0hUOmE0MjUzM2EzMC1mNWI4LTRmMDgtOGVjNi1mZGYxYjk1NGZmMWE",
+      "text": "“You like lost causes, don’t you? And thankless favors?",
+      "color": "yellow",
+      "location": "4092",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo2MTM4NTc6SElHSExJR0hUOmE2ZGY0NWVlMC02YTI3LTQzNWQtODk2MS1mYTAxMDA3NGRmMTU",
+      "text": "“I see I’m not the only one who has learned to live with hopelessness. It makes an unsatisfying fare, doesn’t it? But after a while, you begin to take a sort of pride in it.”",
+      "color": "yellow",
+      "location": "4093",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo2MTQxNDA6SElHSExJR0hUOmFkZDg0ZTg2My0xNTIxLTQ4NjAtYmI1Yi1hZDg5ZGU4MTk1ZmI",
+      "text": "Two Longskulls stood over them, appearing to Vansen like nothing so much as gigantic grasshoppers, although there was something weirdly doglike about them, too. Their legs were similar to men’s, but the back of the foot and the heel were long and did not touch the ground, so that they perched on the front of their feet like upright rats. The eyes sunk deep in their loaf-shaped, bony heads did not exactly glisten with intelligence, but it was obvious they were not mere beasts, either.",
+      "color": "yellow",
+      "location": "4095",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo2NjgxMDk6SElHSExJR0hUOmE5NTJmYTc0My1lM2Q1LTQ5ZDYtODNmMS1lYzcxODhmYmJhMWU",
+      "text": "Cages, she thought. Why do men fear us so that they must cage us all together and keep us apart from them?",
+      "color": "yellow",
+      "location": "4455",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo3NDQ0Mjc6SElHSExJR0hUOmExMjRmNTg4ZS0yMTgyLTQ0ZTMtYjY3OS0xNDc1NDQxMjhjNTA",
+      "text": "‘The end of these days comes on white wings, but it bears darkness like an egg. Old Night waits to be born, and unless the sea swallows all untimely, the stars themselves will rain down like flaming arrows.’",
+      "color": "yellow",
+      "location": "4963",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo3NTM2NzY6SElHSExJR0hUOmFlZTVjMjdmZi00MGE3LTRiMzMtOGQ5OS1jYmM0NzM5MTU4YWE",
+      "text": "Poets are not made to be hanged, he reminded himself. They are made to admired. And even if I could only be admired for being hanged, I would choose obscurity, I think.",
+      "color": "yellow",
+      "location": "5025",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo3NzUyMjY6SElHSExJR0hUOmFkZjU0NTFlMy1iZDkxLTQxMWMtOThmMi05ZGY1MjU4YjhkNGY",
+      "text": "I like you, little mortal—you are very amusing! But like the fly on the horse’s back who tells his host which way to go, you have a flawed notion of your own importance.”",
+      "color": "yellow",
+      "location": "5169",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo3Nzc0OTg6SElHSExJR0hUOmExNjdhMTU3ZC1lYjBmLTQyNzktYmJlZi1kMzdkNGVlYTM0MDQ",
+      "text": "As they were roughly hurried down what seemed an endless succession of lightless tunnels he struggled against his heavy shackles, doing his best to cling to the prince so that they would not be separated, as a mother who has fallen into a river with her child will still keep a hand clenched on the infant’s garment even after death has stolen away her breath.",
+      "color": "yellow",
+      "location": "5184",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo3ODE3NjM6SElHSExJR0hUOmExMWFhMmUzYi1lNWQ0LTRmY2YtYjBlOS0yOTgwM2U0MGNiMjY",
+      "text": "“We all do what we can. You have done more than most. This defeat was authored when Time began—all we do not know is the hour of its coming.”",
+      "color": "yellow",
+      "location": "5212",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo3ODIxNzc6SElHSExJR0hUOmEwZWVlNDE0Yi03ZGE2LTQzYjQtOWFkZC0wOTdjY2EzZTU1YzY",
+      "text": "Do as you have always done—do as your broodsire raised you. We will face it bravely, and who knows? We may yet be surprised.”",
+      "color": "yellow",
+      "location": "5215",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo3ODQxNzA6SElHSExJR0hUOmE5NGZkZWY3ZS1mOTg4LTQ2MmQtOWM1Yy04MmYxN2YyNWU4ZTE",
+      "text": "My queen, he called to her, shaping each word so clearly that he could imagine it as a stone dropped into a still pond, the ripples sending everything that swam beneath them scattering, until the stone itself struck into the softness at the bottom. Can you hear me? My twin?",
+      "color": "yellow",
+      "location": "5228",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo3ODcwMDA6SElHSExJR0hUOmFmZDY0OTQ4NC00NTc1LTQ2Y2QtOGI4Zi1iZmY1Yzg4MzYzNmU",
+      "text": "Do not go down into the darkness yet. Things may change. Things always change, she told him, that is the nature of things…",
+      "color": "yellow",
+      "location": "5247",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo3ODczNjg6SElHSExJR0hUOmFkMjVjMjg1NS1hYWFhLTRiMTYtOTNlNS03Y2E4YTk3MjRiMDM",
+      "text": "Things always change, but never for the better. Are we not the People, and is that not the substance of all our story?",
+      "color": "yellow",
+      "location": "5250",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo3OTQyNTM6SElHSExJR0hUOmE2NDMzOTY0NC03MmRlLTQwNGMtOWY0MS1jMDkzYWQ1MmMzZGY",
+      "text": "Even if he had been dreaming this—even if he was dying and it had all been some strange illusion the gods had set for him on the doorstep of the next world—he had remembered who he was.",
+      "color": "yellow",
+      "location": "5296",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo4MTI2NDE6SElHSExJR0hUOmE1NzhjMDJhMy1kOTQ4LTQzOGItOTExNC03MzllZDg2NWY3ZDc",
+      "text": "I’m going to tell my sister how you feel about her and then order you to join her bodyguard, so you have to look at her every day and know that she is looking back at you with disgust, that she and all the other ladies of the court are marveling together at the sight of the most arrogantly foolish and pitiful idiot who ever lived.”",
+      "color": "yellow",
+      "location": "5418",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo4MTg5NTM6SElHSExJR0hUOmE5N2U2NDE2My04MzM4LTQ3NDgtOWQyNS01MjE0MTAwMzM2NGE",
+      "text": "You’re the physician—the one who’s supposed to be dead.” “There are many who would like that to be true,” said Chaven with a rueful smile, “but so far they have not had their wish granted.”",
+      "color": "yellow",
+      "location": "5460",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo4MjE2MzY6SElHSExJR0hUOmEwZDA1YTZiZS0xM2FiLTQ0YTUtODI2ZC00YWI2YTExYTNiZmE",
+      "text": "“What should we be?” asked the prisoner, but without obvious rancor. “Equals. Rulers thrown together by circumstance, but with an understanding of what ruling means.” “You mean I should not despise you for holding me prisoner.” “Holding you for ransom. A common enough practice.”",
+      "color": "yellow",
+      "location": "5478",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo4ODk3NDk6SElHSExJR0hUOmE4MTEyNDBiZS1hZWJkLTRhMmQtOTYyNi02MThjZjUxNjY5MzE",
+      "text": "“So you have determined on saving me from this painful immortality, have you? And your killing weapon is to be an unending stream of questions?”",
+      "color": "yellow",
+      "location": "5932",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo4OTE5MjY6SElHSExJR0hUOmFkNzEyZjIzMC1jYjhlLTQzYzMtOGZhMi1lZGE2NWViYWEyYjQ",
+      "text": "“I am old, child, and I am no longer so foolish as to think I know anything for certain.",
+      "color": "yellow",
+      "location": "5947",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo5MTA4MDE6SElHSExJR0hUOmFlYmNlMTBjMC04MTQ3LTQwNDgtYWIwYi1mNjYxMzNjMDUyMzU",
+      "text": "“The more worthless we are, the less anyone will suspect what devilry we’re up to.”",
+      "color": "yellow",
+      "location": "6073",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo5MjE1Mjg6SElHSExJR0hUOmE3OGY1ZTcyOS0yMWZjLTQyMDUtODg1Ni1lZTBmZjExY2QxMjI",
+      "text": "you mistake me for someone who still wields some power, instead of a broken old warhorse who has been beaten out to pasture.”",
+      "color": "yellow",
+      "location": "6144",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo5NzI0Mjk6SElHSExJR0hUOmExZGJhMzcxYy1iMGIwLTRmOTYtYjg1Mi0yM2UzZmY2YjA3YmQ",
+      "text": "At first he saw nothing except the floating sparks that usually populated the darkness behind closed lids. Then one of the sparks began to grow, its glow swelling, until it pushed out the blackness and filled his mind’s eye.",
+      "color": "yellow",
+      "location": "6483",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDo5OTIyODM6SElHSExJR0hUOmE5MmY4ZTRiOC0yYWQ4LTQ2YjMtOTRmZi1hYjIyNDkwYTZjZjU",
+      "text": "“It is the god in me, of course—the blood of Nushash himself running through me. I cannot be wrong and I cannot fail.”",
+      "color": "yellow",
+      "location": "6616",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxMDU0NTU3OkhJR0hMSUdIVDphNzBjYWY2NmItOTIzMy00MzRlLWE5YmYtYzhiYjQyOWVmY2Q2",
+      "text": "“You are a fool, Nevin.” “But undisguised,” said Hewney, still smiling. “An honest fool.” “If snakes are honest,” said Feival. “They are honestly snakes,”",
+      "color": "yellow",
+      "location": "7031",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxMDU3NjUzOkhJR0hMSUdIVDphZmU4ZjY2Y2UtZWVlYi00MzQ2LWE0N2YtZDhhNjY3M2MzMjJm",
+      "text": "you can never have too many good jokes in a work where many bloody battles are fought, after all. The one sends the audience back for the other, like sweet and savory.”",
+      "color": "yellow",
+      "location": "7052",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxMDY3MjM2OkhJR0hMSUdIVDphN2ZkMmYwYzAtNjA1ZC00OTk0LWE1N2EtMWNjM2QyNWE5MDMw",
+      "text": "If this is not delivered to the House of the People, the Pact of the Glass will be defeated and my mistress Yasammez will destroy your castle and everyone in it. Ultimately, she will wake the gods themselves. The world will change. My people will die and yours will be slaves.",
+      "color": "yellow",
+      "location": "7115",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxMDY5NzI5OkhJR0hMSUdIVDphNjM3YTBiZmEtNjQwMy00MTg1LWIxNWUtN2FiOWEyODAxZGU3",
+      "text": "I have been asked to help the murderers of my people. And, may the gods help me, I think I will have to do it.",
+      "color": "yellow",
+      "location": "7132",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxMTAwNzgwOkhJR0hMSUdIVDphNGVmZmM0NDEtYmQ0My00MTAyLThkNTYtZmUzYThmOWYxNDhk",
+      "text": "Instead something altogether stranger billowed over him, a scent he could not identify, something that had metal in it, and fire, and the tang of ocean air, and something even of flowers, if flowers ever grew in blood.",
+      "color": "yellow",
+      "location": "7339",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxMTI5Mzg2OkhJR0hMSUdIVDphYWU4NjljN2MtY2ZlZi00ZTU3LTg5ZWItZmVkZjU0OWFkMTIz",
+      "text": "Everything would change. Death would lay a skeletal hand on thousands of lives. Destruction would reshape everything around him.",
+      "color": "yellow",
+      "location": "7530",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxMTMxODI0OkhJR0hMSUdIVDphYTEyZDA3YjAtZDhhMS00MjZkLWFkMWUtOWFkYmRjYjE0Njlh",
+      "text": "God? He had to laugh, standing in the street with cold rain dribbling from his hat brim and running down his neck. And what of me? He wasn’t even much of a man, according to most. He was just a poet.",
+      "color": "yellow",
+      "location": "7546",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxMTMyMTM0OkhJR0hMSUdIVDphYmZmYWI2MzItYWQ1ZS00OTkxLThjYjgtNTM3MzUzMjg1MDdm",
+      "text": "if we do not reach, as my father used to say, our hands will always be empty. Of course, Kearn Tinwright had likely been talking about reaching for his next drink.",
+      "color": "yellow",
+      "location": "7548",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxMTM0NDQyOkhJR0hMSUdIVDphYjQ0OWQ0YjctMDQ1ZS00YzNlLWFmOWYtMDAxZjc3NTlkMmM0",
+      "text": "Perhaps there was something to be said for a simple, truthful apology. Tinwright wasn’t certain he wanted to make a regular practice of it, though. It would take up a lot of his time.",
+      "color": "yellow",
+      "location": "7563",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxMTM1MTQ0OkhJR0hMSUdIVDphMjM0MzA2ZmQtOWJkYi00MTI0LWE2YjItYmI1NDZkMjQyMDQ0",
+      "text": "People Puzzle’s age were done with the sweaty business of love, surely. It would be indecent otherwise.",
+      "color": "yellow",
+      "location": "7568",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxMTQ5MzEwOkhJR0hMSUdIVDphOTBmMzM2NTYtY2E5ZS00ODk1LWJiNWItNDkxMzU1MjJmODg2",
+      "text": "The wine was almost as salty as blood but still quite refreshing, and his fear had receded into a general smear of unconcern.",
+      "color": "yellow",
+      "location": "7663",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxMTc4ODM5OkhJR0hMSUdIVDphOTVkZDc3ZGYtYmFlNy00ZWE0LWJkYjUtMDVhYzJmNWJhOWEw",
+      "text": "That soon the world will change, and that the door will open under Funderling Town and dead time will escape.”",
+      "color": "yellow",
+      "location": "7859",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxMTgyNzIwOkhJR0hMSUdIVDphYTVkMzFjNmYtYmIyNi00NDFiLTgyYTYtNmI0MjRiM2M0ZTk0",
+      "text": "Who are you? he asked the emptiness. He was still falling, but the movement seemed different now, no longer plunging toward something but sailing outward. Do I know you? Who am I? She was silent for a time, as if the question surprised her. I…I don’t know. Who are you? A silly question, he thought at first, but found he had no easy answer. I have a name, he insisted, I just can’t think of it right now.",
+      "color": "yellow",
+      "location": "7885",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxMTg1Njk0OkhJR0hMSUdIVDphYzViNDdmZTQtN2Q0YS00MTZmLWEzMDktMjNiMmMyNmViMzZk",
+      "text": "He wanted a place to be, and to feel someone waiting for the thoughts in his head, so that he knew there was more to the universe the gods had made than simply a few whispers in endless darkness.",
+      "color": "yellow",
+      "location": "7905",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxMTg2NDM3OkhJR0hMSUdIVDphZmZmMTBmNDQtYzkwYi00YmNmLWI1ODYtZDQyNjUyMDkyODVi",
+      "text": "At the center of it he saw what she had called a road, an arching span of safety over an astonishing, terrifying dark nothing—a nothing even more profound than the void through which he had been falling. But this pit of blackness beneath the span was not simply nothing, it was a darkness that wanted to make everything else into a nothing, too. It existed, but its existence was a threat to all else. It was the raw stuff of unbeing.",
+      "color": "yellow",
+      "location": "7910",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxMTg5MjQ0OkhJR0hMSUdIVDphMzI1Y2Y3MGQtNDMwOC00MjI0LWFhMmQtYzYzNjY2MjU2MTA1",
+      "text": "A victim? Who isn’t? That isn’t who you are, that’s just what’s happening to you.",
+      "color": "yellow",
+      "location": "7929",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxMTg5ODI1OkhJR0hMSUdIVDphYWRmZDM2ZDktMmNiOC00MDA2LWJiZWItMTZhYjNlN2ExMjhj",
+      "text": "I’m…wrong. Crippled. Mad in the head. If you expect me to feel sorry for you because you dream of impossible places and people without names, she said, some of her sly humor creeping back, then you’ll have to try something else instead.",
+      "color": "yellow",
+      "location": "7933",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxMTkxNzM0OkhJR0hMSUdIVDphNTVhZmE0OWEtNGY0Yi00MmY3LWE0MGYtYWFjZGViMTA4MWU4",
+      "text": "We all die. What if we only get one chance to be alive? What if it’s all pain? Push against it. Escape it. Change it. Easy to say.",
+      "color": "yellow",
+      "location": "7945",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxMTkyOTE3OkhJR0hMSUdIVDphMTRjZmZjODItNjE2Ni00YTM1LWI5MTMtZTdiYzQ5ZjNmMTE3",
+      "text": "And then the bridge, the pit, the girl, everything was gone, and Barrick Eddon was swimming slowly back up through the ordinary soundings of dream and sleep.",
+      "color": "yellow",
+      "location": "7953",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxMjA4NTA4OkhJR0hMSUdIVDphZTM5MzJmYWItZmMxMC00YmNjLTgwMTUtMDc1ZjQzMDAzNzJj",
+      "text": "One thing you had to say for Ferras Vansen, Barrick decided. The guard captain never stopped…trying. If his stolid normality and his rude health had not already been sufficient reasons to hate him, then his relentless willingness to keep pushing and fighting—as if life were a game and there would be some ultimate tally, some adding-up of accounts—would have more than sufficed. Barrick had always thought optimism was another name for stupidity.",
+      "color": "yellow",
+      "location": "8057",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxMjExNDE2OkhJR0hMSUdIVDphY2NhMWI5ZTQtOWJjZS00Zjk2LWFmMDItZWNlZjZhZGQ1ZDdh",
+      "text": "Pointless? Likely. It will take preparation and luck, and even so we will probably gain nothing but a violent death—but at least the death will be of our own choosing, and that is worth more than a little.",
+      "color": "yellow",
+      "location": "8077",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxMjk5NjAwOkhJR0hMSUdIVDphZjAyZDFjOGItYzNiNi00YzIyLWEyNWEtNWQxYTMxYzg1MjVm",
+      "text": "I do not wish your love, man-child, only your understanding. I am sorry if you thought that friendship between us might change the facts, but the gods themselves could not undo what is coming, even if they wished to do so.",
+      "color": "yellow",
+      "location": "8665",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxMzAwMDIzOkhJR0hMSUdIVDphZmI5MzgzNWYtYTIwOS00NDA1LWFmMGQtMjJhNzlhYThjNTE0",
+      "text": "things are still balanced on a knife’s edge. We must do what we can to keep that balance from tilting.",
+      "color": "yellow",
+      "location": "8667",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxMzE1NzIwOkhJR0hMSUdIVDphMGNlN2Q2MzItMjQ3My00ZDgyLWE0ZTctMjk5MmEzMTNjZWEw",
+      "text": "The end had come, whatever Gyir might pretend. No one could fall into the hands of such a monstrous thing and live.",
+      "color": "yellow",
+      "location": "8772",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxMzIwMzgxOkhJR0hMSUdIVDphY2UwZGNlNjUtZTEwYi00MjZkLTgyYzQtNWFhODZkYzEyYjJj",
+      "text": "“There is no madness among gods!” Jikuyin laughed. “How will I be called mad when I can shape everything to my own thoughts? Soon the gate will open, the blood will flow, and then what I speak…will be.”",
+      "color": "yellow",
+      "location": "8803",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxNDIwNDIzOkhJR0hMSUdIVDphODJmNjNlNTAtYTE4ZC00OGM5LWIzNjEtZGNkYjgxODg2Mjhj",
+      "text": "Tinwright was a poet, and he told himself that poets could not fight the powers of the world, at least not with anything but words—and even with words, they had to be careful. We worshipers of the Harmonies are easy to kill,",
+      "color": "yellow",
+      "location": "9470",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxNDczNDgxOkhJR0hMSUdIVDphYmQzYWE3ZWEtNTIyYS00NDE0LWJjZjMtNWEwMDI0MjNhZGM3",
+      "text": "He hated Ludis even more than he hated the Autarch of Xis, because Sulepis was only a name, but he had to stare into Ludis Drakava’s square, heavy-browed face every single day and swallow bile.",
+      "color": "yellow",
+      "location": "9824",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxNDk1NDMwOkhJR0hMSUdIVDphYjZmMzQzYjktYjZkYy00NDcwLTgxY2QtZGJlM2MyMzczYTA5",
+      "text": "“It would waste time if I have to kill or cripple either of you, but it wouldn’t change anything important.",
+      "color": "yellow",
+      "location": "9970",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxNTIxMDUxOkhJR0hMSUdIVDphYjNlNmNiMzctNjMwOS00YjVkLWJmYzItNGNlNzUxOWQ0OWFj",
+      "text": "I should have come home, Vansen said. I feared you, Tati. I feared your suffering. And I hated you, at least a little. Because you did not make it easy for me, when you could have.",
+      "color": "yellow",
+      "location": "10141",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxNTI2NTc3OkhJR0hMSUdIVDphMDY5ZTUzYjktNTRhMS00NmE3LTg4N2ItNDZjYjllZjM3NTYy",
+      "text": "He was lost in black emptiness, and the voices of the crowding dead had become animal noises, braying, snorting, barking, as if the ghosts of men had become the ghosts of beasts. It was a terrible din, harsh, desperate, and full of terror.",
+      "color": "yellow",
+      "location": "10178",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxNTI3MjI0OkhJR0hMSUdIVDphOWYyOWYzNGQtNjZhNy00ZGRiLTkwOWMtOTRmZDc4ZDgyZWU1",
+      "text": "I am Ferras Vansen, he told the void. I have a name. I am a living man.",
+      "color": "yellow",
+      "location": "10182",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxNTMyNTEyOkhJR0hMSUdIVDphMjIyOWVjNzEtYTAxMi00MmZmLThiZjUtZjEwZTEwNGYyZWQ3",
+      "text": "“I am a soldier. I love Briony Eddon, although she can never love me. I’m tired of being lost and I’m tired of dying, so I’m going to try something different this time.” He began to walk.",
+      "color": "yellow",
+      "location": "10217",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxNTQwOTE4OkhJR0hMSUdIVDphNDc5YzJjM2QtMzljOC00N2Q4LWJkOGQtNTdmNDVkNTM0NjRl",
+      "text": "“My life.” The corner of his mouth twitched, as though he had almost smiled. “It’s not much, but I’ve some use for it still.”",
+      "color": "yellow",
+      "location": "10273",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwNElBVERNNDoxNjU3MjM0OkhJR0hMSUdIVDphMDU1OTM4MzktMDNmYS00MmNjLWE2ZTUtYjFlZGI0Yzk5YTBj",
+      "text": "“Then I be the mightiest raven what ever lived, be’nt I?” The bird appeared to consider this, walking back and forth along the top of the stone, clucking a bit. “Skurn the Mighty. Pecked out a god’s eye.”",
+      "color": "yellow",
+      "location": "11049",
+      "page": "",
+      "source": "kindle"
+    }
+  ]
+}
