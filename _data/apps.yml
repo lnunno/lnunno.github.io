@@ -1,6 +1,6 @@
-- name: Kindle Highlights
-  url: /apps/highlighted-books/
-  description: My most highlighted Kindle books by month
+- name: Books
+  url: /apps/books/
+  description: My books, reviews, reading history, and Kindle highlights
   emoji: "📚"
 - name: Health Tracker
   url: /apps/health-tracker/
