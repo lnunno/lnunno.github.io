@@ -3,7 +3,7 @@
   "title": "A Game of Thrones",
   "author": "George R.R. Martin",
   "review": "",
-  "highlightCount": 40,
+  "highlightCount": 41,
   "myGoodreadsRating": 5,
   "myReviewRating": null,
   "highlights": [
@@ -325,6 +325,14 @@
       "color": "yellow",
       "location": "3414",
       "page": "207",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFFDUzhUVzo1MjA5Mzc6SElHSExJR0hUOmE2NTdlNTM1OS1lMDk5LTRkNzQtOWFkNC0yMmU3OGJhNjBlNjU",
+      "text": "Her father used to say that a lord needed to eat with his men, if he hoped to keep them. “Know the men who follow you,” she heard him tell Robb once, “and let them know you. Don’t ask your men to die for a stranger.”",
+      "color": "yellow",
+      "location": "3473",
+      "page": "211",
       "source": "kindle"
     }
   ]
