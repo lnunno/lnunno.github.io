@@ -1656,8 +1656,7 @@
     "genres": [
       "nonfiction"
     ],
-    "subgenres": [],
-    "tasteRoles": []
+    "subgenres": []
   },
   {
     "id": "ultimate-hitchhikers-guide-to-galaxy-37e57563",
@@ -2158,8 +2157,7 @@
     ],
     "subgenres": [
       "technology"
-    ],
-    "tasteRoles": []
+    ]
   },
   {
     "id": "fahrenheit-451-f2ba6b7c",
@@ -2255,8 +2253,7 @@
     ],
     "subgenres": [
       "technology"
-    ],
-    "tasteRoles": []
+    ]
   },
   {
     "id": "naked-sun-e1becbb8",
@@ -2870,8 +2867,7 @@
     "subgenres": [
       "popular-science",
       "history"
-    ],
-    "tasteRoles": []
+    ]
   },
   {
     "id": "fellowship-of-ring-07d34c08",
@@ -3074,8 +3070,7 @@
     ],
     "subgenres": [
       "technology"
-    ],
-    "tasteRoles": []
+    ]
   },
   {
     "id": "catching-fire-9c72a83b",
@@ -3174,8 +3169,7 @@
     ],
     "subgenres": [
       "technology"
-    ],
-    "tasteRoles": []
+    ]
   },
   {
     "id": "mockingjay-ba58d009",
@@ -3383,8 +3377,7 @@
     "genres": [
       "nonfiction"
     ],
-    "subgenres": [],
-    "tasteRoles": []
+    "subgenres": []
   },
   {
     "id": "saga-compendium-one-1b74cc43",
@@ -6470,8 +6463,7 @@
     ],
     "subgenres": [
       "manga"
-    ],
-    "tasteRoles": []
+    ]
   },
   {
     "id": "one-piece-2-buggy-clown-dd3a79be",
@@ -6501,8 +6493,7 @@
     ],
     "subgenres": [
       "manga"
-    ],
-    "tasteRoles": []
+    ]
   },
   {
     "id": "shadow-of-torturer-9ba3ca8d",
@@ -6602,8 +6593,7 @@
     ],
     "subgenres": [
       "manga"
-    ],
-    "tasteRoles": []
+    ]
   },
   {
     "id": "claw-of-conciliator-6cd0c037",
@@ -6870,8 +6860,7 @@
     ],
     "subgenres": [
       "manga"
-    ],
-    "tasteRoles": []
+    ]
   },
   {
     "id": "invincible-3-perfect-strangers-8e5e4425",
@@ -6901,8 +6890,7 @@
     ],
     "subgenres": [
       "manga"
-    ],
-    "tasteRoles": []
+    ]
   },
   {
     "id": "invincible-2-eight-is-enough-826f4c27",
@@ -6932,8 +6920,7 @@
     ],
     "subgenres": [
       "manga"
-    ],
-    "tasteRoles": []
+    ]
   },
   {
     "id": "attack-on-titan-21-539781fc",
@@ -9474,8 +9461,7 @@
     ],
     "subgenres": [
       "manga"
-    ],
-    "tasteRoles": []
+    ]
   },
   {
     "id": "flight-of-eisenstein-2c1f48cb",
@@ -9542,8 +9528,7 @@
     ],
     "subgenres": [
       "manga"
-    ],
-    "tasteRoles": []
+    ]
   },
   {
     "id": "god-is-not-willing-3d338321",
@@ -9782,8 +9767,7 @@
     ],
     "subgenres": [
       "manga"
-    ],
-    "tasteRoles": []
+    ]
   },
   {
     "id": "enemy-of-god-eca5945b",
@@ -9847,8 +9831,7 @@
     ],
     "subgenres": [
       "manga"
-    ],
-    "tasteRoles": []
+    ]
   },
   {
     "id": "expert-systems-champion-31fdd530",
@@ -17695,8 +17678,7 @@
     ],
     "subgenres": [
       "comic-fantasy"
-    ],
-    "tasteRoles": []
+    ]
   },
   {
     "id": "how-to-rule-empire-and-get-away-with-it-6dda05a1",
@@ -20500,8 +20482,7 @@
     ],
     "subgenres": [
       "manga"
-    ],
-    "tasteRoles": []
+    ]
   },
   {
     "id": "goodnight-punpun-omnibus-2-c02f7690",
@@ -20531,8 +20512,7 @@
     ],
     "subgenres": [
       "manga"
-    ],
-    "tasteRoles": []
+    ]
   },
   {
     "id": "vagabond-11-4004974a",
@@ -20595,8 +20575,7 @@
     ],
     "subgenres": [
       "manga"
-    ],
-    "tasteRoles": []
+    ]
   },
   {
     "id": "goodnight-punpun-omnibus-4-da83b353",
@@ -20626,8 +20605,7 @@
     ],
     "subgenres": [
       "manga"
-    ],
-    "tasteRoles": []
+    ]
   },
   {
     "id": "death-of-ivan-ilyich-4d4f7b6d",
@@ -21878,8 +21856,7 @@
     ],
     "subgenres": [
       "manga"
-    ],
-    "tasteRoles": []
+    ]
   },
   {
     "id": "one-piece-4-black-cat-pirates-448ceaef",
@@ -21909,8 +21886,7 @@
     ],
     "subgenres": [
       "manga"
-    ],
-    "tasteRoles": []
+    ]
   },
   {
     "id": "one-piece-6-oath-af1ceb1c",
@@ -21940,8 +21916,7 @@
     ],
     "subgenres": [
       "manga"
-    ],
-    "tasteRoles": []
+    ]
   },
   {
     "id": "parasyte-4-7a178330",
