@@ -1,0 +1,91 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/goodreads2/bookshelf-metadata.schema.json",
+  "title": "Bookshelf metadata",
+  "description": "Curated local bookshelf metadata keyed by normalized Goodreads book URL.",
+  "type": "object",
+  "propertyNames": {
+    "pattern": "^https://www\\.goodreads\\.com/book/show/"
+  },
+  "additionalProperties": {
+    "$ref": "#/$defs/bookMetadataEntry"
+  },
+  "$defs": {
+    "bookFormat": {
+      "type": "string",
+      "enum": [
+        "book",
+        "comic",
+        "manga"
+      ]
+    },
+    "bookGenre": {
+      "type": "string",
+      "enum": [
+        "adventure",
+        "fantasy",
+        "sci-fi",
+        "horror",
+        "literary",
+        "historical",
+        "mystery-crime-thriller",
+        "nonfiction",
+        "comics-manga",
+        "western"
+      ]
+    },
+    "bookTasteRole": {
+      "type": "string",
+      "enum": [
+        "epic-systems-fiction",
+        "immersive-epic-saga",
+        "deep-lore-archaeology",
+        "grim-systems-moral-horror",
+        "mind-bending-idea-fiction",
+        "space-opera-as-epic-fantasy",
+        "propulsive-dark-engines",
+        "literary-historical-emotional-weight",
+        "pulp-comfort-adventure",
+        "new-weird-grotesque-imagination",
+        "practical-systems-nonfiction",
+        "lived-expertise-memoir",
+        "historical-systems-nonfiction"
+      ]
+    },
+    "slugList": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+      }
+    },
+    "bookMetadataEntry": {
+      "type": "object",
+      "additionalProperties": false,
+      "minProperties": 1,
+      "properties": {
+        "format": {
+          "$ref": "#/$defs/bookFormat"
+        },
+        "genres": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "$ref": "#/$defs/bookGenre"
+          }
+        },
+        "subgenres": {
+          "$ref": "#/$defs/slugList"
+        },
+        "tasteRoles": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "$ref": "#/$defs/bookTasteRole"
+          }
+        }
+      }
+    }
+  }
+}
