@@ -2,6 +2,10 @@
   url: /apps/books/
   description: My books, reviews, reading history, and Kindle highlights
   emoji: "📚"
+- name: Atlas
+  url: /apps/atlas/
+  description: Outdoor activities, peaks, parks, ski resorts, and map overlays.
+  emoji: 🏔️
 - name: Health Tracker
   url: /apps/health-tracker/
   description: Daily health and habit tracking.
@@ -14,10 +18,6 @@
   url: /apps/movement/
   description: Links to Denver Movement climbing gyms for drive time estimates.
   emoji: 🧗
-- name: Atlas
-  url: /apps/atlas/
-  description: Outdoor activities, peaks, parks, ski resorts, and map overlays.
-  emoji: 🏔️
 - name: Weird Whisky Generator
   url: /apps/weird-whisky-generator/
   description: Generate strange and unhinged tasting notes.
