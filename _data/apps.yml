@@ -14,9 +14,9 @@
   url: /apps/movement/
   description: Links to Denver Movement climbing gyms for drive time estimates.
   emoji: 🧗
-- name: Peaks Planner
-  url: /apps/peaks-planner/
-  description: Hike peaks.
+- name: Hiking Maps
+  url: /apps/hiking/
+  description: Colorado state parks, 14ers, and 13ers map.
   emoji: 🏔️
 - name: Weird Whisky Generator
   url: /apps/weird-whisky-generator/

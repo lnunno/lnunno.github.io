@@ -1,0 +1,5460 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.44537,
+          39.11774
+        ]
+      },
+      "properties": {
+        "name": "Mount Elbert",
+        "rank": 1,
+        "range": "Sawatch Range",
+        "elevationFeet": 14438,
+        "routeCount": 4,
+        "easiestRouteClass": "Class 1",
+        "standardRouteClass": "Class 1",
+        "routes": [
+          {
+            "id": "elbe1",
+            "name": "Mt. Elbert - Northeast Ridge",
+            "url": "https://www.14ers.com/route.php?route=elbe1",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 9.75,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "elbe2",
+            "name": "Mt. Elbert - East Ridge",
+            "url": "https://www.14ers.com/route.php?route=elbe2",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4200,
+            "roundTripDistanceMiles": 11.25,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "elbe3",
+            "name": "Mt. Elbert - Southeast Ridge",
+            "url": "https://www.14ers.com/route.php?route=elbe3",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5300,
+            "roundTripDistanceMiles": 10.5,
+            "exposure": "Low",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "elbe4",
+            "name": "Mt. Elbert - Box Creek Couloirs",
+            "url": "https://www.14ers.com/route.php?route=elbe4",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4150,
+            "roundTripDistanceMiles": 10,
+            "exposure": "Considerable",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Considerable"
+          }
+        ],
+        "memberAscents": 17653,
+        "fourteenersComId": "10001",
+        "sourceUrl": "https://www.14ers.com/peaks/10001/mount-elbert",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.47559,
+          39.18753
+        ]
+      },
+      "properties": {
+        "name": "Mount Massive",
+        "rank": 2,
+        "range": "Sawatch Range",
+        "elevationFeet": 14427,
+        "routeCount": 3,
+        "easiestRouteClass": "Class 2",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "mass1",
+            "name": "Mt. Massive - East Slopes",
+            "url": "https://www.14ers.com/route.php?route=mass1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 13.75,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "mass2",
+            "name": "Mt. Massive - Southwest Slopes",
+            "url": "https://www.14ers.com/route.php?route=mass2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4000,
+            "roundTripDistanceMiles": 8,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "mass3",
+            "name": "Mt. Massive - East Ridge",
+            "url": "https://www.14ers.com/route.php?route=mass3",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5000,
+            "roundTripDistanceMiles": 14,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          }
+        ],
+        "memberAscents": 12454,
+        "fourteenersComId": "10002",
+        "sourceUrl": "https://www.14ers.com/peaks/10002/mount-massive",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.32079,
+          38.92442
+        ]
+      },
+      "properties": {
+        "name": "Mount Harvard",
+        "rank": 3,
+        "range": "Sawatch Range",
+        "elevationFeet": 14424,
+        "routeCount": 3,
+        "easiestRouteClass": "Class 2",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "harv1",
+            "name": "Mt. Harvard - South Slopes",
+            "url": "https://www.14ers.com/route.php?route=harv1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4600,
+            "roundTripDistanceMiles": 13.75,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "colu2",
+            "name": "Mt. Columbia - West Slopes",
+            "url": "https://www.14ers.com/route.php?route=colu2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4250,
+            "roundTripDistanceMiles": 12,
+            "exposure": "Moderate",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "harv4",
+            "name": "Combo: Harvard and Columbia Traverse",
+            "url": "https://www.14ers.com/route.php?route=harv4",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 6100,
+            "roundTripDistanceMiles": 15,
+            "exposure": "Moderate",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "High",
+            "commitment": "High"
+          },
+          {
+            "id": "colu5",
+            "name": "Mt. Columbia - Southeast Ridge",
+            "url": "https://www.14ers.com/route.php?route=colu5",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4800,
+            "roundTripDistanceMiles": 11.25,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "harv3",
+            "name": "Mt. Harvard - South Face",
+            "url": "https://www.14ers.com/route.php?route=harv3",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4600,
+            "roundTripDistanceMiles": 13.75,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "colu6",
+            "name": "Mt. Columbia - Southwest Couloir",
+            "url": "https://www.14ers.com/route.php?route=colu6",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4800,
+            "roundTripDistanceMiles": 13.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Moderate"
+          }
+        ],
+        "memberAscents": 9657,
+        "fourteenersComId": "10003",
+        "sourceUrl": "https://www.14ers.com/peaks/10003/mount-harvard",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.48569,
+          37.57753
+        ]
+      },
+      "properties": {
+        "name": "Blanca Peak",
+        "rank": 4,
+        "range": "Sangre de Cristo",
+        "elevationFeet": 14350,
+        "routeCount": 4,
+        "easiestRouteClass": "Class 1",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "como0",
+            "name": "Lake Como Approach",
+            "url": "https://www.14ers.com/route.php?route=como0",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3900,
+            "roundTripDistanceMiles": 11,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "blan1",
+            "name": "Blanca Peak - Northwest Ridge",
+            "url": "https://www.14ers.com/route.php?route=blan1",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 6500,
+            "roundTripDistanceMiles": 17,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "elli2",
+            "name": "Ellingwood Point - South Face",
+            "url": "https://www.14ers.com/route.php?route=elli2",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 6200,
+            "roundTripDistanceMiles": 17,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "litt6",
+            "name": "Little Bear Peak - West Ridge and Hourglass",
+            "url": "https://www.14ers.com/route.php?route=litt6",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": true,
+            "elevationGainFeet": 6200,
+            "roundTripDistanceMiles": 14,
+            "exposure": "High",
+            "rockfallPotential": "High",
+            "routeFinding": "High",
+            "commitment": "High"
+          },
+          {
+            "id": "elli3",
+            "name": "Combo: Blanca and Ellingwood",
+            "url": "https://www.14ers.com/route.php?route=elli3",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 6800,
+            "roundTripDistanceMiles": 18,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "litt3",
+            "name": "Combo: Little Bear + Blanca Traverse",
+            "url": "https://www.14ers.com/route.php?route=litt3",
+            "difficulty": "Class 5",
+            "classGrade": "Class 5",
+            "isStandardRoute": false,
+            "elevationGainFeet": 8000,
+            "roundTripDistanceMiles": 17,
+            "exposure": "Extreme",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "High",
+            "commitment": "Extreme"
+          },
+          {
+            "id": "elli4",
+            "name": "Ellingwood Point - Southwest Ridge",
+            "url": "https://www.14ers.com/route.php?route=elli4",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2200,
+            "roundTripDistanceMiles": 15,
+            "exposure": "High",
+            "rockfallPotential": "High",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "elli5",
+            "name": "Ellingwood Point - North Ridge via South Zapata Creek",
+            "url": "https://www.14ers.com/route.php?route=elli5",
+            "difficulty": "Easy Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5200,
+            "roundTripDistanceMiles": 12.5,
+            "exposure": "Considerable",
+            "rockfallPotential": "High",
+            "routeFinding": "High",
+            "commitment": "High"
+          },
+          {
+            "id": "litt8",
+            "name": "Little Bear Peak - West Ridge Indirect",
+            "url": "https://www.14ers.com/route.php?route=litt8",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": false,
+            "elevationGainFeet": 6200,
+            "roundTripDistanceMiles": 14,
+            "exposure": "Extreme",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "High",
+            "commitment": "High"
+          }
+        ],
+        "memberAscents": 6367,
+        "fourteenersComId": "10004",
+        "sourceUrl": "https://www.14ers.com/peaks/10004/blanca-peak",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.473,
+          39.02949
+        ]
+      },
+      "properties": {
+        "name": "La Plata Peak",
+        "rank": 5,
+        "range": "Sawatch Range",
+        "elevationFeet": 14344,
+        "routeCount": 4,
+        "easiestRouteClass": "Class 2",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "lapl1",
+            "name": "La Plata Peak - Northwest Ridge",
+            "url": "https://www.14ers.com/route.php?route=lapl1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4400,
+            "roundTripDistanceMiles": 9.25,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "lapl2",
+            "name": "La Plata Peak - Southwest Ridge",
+            "url": "https://www.14ers.com/route.php?route=lapl2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3600,
+            "roundTripDistanceMiles": 7.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "lapl3",
+            "name": "La Plata Peak - Ellingwood Ridge",
+            "url": "https://www.14ers.com/route.php?route=lapl3",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5900,
+            "roundTripDistanceMiles": 9.5,
+            "exposure": "High",
+            "rockfallPotential": "High",
+            "routeFinding": "High",
+            "commitment": "High"
+          },
+          {
+            "id": "lapl4",
+            "name": "La Plata Peak - North Face",
+            "url": "https://www.14ers.com/route.php?route=lapl4",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 8.75,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "High",
+            "commitment": "Considerable"
+          }
+        ],
+        "memberAscents": 11955,
+        "fourteenersComId": "10005",
+        "sourceUrl": "https://www.14ers.com/peaks/10005/la-plata-peak",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.46211,
+          38.07168
+        ]
+      },
+      "properties": {
+        "name": "Uncompahgre Peak",
+        "rank": 6,
+        "range": "San Juan Mountains",
+        "elevationFeet": 14318,
+        "routeCount": 1,
+        "easiestRouteClass": "Class 2",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "unco1",
+            "name": "Uncompahgre Peak - South Ridge",
+            "url": "https://www.14ers.com/route.php?route=unco1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3000,
+            "roundTripDistanceMiles": 7.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          }
+        ],
+        "memberAscents": 8016,
+        "fourteenersComId": "10006",
+        "sourceUrl": "https://www.14ers.com/peaks/10006/uncompahgre-peak",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.58538,
+          37.96688
+        ]
+      },
+      "properties": {
+        "name": "Crestone Peak",
+        "rank": 7,
+        "range": "Sangre de Cristo",
+        "elevationFeet": 14299,
+        "routeCount": 2,
+        "easiestRouteClass": "Class 2",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "humb1",
+            "name": "Humboldt Peak - West Ridge",
+            "url": "https://www.14ers.com/route.php?route=humb1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4200,
+            "roundTripDistanceMiles": 11,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Low"
+          },
+          {
+            "id": "cpea2",
+            "name": "Crestone Peak - South Face",
+            "url": "https://www.14ers.com/route.php?route=cpea2",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": true,
+            "elevationGainFeet": 5700,
+            "roundTripDistanceMiles": 14,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "cnee1",
+            "name": "Crestone Needle - South Face",
+            "url": "https://www.14ers.com/route.php?route=cnee1",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4400,
+            "roundTripDistanceMiles": 12,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "High",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "humb2",
+            "name": "Humboldt Peak - East Ridge",
+            "url": "https://www.14ers.com/route.php?route=humb2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4300,
+            "roundTripDistanceMiles": 8,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "cnee3",
+            "name": "Combo: Crestones Traverse",
+            "url": "https://www.14ers.com/route.php?route=cnee3",
+            "difficulty": "Class 5",
+            "classGrade": "Class 5",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5300,
+            "roundTripDistanceMiles": 14,
+            "exposure": "Extreme",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "High",
+            "commitment": "High"
+          },
+          {
+            "id": "cnee5",
+            "name": "Crestone Needle - Ellingwood Arete/Ledges",
+            "url": "https://www.14ers.com/route.php?route=cnee5",
+            "difficulty": "Class 5",
+            "classGrade": "Class 5",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4400,
+            "roundTripDistanceMiles": 11.25,
+            "exposure": "Extreme",
+            "rockfallPotential": "High",
+            "routeFinding": "High",
+            "commitment": "Extreme"
+          },
+          {
+            "id": "humb3",
+            "name": "Humboldt Peak - Southeast Gully",
+            "url": "https://www.14ers.com/route.php?route=humb3",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5400,
+            "roundTripDistanceMiles": 8,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Moderate"
+          }
+        ],
+        "memberAscents": 5469,
+        "fourteenersComId": "10007",
+        "sourceUrl": "https://www.14ers.com/peaks/10007/crestone-peak",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.11156,
+          39.35145
+        ]
+      },
+      "properties": {
+        "name": "Mount Lincoln",
+        "rank": 8,
+        "range": "Mosquito Range",
+        "elevationFeet": 14293,
+        "routeCount": 4,
+        "easiestRouteClass": "Class 1",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "bros6",
+            "name": "Combo: Decalibron",
+            "url": "https://www.14ers.com/route.php?route=bros6",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3500,
+            "roundTripDistanceMiles": 7.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "demo1",
+            "name": "Mt. Democrat - East Slope",
+            "url": "https://www.14ers.com/route.php?route=demo1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 2150,
+            "roundTripDistanceMiles": 4,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "linc1",
+            "name": "Mt. Lincoln - West Ridge",
+            "url": "https://www.14ers.com/route.php?route=linc1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 2600,
+            "roundTripDistanceMiles": 6,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "bros2",
+            "name": "Mt. Bross - West Slopes",
+            "url": "https://www.14ers.com/route.php?route=bros2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 2250,
+            "roundTripDistanceMiles": 3.25,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "came1",
+            "name": "Mt. Cameron - West Ridge",
+            "url": "https://www.14ers.com/route.php?route=came1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 2250,
+            "roundTripDistanceMiles": 4.75,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "linc3",
+            "name": "Mt. Lincoln - East Slopes",
+            "url": "https://www.14ers.com/route.php?route=linc3",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2650,
+            "roundTripDistanceMiles": 6.5,
+            "exposure": "Low",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "linc2",
+            "name": "Mt. Lincoln - Lincoln Amphitheater",
+            "url": "https://www.14ers.com/route.php?route=linc2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3400,
+            "roundTripDistanceMiles": 4.75,
+            "exposure": "Moderate",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "bros1",
+            "name": "Mt. Bross - East Slopes",
+            "url": "https://www.14ers.com/route.php?route=bros1",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2900,
+            "roundTripDistanceMiles": 9,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "bros3",
+            "name": "Mt. Bross - S Gully",
+            "url": "https://www.14ers.com/route.php?route=bros3",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2600,
+            "roundTripDistanceMiles": 9.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "bros4",
+            "name": "Mt. Bross - Dolly Varden Gully",
+            "url": "https://www.14ers.com/route.php?route=bros4",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2900,
+            "roundTripDistanceMiles": 4,
+            "exposure": "Low",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "demo2",
+            "name": "Mt. Democrat - South Slope",
+            "url": "https://www.14ers.com/route.php?route=demo2",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2150,
+            "roundTripDistanceMiles": 2.5,
+            "exposure": "Considerable",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Moderate"
+          }
+        ],
+        "memberAscents": 17791,
+        "fourteenersComId": "10008",
+        "sourceUrl": "https://www.14ers.com/peaks/10008/mount-lincoln",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.81763,
+          39.63383
+        ]
+      },
+      "properties": {
+        "name": "Grays Peak",
+        "rank": 9,
+        "range": "Front Range",
+        "elevationFeet": 14275,
+        "routeCount": 5,
+        "easiestRouteClass": "Class 1",
+        "standardRouteClass": "Class 1",
+        "routes": [
+          {
+            "id": "gray1",
+            "name": "Grays Peak - North Slopes",
+            "url": "https://www.14ers.com/route.php?route=gray1",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3000,
+            "roundTripDistanceMiles": 7.5,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "torr2",
+            "name": "Torreys Peak - South Slopes",
+            "url": "https://www.14ers.com/route.php?route=torr2",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3000,
+            "roundTripDistanceMiles": 7.75,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "torr5",
+            "name": "Combo: Grays and Torreys",
+            "url": "https://www.14ers.com/route.php?route=torr5",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3600,
+            "roundTripDistanceMiles": 8.25,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "gray3",
+            "name": "Grays Peak - South Ridge",
+            "url": "https://www.14ers.com/route.php?route=gray3",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3250,
+            "roundTripDistanceMiles": 6.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "gray8",
+            "name": "Grays Peak - Southwest Ridge",
+            "url": "https://www.14ers.com/route.php?route=gray8",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3800,
+            "roundTripDistanceMiles": 10.25,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "torr4",
+            "name": "Torreys Peak - Kelso Ridge",
+            "url": "https://www.14ers.com/route.php?route=torr4",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3100,
+            "roundTripDistanceMiles": 6.75,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "torr11",
+            "name": "Torreys Peak - West Ridge",
+            "url": "https://www.14ers.com/route.php?route=torr11",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5500,
+            "roundTripDistanceMiles": 10,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "torr9",
+            "name": "Torreys Peak - NW Face/Tuning Fork",
+            "url": "https://www.14ers.com/route.php?route=torr9",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 10.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "gray6",
+            "name": "Grays Peak - Lost Rat Couloir",
+            "url": "https://www.14ers.com/route.php?route=gray6",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3000,
+            "roundTripDistanceMiles": 6.5,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "torr7",
+            "name": "Torreys Peak - Dead Dog Couloir",
+            "url": "https://www.14ers.com/route.php?route=torr7",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3000,
+            "roundTripDistanceMiles": 6,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "torr10",
+            "name": "Torreys Peak - Emperor Couloir",
+            "url": "https://www.14ers.com/route.php?route=torr10",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 9.5,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          }
+        ],
+        "memberAscents": 20866,
+        "fourteenersComId": "10009",
+        "sourceUrl": "https://www.14ers.com/peaks/10009/grays-peak",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.86135,
+          39.00974
+        ]
+      },
+      "properties": {
+        "name": "Castle Peak",
+        "rank": 10,
+        "range": "Elk Mountains",
+        "elevationFeet": 14274,
+        "routeCount": 4,
+        "easiestRouteClass": "Class 2",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "cast1",
+            "name": "Castle Peak - Northeast Ridge",
+            "url": "https://www.14ers.com/route.php?route=cast1",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4600,
+            "roundTripDistanceMiles": 13.5,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "cast4",
+            "name": "Combo: Castle and Conundrum",
+            "url": "https://www.14ers.com/route.php?route=cast4",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4850,
+            "roundTripDistanceMiles": 14.5,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "conu1",
+            "name": "Conundrum Peak - South Ridge",
+            "url": "https://www.14ers.com/route.php?route=conu1",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4400,
+            "roundTripDistanceMiles": 13.5,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "cast2",
+            "name": "Castle Peak - Northwest Ridge",
+            "url": "https://www.14ers.com/route.php?route=cast2",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4600,
+            "roundTripDistanceMiles": 13.5,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "cast3",
+            "name": "Castle Peak - North Face Couloir",
+            "url": "https://www.14ers.com/route.php?route=cast3",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4600,
+            "roundTripDistanceMiles": 13,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "conu5",
+            "name": "Conundrum Peak - Conundrum Couloir",
+            "url": "https://www.14ers.com/route.php?route=conu5",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4400,
+            "roundTripDistanceMiles": 12,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Considerable"
+          }
+        ],
+        "memberAscents": 7512,
+        "fourteenersComId": "10012",
+        "sourceUrl": "https://www.14ers.com/peaks/10012/castle-peak",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.10643,
+          39.39727
+        ]
+      },
+      "properties": {
+        "name": "Quandary Peak",
+        "rank": 11,
+        "range": "Tenmile Range",
+        "elevationFeet": 14272,
+        "routeCount": 4,
+        "easiestRouteClass": "Class 1",
+        "standardRouteClass": "Class 1",
+        "routes": [
+          {
+            "id": "quan1",
+            "name": "Quandary Peak - East Ridge",
+            "url": "https://www.14ers.com/route.php?route=quan1",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3450,
+            "roundTripDistanceMiles": 6.75,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "quan3",
+            "name": "Quandary Peak - West Ridge",
+            "url": "https://www.14ers.com/route.php?route=quan3",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2650,
+            "roundTripDistanceMiles": 4,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "High"
+          },
+          {
+            "id": "quan2",
+            "name": "Quandary Peak - South Gully aka Cristo Couloir",
+            "url": "https://www.14ers.com/route.php?route=quan2",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2900,
+            "roundTripDistanceMiles": 3.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Low"
+          },
+          {
+            "id": "quan4",
+            "name": "Quandary Peak - North Gully aka Quandary Couloir",
+            "url": "https://www.14ers.com/route.php?route=quan4",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3250,
+            "roundTripDistanceMiles": 5.25,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Considerable"
+          }
+        ],
+        "memberAscents": 19820,
+        "fourteenersComId": "10013",
+        "sourceUrl": "https://www.14ers.com/peaks/10013/quandary-peak",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.82123,
+          39.64276
+        ]
+      },
+      "properties": {
+        "name": "Torreys Peak",
+        "rank": 12,
+        "range": "Front Range",
+        "elevationFeet": 14272,
+        "routeCount": 7,
+        "easiestRouteClass": "Class 1",
+        "standardRouteClass": "Class 1",
+        "routes": [
+          {
+            "id": "gray1",
+            "name": "Grays Peak - North Slopes",
+            "url": "https://www.14ers.com/route.php?route=gray1",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3000,
+            "roundTripDistanceMiles": 7.5,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "torr2",
+            "name": "Torreys Peak - South Slopes",
+            "url": "https://www.14ers.com/route.php?route=torr2",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3000,
+            "roundTripDistanceMiles": 7.75,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "torr5",
+            "name": "Combo: Grays and Torreys",
+            "url": "https://www.14ers.com/route.php?route=torr5",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3600,
+            "roundTripDistanceMiles": 8.25,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "gray3",
+            "name": "Grays Peak - South Ridge",
+            "url": "https://www.14ers.com/route.php?route=gray3",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3250,
+            "roundTripDistanceMiles": 6.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "gray8",
+            "name": "Grays Peak - Southwest Ridge",
+            "url": "https://www.14ers.com/route.php?route=gray8",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3800,
+            "roundTripDistanceMiles": 10.25,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "torr4",
+            "name": "Torreys Peak - Kelso Ridge",
+            "url": "https://www.14ers.com/route.php?route=torr4",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3100,
+            "roundTripDistanceMiles": 6.75,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "torr11",
+            "name": "Torreys Peak - West Ridge",
+            "url": "https://www.14ers.com/route.php?route=torr11",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5500,
+            "roundTripDistanceMiles": 10,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "torr9",
+            "name": "Torreys Peak - NW Face/Tuning Fork",
+            "url": "https://www.14ers.com/route.php?route=torr9",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 10.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "gray6",
+            "name": "Grays Peak - Lost Rat Couloir",
+            "url": "https://www.14ers.com/route.php?route=gray6",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3000,
+            "roundTripDistanceMiles": 6.5,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "torr7",
+            "name": "Torreys Peak - Dead Dog Couloir",
+            "url": "https://www.14ers.com/route.php?route=torr7",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3000,
+            "roundTripDistanceMiles": 6,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "torr10",
+            "name": "Torreys Peak - Emperor Couloir",
+            "url": "https://www.14ers.com/route.php?route=torr10",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 9.5,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          }
+        ],
+        "memberAscents": 19637,
+        "fourteenersComId": "10011",
+        "sourceUrl": "https://www.14ers.com/peaks/10011/torreys-peak",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.24621,
+          38.67414
+        ]
+      },
+      "properties": {
+        "name": "Mount Antero",
+        "rank": 13,
+        "range": "Sawatch Range",
+        "elevationFeet": 14271,
+        "routeCount": 2,
+        "easiestRouteClass": "Class 2",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "ante1",
+            "name": "Mt. Antero - West Slopes",
+            "url": "https://www.14ers.com/route.php?route=ante1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 5200,
+            "roundTripDistanceMiles": 15.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "ante2",
+            "name": "Mt. Antero - Via Little Browns Creek",
+            "url": "https://www.14ers.com/route.php?route=ante2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5550,
+            "roundTripDistanceMiles": 16.25,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          }
+        ],
+        "memberAscents": 8745,
+        "fourteenersComId": "10010",
+        "sourceUrl": "https://www.14ers.com/peaks/10010/mount-antero",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.64363,
+          39.58835
+        ]
+      },
+      "properties": {
+        "name": "Mount Blue Sky",
+        "rank": 14,
+        "range": "Front Range",
+        "elevationFeet": 14268,
+        "routeCount": 8,
+        "easiestRouteClass": "Class 2",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "bier1",
+            "name": "Mt. Bierstadt - West Slopes",
+            "url": "https://www.14ers.com/route.php?route=bier1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 2850,
+            "roundTripDistanceMiles": 7.25,
+            "exposure": "Low",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "evan2",
+            "name": "Mt. Blue Sky - West Ridge from Summit Lake",
+            "url": "https://www.14ers.com/route.php?route=evan2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 2000,
+            "roundTripDistanceMiles": 5.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "bier4",
+            "name": "Combo: Bierstadt, Sawtooth, Blue Sky",
+            "url": "https://www.14ers.com/route.php?route=bier4",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3900,
+            "roundTripDistanceMiles": 10.5,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "High"
+          },
+          {
+            "id": "evan1",
+            "name": "Mt. Blue Sky - West Ridge from Echo Lake",
+            "url": "https://www.14ers.com/route.php?route=evan1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5600,
+            "roundTripDistanceMiles": 17,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "bier3",
+            "name": "Mt. Bierstadt - East Ridge",
+            "url": "https://www.14ers.com/route.php?route=bier3",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3000,
+            "roundTripDistanceMiles": 5,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "evan3",
+            "name": "Mt. Blue Sky - West Ridge from Guanella Pass",
+            "url": "https://www.14ers.com/route.php?route=evan3",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3100,
+            "roundTripDistanceMiles": 9.25,
+            "exposure": "Moderate",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "bier5",
+            "name": "Combo: Tour de Abyss Loop",
+            "url": "https://www.14ers.com/route.php?route=bier5",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3000,
+            "roundTripDistanceMiles": 5.75,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "High"
+          },
+          {
+            "id": "bier6",
+            "name": "Mt. Bierstadt - South Ridge",
+            "url": "https://www.14ers.com/route.php?route=bier6",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 14.25,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "evan7",
+            "name": "Mt. Blue Sky - North Face Moderate",
+            "url": "https://www.14ers.com/route.php?route=evan7",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 1500,
+            "roundTripDistanceMiles": 2,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Low",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "evan4",
+            "name": "Mt. Blue Sky - West Gully",
+            "url": "https://www.14ers.com/route.php?route=evan4",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 1650,
+            "roundTripDistanceMiles": 5.25,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "evan8",
+            "name": "Mt. Blue Sky - North Face Steep",
+            "url": "https://www.14ers.com/route.php?route=evan8",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 1500,
+            "roundTripDistanceMiles": 2,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          }
+        ],
+        "memberAscents": 15427,
+        "fourteenersComId": "10014",
+        "sourceUrl": "https://www.14ers.com/peaks/10014/mount-blue-sky",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.61507,
+          40.25502
+        ]
+      },
+      "properties": {
+        "name": "Longs Peak",
+        "rank": 15,
+        "range": "Front Range",
+        "elevationFeet": 14259,
+        "routeCount": 3,
+        "easiestRouteClass": "Class 3",
+        "standardRouteClass": "Class 3",
+        "routes": [
+          {
+            "id": "long1",
+            "name": "Longs Peak - Keyhole Route",
+            "url": "https://www.14ers.com/route.php?route=long1",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": true,
+            "elevationGainFeet": 5100,
+            "roundTripDistanceMiles": 14.5,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "High"
+          },
+          {
+            "id": "long5",
+            "name": "Longs Peak - Keplinger Couloir",
+            "url": "https://www.14ers.com/route.php?route=long5",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5900,
+            "roundTripDistanceMiles": 16,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "long2",
+            "name": "Longs Peak - Loft Route",
+            "url": "https://www.14ers.com/route.php?route=long2",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5300,
+            "roundTripDistanceMiles": 13,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "High",
+            "commitment": "High"
+          }
+        ],
+        "memberAscents": 12309,
+        "fourteenersComId": "10015",
+        "sourceUrl": "https://www.14ers.com/peaks/10015/longs-peak",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.99164,
+          37.83912
+        ]
+      },
+      "properties": {
+        "name": "Mount Wilson",
+        "rank": 16,
+        "range": "San Juan Mountains",
+        "elevationFeet": 14256,
+        "routeCount": 8,
+        "easiestRouteClass": "Class 1",
+        "standardRouteClass": "Class 3",
+        "routes": [
+          {
+            "id": "nava0",
+            "name": "Navajo Lake Approach",
+            "url": "https://www.14ers.com/route.php?route=nava0",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2000,
+            "roundTripDistanceMiles": 9.5,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "silv0",
+            "name": "Rock of Ages Approach",
+            "url": "https://www.14ers.com/route.php?route=silv0",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2800,
+            "roundTripDistanceMiles": 8.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "kilp0",
+            "name": "Kilpacker Approach",
+            "url": "https://www.14ers.com/route.php?route=kilp0",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": false,
+            "elevationGainFeet": 800,
+            "roundTripDistanceMiles": 6,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "wood0",
+            "name": "Woods Lake Approach",
+            "url": "https://www.14ers.com/route.php?route=wood0",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2115,
+            "roundTripDistanceMiles": 9,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "wils1",
+            "name": "Wilson Peak - Southwest Ridge",
+            "url": "https://www.14ers.com/route.php?route=wils1",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3900,
+            "roundTripDistanceMiles": 10,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "eldi4",
+            "name": "El Diente Peak - South Slopes",
+            "url": "https://www.14ers.com/route.php?route=eldi4",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4400,
+            "roundTripDistanceMiles": 12,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "High",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "mwil6",
+            "name": "Mt. Wilson - Southwest Slopes",
+            "url": "https://www.14ers.com/route.php?route=mwil6",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4400,
+            "roundTripDistanceMiles": 12.5,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "mwil2",
+            "name": "Mt. Wilson - North Slopes",
+            "url": "https://www.14ers.com/route.php?route=mwil2",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5100,
+            "roundTripDistanceMiles": 16,
+            "exposure": "High",
+            "rockfallPotential": "High",
+            "routeFinding": "High",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "eldi3",
+            "name": "El Diente Peak - North Slopes",
+            "url": "https://www.14ers.com/route.php?route=eldi3",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5000,
+            "roundTripDistanceMiles": 15,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "High",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "mwil5",
+            "name": "Combo: Mt. Wilson + El Diente Traverse",
+            "url": "https://www.14ers.com/route.php?route=mwil5",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": false,
+            "elevationGainFeet": 500,
+            "roundTripDistanceMiles": 1,
+            "exposure": "High",
+            "rockfallPotential": "High",
+            "routeFinding": "High",
+            "commitment": "High"
+          },
+          {
+            "id": "eldi8",
+            "name": "El Diente Peak - North Buttress",
+            "url": "https://www.14ers.com/route.php?route=eldi8",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3200,
+            "roundTripDistanceMiles": 5,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "High",
+            "commitment": "High"
+          },
+          {
+            "id": "mwil7",
+            "name": "Mt. Wilson - East Face",
+            "url": "https://www.14ers.com/route.php?route=mwil7",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4900,
+            "roundTripDistanceMiles": 12,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "High",
+            "commitment": "High"
+          }
+        ],
+        "memberAscents": 4132,
+        "fourteenersComId": "10016",
+        "sourceUrl": "https://www.14ers.com/peaks/10016/mount-wilson",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.23929,
+          38.61909
+        ]
+      },
+      "properties": {
+        "name": "Mount Shavano",
+        "rank": 17,
+        "range": "Sawatch Range",
+        "elevationFeet": 14230,
+        "routeCount": 2,
+        "easiestRouteClass": "Class 2",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "shav1",
+            "name": "Mt. Shavano - East Slopes",
+            "url": "https://www.14ers.com/route.php?route=shav1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 9.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "tabe2",
+            "name": "Tabeguache Peak - Via Mt. Shavano",
+            "url": "https://www.14ers.com/route.php?route=tabe2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 5600,
+            "roundTripDistanceMiles": 11.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "tabe3w",
+            "name": "Tabeguache Peak - West Ridge",
+            "url": "https://www.14ers.com/route.php?route=tabe3w",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4000,
+            "roundTripDistanceMiles": 8,
+            "exposure": "Moderate",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "shav4",
+            "name": "Mt. Shavano - Angel of Shavano",
+            "url": "https://www.14ers.com/route.php?route=shav4",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4600,
+            "roundTripDistanceMiles": 8,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Moderate"
+          }
+        ],
+        "memberAscents": 11838,
+        "fourteenersComId": "10017",
+        "sourceUrl": "https://www.14ers.com/peaks/10017/mount-shavano",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.36064,
+          38.9607
+        ]
+      },
+      "properties": {
+        "name": "Mount Belford",
+        "rank": 18,
+        "range": "Sawatch Range",
+        "elevationFeet": 14202,
+        "routeCount": 4,
+        "easiestRouteClass": "Class 2",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "miss1",
+            "name": "Missouri Mountain - Northwest Ridge",
+            "url": "https://www.14ers.com/route.php?route=miss1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 10.5,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Low",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "belf1",
+            "name": "Mt. Belford - Northwest Ridge",
+            "url": "https://www.14ers.com/route.php?route=belf1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 8,
+            "exposure": "Low",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "oxfo2",
+            "name": "Mt. Oxford - Via Mt. Belford",
+            "url": "https://www.14ers.com/route.php?route=oxfo2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 5900,
+            "roundTripDistanceMiles": 11,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "miss2",
+            "name": "Missouri Mountain - West Ridge",
+            "url": "https://www.14ers.com/route.php?route=miss2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4250,
+            "roundTripDistanceMiles": 11.75,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "belf9",
+            "name": "Mt. Belford - Southwest Slopes",
+            "url": "https://www.14ers.com/route.php?route=belf9",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 11,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "miss4",
+            "name": "Combo: Belford, Oxford and Missouri",
+            "url": "https://www.14ers.com/route.php?route=miss4",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 7600,
+            "roundTripDistanceMiles": 15,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "belf8",
+            "name": "Mt. Belford - Northwest Gully",
+            "url": "https://www.14ers.com/route.php?route=belf8",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 7,
+            "exposure": "Moderate",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "miss3",
+            "name": "Missouri Mountain - North Face Couloirs",
+            "url": "https://www.14ers.com/route.php?route=miss3",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 9,
+            "exposure": "Considerable",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          }
+        ],
+        "memberAscents": 12283,
+        "fourteenersComId": "10018",
+        "sourceUrl": "https://www.14ers.com/peaks/10018/mount-belford",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.24244,
+          38.74919
+        ]
+      },
+      "properties": {
+        "name": "Mount Princeton",
+        "rank": 19,
+        "range": "Sawatch Range",
+        "elevationFeet": 14200,
+        "routeCount": 1,
+        "easiestRouteClass": "Class 2",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "prin1",
+            "name": "Mt. Princeton - East Slopes",
+            "url": "https://www.14ers.com/route.php?route=prin1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3200,
+            "roundTripDistanceMiles": 6.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          }
+        ],
+        "memberAscents": 11274,
+        "fourteenersComId": "10020",
+        "sourceUrl": "https://www.14ers.com/peaks/10020/mount-princeton",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.31381,
+          38.84419
+        ]
+      },
+      "properties": {
+        "name": "Mount Yale",
+        "rank": 20,
+        "range": "Sawatch Range",
+        "elevationFeet": 14200,
+        "routeCount": 2,
+        "easiestRouteClass": "Class 2",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "yale1",
+            "name": "Mt. Yale - Southwest Slopes",
+            "url": "https://www.14ers.com/route.php?route=yale1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4300,
+            "roundTripDistanceMiles": 9.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "yale2",
+            "name": "Mt. Yale - East Ridge",
+            "url": "https://www.14ers.com/route.php?route=yale2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5000,
+            "roundTripDistanceMiles": 10.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          }
+        ],
+        "memberAscents": 12377,
+        "fourteenersComId": "10021",
+        "sourceUrl": "https://www.14ers.com/peaks/10021/mount-yale",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.57674,
+          37.9647
+        ]
+      },
+      "properties": {
+        "name": "Crestone Needle",
+        "rank": 21,
+        "range": "Sangre de Cristo",
+        "elevationFeet": 14196,
+        "routeCount": 3,
+        "easiestRouteClass": "Class 2",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "humb1",
+            "name": "Humboldt Peak - West Ridge",
+            "url": "https://www.14ers.com/route.php?route=humb1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4200,
+            "roundTripDistanceMiles": 11,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Low"
+          },
+          {
+            "id": "cpea2",
+            "name": "Crestone Peak - South Face",
+            "url": "https://www.14ers.com/route.php?route=cpea2",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": true,
+            "elevationGainFeet": 5700,
+            "roundTripDistanceMiles": 14,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "cnee1",
+            "name": "Crestone Needle - South Face",
+            "url": "https://www.14ers.com/route.php?route=cnee1",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4400,
+            "roundTripDistanceMiles": 12,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "High",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "humb2",
+            "name": "Humboldt Peak - East Ridge",
+            "url": "https://www.14ers.com/route.php?route=humb2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4300,
+            "roundTripDistanceMiles": 8,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "cnee3",
+            "name": "Combo: Crestones Traverse",
+            "url": "https://www.14ers.com/route.php?route=cnee3",
+            "difficulty": "Class 5",
+            "classGrade": "Class 5",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5300,
+            "roundTripDistanceMiles": 14,
+            "exposure": "Extreme",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "High",
+            "commitment": "High"
+          },
+          {
+            "id": "cnee5",
+            "name": "Crestone Needle - Ellingwood Arete/Ledges",
+            "url": "https://www.14ers.com/route.php?route=cnee5",
+            "difficulty": "Class 5",
+            "classGrade": "Class 5",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4400,
+            "roundTripDistanceMiles": 11.25,
+            "exposure": "Extreme",
+            "rockfallPotential": "High",
+            "routeFinding": "High",
+            "commitment": "Extreme"
+          },
+          {
+            "id": "humb3",
+            "name": "Humboldt Peak - Southeast Gully",
+            "url": "https://www.14ers.com/route.php?route=humb3",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5400,
+            "roundTripDistanceMiles": 8,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Moderate"
+          }
+        ],
+        "memberAscents": 5718,
+        "fourteenersComId": "10019",
+        "sourceUrl": "https://www.14ers.com/peaks/10019/crestone-needle",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.10773,
+          39.33545
+        ]
+      },
+      "properties": {
+        "name": "Mount Bross",
+        "rank": 22,
+        "range": "Mosquito Range",
+        "elevationFeet": 14178,
+        "routeCount": 5,
+        "easiestRouteClass": "Class 1",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "bros6",
+            "name": "Combo: Decalibron",
+            "url": "https://www.14ers.com/route.php?route=bros6",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3500,
+            "roundTripDistanceMiles": 7.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "demo1",
+            "name": "Mt. Democrat - East Slope",
+            "url": "https://www.14ers.com/route.php?route=demo1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 2150,
+            "roundTripDistanceMiles": 4,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "linc1",
+            "name": "Mt. Lincoln - West Ridge",
+            "url": "https://www.14ers.com/route.php?route=linc1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 2600,
+            "roundTripDistanceMiles": 6,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "bros2",
+            "name": "Mt. Bross - West Slopes",
+            "url": "https://www.14ers.com/route.php?route=bros2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 2250,
+            "roundTripDistanceMiles": 3.25,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "came1",
+            "name": "Mt. Cameron - West Ridge",
+            "url": "https://www.14ers.com/route.php?route=came1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 2250,
+            "roundTripDistanceMiles": 4.75,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "linc3",
+            "name": "Mt. Lincoln - East Slopes",
+            "url": "https://www.14ers.com/route.php?route=linc3",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2650,
+            "roundTripDistanceMiles": 6.5,
+            "exposure": "Low",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "linc2",
+            "name": "Mt. Lincoln - Lincoln Amphitheater",
+            "url": "https://www.14ers.com/route.php?route=linc2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3400,
+            "roundTripDistanceMiles": 4.75,
+            "exposure": "Moderate",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "bros1",
+            "name": "Mt. Bross - East Slopes",
+            "url": "https://www.14ers.com/route.php?route=bros1",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2900,
+            "roundTripDistanceMiles": 9,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "bros3",
+            "name": "Mt. Bross - S Gully",
+            "url": "https://www.14ers.com/route.php?route=bros3",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2600,
+            "roundTripDistanceMiles": 9.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "bros4",
+            "name": "Mt. Bross - Dolly Varden Gully",
+            "url": "https://www.14ers.com/route.php?route=bros4",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2900,
+            "roundTripDistanceMiles": 4,
+            "exposure": "Low",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "demo2",
+            "name": "Mt. Democrat - South Slope",
+            "url": "https://www.14ers.com/route.php?route=demo2",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2150,
+            "roundTripDistanceMiles": 2.5,
+            "exposure": "Considerable",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Moderate"
+          }
+        ],
+        "memberAscents": 17222,
+        "fourteenersComId": "10022",
+        "sourceUrl": "https://www.14ers.com/peaks/10022/mount-bross",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.60255,
+          37.97965
+        ]
+      },
+      "properties": {
+        "name": "Kit Carson Peak",
+        "rank": 23,
+        "range": "Sangre de Cristo",
+        "elevationFeet": 14167,
+        "routeCount": 5,
+        "easiestRouteClass": "Class 1",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "will0",
+            "name": "Willow Creek Approach",
+            "url": "https://www.14ers.com/route.php?route=will0",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2850,
+            "roundTripDistanceMiles": 9.5,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "chal1",
+            "name": "Challenger Point - North Slope",
+            "url": "https://www.14ers.com/route.php?route=chal1",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 5400,
+            "roundTripDistanceMiles": 13.5,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "kitc2",
+            "name": "Kit Carson Peak - Via Challenger Point",
+            "url": "https://www.14ers.com/route.php?route=kitc2",
+            "difficulty": "Easy Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": true,
+            "elevationGainFeet": 6250,
+            "roundTripDistanceMiles": 15,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "kitc3",
+            "name": "Kit Carson Peak - East Ridge",
+            "url": "https://www.14ers.com/route.php?route=kitc3",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5900,
+            "roundTripDistanceMiles": 14.5,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "High",
+            "commitment": "High"
+          },
+          {
+            "id": "kitc4",
+            "name": "Kit Carson Peak - North Ridge",
+            "url": "https://www.14ers.com/route.php?route=kitc4",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5315,
+            "roundTripDistanceMiles": 11.4,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "High"
+          },
+          {
+            "id": "chal5",
+            "name": "Challenger Point - Kirk Couloir",
+            "url": "https://www.14ers.com/route.php?route=chal5",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5400,
+            "roundTripDistanceMiles": 12.75,
+            "exposure": "Considerable",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "kitc6",
+            "name": "Kit Carson Peak - Outward Bound Couloir",
+            "url": "https://www.14ers.com/route.php?route=kitc6",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5500,
+            "roundTripDistanceMiles": 13.75,
+            "exposure": "Considerable",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          }
+        ],
+        "memberAscents": 6060,
+        "fourteenersComId": "10023",
+        "sourceUrl": "https://www.14ers.com/peaks/10023/kit-carson-peak",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.989,
+          39.07084
+        ]
+      },
+      "properties": {
+        "name": "Maroon Peak",
+        "rank": 24,
+        "range": "Elk Mountains",
+        "elevationFeet": 14163,
+        "routeCount": 3,
+        "easiestRouteClass": "Class 3",
+        "standardRouteClass": "Class 3",
+        "routes": [
+          {
+            "id": "maro1",
+            "name": "Maroon Peak - South Ridge",
+            "url": "https://www.14ers.com/route.php?route=maro1",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4800,
+            "roundTripDistanceMiles": 12,
+            "exposure": "High",
+            "rockfallPotential": "High",
+            "routeFinding": "Extreme",
+            "commitment": "Extreme"
+          },
+          {
+            "id": "pyra1",
+            "name": "Pyramid Peak - Northeast Ridge",
+            "url": "https://www.14ers.com/route.php?route=pyra1",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 8.25,
+            "exposure": "High",
+            "rockfallPotential": "High",
+            "routeFinding": "High",
+            "commitment": "High"
+          },
+          {
+            "id": "nmar2",
+            "name": "North Maroon Peak - Northeast Ridge",
+            "url": "https://www.14ers.com/route.php?route=nmar2",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4600,
+            "roundTripDistanceMiles": 9.25,
+            "exposure": "High",
+            "rockfallPotential": "High",
+            "routeFinding": "High",
+            "commitment": "High"
+          },
+          {
+            "id": "nmar4",
+            "name": "Combo: Bells Traverse",
+            "url": "https://www.14ers.com/route.php?route=nmar4",
+            "difficulty": "Class 5",
+            "classGrade": "Class 5",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4850,
+            "roundTripDistanceMiles": 9.5,
+            "exposure": "Extreme",
+            "rockfallPotential": "High",
+            "routeFinding": "Extreme",
+            "commitment": "Extreme"
+          },
+          {
+            "id": "maro3",
+            "name": "Maroon Peak - Bell Cord Couloir",
+            "url": "https://www.14ers.com/route.php?route=maro3",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4556,
+            "roundTripDistanceMiles": 8,
+            "exposure": "High",
+            "rockfallPotential": "High",
+            "routeFinding": "High",
+            "commitment": "High"
+          }
+        ],
+        "memberAscents": 4446,
+        "fourteenersComId": "10024",
+        "sourceUrl": "https://www.14ers.com/peaks/10024/maroon-peak",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.33883,
+          38.96482
+        ]
+      },
+      "properties": {
+        "name": "Mount Oxford",
+        "rank": 25,
+        "range": "Sawatch Range",
+        "elevationFeet": 14158,
+        "routeCount": 2,
+        "easiestRouteClass": "Class 2",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "miss1",
+            "name": "Missouri Mountain - Northwest Ridge",
+            "url": "https://www.14ers.com/route.php?route=miss1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 10.5,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Low",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "belf1",
+            "name": "Mt. Belford - Northwest Ridge",
+            "url": "https://www.14ers.com/route.php?route=belf1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 8,
+            "exposure": "Low",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "oxfo2",
+            "name": "Mt. Oxford - Via Mt. Belford",
+            "url": "https://www.14ers.com/route.php?route=oxfo2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 5900,
+            "roundTripDistanceMiles": 11,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "miss2",
+            "name": "Missouri Mountain - West Ridge",
+            "url": "https://www.14ers.com/route.php?route=miss2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4250,
+            "roundTripDistanceMiles": 11.75,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "belf9",
+            "name": "Mt. Belford - Southwest Slopes",
+            "url": "https://www.14ers.com/route.php?route=belf9",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 11,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "miss4",
+            "name": "Combo: Belford, Oxford and Missouri",
+            "url": "https://www.14ers.com/route.php?route=miss4",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 7600,
+            "roundTripDistanceMiles": 15,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "belf8",
+            "name": "Mt. Belford - Northwest Gully",
+            "url": "https://www.14ers.com/route.php?route=belf8",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 7,
+            "exposure": "Moderate",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "miss3",
+            "name": "Missouri Mountain - North Face Couloirs",
+            "url": "https://www.14ers.com/route.php?route=miss3",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 9,
+            "exposure": "Considerable",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          }
+        ],
+        "memberAscents": 10736,
+        "fourteenersComId": "10026",
+        "sourceUrl": "https://www.14ers.com/peaks/10026/mount-oxford",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.25082,
+          38.62549
+        ]
+      },
+      "properties": {
+        "name": "Tabeguache Peak",
+        "rank": 26,
+        "range": "Sawatch Range",
+        "elevationFeet": 14158,
+        "routeCount": 2,
+        "easiestRouteClass": "Class 2",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "shav1",
+            "name": "Mt. Shavano - East Slopes",
+            "url": "https://www.14ers.com/route.php?route=shav1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 9.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "tabe2",
+            "name": "Tabeguache Peak - Via Mt. Shavano",
+            "url": "https://www.14ers.com/route.php?route=tabe2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 5600,
+            "roundTripDistanceMiles": 11.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "tabe3w",
+            "name": "Tabeguache Peak - West Ridge",
+            "url": "https://www.14ers.com/route.php?route=tabe3w",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4000,
+            "roundTripDistanceMiles": 8,
+            "exposure": "Moderate",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "shav4",
+            "name": "Mt. Shavano - Angel of Shavano",
+            "url": "https://www.14ers.com/route.php?route=shav4",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4600,
+            "roundTripDistanceMiles": 8,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Moderate"
+          }
+        ],
+        "memberAscents": 9712,
+        "fourteenersComId": "10025",
+        "sourceUrl": "https://www.14ers.com/peaks/10025/tabeguache-peak",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.79235,
+          38.00382
+        ]
+      },
+      "properties": {
+        "name": "Mount Sneffels",
+        "rank": 27,
+        "range": "San Juan Mountains",
+        "elevationFeet": 14155,
+        "routeCount": 2,
+        "easiestRouteClass": "Class 3",
+        "standardRouteClass": "Class 3",
+        "routes": [
+          {
+            "id": "snef1",
+            "name": "Mt. Sneffels - South Slopes",
+            "url": "https://www.14ers.com/route.php?route=snef1",
+            "difficulty": "Easy Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": true,
+            "elevationGainFeet": 2900,
+            "roundTripDistanceMiles": 6,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "snef2",
+            "name": "Mt. Sneffels - Southwest Ridge",
+            "url": "https://www.14ers.com/route.php?route=snef2",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2950,
+            "roundTripDistanceMiles": 6.5,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          }
+        ],
+        "memberAscents": 8431,
+        "fourteenersComId": "10027",
+        "sourceUrl": "https://www.14ers.com/peaks/10027/mount-sneffels",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.14005,
+          39.33958
+        ]
+      },
+      "properties": {
+        "name": "Mount Democrat",
+        "rank": 28,
+        "range": "Mosquito Range",
+        "elevationFeet": 14154,
+        "routeCount": 3,
+        "easiestRouteClass": "Class 1",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "bros6",
+            "name": "Combo: Decalibron",
+            "url": "https://www.14ers.com/route.php?route=bros6",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3500,
+            "roundTripDistanceMiles": 7.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "demo1",
+            "name": "Mt. Democrat - East Slope",
+            "url": "https://www.14ers.com/route.php?route=demo1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 2150,
+            "roundTripDistanceMiles": 4,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "linc1",
+            "name": "Mt. Lincoln - West Ridge",
+            "url": "https://www.14ers.com/route.php?route=linc1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 2600,
+            "roundTripDistanceMiles": 6,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "bros2",
+            "name": "Mt. Bross - West Slopes",
+            "url": "https://www.14ers.com/route.php?route=bros2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 2250,
+            "roundTripDistanceMiles": 3.25,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "came1",
+            "name": "Mt. Cameron - West Ridge",
+            "url": "https://www.14ers.com/route.php?route=came1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 2250,
+            "roundTripDistanceMiles": 4.75,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "linc3",
+            "name": "Mt. Lincoln - East Slopes",
+            "url": "https://www.14ers.com/route.php?route=linc3",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2650,
+            "roundTripDistanceMiles": 6.5,
+            "exposure": "Low",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "linc2",
+            "name": "Mt. Lincoln - Lincoln Amphitheater",
+            "url": "https://www.14ers.com/route.php?route=linc2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3400,
+            "roundTripDistanceMiles": 4.75,
+            "exposure": "Moderate",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "bros1",
+            "name": "Mt. Bross - East Slopes",
+            "url": "https://www.14ers.com/route.php?route=bros1",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2900,
+            "roundTripDistanceMiles": 9,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "bros3",
+            "name": "Mt. Bross - S Gully",
+            "url": "https://www.14ers.com/route.php?route=bros3",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2600,
+            "roundTripDistanceMiles": 9.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "bros4",
+            "name": "Mt. Bross - Dolly Varden Gully",
+            "url": "https://www.14ers.com/route.php?route=bros4",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2900,
+            "roundTripDistanceMiles": 4,
+            "exposure": "Low",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "demo2",
+            "name": "Mt. Democrat - South Slope",
+            "url": "https://www.14ers.com/route.php?route=demo2",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2150,
+            "roundTripDistanceMiles": 2.5,
+            "exposure": "Considerable",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Moderate"
+          }
+        ],
+        "memberAscents": 18610,
+        "fourteenersComId": "10028",
+        "sourceUrl": "https://www.14ers.com/peaks/10028/mount-democrat",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.08294,
+          39.15026
+        ]
+      },
+      "properties": {
+        "name": "Capitol Peak",
+        "rank": 29,
+        "range": "Elk Mountains",
+        "elevationFeet": 14138,
+        "routeCount": 1,
+        "easiestRouteClass": "Class 4",
+        "standardRouteClass": "Class 4",
+        "routes": [
+          {
+            "id": "capi1",
+            "name": "Capitol Peak - Northeast Ridge",
+            "url": "https://www.14ers.com/route.php?route=capi1",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": true,
+            "elevationGainFeet": 5300,
+            "roundTripDistanceMiles": 17,
+            "exposure": "High",
+            "rockfallPotential": "High",
+            "routeFinding": "High",
+            "commitment": "Extreme"
+          }
+        ],
+        "memberAscents": 4550,
+        "fourteenersComId": "10029",
+        "sourceUrl": "https://www.14ers.com/peaks/10029/capitol-peak",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.04375,
+          38.84034
+        ]
+      },
+      "properties": {
+        "name": "Pikes Peak",
+        "rank": 30,
+        "range": "Front Range",
+        "elevationFeet": 14109,
+        "routeCount": 2,
+        "easiestRouteClass": "Class 1",
+        "standardRouteClass": "Class 1",
+        "routes": [
+          {
+            "id": "pikeeast",
+            "name": "Pikes Peak - East Slopes",
+            "url": "https://www.14ers.com/route.php?route=pikeeast",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": true,
+            "elevationGainFeet": 7600,
+            "roundTripDistanceMiles": 24,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "pike1",
+            "name": "Pikes Peak - Northwest Slopes",
+            "url": "https://www.14ers.com/route.php?route=pike1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4300,
+            "roundTripDistanceMiles": 14,
+            "exposure": "Low",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Moderate"
+          }
+        ],
+        "memberAscents": 12754,
+        "fourteenersComId": "10030",
+        "sourceUrl": "https://www.14ers.com/peaks/10030/pikes-peak",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.06644,
+          39.11875
+        ]
+      },
+      "properties": {
+        "name": "Snowmass Mountain",
+        "rank": 31,
+        "range": "Elk Mountains",
+        "elevationFeet": 14105,
+        "routeCount": 2,
+        "easiestRouteClass": "Class 3",
+        "standardRouteClass": "Class 3",
+        "routes": [
+          {
+            "id": "snow1",
+            "name": "Snowmass Mountain - East Slopes",
+            "url": "https://www.14ers.com/route.php?route=snow1",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": true,
+            "elevationGainFeet": 5800,
+            "roundTripDistanceMiles": 22,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "High"
+          },
+          {
+            "id": "snow2",
+            "name": "Snowmass Mountain - West Slope",
+            "url": "https://www.14ers.com/route.php?route=snow2",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 9,
+            "exposure": "High",
+            "rockfallPotential": "High",
+            "routeFinding": "High",
+            "commitment": "High"
+          }
+        ],
+        "memberAscents": 4418,
+        "fourteenersComId": "10031",
+        "sourceUrl": "https://www.14ers.com/peaks/10031/snowmass-mountain",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.59191,
+          37.62123
+        ]
+      },
+      "properties": {
+        "name": "Windom Peak",
+        "rank": 32,
+        "range": "San Juan Mountains",
+        "elevationFeet": 14089,
+        "routeCount": 2,
+        "easiestRouteClass": "Class 1",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "chib1",
+            "name": "Chicago Basin Approach",
+            "url": "https://www.14ers.com/route.php?route=chib1",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2800,
+            "roundTripDistanceMiles": 12,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "wind1",
+            "name": "Windom Peak - West Ridge",
+            "url": "https://www.14ers.com/route.php?route=wind1",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3000,
+            "roundTripDistanceMiles": 6,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "sunl2",
+            "name": "Sunlight Peak - South Face",
+            "url": "https://www.14ers.com/route.php?route=sunl2",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3000,
+            "roundTripDistanceMiles": 6,
+            "exposure": "Extreme",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "eolu3",
+            "name": "Mt. Eolus - Northeast Ridge",
+            "url": "https://www.14ers.com/route.php?route=eolu3",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3100,
+            "roundTripDistanceMiles": 6,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "neol4",
+            "name": "North Eolus - South Ridge",
+            "url": "https://www.14ers.com/route.php?route=neol4",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": true,
+            "elevationGainFeet": 250,
+            "roundTripDistanceMiles": 0.2,
+            "exposure": "Considerable",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          }
+        ],
+        "memberAscents": 5032,
+        "fourteenersComId": "10033",
+        "sourceUrl": "https://www.14ers.com/peaks/10033/windom-peak",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.62272,
+          37.62195
+        ]
+      },
+      "properties": {
+        "name": "Mount Eolus",
+        "rank": 33,
+        "range": "San Juan Mountains",
+        "elevationFeet": 14087,
+        "routeCount": 2,
+        "easiestRouteClass": "Class 1",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "chib1",
+            "name": "Chicago Basin Approach",
+            "url": "https://www.14ers.com/route.php?route=chib1",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2800,
+            "roundTripDistanceMiles": 12,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "wind1",
+            "name": "Windom Peak - West Ridge",
+            "url": "https://www.14ers.com/route.php?route=wind1",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3000,
+            "roundTripDistanceMiles": 6,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "sunl2",
+            "name": "Sunlight Peak - South Face",
+            "url": "https://www.14ers.com/route.php?route=sunl2",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3000,
+            "roundTripDistanceMiles": 6,
+            "exposure": "Extreme",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "eolu3",
+            "name": "Mt. Eolus - Northeast Ridge",
+            "url": "https://www.14ers.com/route.php?route=eolu3",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3100,
+            "roundTripDistanceMiles": 6,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "neol4",
+            "name": "North Eolus - South Ridge",
+            "url": "https://www.14ers.com/route.php?route=neol4",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": true,
+            "elevationGainFeet": 250,
+            "roundTripDistanceMiles": 0.2,
+            "exposure": "Considerable",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          }
+        ],
+        "memberAscents": 4520,
+        "fourteenersComId": "10032",
+        "sourceUrl": "https://www.14ers.com/peaks/10032/mount-eolus",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.29752,
+          38.90402
+        ]
+      },
+      "properties": {
+        "name": "Mount Columbia",
+        "rank": 34,
+        "range": "Sawatch Range",
+        "elevationFeet": 14075,
+        "routeCount": 4,
+        "easiestRouteClass": "Class 2",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "harv1",
+            "name": "Mt. Harvard - South Slopes",
+            "url": "https://www.14ers.com/route.php?route=harv1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4600,
+            "roundTripDistanceMiles": 13.75,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "colu2",
+            "name": "Mt. Columbia - West Slopes",
+            "url": "https://www.14ers.com/route.php?route=colu2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4250,
+            "roundTripDistanceMiles": 12,
+            "exposure": "Moderate",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "harv4",
+            "name": "Combo: Harvard and Columbia Traverse",
+            "url": "https://www.14ers.com/route.php?route=harv4",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 6100,
+            "roundTripDistanceMiles": 15,
+            "exposure": "Moderate",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "High",
+            "commitment": "High"
+          },
+          {
+            "id": "colu5",
+            "name": "Mt. Columbia - Southeast Ridge",
+            "url": "https://www.14ers.com/route.php?route=colu5",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4800,
+            "roundTripDistanceMiles": 11.25,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "harv3",
+            "name": "Mt. Harvard - South Face",
+            "url": "https://www.14ers.com/route.php?route=harv3",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4600,
+            "roundTripDistanceMiles": 13.75,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "colu6",
+            "name": "Mt. Columbia - Southwest Couloir",
+            "url": "https://www.14ers.com/route.php?route=colu6",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4800,
+            "roundTripDistanceMiles": 13.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Moderate"
+          }
+        ],
+        "memberAscents": 8556,
+        "fourteenersComId": "10035",
+        "sourceUrl": "https://www.14ers.com/peaks/10035/mount-columbia",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.37844,
+          38.94757
+        ]
+      },
+      "properties": {
+        "name": "Missouri Mountain",
+        "rank": 35,
+        "range": "Sawatch Range",
+        "elevationFeet": 14071,
+        "routeCount": 4,
+        "easiestRouteClass": "Class 2",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "miss1",
+            "name": "Missouri Mountain - Northwest Ridge",
+            "url": "https://www.14ers.com/route.php?route=miss1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 10.5,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Low",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "belf1",
+            "name": "Mt. Belford - Northwest Ridge",
+            "url": "https://www.14ers.com/route.php?route=belf1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 8,
+            "exposure": "Low",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "oxfo2",
+            "name": "Mt. Oxford - Via Mt. Belford",
+            "url": "https://www.14ers.com/route.php?route=oxfo2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 5900,
+            "roundTripDistanceMiles": 11,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "miss2",
+            "name": "Missouri Mountain - West Ridge",
+            "url": "https://www.14ers.com/route.php?route=miss2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4250,
+            "roundTripDistanceMiles": 11.75,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "belf9",
+            "name": "Mt. Belford - Southwest Slopes",
+            "url": "https://www.14ers.com/route.php?route=belf9",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 11,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "miss4",
+            "name": "Combo: Belford, Oxford and Missouri",
+            "url": "https://www.14ers.com/route.php?route=miss4",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 7600,
+            "roundTripDistanceMiles": 15,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "belf8",
+            "name": "Mt. Belford - Northwest Gully",
+            "url": "https://www.14ers.com/route.php?route=belf8",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 7,
+            "exposure": "Moderate",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "miss3",
+            "name": "Missouri Mountain - North Face Couloirs",
+            "url": "https://www.14ers.com/route.php?route=miss3",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 9,
+            "exposure": "Considerable",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          }
+        ],
+        "memberAscents": 9799,
+        "fourteenersComId": "10036",
+        "sourceUrl": "https://www.14ers.com/peaks/10036/missouri-mountain",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.55534,
+          37.97618
+        ]
+      },
+      "properties": {
+        "name": "Humboldt Peak",
+        "rank": 36,
+        "range": "Sangre de Cristo",
+        "elevationFeet": 14068,
+        "routeCount": 3,
+        "easiestRouteClass": "Class 2",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "humb1",
+            "name": "Humboldt Peak - West Ridge",
+            "url": "https://www.14ers.com/route.php?route=humb1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4200,
+            "roundTripDistanceMiles": 11,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Low"
+          },
+          {
+            "id": "cpea2",
+            "name": "Crestone Peak - South Face",
+            "url": "https://www.14ers.com/route.php?route=cpea2",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": true,
+            "elevationGainFeet": 5700,
+            "roundTripDistanceMiles": 14,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "cnee1",
+            "name": "Crestone Needle - South Face",
+            "url": "https://www.14ers.com/route.php?route=cnee1",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4400,
+            "roundTripDistanceMiles": 12,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "High",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "humb2",
+            "name": "Humboldt Peak - East Ridge",
+            "url": "https://www.14ers.com/route.php?route=humb2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4300,
+            "roundTripDistanceMiles": 8,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "cnee3",
+            "name": "Combo: Crestones Traverse",
+            "url": "https://www.14ers.com/route.php?route=cnee3",
+            "difficulty": "Class 5",
+            "classGrade": "Class 5",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5300,
+            "roundTripDistanceMiles": 14,
+            "exposure": "Extreme",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "High",
+            "commitment": "High"
+          },
+          {
+            "id": "cnee5",
+            "name": "Crestone Needle - Ellingwood Arete/Ledges",
+            "url": "https://www.14ers.com/route.php?route=cnee5",
+            "difficulty": "Class 5",
+            "classGrade": "Class 5",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4400,
+            "roundTripDistanceMiles": 11.25,
+            "exposure": "Extreme",
+            "rockfallPotential": "High",
+            "routeFinding": "High",
+            "commitment": "Extreme"
+          },
+          {
+            "id": "humb3",
+            "name": "Humboldt Peak - Southeast Gully",
+            "url": "https://www.14ers.com/route.php?route=humb3",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5400,
+            "roundTripDistanceMiles": 8,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Moderate"
+          }
+        ],
+        "memberAscents": 8196,
+        "fourteenersComId": "10037",
+        "sourceUrl": "https://www.14ers.com/peaks/10037/humboldt-peak",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.66886,
+          39.58256
+        ]
+      },
+      "properties": {
+        "name": "Mount Bierstadt",
+        "rank": 37,
+        "range": "Front Range",
+        "elevationFeet": 14066,
+        "routeCount": 5,
+        "easiestRouteClass": "Class 2",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "bier1",
+            "name": "Mt. Bierstadt - West Slopes",
+            "url": "https://www.14ers.com/route.php?route=bier1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 2850,
+            "roundTripDistanceMiles": 7.25,
+            "exposure": "Low",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "evan2",
+            "name": "Mt. Blue Sky - West Ridge from Summit Lake",
+            "url": "https://www.14ers.com/route.php?route=evan2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 2000,
+            "roundTripDistanceMiles": 5.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "bier4",
+            "name": "Combo: Bierstadt, Sawtooth, Blue Sky",
+            "url": "https://www.14ers.com/route.php?route=bier4",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3900,
+            "roundTripDistanceMiles": 10.5,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "High"
+          },
+          {
+            "id": "evan1",
+            "name": "Mt. Blue Sky - West Ridge from Echo Lake",
+            "url": "https://www.14ers.com/route.php?route=evan1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5600,
+            "roundTripDistanceMiles": 17,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "bier3",
+            "name": "Mt. Bierstadt - East Ridge",
+            "url": "https://www.14ers.com/route.php?route=bier3",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3000,
+            "roundTripDistanceMiles": 5,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "evan3",
+            "name": "Mt. Blue Sky - West Ridge from Guanella Pass",
+            "url": "https://www.14ers.com/route.php?route=evan3",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3100,
+            "roundTripDistanceMiles": 9.25,
+            "exposure": "Moderate",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "bier5",
+            "name": "Combo: Tour de Abyss Loop",
+            "url": "https://www.14ers.com/route.php?route=bier5",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3000,
+            "roundTripDistanceMiles": 5.75,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "High"
+          },
+          {
+            "id": "bier6",
+            "name": "Mt. Bierstadt - South Ridge",
+            "url": "https://www.14ers.com/route.php?route=bier6",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 14.25,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "evan7",
+            "name": "Mt. Blue Sky - North Face Moderate",
+            "url": "https://www.14ers.com/route.php?route=evan7",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 1500,
+            "roundTripDistanceMiles": 2,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Low",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "evan4",
+            "name": "Mt. Blue Sky - West Gully",
+            "url": "https://www.14ers.com/route.php?route=evan4",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 1650,
+            "roundTripDistanceMiles": 5.25,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "evan8",
+            "name": "Mt. Blue Sky - North Face Steep",
+            "url": "https://www.14ers.com/route.php?route=evan8",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 1500,
+            "roundTripDistanceMiles": 2,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          }
+        ],
+        "memberAscents": 20467,
+        "fourteenersComId": "10038",
+        "sourceUrl": "https://www.14ers.com/peaks/10038/mount-bierstadt",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.59573,
+          37.62742
+        ]
+      },
+      "properties": {
+        "name": "Sunlight Peak",
+        "rank": 38,
+        "range": "San Juan Mountains",
+        "elevationFeet": 14061,
+        "routeCount": 2,
+        "easiestRouteClass": "Class 1",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "chib1",
+            "name": "Chicago Basin Approach",
+            "url": "https://www.14ers.com/route.php?route=chib1",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2800,
+            "roundTripDistanceMiles": 12,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "wind1",
+            "name": "Windom Peak - West Ridge",
+            "url": "https://www.14ers.com/route.php?route=wind1",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3000,
+            "roundTripDistanceMiles": 6,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "sunl2",
+            "name": "Sunlight Peak - South Face",
+            "url": "https://www.14ers.com/route.php?route=sunl2",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3000,
+            "roundTripDistanceMiles": 6,
+            "exposure": "Extreme",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "eolu3",
+            "name": "Mt. Eolus - Northeast Ridge",
+            "url": "https://www.14ers.com/route.php?route=eolu3",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3100,
+            "roundTripDistanceMiles": 6,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "neol4",
+            "name": "North Eolus - South Ridge",
+            "url": "https://www.14ers.com/route.php?route=neol4",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": true,
+            "elevationGainFeet": 250,
+            "roundTripDistanceMiles": 0.2,
+            "exposure": "Considerable",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          }
+        ],
+        "memberAscents": 4901,
+        "fourteenersComId": "10039",
+        "sourceUrl": "https://www.14ers.com/peaks/10039/sunlight-peak",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.50439,
+          37.91297
+        ]
+      },
+      "properties": {
+        "name": "Handies Peak",
+        "rank": 39,
+        "range": "San Juan Mountains",
+        "elevationFeet": 14058,
+        "routeCount": 3,
+        "easiestRouteClass": "Class 1",
+        "standardRouteClass": "Class 1",
+        "routes": [
+          {
+            "id": "hand1",
+            "name": "Handies Peak - Southwest Slopes",
+            "url": "https://www.14ers.com/route.php?route=hand1",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": true,
+            "elevationGainFeet": 2500,
+            "roundTripDistanceMiles": 5.75,
+            "exposure": "Moderate",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "hand2",
+            "name": "Handies Peak - East Slopes",
+            "url": "https://www.14ers.com/route.php?route=hand2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3650,
+            "roundTripDistanceMiles": 8,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "hand3",
+            "name": "Handies Peak - West Slopes",
+            "url": "https://www.14ers.com/route.php?route=hand3",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2800,
+            "roundTripDistanceMiles": 5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Moderate"
+          }
+        ],
+        "memberAscents": 9022,
+        "fourteenersComId": "10040",
+        "sourceUrl": "https://www.14ers.com/peaks/10040/handies-peak",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.49248,
+          37.58257
+        ]
+      },
+      "properties": {
+        "name": "Ellingwood Point",
+        "rank": 40,
+        "range": "Sangre de Cristo",
+        "elevationFeet": 14057,
+        "routeCount": 5,
+        "easiestRouteClass": "Class 1",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "como0",
+            "name": "Lake Como Approach",
+            "url": "https://www.14ers.com/route.php?route=como0",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3900,
+            "roundTripDistanceMiles": 11,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "blan1",
+            "name": "Blanca Peak - Northwest Ridge",
+            "url": "https://www.14ers.com/route.php?route=blan1",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 6500,
+            "roundTripDistanceMiles": 17,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "elli2",
+            "name": "Ellingwood Point - South Face",
+            "url": "https://www.14ers.com/route.php?route=elli2",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 6200,
+            "roundTripDistanceMiles": 17,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "litt6",
+            "name": "Little Bear Peak - West Ridge and Hourglass",
+            "url": "https://www.14ers.com/route.php?route=litt6",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": true,
+            "elevationGainFeet": 6200,
+            "roundTripDistanceMiles": 14,
+            "exposure": "High",
+            "rockfallPotential": "High",
+            "routeFinding": "High",
+            "commitment": "High"
+          },
+          {
+            "id": "elli3",
+            "name": "Combo: Blanca and Ellingwood",
+            "url": "https://www.14ers.com/route.php?route=elli3",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 6800,
+            "roundTripDistanceMiles": 18,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "litt3",
+            "name": "Combo: Little Bear + Blanca Traverse",
+            "url": "https://www.14ers.com/route.php?route=litt3",
+            "difficulty": "Class 5",
+            "classGrade": "Class 5",
+            "isStandardRoute": false,
+            "elevationGainFeet": 8000,
+            "roundTripDistanceMiles": 17,
+            "exposure": "Extreme",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "High",
+            "commitment": "Extreme"
+          },
+          {
+            "id": "elli4",
+            "name": "Ellingwood Point - Southwest Ridge",
+            "url": "https://www.14ers.com/route.php?route=elli4",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2200,
+            "roundTripDistanceMiles": 15,
+            "exposure": "High",
+            "rockfallPotential": "High",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "elli5",
+            "name": "Ellingwood Point - North Ridge via South Zapata Creek",
+            "url": "https://www.14ers.com/route.php?route=elli5",
+            "difficulty": "Easy Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5200,
+            "roundTripDistanceMiles": 12.5,
+            "exposure": "Considerable",
+            "rockfallPotential": "High",
+            "routeFinding": "High",
+            "commitment": "High"
+          },
+          {
+            "id": "litt8",
+            "name": "Little Bear Peak - West Ridge Indirect",
+            "url": "https://www.14ers.com/route.php?route=litt8",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": false,
+            "elevationGainFeet": 6200,
+            "roundTripDistanceMiles": 14,
+            "exposure": "Extreme",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "High",
+            "commitment": "High"
+          }
+        ],
+        "memberAscents": 5510,
+        "fourteenersComId": "10042",
+        "sourceUrl": "https://www.14ers.com/peaks/10042/ellingwood-point",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4449,
+          37.58389
+        ]
+      },
+      "properties": {
+        "name": "Mount Lindsey",
+        "rank": 41,
+        "range": "Sangre de Cristo",
+        "elevationFeet": 14055,
+        "routeCount": 3,
+        "easiestRouteClass": "Class 2",
+        "standardRouteClass": "Class 3",
+        "routes": [
+          {
+            "id": "lind1",
+            "name": "Mt. Lindsey - Northwest Gully",
+            "url": "https://www.14ers.com/route.php?route=lind1",
+            "difficulty": "Easy Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3500,
+            "roundTripDistanceMiles": 8.25,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "lind2",
+            "name": "Mt. Lindsey - Northwest Ridge",
+            "url": "https://www.14ers.com/route.php?route=lind2",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3500,
+            "roundTripDistanceMiles": 8.25,
+            "exposure": "High",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "lind3",
+            "name": "Mt. Lindsey - North Couloir",
+            "url": "https://www.14ers.com/route.php?route=lind3",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3900,
+            "roundTripDistanceMiles": 8.75,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          }
+        ],
+        "memberAscents": 6147,
+        "fourteenersComId": "10043",
+        "sourceUrl": "https://www.14ers.com/peaks/10043/mount-lindsey",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.18573,
+          37.12233
+        ]
+      },
+      "properties": {
+        "name": "Culebra Peak",
+        "rank": 42,
+        "range": "Sangre de Cristo",
+        "elevationFeet": 14053,
+        "routeCount": 1,
+        "easiestRouteClass": "Class 2",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "cule1",
+            "name": "Culebra Peak - Northwest Ridge",
+            "url": "https://www.14ers.com/route.php?route=cule1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 2700,
+            "roundTripDistanceMiles": 5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          }
+        ],
+        "memberAscents": 4065,
+        "fourteenersComId": "10041",
+        "sourceUrl": "https://www.14ers.com/peaks/10041/culebra-peak",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.17009,
+          39.22509
+        ]
+      },
+      "properties": {
+        "name": "Mount Sherman",
+        "rank": 43,
+        "range": "Mosquito Range",
+        "elevationFeet": 14043,
+        "routeCount": 3,
+        "easiestRouteClass": "Class 1",
+        "standardRouteClass": "Class 1",
+        "routes": [
+          {
+            "id": "sher1",
+            "name": "Mt. Sherman - Southwest Ridge",
+            "url": "https://www.14ers.com/route.php?route=sher1",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": true,
+            "elevationGainFeet": 2100,
+            "roundTripDistanceMiles": 5.25,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "sher2",
+            "name": "Mt. Sherman - West Slopes",
+            "url": "https://www.14ers.com/route.php?route=sher2",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2150,
+            "roundTripDistanceMiles": 4.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "sher3",
+            "name": "Mt. Sherman - South Slope",
+            "url": "https://www.14ers.com/route.php?route=sher3",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3100,
+            "roundTripDistanceMiles": 8.5,
+            "exposure": "Low",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Moderate"
+          }
+        ],
+        "memberAscents": 16802,
+        "fourteenersComId": "10045",
+        "sourceUrl": "https://www.14ers.com/peaks/10045/mount-sherman",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.49724,
+          37.56672
+        ]
+      },
+      "properties": {
+        "name": "Little Bear Peak",
+        "rank": 44,
+        "range": "Sangre de Cristo",
+        "elevationFeet": 14041,
+        "routeCount": 4,
+        "easiestRouteClass": "Class 1",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "como0",
+            "name": "Lake Como Approach",
+            "url": "https://www.14ers.com/route.php?route=como0",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3900,
+            "roundTripDistanceMiles": 11,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "blan1",
+            "name": "Blanca Peak - Northwest Ridge",
+            "url": "https://www.14ers.com/route.php?route=blan1",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 6500,
+            "roundTripDistanceMiles": 17,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Moderate",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "elli2",
+            "name": "Ellingwood Point - South Face",
+            "url": "https://www.14ers.com/route.php?route=elli2",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 6200,
+            "roundTripDistanceMiles": 17,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "litt6",
+            "name": "Little Bear Peak - West Ridge and Hourglass",
+            "url": "https://www.14ers.com/route.php?route=litt6",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": true,
+            "elevationGainFeet": 6200,
+            "roundTripDistanceMiles": 14,
+            "exposure": "High",
+            "rockfallPotential": "High",
+            "routeFinding": "High",
+            "commitment": "High"
+          },
+          {
+            "id": "elli3",
+            "name": "Combo: Blanca and Ellingwood",
+            "url": "https://www.14ers.com/route.php?route=elli3",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 6800,
+            "roundTripDistanceMiles": 18,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "litt3",
+            "name": "Combo: Little Bear + Blanca Traverse",
+            "url": "https://www.14ers.com/route.php?route=litt3",
+            "difficulty": "Class 5",
+            "classGrade": "Class 5",
+            "isStandardRoute": false,
+            "elevationGainFeet": 8000,
+            "roundTripDistanceMiles": 17,
+            "exposure": "Extreme",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "High",
+            "commitment": "Extreme"
+          },
+          {
+            "id": "elli4",
+            "name": "Ellingwood Point - Southwest Ridge",
+            "url": "https://www.14ers.com/route.php?route=elli4",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2200,
+            "roundTripDistanceMiles": 15,
+            "exposure": "High",
+            "rockfallPotential": "High",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "elli5",
+            "name": "Ellingwood Point - North Ridge via South Zapata Creek",
+            "url": "https://www.14ers.com/route.php?route=elli5",
+            "difficulty": "Easy Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5200,
+            "roundTripDistanceMiles": 12.5,
+            "exposure": "Considerable",
+            "rockfallPotential": "High",
+            "routeFinding": "High",
+            "commitment": "High"
+          },
+          {
+            "id": "litt8",
+            "name": "Little Bear Peak - West Ridge Indirect",
+            "url": "https://www.14ers.com/route.php?route=litt8",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": false,
+            "elevationGainFeet": 6200,
+            "roundTripDistanceMiles": 14,
+            "exposure": "Extreme",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "High",
+            "commitment": "High"
+          }
+        ],
+        "memberAscents": 4230,
+        "fourteenersComId": "10044",
+        "sourceUrl": "https://www.14ers.com/peaks/10044/little-bear-peak",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.42172,
+          37.94092
+        ]
+      },
+      "properties": {
+        "name": "Redcloud Peak",
+        "rank": 45,
+        "range": "San Juan Mountains",
+        "elevationFeet": 14037,
+        "routeCount": 1,
+        "easiestRouteClass": "Class 2",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "redc1",
+            "name": "Redcloud Peak - Northeast Ridge",
+            "url": "https://www.14ers.com/route.php?route=redc1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3700,
+            "roundTripDistanceMiles": 9,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "suns2",
+            "name": "Sunshine Peak - Via Redcloud Peak",
+            "url": "https://www.14ers.com/route.php?route=suns2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4800,
+            "roundTripDistanceMiles": 12.25,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "suns3",
+            "name": "Sunshine Peak - Northwest Face",
+            "url": "https://www.14ers.com/route.php?route=suns3",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3800,
+            "roundTripDistanceMiles": 8.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "suns4",
+            "name": "Sunshine Peak - East Ridge",
+            "url": "https://www.14ers.com/route.php?route=suns4",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4600,
+            "roundTripDistanceMiles": 7,
+            "exposure": "Moderate",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Moderate"
+          }
+        ],
+        "memberAscents": 8427,
+        "fourteenersComId": "10046",
+        "sourceUrl": "https://www.14ers.com/peaks/10046/redcloud-peak",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.95017,
+          39.07169
+        ]
+      },
+      "properties": {
+        "name": "Pyramid Peak",
+        "rank": 46,
+        "range": "Elk Mountains",
+        "elevationFeet": 14029,
+        "routeCount": 1,
+        "easiestRouteClass": "Class 3",
+        "standardRouteClass": "Class 3",
+        "routes": [
+          {
+            "id": "maro1",
+            "name": "Maroon Peak - South Ridge",
+            "url": "https://www.14ers.com/route.php?route=maro1",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4800,
+            "roundTripDistanceMiles": 12,
+            "exposure": "High",
+            "rockfallPotential": "High",
+            "routeFinding": "Extreme",
+            "commitment": "Extreme"
+          },
+          {
+            "id": "pyra1",
+            "name": "Pyramid Peak - Northeast Ridge",
+            "url": "https://www.14ers.com/route.php?route=pyra1",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 8.25,
+            "exposure": "High",
+            "rockfallPotential": "High",
+            "routeFinding": "High",
+            "commitment": "High"
+          },
+          {
+            "id": "nmar2",
+            "name": "North Maroon Peak - Northeast Ridge",
+            "url": "https://www.14ers.com/route.php?route=nmar2",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4600,
+            "roundTripDistanceMiles": 9.25,
+            "exposure": "High",
+            "rockfallPotential": "High",
+            "routeFinding": "High",
+            "commitment": "High"
+          },
+          {
+            "id": "nmar4",
+            "name": "Combo: Bells Traverse",
+            "url": "https://www.14ers.com/route.php?route=nmar4",
+            "difficulty": "Class 5",
+            "classGrade": "Class 5",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4850,
+            "roundTripDistanceMiles": 9.5,
+            "exposure": "Extreme",
+            "rockfallPotential": "High",
+            "routeFinding": "Extreme",
+            "commitment": "Extreme"
+          },
+          {
+            "id": "maro3",
+            "name": "Maroon Peak - Bell Cord Couloir",
+            "url": "https://www.14ers.com/route.php?route=maro3",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4556,
+            "roundTripDistanceMiles": 8,
+            "exposure": "High",
+            "rockfallPotential": "High",
+            "routeFinding": "High",
+            "commitment": "High"
+          }
+        ],
+        "memberAscents": 4682,
+        "fourteenersComId": "10047",
+        "sourceUrl": "https://www.14ers.com/peaks/10047/pyramid-peak",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.93127,
+          37.98678
+        ]
+      },
+      "properties": {
+        "name": "San Luis Peak",
+        "rank": 47,
+        "range": "San Juan Mountains",
+        "elevationFeet": 14023,
+        "routeCount": 2,
+        "easiestRouteClass": "Class 1",
+        "standardRouteClass": "Class 1",
+        "routes": [
+          {
+            "id": "sanl1",
+            "name": "San Luis Peak - Northeast Ridge",
+            "url": "https://www.14ers.com/route.php?route=sanl1",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3600,
+            "roundTripDistanceMiles": 13.5,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "sanl2",
+            "name": "San Luis Peak - South Ridge",
+            "url": "https://www.14ers.com/route.php?route=sanl2",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3400,
+            "roundTripDistanceMiles": 11.25,
+            "exposure": "Low",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Low"
+          }
+        ],
+        "memberAscents": 6471,
+        "fourteenersComId": "10050",
+        "sourceUrl": "https://www.14ers.com/peaks/10050/san-luis-peak",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.98714,
+          39.07599
+        ]
+      },
+      "properties": {
+        "name": "North Maroon Peak",
+        "rank": 48,
+        "range": "Elk Mountains",
+        "elevationFeet": 14022,
+        "routeCount": 2,
+        "easiestRouteClass": "Class 3",
+        "standardRouteClass": "Class 3",
+        "routes": [
+          {
+            "id": "maro1",
+            "name": "Maroon Peak - South Ridge",
+            "url": "https://www.14ers.com/route.php?route=maro1",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4800,
+            "roundTripDistanceMiles": 12,
+            "exposure": "High",
+            "rockfallPotential": "High",
+            "routeFinding": "Extreme",
+            "commitment": "Extreme"
+          },
+          {
+            "id": "pyra1",
+            "name": "Pyramid Peak - Northeast Ridge",
+            "url": "https://www.14ers.com/route.php?route=pyra1",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4500,
+            "roundTripDistanceMiles": 8.25,
+            "exposure": "High",
+            "rockfallPotential": "High",
+            "routeFinding": "High",
+            "commitment": "High"
+          },
+          {
+            "id": "nmar2",
+            "name": "North Maroon Peak - Northeast Ridge",
+            "url": "https://www.14ers.com/route.php?route=nmar2",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4600,
+            "roundTripDistanceMiles": 9.25,
+            "exposure": "High",
+            "rockfallPotential": "High",
+            "routeFinding": "High",
+            "commitment": "High"
+          },
+          {
+            "id": "nmar4",
+            "name": "Combo: Bells Traverse",
+            "url": "https://www.14ers.com/route.php?route=nmar4",
+            "difficulty": "Class 5",
+            "classGrade": "Class 5",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4850,
+            "roundTripDistanceMiles": 9.5,
+            "exposure": "Extreme",
+            "rockfallPotential": "High",
+            "routeFinding": "Extreme",
+            "commitment": "Extreme"
+          },
+          {
+            "id": "maro3",
+            "name": "Maroon Peak - Bell Cord Couloir",
+            "url": "https://www.14ers.com/route.php?route=maro3",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4556,
+            "roundTripDistanceMiles": 8,
+            "exposure": "High",
+            "rockfallPotential": "High",
+            "routeFinding": "High",
+            "commitment": "High"
+          }
+        ],
+        "memberAscents": 4098,
+        "fourteenersComId": "10067",
+        "sourceUrl": "https://www.14ers.com/peaks/10067/north-maroon-peak",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.51088,
+          38.06071
+        ]
+      },
+      "properties": {
+        "name": "Wetterhorn Peak",
+        "rank": 49,
+        "range": "San Juan Mountains",
+        "elevationFeet": 14021,
+        "routeCount": 2,
+        "easiestRouteClass": "Class 3",
+        "standardRouteClass": "Class 3",
+        "routes": [
+          {
+            "id": "wett1",
+            "name": "Wetterhorn Peak - Southeast Ridge",
+            "url": "https://www.14ers.com/route.php?route=wett1",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3300,
+            "roundTripDistanceMiles": 7,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "wett2",
+            "name": "Wetterhorn Peak - East Face",
+            "url": "https://www.14ers.com/route.php?route=wett2",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3300,
+            "roundTripDistanceMiles": 6.5,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          }
+        ],
+        "memberAscents": 6907,
+        "fourteenersComId": "10049",
+        "sourceUrl": "https://www.14ers.com/peaks/10049/wetterhorn-peak",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.98479,
+          37.86018
+        ]
+      },
+      "properties": {
+        "name": "Wilson Peak",
+        "rank": 50,
+        "range": "San Juan Mountains",
+        "elevationFeet": 14021,
+        "routeCount": 5,
+        "easiestRouteClass": "Class 1",
+        "standardRouteClass": "Class 3",
+        "routes": [
+          {
+            "id": "nava0",
+            "name": "Navajo Lake Approach",
+            "url": "https://www.14ers.com/route.php?route=nava0",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2000,
+            "roundTripDistanceMiles": 9.5,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "silv0",
+            "name": "Rock of Ages Approach",
+            "url": "https://www.14ers.com/route.php?route=silv0",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2800,
+            "roundTripDistanceMiles": 8.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "kilp0",
+            "name": "Kilpacker Approach",
+            "url": "https://www.14ers.com/route.php?route=kilp0",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": false,
+            "elevationGainFeet": 800,
+            "roundTripDistanceMiles": 6,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "wood0",
+            "name": "Woods Lake Approach",
+            "url": "https://www.14ers.com/route.php?route=wood0",
+            "difficulty": "Class 1",
+            "classGrade": "Class 1",
+            "isStandardRoute": false,
+            "elevationGainFeet": 2115,
+            "roundTripDistanceMiles": 9,
+            "exposure": "Low",
+            "rockfallPotential": "Low",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "wils1",
+            "name": "Wilson Peak - Southwest Ridge",
+            "url": "https://www.14ers.com/route.php?route=wils1",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3900,
+            "roundTripDistanceMiles": 10,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "eldi4",
+            "name": "El Diente Peak - South Slopes",
+            "url": "https://www.14ers.com/route.php?route=eldi4",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4400,
+            "roundTripDistanceMiles": 12,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "High",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "mwil6",
+            "name": "Mt. Wilson - Southwest Slopes",
+            "url": "https://www.14ers.com/route.php?route=mwil6",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4400,
+            "roundTripDistanceMiles": 12.5,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "mwil2",
+            "name": "Mt. Wilson - North Slopes",
+            "url": "https://www.14ers.com/route.php?route=mwil2",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5100,
+            "roundTripDistanceMiles": 16,
+            "exposure": "High",
+            "rockfallPotential": "High",
+            "routeFinding": "High",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "eldi3",
+            "name": "El Diente Peak - North Slopes",
+            "url": "https://www.14ers.com/route.php?route=eldi3",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5000,
+            "roundTripDistanceMiles": 15,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "High",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "mwil5",
+            "name": "Combo: Mt. Wilson + El Diente Traverse",
+            "url": "https://www.14ers.com/route.php?route=mwil5",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": false,
+            "elevationGainFeet": 500,
+            "roundTripDistanceMiles": 1,
+            "exposure": "High",
+            "rockfallPotential": "High",
+            "routeFinding": "High",
+            "commitment": "High"
+          },
+          {
+            "id": "eldi8",
+            "name": "El Diente Peak - North Buttress",
+            "url": "https://www.14ers.com/route.php?route=eldi8",
+            "difficulty": "Class 4",
+            "classGrade": "Class 4",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3200,
+            "roundTripDistanceMiles": 5,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "High",
+            "commitment": "High"
+          },
+          {
+            "id": "mwil7",
+            "name": "Mt. Wilson - East Face",
+            "url": "https://www.14ers.com/route.php?route=mwil7",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4900,
+            "roundTripDistanceMiles": 12,
+            "exposure": "High",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "High",
+            "commitment": "High"
+          }
+        ],
+        "memberAscents": 4475,
+        "fourteenersComId": "10048",
+        "sourceUrl": "https://www.14ers.com/peaks/10048/wilson-peak",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.48169,
+          39.46683
+        ]
+      },
+      "properties": {
+        "name": "Mount of the Holy Cross",
+        "rank": 51,
+        "range": "Sawatch Range",
+        "elevationFeet": 14007,
+        "routeCount": 3,
+        "easiestRouteClass": "Class 2",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "holy1",
+            "name": "Mt. of the Holy Cross - North Ridge",
+            "url": "https://www.14ers.com/route.php?route=holy1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 5600,
+            "roundTripDistanceMiles": 11.25,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "holy3",
+            "name": "Mt. of the Holy Cross - Halo Ridge",
+            "url": "https://www.14ers.com/route.php?route=holy3",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5210,
+            "roundTripDistanceMiles": 15,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "High"
+          },
+          {
+            "id": "holy2",
+            "name": "Mt. of the Holy Cross - Cross Couloir",
+            "url": "https://www.14ers.com/route.php?route=holy2",
+            "difficulty": "Class 3",
+            "classGrade": "Class 3",
+            "isStandardRoute": false,
+            "elevationGainFeet": 5600,
+            "roundTripDistanceMiles": 12.25,
+            "exposure": "Considerable",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "High"
+          }
+        ],
+        "memberAscents": 10023,
+        "fourteenersComId": "10051",
+        "sourceUrl": "https://www.14ers.com/peaks/10051/mt-of-the-holy-cross",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.43807,
+          38.94553
+        ]
+      },
+      "properties": {
+        "name": "Huron Peak",
+        "rank": 52,
+        "range": "Sawatch Range",
+        "elevationFeet": 14006,
+        "routeCount": 3,
+        "easiestRouteClass": "Class 2",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "huro1",
+            "name": "Huron Peak - Northwest Slopes",
+            "url": "https://www.14ers.com/route.php?route=huro1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3500,
+            "roundTripDistanceMiles": 7,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "huro2",
+            "name": "Huron Peak - Southwest Slopes",
+            "url": "https://www.14ers.com/route.php?route=huro2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3600,
+            "roundTripDistanceMiles": 9,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Considerable",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "huro4",
+            "name": "Huron Peak - North Ridge from Lulu Gulch",
+            "url": "https://www.14ers.com/route.php?route=huro4",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3980,
+            "roundTripDistanceMiles": 8.4,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Moderate",
+            "commitment": "Considerable"
+          }
+        ],
+        "memberAscents": 12571,
+        "fourteenersComId": "10052",
+        "sourceUrl": "https://www.14ers.com/peaks/10052/huron-peak",
+        "source": "14ers.com Colorado 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.42555,
+          37.92275
+        ]
+      },
+      "properties": {
+        "name": "Sunshine Peak",
+        "rank": 53,
+        "range": "San Juan Mountains",
+        "elevationFeet": 14004,
+        "routeCount": 3,
+        "easiestRouteClass": "Class 2",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "redc1",
+            "name": "Redcloud Peak - Northeast Ridge",
+            "url": "https://www.14ers.com/route.php?route=redc1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 3700,
+            "roundTripDistanceMiles": 9,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Low"
+          },
+          {
+            "id": "suns2",
+            "name": "Sunshine Peak - Via Redcloud Peak",
+            "url": "https://www.14ers.com/route.php?route=suns2",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 4800,
+            "roundTripDistanceMiles": 12.25,
+            "exposure": "Moderate",
+            "rockfallPotential": "Moderate",
+            "routeFinding": "Low",
+            "commitment": "Considerable"
+          },
+          {
+            "id": "suns3",
+            "name": "Sunshine Peak - Northwest Face",
+            "url": "https://www.14ers.com/route.php?route=suns3",
+            "difficulty": "Difficult Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 3800,
+            "roundTripDistanceMiles": 8.5,
+            "exposure": "Moderate",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Moderate"
+          },
+          {
+            "id": "suns4",
+            "name": "Sunshine Peak - East Ridge",
+            "url": "https://www.14ers.com/route.php?route=suns4",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": false,
+            "elevationGainFeet": 4600,
+            "roundTripDistanceMiles": 7,
+            "exposure": "Moderate",
+            "rockfallPotential": "Considerable",
+            "routeFinding": "Considerable",
+            "commitment": "Moderate"
+          }
+        ],
+        "memberAscents": 7978,
+        "fourteenersComId": "10053",
+        "sourceUrl": "https://www.14ers.com/peaks/10053/sunshine-peak",
+        "source": "14ers.com Colorado 14ers"
+      }
+    }
+  ]
+}
