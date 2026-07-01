@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.11902, 39.34627]
+      },
+      "properties": {
+        "name": "Mount Cameron",
+        "rank": null,
+        "range": "Mosquito Range",
+        "elevationFeet": 14248,
+        "routeCount": 1,
+        "easiestRouteClass": "Class 2",
+        "standardRouteClass": "Class 2",
+        "routes": [
+          {
+            "id": "cameron1",
+            "name": "Mt. Cameron - West Ridge",
+            "url": "https://www.14ers.com/route.php?route=cameron1",
+            "difficulty": "Class 2",
+            "classGrade": "Class 2",
+            "isStandardRoute": true,
+            "elevationGainFeet": 2250,
+            "roundTripDistanceMiles": 4.75,
+            "exposure": null,
+            "rockfallPotential": null,
+            "routeFinding": null,
+            "commitment": null
+          }
+        ],
+        "memberAscents": 16956,
+        "fourteenersComId": "10063",
+        "sourceUrl": "https://www.14ers.com/peaks/10063/mount-cameron",
+        "source": "14ers.com Colorado unranked 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-108.00534, 37.83922]
+      },
+      "properties": {
+        "name": "El Diente Peak",
+        "rank": null,
+        "range": "San Juan Range",
+        "elevationFeet": 14175,
+        "routeCount": 0,
+        "easiestRouteClass": null,
+        "standardRouteClass": null,
+        "routes": [],
+        "memberAscents": 4016,
+        "fourteenersComId": "10064",
+        "sourceUrl": "https://www.14ers.com/peaks/10064/el-diente-peak",
+        "source": "14ers.com Colorado unranked 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.60659, 37.98033]
+      },
+      "properties": {
+        "name": "Challenger Point",
+        "rank": null,
+        "range": "Sangre de Cristo Range",
+        "elevationFeet": 14086,
+        "routeCount": 0,
+        "easiestRouteClass": null,
+        "standardRouteClass": null,
+        "routes": [],
+        "memberAscents": 6433,
+        "fourteenersComId": "10034",
+        "sourceUrl": "https://www.14ers.com/peaks/10034/challenger-point",
+        "source": "14ers.com Colorado unranked 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.62117, 37.62519]
+      },
+      "properties": {
+        "name": "North Eolus",
+        "rank": null,
+        "range": "San Juan Range",
+        "elevationFeet": 14042,
+        "routeCount": 0,
+        "easiestRouteClass": null,
+        "standardRouteClass": null,
+        "routes": [],
+        "memberAscents": 4013,
+        "fourteenersComId": "10066",
+        "sourceUrl": "https://www.14ers.com/peaks/10066/north-eolus",
+        "source": "14ers.com Colorado unranked 14ers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.86346, 39.01474]
+      },
+      "properties": {
+        "name": "Conundrum Peak",
+        "rank": null,
+        "range": "Elk Mountains",
+        "elevationFeet": 14037,
+        "routeCount": 0,
+        "easiestRouteClass": null,
+        "standardRouteClass": null,
+        "routes": [],
+        "memberAscents": 5918,
+        "fourteenersComId": "10065",
+        "sourceUrl": "https://www.14ers.com/peaks/10065/conundrum-peak",
+        "source": "14ers.com Colorado unranked 14ers"
+      }
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "activities": {
+    "Mount_Bierstadt": {
+      "peakNames": [
+        "Mount Bierstadt"
+      ]
+    },
+    "Mount_Bierstadt_Trail": {
+      "peakNames": [
+        "Mount Bierstadt"
+      ]
+    },
+    "Quandary_Peak": {
+      "peakNames": [
+        "Quandary Peak"
+      ]
+    },
+    "Grays_and_Torreys_peaks_with_Addison": {
+      "peakNames": [
+        "Grays Peak",
+        "Torreys Peak"
+      ]
+    },
+    "Mt_Elbert_with_Addison_and_Bruce": {
+      "peakNames": [
+        "Mount Elbert"
+      ]
+    },
+    "Decalibron_Mounts_Democrat_Cameron_Lincoln_and_Bross_Trail": {
+      "peakNames": [
+        "Mount Bross",
+        "Mount Cameron",
+        "Mount Democrat",
+        "Mount Lincoln"
+      ]
+    },
+    "Mount_Sherman_Gemini": {
+      "peakNames": [
+        "Mount Sherman"
+      ]
+    },
+    "Mount_Bierstadt__round_3": {
+      "peakNames": [
+        "Mount Bierstadt"
+      ]
+    },
+    "Quandary_Peak__round_2": {
+      "peakNames": [
+        "Quandary Peak"
+      ]
+    },
+    "Mount_Blue_Sky_and_Mount_Spalding_Trail": {
+      "peakNames": [
+        "Mount Blue Sky"
+      ]
+    }
+  },
+  "completedPeakNames": [
+    "Mount Elbert",
+    "Mount Lincoln",
+    "Grays Peak",
+    "Quandary Peak",
+    "Torreys Peak",
+    "Mount Blue Sky",
+    "Mount Bross",
+    "Mount Democrat",
+    "Mount Bierstadt",
+    "Mount Sherman",
+    "Mount Cameron"
+  ],
+  "generatedAt": "2026-07-01T22:19:18.606Z",
+  "peaks": {
+    "Mount Elbert": {
+      "activityIds": [
+        "Mt_Elbert_with_Addison_and_Bruce"
+      ],
+      "closestActivityId": "Mt_Elbert_with_Addison_and_Bruce",
+      "closestDistanceMeters": 1
+    },
+    "Mount Lincoln": {
+      "activityIds": [
+        "Decalibron_Mounts_Democrat_Cameron_Lincoln_and_Bross_Trail"
+      ],
+      "closestActivityId": "Decalibron_Mounts_Democrat_Cameron_Lincoln_and_Bross_Trail",
+      "closestDistanceMeters": 2
+    },
+    "Grays Peak": {
+      "activityIds": [
+        "Grays_and_Torreys_peaks_with_Addison"
+      ],
+      "closestActivityId": "Grays_and_Torreys_peaks_with_Addison",
+      "closestDistanceMeters": 1
+    },
+    "Quandary Peak": {
+      "activityIds": [
+        "Quandary_Peak",
+        "Quandary_Peak__round_2"
+      ],
+      "closestActivityId": "Quandary_Peak",
+      "closestDistanceMeters": 1
+    },
+    "Torreys Peak": {
+      "activityIds": [
+        "Grays_and_Torreys_peaks_with_Addison"
+      ],
+      "closestActivityId": "Grays_and_Torreys_peaks_with_Addison",
+      "closestDistanceMeters": 0
+    },
+    "Mount Blue Sky": {
+      "activityIds": [
+        "Mount_Blue_Sky_and_Mount_Spalding_Trail"
+      ],
+      "closestActivityId": "Mount_Blue_Sky_and_Mount_Spalding_Trail",
+      "closestDistanceMeters": 7
+    },
+    "Mount Bross": {
+      "activityIds": [
+        "Decalibron_Mounts_Democrat_Cameron_Lincoln_and_Bross_Trail"
+      ],
+      "closestActivityId": "Decalibron_Mounts_Democrat_Cameron_Lincoln_and_Bross_Trail",
+      "closestDistanceMeters": 1
+    },
+    "Mount Democrat": {
+      "activityIds": [
+        "Decalibron_Mounts_Democrat_Cameron_Lincoln_and_Bross_Trail"
+      ],
+      "closestActivityId": "Decalibron_Mounts_Democrat_Cameron_Lincoln_and_Bross_Trail",
+      "closestDistanceMeters": 3
+    },
+    "Mount Bierstadt": {
+      "activityIds": [
+        "Mount_Bierstadt",
+        "Mount_Bierstadt__round_3",
+        "Mount_Bierstadt_Trail"
+      ],
+      "closestActivityId": "Mount_Bierstadt__round_3",
+      "closestDistanceMeters": 1
+    },
+    "Mount Sherman": {
+      "activityIds": [
+        "Mount_Sherman_Gemini"
+      ],
+      "closestActivityId": "Mount_Sherman_Gemini",
+      "closestDistanceMeters": 2
+    },
+    "Mount Cameron": {
+      "activityIds": [
+        "Decalibron_Mounts_Democrat_Cameron_Lincoln_and_Bross_Trail"
+      ],
+      "closestActivityId": "Decalibron_Mounts_Democrat_Cameron_Lincoln_and_Bross_Trail",
+      "closestDistanceMeters": 47
+    }
+  },
+  "summitCompletionRadiusMeters": 200
+}
