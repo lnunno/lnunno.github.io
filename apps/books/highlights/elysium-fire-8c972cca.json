@@ -3,7 +3,7 @@
   "title": "Elysium Fire (The Prefect Dreyfus Emergencies Book 2)",
   "author": "Alastair Reynolds",
   "review": "",
-  "highlightCount": 6,
+  "highlightCount": 8,
   "myGoodreadsRating": null,
   "myReviewRating": null,
   "highlights": [
@@ -53,6 +53,22 @@
       "color": "yellow",
       "location": "1013",
       "page": "51",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3M1A0M1RNUzo0Mjg2MTc6SElHSExJR0hUOmE4ZGMxZTlmMC1lZjg0LTRlOTAtYWE3MS0xNDU1YjZjZTYyOTU",
+      "text": "For all its flaws, for all its imperfections, for all that it still contained little knots of darkness and cruelty, she believed there were infinitely worse ways to live. It was not such a bad thing, this endlessly circling river of light and lives.",
+      "color": "yellow",
+      "location": "2858",
+      "page": "148",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjA3M1A0M1RNUzo0OTQzODI6SElHSExJR0hUOmE5ZWRjODhhMC1kYzllLTRjYzgtYjZiYS03ZDVkNDNjYTZkYWI",
+      "text": "I can read you like a book. A very simple book containing mostly pictures.”",
+      "color": "yellow",
+      "location": "3296",
+      "page": "171",
       "source": "kindle"
     }
   ]

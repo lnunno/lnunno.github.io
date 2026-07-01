@@ -1,8 +1,22 @@
 [
   {
+    "id": "5435144159",
+    "reviewId": "5435144159",
+    "position": 1,
+    "title": "The Splintered Sun",
+    "author": "Tad Williams",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1774327034l/246247545.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/246247545-the-splintered-sun",
+    "averageRating": 3.9,
+    "pageCount": 528,
+    "dateAdded": "March 23, 2023",
+    "dateAddedIso": "2023-03-23"
+  },
+  {
     "id": "5694450274",
     "reviewId": "5694450274",
-    "position": 1,
+    "position": 2,
     "title": "Ghoulslayer",
     "author": "Darius Hinks",
     "series": "Gotrek Gurnisson #2",
@@ -16,7 +30,7 @@
   {
     "id": "8366765006",
     "reviewId": "8366765006",
-    "position": 2,
+    "position": 3,
     "title": "Neverness",
     "author": "David Zindell",
     "series": "",
@@ -30,7 +44,7 @@
   {
     "id": "7815023215",
     "reviewId": "7815023215",
-    "position": 3,
+    "position": 4,
     "title": "Echopraxia",
     "author": "Peter Watts",
     "series": "Firefall, #2",
@@ -44,7 +58,7 @@
   {
     "id": "8705468852",
     "reviewId": "8705468852",
-    "position": 4,
+    "position": 5,
     "title": "Machine Vendetta",
     "author": "Alastair Reynolds",
     "series": "Prefect Dreyfus Emergency, #3",
@@ -54,20 +68,6 @@
     "pageCount": 374,
     "dateAdded": "June 21, 2026",
     "dateAddedIso": "2026-06-21"
-  },
-  {
-    "id": "5435144159",
-    "reviewId": "5435144159",
-    "position": 5,
-    "title": "The Splintered Sun",
-    "author": "Tad Williams",
-    "series": "",
-    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1774327034l/246247545.jpg",
-    "goodreadsUrl": "https://www.goodreads.com/book/show/246247545-the-splintered-sun",
-    "averageRating": 3.9,
-    "pageCount": 528,
-    "dateAdded": "March 23, 2023",
-    "dateAddedIso": "2023-03-23"
   },
   {
     "id": "8577518771",
@@ -126,9 +126,23 @@
     "dateAddedIso": "2026-04-10"
   },
   {
+    "id": "8454294225",
+    "reviewId": "8454294225",
+    "position": 10,
+    "title": "The Poet Empress",
+    "author": "Shen Tao",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1765467685l/231127166.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/231127166-the-poet-empress",
+    "averageRating": 4.41,
+    "pageCount": 400,
+    "dateAdded": "March 20, 2026",
+    "dateAddedIso": "2026-03-20"
+  },
+  {
     "id": "7246634697",
     "reviewId": "7246634697",
-    "position": 10,
+    "position": 11,
     "title": "Light",
     "author": "M. John Harrison",
     "series": "Kefahuchi Tract, #1",
@@ -142,7 +156,7 @@
   {
     "id": "8254403620",
     "reviewId": "8254403620",
-    "position": 11,
+    "position": 12,
     "title": "Comanche Moon",
     "author": "Larry McMurtry",
     "series": "Lonesome Dove, #4",
@@ -156,7 +170,7 @@
   {
     "id": "4677061285",
     "reviewId": "4677061285",
-    "position": 12,
+    "position": 13,
     "title": "A Canticle for Leibowitz",
     "author": "Walter M. Miller Jr.",
     "series": "St. Leibowitz, #1",
@@ -170,7 +184,7 @@
   {
     "id": "4093638545",
     "reviewId": "4093638545",
-    "position": 13,
+    "position": 14,
     "title": "Piranesi",
     "author": "Susanna Clarke",
     "series": "",
@@ -184,7 +198,7 @@
   {
     "id": "8637326420",
     "reviewId": "8637326420",
-    "position": 14,
+    "position": 15,
     "title": "Hollow",
     "author": "Brian Catling",
     "series": "",
@@ -198,7 +212,7 @@
   {
     "id": "8289455850",
     "reviewId": "8289455850",
-    "position": 15,
+    "position": 16,
     "title": "The Colonel",
     "author": "Peter Watts",
     "series": "Firefall, #1.5",
@@ -212,7 +226,7 @@
   {
     "id": "8685764062",
     "reviewId": "8685764062",
-    "position": 16,
+    "position": 17,
     "title": "The Etched City",
     "author": "K.J. Bishop",
     "series": "",
@@ -226,7 +240,7 @@
   {
     "id": "8226033982",
     "reviewId": "8226033982",
-    "position": 17,
+    "position": 18,
     "title": "The Bright Sword",
     "author": "Lev Grossman",
     "series": "",
@@ -240,7 +254,7 @@
   {
     "id": "5330391383",
     "reviewId": "5330391383",
-    "position": 18,
+    "position": 19,
     "title": "Embassytown",
     "author": "China Miéville",
     "series": "",
@@ -254,7 +268,7 @@
   {
     "id": "7959554465",
     "reviewId": "7959554465",
-    "position": 19,
+    "position": 20,
     "title": "The Starving Saints",
     "author": "Caitlin Starling",
     "series": "",
@@ -268,7 +282,7 @@
   {
     "id": "8512468798",
     "reviewId": "8512468798",
-    "position": 20,
+    "position": 21,
     "title": "Sarafina",
     "author": "Philip Fracassi",
     "series": "",
@@ -282,7 +296,7 @@
   {
     "id": "7574606676",
     "reviewId": "7574606676",
-    "position": 21,
+    "position": 22,
     "title": "Accelerando",
     "author": "Charles Stross",
     "series": "",
@@ -296,7 +310,7 @@
   {
     "id": "8344617113",
     "reviewId": "8344617113",
-    "position": 22,
+    "position": 23,
     "title": "The Penultimate Truth",
     "author": "Philip K. Dick",
     "series": "",
@@ -310,7 +324,7 @@
   {
     "id": "8067294850",
     "reviewId": "8067294850",
-    "position": 23,
+    "position": 24,
     "title": "Legacies of Betrayal",
     "author": "Steven Erikson",
     "series": "Witness, #3",
@@ -320,20 +334,6 @@
     "pageCount": null,
     "dateAdded": "November 13, 2025",
     "dateAddedIso": "2025-11-13"
-  },
-  {
-    "id": "8454294225",
-    "reviewId": "8454294225",
-    "position": 24,
-    "title": "The Poet Empress",
-    "author": "Shen Tao",
-    "series": "",
-    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1765467685l/231127166.jpg",
-    "goodreadsUrl": "https://www.goodreads.com/book/show/231127166-the-poet-empress",
-    "averageRating": 4.41,
-    "pageCount": 400,
-    "dateAdded": "March 20, 2026",
-    "dateAddedIso": "2026-03-20"
   },
   {
     "id": "7305807971",
@@ -442,7 +442,7 @@
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1774790771l/223854480.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/223854480-no-man-s-land",
-    "averageRating": 4.13,
+    "averageRating": 4.14,
     "pageCount": 478,
     "dateAdded": "March 25, 2026",
     "dateAddedIso": "2026-03-25"
@@ -638,7 +638,7 @@
     "series": "The Tyrant Philosophers, #3",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711449617l/210384894.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/210384894-days-of-shattered-faith",
-    "averageRating": 4.39,
+    "averageRating": 4.4,
     "pageCount": 525,
     "dateAdded": "April 17, 2024",
     "dateAddedIso": "2024-04-17"
@@ -7806,7 +7806,7 @@
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501464776l/33852053.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/33852053-gnomon",
-    "averageRating": 3.83,
+    "averageRating": 3.84,
     "pageCount": 688,
     "dateAdded": "November 06, 2025",
     "dateAddedIso": "2025-11-06"
