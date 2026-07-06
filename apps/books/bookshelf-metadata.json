@@ -4723,6 +4723,20 @@
       "propulsive-dark-engines"
     ]
   },
+  "https://www.goodreads.com/book/show/35601772-elysium-fire": {
+    "genres": [
+      "sci-fi",
+      "mystery-crime-thriller"
+    ],
+    "subgenres": [
+      "space-opera"
+    ],
+    "tasteRoles": [
+      "propulsive-dark-engines",
+      "space-opera-as-epic-fantasy",
+      "deep-lore-archaeology"
+    ]
+  },
   "https://www.goodreads.com/book/show/35652511-candide": {
     "genres": [
       "literary"

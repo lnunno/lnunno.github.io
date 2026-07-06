@@ -1,5 +1,23 @@
 [
   {
+    "id": "game-of-thrones-a0217169",
+    "readEvents": [],
+    "title": "A Game of Thrones",
+    "author": "George R.R. Martin",
+    "series": "A Song of Ice and Fire, #1",
+    "review": "",
+    "highlightCount": 80,
+    "myGoodreadsRating": 5,
+    "myReviewRating": null,
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562726234l/13496.jpg",
+    "asin": "B000QCS8TW",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/13496.A_Game_of_Thrones",
+    "goodreadsReviewUrl": "https://www.goodreads.com/review/show/611879987",
+    "kindleUrl": "https://amazon.com/dp/B000QCS8TW",
+    "matchMethod": "title-author",
+    "favorite": false
+  },
+  {
     "id": "musashi-epic-novel-of-samurai-era-c4edb63b",
     "readEvents": [],
     "title": "Musashi: An Epic Novel of the Samurai Era",
@@ -15,24 +33,6 @@
     "goodreadsReviewUrl": "",
     "kindleUrl": "https://amazon.com/dp/B00CD428BU",
     "matchMethod": "unmatched"
-  },
-  {
-    "id": "game-of-thrones-a0217169",
-    "readEvents": [],
-    "title": "A Game of Thrones",
-    "author": "George R.R. Martin",
-    "series": "A Song of Ice and Fire, #1",
-    "review": "",
-    "highlightCount": 75,
-    "myGoodreadsRating": 5,
-    "myReviewRating": null,
-    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562726234l/13496.jpg",
-    "asin": "B000QCS8TW",
-    "goodreadsUrl": "https://www.goodreads.com/book/show/13496.A_Game_of_Thrones",
-    "goodreadsReviewUrl": "https://www.goodreads.com/review/show/611879987",
-    "kindleUrl": "https://amazon.com/dp/B000QCS8TW",
-    "matchMethod": "title-author",
-    "favorite": false
   },
   {
     "id": "toms-crossing-novel-aa415ec1",
@@ -423,23 +423,6 @@
     "goodreadsUrl": "",
     "goodreadsReviewUrl": "",
     "kindleUrl": "https://amazon.com/dp/B003XT60E0",
-    "matchMethod": "unmatched"
-  },
-  {
-    "id": "elysium-fire-8c972cca",
-    "readEvents": [],
-    "title": "Elysium Fire (The Prefect Dreyfus Emergencies Book 2)",
-    "author": "Alastair Reynolds",
-    "series": "",
-    "review": "",
-    "highlightCount": 8,
-    "myGoodreadsRating": null,
-    "myReviewRating": null,
-    "imageUrl": "https://m.media-amazon.com/images/I/91REVjb1xvL._SY160.jpg",
-    "asin": "B073P43TMS",
-    "goodreadsUrl": "",
-    "goodreadsReviewUrl": "",
-    "kindleUrl": "https://amazon.com/dp/B073P43TMS",
     "matchMethod": "unmatched"
   },
   {
@@ -22482,6 +22465,32 @@
     "goodreadsReviewUrl": "https://www.goodreads.com/review/show/8517237420",
     "kindleUrl": "",
     "matchMethod": "title-candidate-author",
+    "favorite": false
+  },
+  {
+    "id": "elysium-fire-d3dc699f",
+    "readEvents": [
+      {
+        "readingSessionId": "amzn1.gr.reading_session.v1.4b7a4a90-4ee1-4caf-8e93-b5ebdd262516",
+        "dateStarted": "Jun 17, 2026",
+        "dateStartedIso": "2026-06-17",
+        "dateRead": "Jul 03, 2026",
+        "dateReadIso": "2026-07-03"
+      }
+    ],
+    "title": "Elysium Fire",
+    "author": "Alastair Reynolds",
+    "series": "Prefect Dreyfus Emergency, #2",
+    "review": "3.25/5 Revelation Space continues to be a bit of an enigma for me where I really enjoy the moment to moment reading experience while simultaneously recognizing that as a larger series it has a lot of problems. This entry has some of the biggest issues so far where it's paradoxically doing too much and too little at the same time. I'd say I was sufficiently whelmed with the book and there were some moments that I thought were quite good and entertaining and other moments that were very clumsy and badly executed.\n\nStructurally it needed more focus. The exploration of the extent of a \"perfect\" democracy via the Demarchists is compelling, it just wasn't fully explored in a satisfying way, felt like he dropped this prematurely and didn't follow through well enough. Also he goes back to the well of his tried and true exploration of consciousness and memory with the Voi brothers, in itself a really good idea, just not executed in a fully satisfying way and had a really clumsy climax and conclusion.\n\nThe throughline of the previous book felt pretty shoehorned in and awkward, felt included out of necessity of making this a real trilogy instead of disconnected from the first.\n\nThat being said I do fundamentally find Reynolds writing to be enjoyable to read, just think this needed more time to cook to make it more compelling and hit harder. I'm still interested in the final book of the trilogy but not dying to pick it up immediately.",
+    "highlightCount": 17,
+    "myGoodreadsRating": 3,
+    "myReviewRating": 3.25,
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504724986l/35601772.jpg",
+    "asin": "B073P43TMS",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/35601772-elysium-fire",
+    "goodreadsReviewUrl": "https://www.goodreads.com/review/show/7305807268",
+    "kindleUrl": "https://amazon.com/dp/B073P43TMS",
+    "matchMethod": "asin",
     "favorite": false
   }
 ]

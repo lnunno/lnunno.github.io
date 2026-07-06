@@ -3,7 +3,7 @@
   "title": "A Game of Thrones",
   "author": "George R.R. Martin",
   "review": "",
-  "highlightCount": 75,
+  "highlightCount": 80,
   "myGoodreadsRating": 5,
   "myReviewRating": null,
   "highlights": [
@@ -605,6 +605,46 @@
       "color": "yellow",
       "location": "5712",
       "page": "347",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFFDUzhUVzo4NzU4MDU6SElHSExJR0hUOmE2ZGY2ZTkyYy0wYTYyLTRhZTItYmEwNi02MjY0YTViZGM0NDk",
+      "text": "all to snatch her son out of the lion’s mouth … and now you have brought the lion to her door.” “In chains,” Catelyn said.",
+      "color": "yellow",
+      "location": "5839",
+      "page": "355",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFFDUzhUVzo4NzY3OTE6SElHSExJR0hUOmE1N2RhMWYxMi1lOTMxLTQ1YjAtYjM0Zi1jZmRkYzc0ZGUzM2U",
+      "text": "“I hope you are right, child,” he sighed, in tones that said she was wrong.",
+      "color": "yellow",
+      "location": "5846",
+      "page": "355",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFFDUzhUVzo4ODA5MDU6SElHSExJR0hUOmEzOGRlMjEyMy00OTE0LTRjYWYtOGQwZi1iMDUzMmYwYzkzZWY",
+      "text": "We Lannisters do have a certain pride.” “Pride?” Catelyn snapped. His mocking tone and easy manner made her angry. “Arrogance, some might call it. Arrogance and avarice and lust for power.” “My brother is undoubtedly arrogant,” Tyrion Lannister replied. “My father is the soul of avarice, and my sweet sister Cersei lusts for power with every waking breath. I, however, am innocent as a little lamb. Shall I bleat for you?”",
+      "color": "yellow",
+      "location": "5873",
+      "page": "357",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFFDUzhUVzo5MDUzMjY6SElHSExJR0hUOmExNzFjYTRlNC1lZjhmLTQ5ZDctOGQ4Ni00ZWEzMTYyMGY0ZWE",
+      "text": "They say the Hand dreams the king’s dreams, speaks with the king’s voice, and rules with the king’s sword. Does that also mean you fuck with the king’s—”",
+      "color": "yellow",
+      "location": "6036",
+      "page": "366",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwMFFDUzhUVzo5MDg5MTk6SElHSExJR0hUOmFjNmRkZGQwMC1jYTI3LTRjOTAtYTViMS1kMDQ1MjJmMTA2YzY",
+      "text": "Ned Stark kept his vows. He thought of the promises he’d made Lyanna as she lay dying, and the price he’d paid to keep them.",
+      "color": "yellow",
+      "location": "6060",
+      "page": "368",
       "source": "kindle"
     }
   ]
