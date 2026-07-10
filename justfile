@@ -9,9 +9,10 @@ set windows-shell := [
 
 deps:
 	gem install jekyll bundle rouge jekyll-seo-tag
-serve:
+dev:
 	jekyll serve
-serve-drafts:
+[default]
+dev-drafts:
 	jekyll serve --drafts
 clean:
 	jekyll clean
