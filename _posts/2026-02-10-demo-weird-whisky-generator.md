@@ -7,7 +7,7 @@ post_label: "Demo"
 
 [Open Weird Whisky Generator](/apps/weird-whisky-generator/)
 
-One of my earliest vibe coding apps that started from inspiration from the [Scotch Malt Whisky Society's](https://smwsa.com/) somewhat out there and vaguely unhinged tasting notes that they have.Seemed ripe for riffing on that with autogenerating my own whiskies along with distinct Nose, Palate, and Finish notes in a number of different categories and styles.
+One of my earliest vibe coding apps that started from inspiration from the [Scotch Malt Whisky Society's](https://smwsa.com/) somewhat out there and vaguely unhinged tasting notes that they have. Seemed rife for riffing on that with autogenerating my own whiskies along with distinct Nose, Palate, and Finish notes in a number of different categories and styles.
 
 What does it really mean when a whisky "tastes like the leather of a vintage airline armchair"? I don't know but I love finding out.
 
