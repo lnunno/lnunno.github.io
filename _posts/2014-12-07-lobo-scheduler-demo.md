@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Demo of my $5k prize winning mobile site Lobo Scheduler"
+post_label: "Demo"
 date:   2014-12-07 00:00:00
 categories: demo mobile app
 ---
@@ -11,4 +12,7 @@ This mobile application began as a project for my Big Data graduate course at UN
 - [Poster (291KB PDF)]({{ site.docurl }}/lobo-scheduler-poster.pdf)
 - [Source code](https://github.com/lnunno/lobo-scheduler)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KLVjpIjMHYU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+{% include demo-video.html
+  src="https://www.youtube.com/embed/KLVjpIjMHYU"
+  title="Lobo Scheduler demo"
+%}

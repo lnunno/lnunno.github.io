@@ -96,9 +96,13 @@ def build_path(repo_root: Path, kind: str, slug: str, date: dt.date) -> Path:
     return repo_root / "_posts" / f"{date.isoformat()}-{slug}.md"
 
 
-def parse_args() -> argparse.Namespace:
+def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
-        description="Create a new Markdown draft or post for this Jekyll site."
+        description="Create a new Markdown draft or post for this Jekyll site.",
+        epilog=(
+            'Examples: new_post.py draft "My New Post"; '
+            'new_post.py post "My New Post" --date "Mar 22"'
+        ),
     )
     parser.add_argument("kind", choices=("draft", "post"), help="What to create")
     parser.add_argument("title", help="Title for the draft or post")
@@ -111,11 +115,19 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Print the file that would be created without writing it",
     )
-    return parser.parse_args()
+    return parser
 
 
-def main() -> int:
-    args = parse_args()
+def main(argv: list[str] | None = None) -> int:
+    if argv is None:
+        argv = sys.argv[1:]
+
+    parser = build_parser()
+    if not argv:
+        parser.print_help()
+        return 0
+
+    args = parser.parse_args(argv)
     repo_root = Path(__file__).resolve().parent.parent
 
     try:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Demo of MFM Tribal Warfare Artificial Life Simulation"
+post_label: "Demo"
 date:   2014-11-24 00:00:00
 categories: demo artificial life
 ---
@@ -9,4 +10,7 @@ This was a project for a UNM Graduate CS special topics course on Artificial Lif
 
 Below is a video demo of the elements I created and how they interact with pre-existing elements. You can also [read the paper here (700KB PDF)]({{ site.docurl }}/mfm-tribal-warfare.pdf)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5MPrSNnunQE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+{% include demo-video.html
+  src="https://www.youtube.com/embed/5MPrSNnunQE"
+  title="MFM Tribal Warfare demo"
+%}
