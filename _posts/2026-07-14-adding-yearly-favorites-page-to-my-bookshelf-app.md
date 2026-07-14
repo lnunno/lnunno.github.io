@@ -10,6 +10,8 @@ I just added a [yearly favorites page](https://www.lucasnunno.com/apps/books/#/y
 
 This works pretty well just for keeping track of the lists as I'm on the go and to look back on, but it'd be nice if it was more visual and was actually linked to my reading history, highlights, etc. I had the idea to make this a full featured page on my app since I already have my read data with the titles, covers, etc on my Bookshelf app.
 
+In general with how good Codex has gotten lately, I've been more ambitious on leveling up my personal data from just normal lists/spreadsheets to full apps.
+
 The JSON structure looks roughly like
 
 ```json
