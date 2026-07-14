@@ -35,6 +35,23 @@
     "matchMethod": "unmatched"
   },
   {
+    "id": "empire-of-damned-empire-of-jay-kristoff-8f646f74",
+    "readEvents": [],
+    "title": "Empire of the Damned (Empire of - Jay Kristoff",
+    "author": "Jay Kristoff",
+    "series": "",
+    "review": "",
+    "highlightCount": 68,
+    "myGoodreadsRating": null,
+    "myReviewRating": null,
+    "imageUrl": "",
+    "asin": "",
+    "goodreadsUrl": "",
+    "goodreadsReviewUrl": "",
+    "kindleUrl": "",
+    "matchMethod": "unmatched"
+  },
+  {
     "id": "toms-crossing-novel-aa415ec1",
     "readEvents": [],
     "title": "Tom's Crossing: A Novel",
@@ -22491,6 +22508,32 @@
     "goodreadsReviewUrl": "https://www.goodreads.com/review/show/7305807268",
     "kindleUrl": "https://amazon.com/dp/B073P43TMS",
     "matchMethod": "asin",
+    "favorite": false
+  },
+  {
+    "id": "empire-of-damned-ab0f807f",
+    "readEvents": [
+      {
+        "readingSessionId": "amzn1.gr.reading_session.v1.d9448172-4de6-4081-bb10-51d9cd8d6b9a",
+        "dateStarted": "Jun 22, 2026",
+        "dateStartedIso": "2026-06-22",
+        "dateRead": "Jul 13, 2026",
+        "dateReadIso": "2026-07-13"
+      }
+    ],
+    "title": "Empire of the Damned",
+    "author": "Jay Kristoff",
+    "series": "Empire of the Vampire, #2",
+    "review": "The ending was amazing, couldn't put it down during the last part of the book, the whole climax was edge of my seat action and some big heavy moments that were really well done. I also thought the beginning was quite good.\n\nThe middle had some weird pacing issues, I think it needed to be trimmed down some. During that part I was interested and was enjoying it but I wasn't really dying to pick up the book and see what happened next. It was sort of a case of it being the middle book and expanding the world so it was doing a lot of setup and showing us new corners of the world we hadn't seen before.\n\nI also think the narrative structure is stretched close to its breaking point on this one and feels a little clumsy. I wish Kristoff trusted his readers a bit more and would just do full POV shifts instead of the strange quoting thing the entire series, I don't think it adds enough to be worth it and often makes it a confusing experience.\n\nAt points I was thinking about how long this book is and it took me a while to read it, think it could have been edited a bit more to make it flow a bit better in the middle, definitely felt the length of it multiple times.\n\nOne thing I'm always guarded about in the series is the tone, it definitely dances around a sort of the Marvel smirk and heavy sarcasm, but overall this entry is played straight and earnest and makes the book a lot stronger. Lots of heavy things happen and we see a lot of setbacks and these moments have real weight and consequences.\n\nThe side characters got a lot better in this one and I cared more about the extended cast a lot more than book 1 and we see it not just being the Gabriel de Leon show which is a good improvement.\n\nOverall a great series and I'm fully on board for book 3. Epic vampire fantasy is completely in my wheelhouse and was done really well. Lots of dark and fantastic and dark moments with great themes of temptation and the line between beauty and evil are just classic vampire themes and done really well in this series.",
+    "highlightCount": 0,
+    "myGoodreadsRating": 4,
+    "myReviewRating": null,
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1764259654l/123200829.jpg",
+    "asin": "B0C5T8G9K2",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/123200829-empire-of-the-damned",
+    "goodreadsReviewUrl": "https://www.goodreads.com/review/show/5940746546",
+    "kindleUrl": "",
+    "matchMethod": "goodreads-only",
     "favorite": false
   }
 ]
