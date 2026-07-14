@@ -2,6 +2,52 @@
   "version": 1,
   "lists": [
     {
+      "year": 2020,
+      "title": "2020 Yearly favorites",
+      "rankings": [
+        {
+          "rank": 1,
+          "label": "Realm of the Elderlings",
+          "kind": "series",
+          "bookIds": [
+            "ship-of-destiny-64f0c568",
+            "fools-fate-17714653",
+            "fools-quest-b2da0298"
+          ]
+        },
+        {
+          "rank": 2,
+          "label": "Toll the Hounds",
+          "kind": "book",
+          "bookIds": ["toll-hounds-6fe734ca"]
+        },
+        {
+          "rank": 3,
+          "label": "Valor",
+          "kind": "book",
+          "bookIds": ["valor-854658ce"]
+        },
+        {
+          "rank": 4,
+          "label": "Best Served Cold",
+          "kind": "book",
+          "bookIds": ["best-served-cold-c8ec203c"]
+        },
+        {
+          "rank": 5,
+          "label": "The Lions of Al-Rassan",
+          "kind": "book",
+          "bookIds": ["lions-of-al-rassan-7124fb01"]
+        },
+        {
+          "rank": 6,
+          "label": "The Road",
+          "kind": "book",
+          "bookIds": ["road-8b3a7f39"]
+        }
+      ]
+    },
+    {
       "year": 2021,
       "title": "2021 Yearly favorites",
       "rankings": [
