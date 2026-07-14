@@ -140,25 +140,39 @@
 
 .post pre,
 .post code {
-  border: 1px solid #d5d5e9;
-  background-color: #eef;
-  padding: 8px 12px;
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  border-radius: 3px;
-  font-size: 15px;
-  overflow:scroll;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+    "Liberation Mono", "Courier New", monospace;
+  font-size: 14px;
 }
 
-.post code { padding: 1px 5px; }
+.post code {
+  padding: 2px 5px;
+  border: 1px solid #30363D;
+  border-radius: 4px;
+  background-color: #161B22;
+  color: #E6EDF3;
+}
+
+.post pre {
+  margin: 0;
+  padding: 16px;
+  overflow-x: auto;
+  border: 1px solid #30363D;
+  border-radius: 6px;
+  background-color: #0D1117;
+  color: #E6EDF3;
+  line-height: 1.5;
+  tab-size: 2;
+}
 
 .post ul,
 .post ol { margin-left: 1.35em; }
 
 .post pre code {
   border: 0;
-  padding-right: 0;
-  padding-left: 0;
+  padding: 0;
+  background: transparent;
+  color: inherit;
 }
 
 .post pre.terminal {
