@@ -1,0 +1,620 @@
+{
+  "version": 1,
+  "lists": [
+    {
+      "year": 2021,
+      "title": "2021 Yearly favorites",
+      "rankings": [
+        {
+          "rank": 1,
+          "label": "Assassin's Fate",
+          "kind": "book",
+          "bookIds": ["assassins-fate-1f2781f3"]
+        },
+        {
+          "rank": 2,
+          "label": "Enemy of God",
+          "kind": "book",
+          "bookIds": ["enemy-of-god-eca5945b"]
+        },
+        {
+          "rank": 3,
+          "label": "Children of Time",
+          "kind": "book",
+          "bookIds": ["children-of-time-58a26069"]
+        },
+        {
+          "rank": 4,
+          "label": "The Judging Eye",
+          "kind": "book",
+          "bookIds": ["judging-eye-7b56b5da"]
+        },
+        {
+          "rank": 5,
+          "label": "Project Hail Mary",
+          "kind": "book",
+          "bookIds": ["project-hail-mary-e98ebca9"]
+        },
+        {
+          "rank": 6,
+          "label": "Dogs of War",
+          "kind": "book",
+          "bookIds": ["dogs-of-war-d7366968"]
+        },
+        {
+          "rank": 7,
+          "label": "A Brightness Long Ago",
+          "kind": "book",
+          "bookIds": ["brightness-long-ago-391de738"]
+        },
+        {
+          "rank": 8,
+          "label": "Wisdom of Crowds",
+          "kind": "book",
+          "bookIds": ["wisdom-of-crowds-5c2167af"]
+        },
+        {
+          "rank": 9,
+          "label": "Ruin",
+          "kind": "book",
+          "bookIds": ["ruin-2efbec2e"]
+        },
+        {
+          "rank": 10,
+          "label": "Hyperion",
+          "kind": "book",
+          "bookIds": ["hyperion-ea1bdde0"]
+        },
+        {
+          "rank": 11,
+          "label": "Skavenslayer",
+          "kind": "book",
+          "bookIds": ["skavenslayer-d583da1e"]
+        },
+        {
+          "rank": 12,
+          "label": "Later",
+          "kind": "book",
+          "bookIds": ["later-a367c56d"]
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "2022 Yearly favorites",
+      "rankings": [
+        {
+          "rank": 1,
+          "label": "Lonesome Dove",
+          "kind": "book",
+          "bookIds": ["lonesome-dove-ce9fed78"]
+        },
+        {
+          "rank": 2,
+          "label": "Howling Dark",
+          "kind": "book",
+          "bookIds": ["howling-dark-baf3ca36"]
+        },
+        {
+          "rank": 3,
+          "label": "Dandelion Dynasty",
+          "kind": "series",
+          "bookIds": [
+            "grace-of-kings-fb98bac7",
+            "wall-of-storms-6cb72c61",
+            "veiled-throne-9559b4d6",
+            "speaking-bones-c1db267e"
+          ]
+        },
+        {
+          "rank": 4,
+          "label": "McCammon: Swan Song, Boy's Life, Speaks the Nightbird",
+          "kind": "group",
+          "bookIds": [
+            "swan-song-f50147fd",
+            "boys-life-6ad963ad",
+            "speaks-nightbird-142e1279"
+          ]
+        },
+        {
+          "rank": 5,
+          "label": "Saga",
+          "kind": "graphic-series",
+          "representativeBookId": "saga-1-cf01bb42"
+        },
+        {
+          "rank": 6,
+          "label": "World Without End",
+          "kind": "book",
+          "bookIds": ["world-without-end-fa3cb623"]
+        },
+        {
+          "rank": 7,
+          "label": "Death's End",
+          "kind": "book",
+          "bookIds": ["deaths-end-f099bd79"]
+        },
+        {
+          "rank": 8,
+          "label": "Count of Monte Cristo",
+          "kind": "book",
+          "bookIds": ["count-of-monte-cristo-995e6f97"]
+        },
+        {
+          "rank": 9,
+          "label": "Sailing to Sarantium",
+          "kind": "book",
+          "bookIds": ["sailing-to-sarantium-d5af1d6e"]
+        },
+        {
+          "rank": 10,
+          "label": "Pandora's Star & Judas Unchained",
+          "kind": "group",
+          "bookIds": [
+            "pandoras-star-eedc2695",
+            "judas-unchained-20ede4a6"
+          ]
+        },
+        {
+          "rank": 11,
+          "label": "Kings of Ash",
+          "kind": "book",
+          "bookIds": ["kings-of-ash-9d275a7a"]
+        },
+        {
+          "rank": 12,
+          "label": "Hellmouth",
+          "kind": "book",
+          "bookIds": ["hellmouth-ba742c36"]
+        },
+        {
+          "rank": 13,
+          "label": "Camelot",
+          "kind": "book",
+          "bookIds": ["camelot-c24a5f5f"]
+        },
+        {
+          "rank": 14,
+          "label": "City of Golden Shadow",
+          "kind": "book",
+          "bookIds": ["city-of-golden-shadow-4bdf304c"]
+        },
+        {
+          "rank": 15,
+          "label": "Us Against You",
+          "kind": "book",
+          "bookIds": ["us-against-you-d87bf0b2"]
+        },
+        {
+          "rank": 16,
+          "label": "Lincoln Lawyer",
+          "kind": "book",
+          "bookIds": ["lincoln-lawyer-081c2f51"]
+        },
+        {
+          "rank": 17,
+          "label": "Ogres",
+          "kind": "book",
+          "bookIds": ["ogres-be2d8044"]
+        },
+        {
+          "rank": 18,
+          "label": "Eversion",
+          "kind": "book",
+          "bookIds": ["eversion-ed8cf426"]
+        },
+        {
+          "rank": 19,
+          "label": "Gates of Fire",
+          "kind": "book",
+          "bookIds": ["gates-of-fire-d666e82d"]
+        },
+        {
+          "rank": 20,
+          "label": "Flowers for Algernon",
+          "kind": "book",
+          "bookIds": ["flowers-for-algernon-4bbd8ae5"]
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "2023 Yearly favorites",
+      "rankings": [
+        {
+          "rank": 1,
+          "label": "Dark Age",
+          "kind": "book",
+          "bookIds": ["dark-age-550b8d7b"]
+        },
+        {
+          "rank": 2,
+          "label": "Empire of Grass",
+          "kind": "book",
+          "bookIds": ["empire-of-grass-997e4709"]
+        },
+        {
+          "rank": 3,
+          "label": "Vagabond",
+          "kind": "graphic-series",
+          "representativeBookId": "vagabond-1-0284be21"
+        },
+        {
+          "rank": 4,
+          "label": "Winter of the World",
+          "kind": "book",
+          "bookIds": ["winter-of-world-1c36b49f"]
+        },
+        {
+          "rank": 5,
+          "label": "The Stand",
+          "kind": "book",
+          "bookIds": ["stand-2450c714"]
+        },
+        {
+          "rank": 6,
+          "label": "Reality Dysfunction",
+          "kind": "book",
+          "bookIds": ["reality-dysfunction-bd6d2fad"]
+        },
+        {
+          "rank": 7,
+          "label": "A Wizard of Earthsea",
+          "kind": "book",
+          "bookIds": ["wizard-of-earthsea-e8b0ce27"]
+        },
+        {
+          "rank": 8,
+          "label": "Empire of the Wolf",
+          "kind": "series",
+          "bookIds": [
+            "justice-of-kings-f13ef2af",
+            "tyranny-of-faith-d8eadb1c",
+            "trials-of-empire-4fbe7311"
+          ]
+        },
+        {
+          "rank": 9,
+          "label": "Monster",
+          "kind": "graphic-series",
+          "representativeBookId": "monster-perfect-edition-1-5829c1b2"
+        },
+        {
+          "rank": 10,
+          "label": "Forest Mage",
+          "kind": "book",
+          "bookIds": ["forest-mage-b2b6ab26"]
+        },
+        {
+          "rank": 11,
+          "label": "Scarab Path",
+          "kind": "book",
+          "bookIds": ["scarab-path-de43b738"]
+        },
+        {
+          "rank": 12,
+          "label": "The Crossing",
+          "kind": "book",
+          "bookIds": ["crossing-4245348b"]
+        },
+        {
+          "rank": 13,
+          "label": "Adulthood Rites",
+          "kind": "book",
+          "bookIds": ["adulthood-rites-c8c2e89f"]
+        },
+        {
+          "rank": 14,
+          "label": "The Long Walk",
+          "kind": "book",
+          "bookIds": ["long-walk-c2fc1d59"]
+        },
+        {
+          "rank": 15,
+          "label": "The Dreaming Void",
+          "kind": "book",
+          "bookIds": ["dreaming-void-98175d48"]
+        },
+        {
+          "rank": 16,
+          "label": "Under Heaven",
+          "kind": "book",
+          "bookIds": ["under-heaven-3fa4e6bb"]
+        },
+        {
+          "rank": 17,
+          "label": "Punpun vol 2",
+          "kind": "book",
+          "bookIds": ["goodnight-punpun-omnibus-2-c02f7690"]
+        },
+        {
+          "rank": 18,
+          "label": "Berserk vol 34",
+          "kind": "book",
+          "bookIds": ["berserk-34-7973fa2e"]
+        },
+        {
+          "rank": 19,
+          "label": "Real",
+          "kind": "graphic-series",
+          "representativeBookId": "real-1-339c705f"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "2024 Yearly favorites",
+      "rankings": [
+        {
+          "rank": 1,
+          "label": "Disquiet Gods",
+          "kind": "book",
+          "bookIds": ["disquiet-gods-3af94150"]
+        },
+        {
+          "rank": 2,
+          "label": "Navigator's Children",
+          "kind": "book",
+          "bookIds": ["navigators-children-cbdb780e"]
+        },
+        {
+          "rank": 3,
+          "label": "Ring",
+          "kind": "book",
+          "bookIds": ["ring-ce55ac32"]
+        },
+        {
+          "rank": 4,
+          "label": "Chasm City",
+          "kind": "book",
+          "bookIds": ["chasm-city-ef09f53b"]
+        },
+        {
+          "rank": 5,
+          "label": "Green Mile / Needful Things",
+          "kind": "group",
+          "bookIds": ["green-mile-9a992efc", "needful-things-e048e40c"]
+        },
+        {
+          "rank": 6,
+          "label": "The Remains of the Day",
+          "kind": "book",
+          "bookIds": ["remains-of-day-08937ebb"]
+        },
+        {
+          "rank": 7,
+          "label": "Naked God",
+          "kind": "book",
+          "bookIds": ["naked-god-7d96447d"]
+        },
+        {
+          "rank": 8,
+          "label": "Grave Empire",
+          "kind": "book",
+          "bookIds": ["grave-empire-8b6d5ebf"]
+        },
+        {
+          "rank": 9,
+          "label": "Return of the Crimson Guard",
+          "kind": "book",
+          "bookIds": ["return-of-crimson-guard-70cd1a44"]
+        },
+        {
+          "rank": 10,
+          "label": "Sea Watch",
+          "kind": "book",
+          "bookIds": ["sea-watch-f4b98df6"]
+        },
+        {
+          "rank": 11,
+          "label": "Parable of the Sower",
+          "kind": "book",
+          "bookIds": ["parable-of-sower-5634e269"]
+        },
+        {
+          "rank": 12,
+          "label": "Eye of the World",
+          "kind": "book",
+          "bookIds": ["eye-of-world-3ee3cca1"]
+        },
+        {
+          "rank": 13,
+          "label": "Son of the Black Sword",
+          "kind": "book",
+          "bookIds": ["son-of-black-sword-6557fbdd"]
+        },
+        {
+          "rank": 14,
+          "label": "Of Darkness and Light",
+          "kind": "book",
+          "bookIds": ["of-darkness-and-light-7191b562"]
+        },
+        {
+          "rank": 15,
+          "label": "Vinland Saga",
+          "kind": "graphic-series",
+          "representativeBookId": "vinland-saga-omnibus-1-d772a6b3"
+        },
+        {
+          "rank": 16,
+          "label": "The Farthest Shore",
+          "kind": "book",
+          "bookIds": ["farthest-shore-deaef9d4"]
+        },
+        {
+          "rank": 17,
+          "label": "Mine",
+          "kind": "book",
+          "bookIds": ["mine-da607fa5"]
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "2025 Yearly favorites",
+      "rankings": [
+        {
+          "rank": 1,
+          "label": "Shadows Upon Time",
+          "kind": "book",
+          "bookIds": ["shadows-upon-time-658c754c"]
+        },
+        {
+          "rank": 2,
+          "label": "Cryptonomicon",
+          "kind": "book",
+          "bookIds": ["cryptonomicon-d5abafb1"]
+        },
+        {
+          "rank": 3,
+          "label": "The Passage",
+          "kind": "book",
+          "bookIds": ["passage-6631d5dc"]
+        },
+        {
+          "rank": 4,
+          "label": "No Life Forsaken",
+          "kind": "book",
+          "bookIds": ["no-life-forsaken-ead6710e"]
+        },
+        {
+          "rank": 5,
+          "label": "Great Hunt / Dragon Reborn",
+          "kind": "group",
+          "bookIds": ["great-hunt-c6880932", "dragon-reborn-0550ce97"]
+        },
+        {
+          "rank": 6,
+          "label": "Seveneves",
+          "kind": "book",
+          "bookIds": ["seveneves-b0984ea0"]
+        },
+        {
+          "rank": 7,
+          "label": "Shadowmarch",
+          "kind": "book",
+          "bookIds": ["shadowmarch-189bb0c5"]
+        },
+        {
+          "rank": 8,
+          "label": "Coalescent",
+          "kind": "book",
+          "bookIds": ["coalescent-56cd5b21"]
+        },
+        {
+          "rank": 9,
+          "label": "Tower of Silence",
+          "kind": "book",
+          "bookIds": ["tower-of-silence-dba23287"]
+        },
+        {
+          "rank": 10,
+          "label": "Orb Sceptre Throne",
+          "kind": "book",
+          "bookIds": ["orb-sceptre-throne-62d985d7"]
+        },
+        {
+          "rank": 11,
+          "label": "Three Stigmata of Palmer Eldritch",
+          "kind": "book",
+          "bookIds": ["three-stigmata-of-palmer-eldritch-0be1cd08"]
+        },
+        {
+          "rank": 12,
+          "label": "A Short Stay in Hell",
+          "kind": "book",
+          "bookIds": ["short-stay-in-hell-243c5fc6"]
+        },
+        {
+          "rank": 13,
+          "label": "Running Man",
+          "kind": "book",
+          "bookIds": ["running-man-d69d0fa1"]
+        },
+        {
+          "rank": 14,
+          "label": "Lost Light (Bosch)",
+          "kind": "book",
+          "bookIds": ["lost-light-9e18f540"]
+        },
+        {
+          "rank": 15,
+          "label": "Buffalo Hunter Hunter",
+          "kind": "book",
+          "bookIds": ["buffalo-hunter-hunter-b77999de"]
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "title": "2026 Yearly favorites",
+      "rankings": [
+        {
+          "rank": 1,
+          "label": "The Scar",
+          "kind": "book",
+          "bookIds": ["scar-5344d69b"]
+        },
+        {
+          "rank": 2,
+          "label": "Shadowheart",
+          "kind": "book",
+          "bookIds": ["shadowheart-91da6fd5"]
+        },
+        {
+          "rank": 3,
+          "label": "Exodus",
+          "kind": "series",
+          "bookIds": [
+            "exodus-archimedes-engine-955513fc",
+            "exodus-helium-sea-40592c15"
+          ]
+        },
+        {
+          "rank": 4,
+          "label": "Children of Strife",
+          "kind": "book",
+          "bookIds": ["children-of-strife-4a2acd15"]
+        },
+        {
+          "rank": 5,
+          "label": "Mystic River",
+          "kind": "book",
+          "bookIds": ["mystic-river-d3f46aef"]
+        },
+        {
+          "rank": 6,
+          "label": "Blood and Bone",
+          "kind": "book",
+          "bookIds": [
+            "blood-and-bone-novel-of-malazan-empire-163482bd"
+          ]
+        },
+        {
+          "rank": 7,
+          "label": "Inhibitor Phase",
+          "kind": "book",
+          "bookIds": ["inhibitor-phase-c138e481"]
+        },
+        {
+          "rank": 8,
+          "label": "Shift (Silo #2)",
+          "kind": "book",
+          "bookIds": ["shift-2ec82ee1"]
+        },
+        {
+          "rank": 9,
+          "label": "Last Contract of Isako",
+          "kind": "book",
+          "bookIds": ["last-contract-of-isako-bb86f4fc"]
+        },
+        {
+          "rank": 10,
+          "label": "Empire of the Damned",
+          "kind": "book",
+          "bookIds": ["empire-of-damned-ab0f807f"]
+        }
+      ]
+    }
+  ]
+}
