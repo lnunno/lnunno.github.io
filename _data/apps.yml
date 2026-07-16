@@ -6,6 +6,10 @@
   url: /apps/atlas/
   description: Outdoor activities, peaks, parks, ski resorts, and map overlays.
   emoji: 🏔️
+- name: Terraforming Prototype
+  url: /apps/terraforming-prototype/
+  description: 3D prototype for generating a planet with different climate presets and simulates it evolving throughout time.
+  emoji: 🪐
 - name: Health Tracker
   url: /apps/health-tracker/
   description: Daily health and habit tracking.
