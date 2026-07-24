@@ -3,7 +3,7 @@
   "lists": [
     {
       "year": 2020,
-      "title": "2020 Yearly favorites",
+      "title": "2020",
       "rankings": [
         {
           "rank": 1,
@@ -49,7 +49,7 @@
     },
     {
       "year": 2021,
-      "title": "2021 Yearly favorites",
+      "title": "2021",
       "rankings": [
         {
           "rank": 1,
@@ -127,7 +127,7 @@
     },
     {
       "year": 2022,
-      "title": "2022 Yearly favorites",
+      "title": "2022",
       "rankings": [
         {
           "rank": 1,
@@ -196,10 +196,7 @@
           "rank": 10,
           "label": "Pandora's Star & Judas Unchained",
           "kind": "group",
-          "bookIds": [
-            "pandoras-star-eedc2695",
-            "judas-unchained-20ede4a6"
-          ]
+          "bookIds": ["pandoras-star-eedc2695", "judas-unchained-20ede4a6"]
         },
         {
           "rank": 11,
@@ -265,7 +262,7 @@
     },
     {
       "year": 2023,
-      "title": "2023 Yearly favorites",
+      "title": "2023",
       "rankings": [
         {
           "rank": 1,
@@ -389,7 +386,7 @@
     },
     {
       "year": 2024,
-      "title": "2024 Yearly favorites",
+      "title": "2024",
       "rankings": [
         {
           "rank": 1,
@@ -497,7 +494,7 @@
     },
     {
       "year": 2025,
-      "title": "2025 Yearly favorites",
+      "title": "2025",
       "rankings": [
         {
           "rank": 1,
@@ -593,7 +590,7 @@
     },
     {
       "year": 2026,
-      "title": "2026 Yearly favorites",
+      "title": "2026",
       "rankings": [
         {
           "rank": 1,
@@ -632,9 +629,7 @@
           "rank": 6,
           "label": "Blood and Bone",
           "kind": "book",
-          "bookIds": [
-            "blood-and-bone-novel-of-malazan-empire-163482bd"
-          ]
+          "bookIds": ["blood-and-bone-novel-of-malazan-empire-163482bd"]
         },
         {
           "rank": 7,

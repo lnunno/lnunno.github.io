@@ -1,5 +1,5 @@
 {
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "https://example.com/goodreads2/yearly-favorites.schema.json",
   "title": "Yearly favorites lists",
   "description": "Versioned yearly-favorites rankings linked to IDs in the generated bookshelf data.",
@@ -19,11 +19,11 @@
       "minItems": 1,
       "uniqueItems": true,
       "items": {
-        "$ref": "#/$defs/yearlyFavoritesList"
+        "$ref": "#/definitions/yearlyFavoritesList"
       }
     }
   },
-  "$defs": {
+  "definitions": {
     "bookId": {
       "type": "string",
       "minLength": 1,
@@ -43,7 +43,7 @@
       "maxItems": 1,
       "uniqueItems": true,
       "items": {
-        "$ref": "#/$defs/bookId"
+        "$ref": "#/definitions/bookId"
       }
     },
     "groupBookIdList": {
@@ -51,7 +51,7 @@
       "minItems": 2,
       "uniqueItems": true,
       "items": {
-        "$ref": "#/$defs/bookId"
+        "$ref": "#/definitions/bookId"
       }
     },
     "bookRanking": {
@@ -65,16 +65,16 @@
       ],
       "properties": {
         "rank": {
-          "$ref": "#/$defs/rank"
+          "$ref": "#/definitions/rank"
         },
         "label": {
-          "$ref": "#/$defs/label"
+          "$ref": "#/definitions/label"
         },
         "kind": {
           "const": "book"
         },
         "bookIds": {
-          "$ref": "#/$defs/singleBookIdList"
+          "$ref": "#/definitions/singleBookIdList"
         }
       }
     },
@@ -89,10 +89,10 @@
       ],
       "properties": {
         "rank": {
-          "$ref": "#/$defs/rank"
+          "$ref": "#/definitions/rank"
         },
         "label": {
-          "$ref": "#/$defs/label"
+          "$ref": "#/definitions/label"
         },
         "kind": {
           "enum": [
@@ -101,7 +101,7 @@
           ]
         },
         "bookIds": {
-          "$ref": "#/$defs/groupBookIdList"
+          "$ref": "#/definitions/groupBookIdList"
         }
       }
     },
@@ -116,30 +116,30 @@
       ],
       "properties": {
         "rank": {
-          "$ref": "#/$defs/rank"
+          "$ref": "#/definitions/rank"
         },
         "label": {
-          "$ref": "#/$defs/label"
+          "$ref": "#/definitions/label"
         },
         "kind": {
           "const": "graphic-series"
         },
         "representativeBookId": {
           "description": "A representative cover for a manga or comics series; this is not an exhaustive volume reference.",
-          "$ref": "#/$defs/bookId"
+          "$ref": "#/definitions/bookId"
         }
       }
     },
     "ranking": {
       "oneOf": [
         {
-          "$ref": "#/$defs/bookRanking"
+          "$ref": "#/definitions/bookRanking"
         },
         {
-          "$ref": "#/$defs/multiBookRanking"
+          "$ref": "#/definitions/multiBookRanking"
         },
         {
-          "$ref": "#/$defs/graphicSeriesRanking"
+          "$ref": "#/definitions/graphicSeriesRanking"
         }
       ]
     },
@@ -166,7 +166,7 @@
           "minItems": 1,
           "uniqueItems": true,
           "items": {
-            "$ref": "#/$defs/ranking"
+            "$ref": "#/definitions/ranking"
           }
         }
       }

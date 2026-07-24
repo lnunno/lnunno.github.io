@@ -1,5 +1,5 @@
 {
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "https://example.com/goodreads2/bookshelf-metadata.schema.json",
   "title": "Bookshelf metadata",
   "description": "Curated local bookshelf metadata keyed by normalized Goodreads book URL.",
@@ -8,9 +8,9 @@
     "pattern": "^https://www\\.goodreads\\.com/book/show/"
   },
   "additionalProperties": {
-    "$ref": "#/$defs/bookMetadataEntry"
+    "$ref": "#/definitions/bookMetadataEntry"
   },
-  "$defs": {
+  "definitions": {
     "bookFormat": {
       "type": "string",
       "enum": [
@@ -66,23 +66,23 @@
       "minProperties": 1,
       "properties": {
         "format": {
-          "$ref": "#/$defs/bookFormat"
+          "$ref": "#/definitions/bookFormat"
         },
         "genres": {
           "type": "array",
           "uniqueItems": true,
           "items": {
-            "$ref": "#/$defs/bookGenre"
+            "$ref": "#/definitions/bookGenre"
           }
         },
         "subgenres": {
-          "$ref": "#/$defs/slugList"
+          "$ref": "#/definitions/slugList"
         },
         "tasteRoles": {
           "type": "array",
           "uniqueItems": true,
           "items": {
-            "$ref": "#/$defs/bookTasteRole"
+            "$ref": "#/definitions/bookTasteRole"
           }
         }
       }
