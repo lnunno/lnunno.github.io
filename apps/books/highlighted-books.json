@@ -22518,5 +22518,31 @@
     "kindleUrl": "",
     "matchMethod": "title-author",
     "favorite": false
+  },
+  {
+    "id": "splintered-sun-ec90d2db",
+    "readEvents": [
+      {
+        "readingSessionId": "amzn1.gr.reading_session.v1.2db9238e-981c-4fa4-afe6-fbbbdda41056",
+        "dateStarted": "Jul 05, 2026",
+        "dateStartedIso": "2026-07-05",
+        "dateRead": "Jul 24, 2026",
+        "dateReadIso": "2026-07-24"
+      }
+    ],
+    "title": "The Splintered Sun",
+    "author": "Tad Williams",
+    "series": "",
+    "review": "I received a copy of this book on Netgalley in exchange for an honest review.\n\n3.5/5 a bit conflicted on this one and what to rate it.\n\nThis is marketed as a fun Robin Hood adventure and while that's part of it, Tad really just does his thing here and it's not drastically different from other books in this world, you have to enjoy being in this world because it is a very deliberately paced and often slow burn.\n\nSome of the difference here is the scale is a bit more constrained, we're not doing a world wide epic fantasy but there's still plenty of POVs, a contested throne succession, a lot of ingredients for epic fantasy that we know and love.\n\nOverall this is a really good book and I enjoyed reading it, Tad is one of my favorite authors. The reading experience is great and his moment to moment writing is some of the best. There's a lot of beautiful writing and great turns of phrase, it lives up to his pedigree here.\n\nHowever, I really think the plot is one of the slowest we've seen in Osten Ard so far and there's a lot of anticlimactic moments. After finishing the book I'm wondering what the point of it was and that's not a good feeling after investing so much time on it.\n\nThere's some good world building nuggets and good exploration of the magic but I was hoping for a bit more, there's some hints at larger things at play but I needed something more to really make me eager for the next book.\n\nI will definitely continue the series but I'm not as hungry for more as I was hoping to be. There's a lot of great characters and the slow building that I had with them was good, so there was a nice mix of characters, world building, action, and the slow burning plot.",
+    "highlightCount": 105,
+    "myGoodreadsRating": 3,
+    "myReviewRating": 3.5,
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1774327034l/246247545.jpg",
+    "asin": "0756419050",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/246247545-the-splintered-sun",
+    "goodreadsReviewUrl": "https://www.goodreads.com/review/show/5435144159",
+    "kindleUrl": "",
+    "matchMethod": "title-author",
+    "favorite": false
   }
 ]

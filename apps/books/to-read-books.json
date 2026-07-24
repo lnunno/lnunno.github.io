@@ -22,7 +22,7 @@
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1759418767l/239234896.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/239234896-sarafina",
-    "averageRating": 4.18,
+    "averageRating": 4.16,
     "pageCount": 354,
     "dateAdded": "April 10, 2026",
     "dateAddedIso": "2026-04-10"
@@ -70,9 +70,37 @@
     "dateAddedIso": "2023-07-15"
   },
   {
+    "id": "8744101915",
+    "reviewId": "8744101915",
+    "position": 6,
+    "title": "The Trees",
+    "author": "Percival Everett",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610060654l/56269278.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/56269278-the-trees",
+    "averageRating": 4.06,
+    "pageCount": 309,
+    "dateAdded": "July 05, 2026",
+    "dateAddedIso": "2026-07-05"
+  },
+  {
+    "id": "8733581483",
+    "reviewId": "8733581483",
+    "position": 7,
+    "title": "Everything's Eventual",
+    "author": "Stephen King",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386922876l/10579.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/10579.Everything_s_Eventual",
+    "averageRating": 3.97,
+    "pageCount": 605,
+    "dateAdded": "July 01, 2026",
+    "dateAddedIso": "2026-07-01"
+  },
+  {
     "id": "8705468852",
     "reviewId": "8705468852",
-    "position": 6,
+    "position": 8,
     "title": "Machine Vendetta",
     "author": "Alastair Reynolds",
     "series": "Prefect Dreyfus Emergency, #3",
@@ -86,13 +114,13 @@
   {
     "id": "8366765006",
     "reviewId": "8366765006",
-    "position": 7,
+    "position": 9,
     "title": "Neverness",
     "author": "David Zindell",
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503201340l/36072740.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/36072740-neverness",
-    "averageRating": 4.04,
+    "averageRating": 4.03,
     "pageCount": 619,
     "dateAdded": "February 17, 2026",
     "dateAddedIso": "2026-02-17"
@@ -100,7 +128,7 @@
   {
     "id": "8577518771",
     "reviewId": "8577518771",
-    "position": 8,
+    "position": 10,
     "title": "The Gone World",
     "author": "Tom Sweterlitsch",
     "series": "",
@@ -114,7 +142,7 @@
   {
     "id": "5343487984",
     "reviewId": "5343487984",
-    "position": 9,
+    "position": 11,
     "title": "The Abyss Beyond Dreams",
     "author": "Peter F. Hamilton",
     "series": "Chronicle of the Fallers #1",
@@ -128,7 +156,7 @@
   {
     "id": "7961817584",
     "reviewId": "7961817584",
-    "position": 10,
+    "position": 12,
     "title": "The Poisonwood Bible",
     "author": "Barbara Kingsolver",
     "series": "",
@@ -142,7 +170,7 @@
   {
     "id": "8512361307",
     "reviewId": "8512361307",
-    "position": 11,
+    "position": 13,
     "title": "Use of Weapons",
     "author": "Iain M. Banks",
     "series": "Culture, #3",
@@ -156,7 +184,7 @@
   {
     "id": "8454294225",
     "reviewId": "8454294225",
-    "position": 12,
+    "position": 14,
     "title": "The Poet Empress",
     "author": "Shen Tao",
     "series": "",
@@ -170,7 +198,7 @@
   {
     "id": "7246634697",
     "reviewId": "7246634697",
-    "position": 13,
+    "position": 15,
     "title": "Light",
     "author": "M. John Harrison",
     "series": "Kefahuchi Tract, #1",
@@ -182,15 +210,29 @@
     "dateAddedIso": "2025-01-22"
   },
   {
+    "id": "8780696574",
+    "reviewId": "8780696574",
+    "position": 16,
+    "title": "The End of Everything",
+    "author": "M. John Harrison",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1777613380l/241835818.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/241835818-the-end-of-everything",
+    "averageRating": 3.62,
+    "pageCount": 208,
+    "dateAdded": "July 18, 2026",
+    "dateAddedIso": "2026-07-18"
+  },
+  {
     "id": "7613542888",
     "reviewId": "7613542888",
-    "position": 14,
+    "position": 17,
     "title": "Roadwork",
     "author": "Richard Bachman",
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1166254222l/10577.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/10577.Roadwork",
-    "averageRating": 3.58,
+    "averageRating": 3.57,
     "pageCount": 320,
     "dateAdded": "May 30, 2025",
     "dateAddedIso": "2025-05-30"
@@ -198,7 +240,7 @@
   {
     "id": "5912078262",
     "reviewId": "5912078262",
-    "position": 15,
+    "position": 18,
     "title": "Thanquol's Doom",
     "author": "C.L. Werner",
     "series": "Warhammer: Thanquol & Boneripper, #3",
@@ -212,7 +254,7 @@
   {
     "id": "8254403620",
     "reviewId": "8254403620",
-    "position": 16,
+    "position": 19,
     "title": "Comanche Moon",
     "author": "Larry McMurtry",
     "series": "Lonesome Dove, #4",
@@ -226,7 +268,7 @@
   {
     "id": "6487221651",
     "reviewId": "6487221651",
-    "position": 17,
+    "position": 20,
     "title": "Under the Dome",
     "author": "Stephen King",
     "series": "",
@@ -240,7 +282,7 @@
   {
     "id": "4677061285",
     "reviewId": "4677061285",
-    "position": 18,
+    "position": 21,
     "title": "A Canticle for Leibowitz",
     "author": "Walter M. Miller Jr.",
     "series": "St. Leibowitz, #1",
@@ -254,7 +296,7 @@
   {
     "id": "4093638545",
     "reviewId": "4093638545",
-    "position": 19,
+    "position": 22,
     "title": "Piranesi",
     "author": "Susanna Clarke",
     "series": "",
@@ -268,13 +310,13 @@
   {
     "id": "8637326420",
     "reviewId": "8637326420",
-    "position": 20,
+    "position": 23,
     "title": "Hollow",
     "author": "Brian Catling",
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617707208l/56212878.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/56212878-hollow",
-    "averageRating": 3.7,
+    "averageRating": 3.71,
     "pageCount": 254,
     "dateAdded": "May 27, 2026",
     "dateAddedIso": "2026-05-27"
@@ -282,7 +324,7 @@
   {
     "id": "8289455850",
     "reviewId": "8289455850",
-    "position": 21,
+    "position": 24,
     "title": "The Colonel",
     "author": "Peter Watts",
     "series": "Firefall, #1.5",
@@ -296,7 +338,7 @@
   {
     "id": "7815023215",
     "reviewId": "7815023215",
-    "position": 22,
+    "position": 25,
     "title": "Echopraxia",
     "author": "Peter Watts",
     "series": "Firefall, #2",
@@ -310,7 +352,7 @@
   {
     "id": "8685764062",
     "reviewId": "8685764062",
-    "position": 23,
+    "position": 26,
     "title": "The Etched City",
     "author": "K.J. Bishop",
     "series": "",
@@ -324,7 +366,7 @@
   {
     "id": "8226033982",
     "reviewId": "8226033982",
-    "position": 24,
+    "position": 27,
     "title": "The Bright Sword",
     "author": "Lev Grossman",
     "series": "",
@@ -338,13 +380,13 @@
   {
     "id": "7959554465",
     "reviewId": "7959554465",
-    "position": 25,
+    "position": 28,
     "title": "The Starving Saints",
     "author": "Caitlin Starling",
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1727445382l/217896248.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/217896248-the-starving-saints",
-    "averageRating": 3.59,
+    "averageRating": 3.58,
     "pageCount": 352,
     "dateAdded": "October 01, 2025",
     "dateAddedIso": "2025-10-01"
@@ -352,7 +394,7 @@
   {
     "id": "7574606676",
     "reviewId": "7574606676",
-    "position": 26,
+    "position": 29,
     "title": "Accelerando",
     "author": "Charles Stross",
     "series": "",
@@ -366,7 +408,7 @@
   {
     "id": "8344617113",
     "reviewId": "8344617113",
-    "position": 27,
+    "position": 30,
     "title": "The Penultimate Truth",
     "author": "Philip K. Dick",
     "series": "",
@@ -380,13 +422,13 @@
   {
     "id": "8638757387",
     "reviewId": "8638757387",
-    "position": 28,
+    "position": 31,
     "title": "American Paladin",
     "author": "Larry Correia",
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1762210919l/243089543.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/243089543-american-paladin",
-    "averageRating": 4.56,
+    "averageRating": 4.52,
     "pageCount": 290,
     "dateAdded": "May 28, 2026",
     "dateAddedIso": "2026-05-28"
@@ -394,7 +436,7 @@
   {
     "id": "8067294850",
     "reviewId": "8067294850",
-    "position": 29,
+    "position": 32,
     "title": "Legacies of Betrayal",
     "author": "Steven Erikson",
     "series": "Witness, #3",
@@ -408,7 +450,7 @@
   {
     "id": "7305807971",
     "reviewId": "7305807971",
-    "position": 30,
+    "position": 33,
     "title": "The Scholar of Moab",
     "author": "Steven L. Peck",
     "series": "",
@@ -422,7 +464,7 @@
   {
     "id": "8669401006",
     "reviewId": "8669401006",
-    "position": 31,
+    "position": 34,
     "title": "The Chronoliths",
     "author": "Robert Charles Wilson",
     "series": "",
@@ -436,13 +478,13 @@
   {
     "id": "8501038246",
     "reviewId": "8501038246",
-    "position": 32,
+    "position": 35,
     "title": "Sordaneon",
     "author": "L. L. Stephens",
     "series": "The Triempery Revelations, #1",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1634565658l/58595005.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/58595005-sordaneon",
-    "averageRating": 4.54,
+    "averageRating": 4.56,
     "pageCount": 540,
     "dateAdded": "April 06, 2026",
     "dateAddedIso": "2026-04-06"
@@ -450,13 +492,13 @@
   {
     "id": "6575382898",
     "reviewId": "6575382898",
-    "position": 33,
+    "position": 36,
     "title": "His Black Tongue",
     "author": "Mitchell Lüthi",
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673752608l/59938773.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/59938773-his-black-tongue",
-    "averageRating": 3.2,
+    "averageRating": 3.19,
     "pageCount": 269,
     "dateAdded": "June 10, 2024",
     "dateAddedIso": "2024-06-10"
@@ -464,7 +506,7 @@
   {
     "id": "7841486562",
     "reviewId": "7841486562",
-    "position": 34,
+    "position": 37,
     "title": "I Who Have Never Known Men",
     "author": "Jacqueline Harpman",
     "series": "",
@@ -478,7 +520,7 @@
   {
     "id": "8693764555",
     "reviewId": "8693764555",
-    "position": 35,
+    "position": 38,
     "title": "Gitslayer",
     "author": "Darius Hinks",
     "series": "Gotrek Gurnisson #3",
@@ -492,13 +534,13 @@
   {
     "id": "8466365869",
     "reviewId": "8466365869",
-    "position": 36,
+    "position": 39,
     "title": "No Man's Land",
     "author": "Richard K. Morgan",
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1774790771l/223854480.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/223854480-no-man-s-land",
-    "averageRating": 4.14,
+    "averageRating": 4.13,
     "pageCount": 478,
     "dateAdded": "March 25, 2026",
     "dateAddedIso": "2026-03-25"
@@ -506,7 +548,7 @@
   {
     "id": "5741238553",
     "reviewId": "5741238553",
-    "position": 37,
+    "position": 40,
     "title": "The Spear Cuts Through Water",
     "author": "Simon Jimenez",
     "series": "",
@@ -520,7 +562,7 @@
   {
     "id": "7286135516",
     "reviewId": "7286135516",
-    "position": 38,
+    "position": 41,
     "title": "Downbelow Station",
     "author": "C.J. Cherryh",
     "series": "The Company Wars, #1",
@@ -534,13 +576,13 @@
   {
     "id": "8558862294",
     "reviewId": "8558862294",
-    "position": 39,
+    "position": 42,
     "title": "Lives of Bitter Rain",
     "author": "Adrian Tchaikovsky",
     "series": "The Tyrant Philosophers, #2.5",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1744267555l/222376918.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/222376918-lives-of-bitter-rain",
-    "averageRating": 4.19,
+    "averageRating": 4.18,
     "pageCount": 126,
     "dateAdded": "April 28, 2026",
     "dateAddedIso": "2026-04-28"
@@ -548,7 +590,7 @@
   {
     "id": "6698181672",
     "reviewId": "6698181672",
-    "position": 40,
+    "position": 43,
     "title": "The Dirty Streets of Heaven",
     "author": "Tad Williams",
     "series": "Bobby Dollar, #1",
@@ -562,7 +604,7 @@
   {
     "id": "8548688008",
     "reviewId": "8548688008",
-    "position": 41,
+    "position": 44,
     "title": "The Pastel City",
     "author": "M. John Harrison",
     "series": "Viriconium #1",
@@ -576,7 +618,7 @@
   {
     "id": "5942473573",
     "reviewId": "5942473573",
-    "position": 42,
+    "position": 45,
     "title": "Black Sun Rising",
     "author": "C.S. Friedman",
     "series": "The Coldfire Trilogy, #1",
@@ -588,23 +630,9 @@
     "dateAddedIso": "2023-10-30"
   },
   {
-    "id": "3720299531",
-    "reviewId": "3720299531",
-    "position": 43,
-    "title": "The Iliad",
-    "author": "Homer",
-    "series": "",
-    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1625333695l/1371.jpg",
-    "goodreadsUrl": "https://www.goodreads.com/book/show/1371.The_Iliad",
-    "averageRating": 3.94,
-    "pageCount": 614,
-    "dateAdded": "December 27, 2020",
-    "dateAddedIso": "2020-12-27"
-  },
-  {
     "id": "8512365429",
     "reviewId": "8512365429",
-    "position": 44,
+    "position": 46,
     "title": "The Cold Dish",
     "author": "Craig Johnson",
     "series": "Walt Longmire, #1",
@@ -618,7 +646,7 @@
   {
     "id": "8317414587",
     "reviewId": "8317414587",
-    "position": 45,
+    "position": 47,
     "title": "Silverthorn",
     "author": "Raymond E. Feist",
     "series": "The Riftwar Saga, #3",
@@ -632,7 +660,7 @@
   {
     "id": "8516965264",
     "reviewId": "8516965264",
-    "position": 46,
+    "position": 48,
     "title": "The Ballad of Songbirds and Snakes",
     "author": "Suzanne Collins",
     "series": "The Hunger Games, #0",
@@ -646,7 +674,7 @@
   {
     "id": "5497594799",
     "reviewId": "5497594799",
-    "position": 47,
+    "position": 49,
     "title": "The Forever War",
     "author": "Joe Haldeman",
     "series": "The Forever War, #1",
@@ -660,7 +688,7 @@
   {
     "id": "4576909828",
     "reviewId": "4576909828",
-    "position": 48,
+    "position": 50,
     "title": "Anathem",
     "author": "Neal Stephenson",
     "series": "",
@@ -674,7 +702,7 @@
   {
     "id": "8370294099",
     "reviewId": "8370294099",
-    "position": 49,
+    "position": 51,
     "title": "The Twice-Dead King: Ruin",
     "author": "Nate Crowley",
     "series": "",
@@ -688,7 +716,7 @@
   {
     "id": "6436097493",
     "reviewId": "6436097493",
-    "position": 50,
+    "position": 52,
     "title": "Days of Shattered Faith",
     "author": "Adrian Tchaikovsky",
     "series": "The Tyrant Philosophers, #3",
@@ -702,7 +730,7 @@
   {
     "id": "8511559415",
     "reviewId": "8511559415",
-    "position": 51,
+    "position": 53,
     "title": "King's Dragon",
     "author": "Kate Elliott",
     "series": "Crown of Stars, #1",
@@ -716,13 +744,13 @@
   {
     "id": "5456875467",
     "reviewId": "5456875467",
-    "position": 52,
+    "position": 54,
     "title": "The City & the City",
     "author": "China Miéville",
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320475957l/4703581.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/4703581-the-city-the-city",
-    "averageRating": 3.9,
+    "averageRating": 3.89,
     "pageCount": 336,
     "dateAdded": "April 01, 2023",
     "dateAddedIso": "2023-04-01"
@@ -730,7 +758,7 @@
   {
     "id": "5946152716",
     "reviewId": "5946152716",
-    "position": 53,
+    "position": 55,
     "title": "Boys in the Valley",
     "author": "Philip Fracassi",
     "series": "",
@@ -744,7 +772,7 @@
   {
     "id": "4278557144",
     "reviewId": "4278557144",
-    "position": 54,
+    "position": 56,
     "title": "A Cavern of Black Ice",
     "author": "J.V. Jones",
     "series": "Sword of Shadows, #1",
@@ -758,7 +786,7 @@
   {
     "id": "8105177958",
     "reviewId": "8105177958",
-    "position": 55,
+    "position": 57,
     "title": "Homunculus (Omnibus) Vol. 3-4",
     "author": "Hideo Yamamoto",
     "series": "",
@@ -772,7 +800,7 @@
   {
     "id": "8078645560",
     "reviewId": "8078645560",
-    "position": 56,
+    "position": 58,
     "title": "The Diamond Age: Or, a Young Lady's Illustrated Primer",
     "author": "Neal Stephenson",
     "series": "",
@@ -786,7 +814,7 @@
   {
     "id": "4134904589",
     "reviewId": "4134904589",
-    "position": 57,
+    "position": 59,
     "title": "Fevre Dream",
     "author": "George R.R. Martin",
     "series": "",
@@ -800,7 +828,7 @@
   {
     "id": "5459907069",
     "reviewId": "5459907069",
-    "position": 58,
+    "position": 60,
     "title": "A Song for Arbonne",
     "author": "Guy Gavriel Kay",
     "series": "",
@@ -814,7 +842,7 @@
   {
     "id": "7779409694",
     "reviewId": "7779409694",
-    "position": 59,
+    "position": 61,
     "title": "The Climber, Vol. 5",
     "author": "Shin'ichi Sakamoto",
     "series": "",
@@ -828,7 +856,7 @@
   {
     "id": "8183691429",
     "reviewId": "8183691429",
-    "position": 60,
+    "position": 62,
     "title": "The Deluge",
     "author": "Stephen Markley",
     "series": "",
@@ -842,7 +870,7 @@
   {
     "id": "8036830901",
     "reviewId": "8036830901",
-    "position": 61,
+    "position": 63,
     "title": "The Willows",
     "author": "Algernon Blackwood",
     "series": "",
@@ -856,7 +884,7 @@
   {
     "id": "8169830908",
     "reviewId": "8169830908",
-    "position": 62,
+    "position": 64,
     "title": "A Secret History",
     "author": "Mary Gentle",
     "series": "The Book of Ash, #1",
@@ -870,7 +898,7 @@
   {
     "id": "8317086066",
     "reviewId": "8317086066",
-    "position": 63,
+    "position": 65,
     "title": "In Patagonia",
     "author": "Bruce Chatwin",
     "series": "",
@@ -884,7 +912,7 @@
   {
     "id": "8317088446",
     "reviewId": "8317088446",
-    "position": 64,
+    "position": 66,
     "title": "The Dangers of Smoking in Bed",
     "author": "Mariana Enriquez",
     "series": "",
@@ -898,13 +926,13 @@
   {
     "id": "8032077538",
     "reviewId": "8032077538",
-    "position": 65,
+    "position": 67,
     "title": "Real, Vol. 16",
     "author": "Takehiko Inoue",
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1747237580l/224004701.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/224004701-real-vol-16",
-    "averageRating": 4.59,
+    "averageRating": 4.58,
     "pageCount": 208,
     "dateAdded": "October 30, 2025",
     "dateAddedIso": "2025-10-30"
@@ -912,7 +940,7 @@
   {
     "id": "8081868148",
     "reviewId": "8081868148",
-    "position": 66,
+    "position": 68,
     "title": "To Tame a Land",
     "author": "Louis L'Amour",
     "series": "",
@@ -926,7 +954,7 @@
   {
     "id": "6681306040",
     "reviewId": "6681306040",
-    "position": 67,
+    "position": 69,
     "title": "The Will of the Many",
     "author": "James Islington",
     "series": "Hierarchy, #1",
@@ -940,7 +968,7 @@
   {
     "id": "8078368922",
     "reviewId": "8078368922",
-    "position": 68,
+    "position": 70,
     "title": "The Haunted Mesa",
     "author": "Louis L'Amour",
     "series": "",
@@ -954,7 +982,7 @@
   {
     "id": "6557201927",
     "reviewId": "6557201927",
-    "position": 69,
+    "position": 71,
     "title": "The Power of the Dog",
     "author": "Don Winslow",
     "series": "Power of the Dog, #1",
@@ -968,7 +996,7 @@
   {
     "id": "7858102974",
     "reviewId": "7858102974",
-    "position": 70,
+    "position": 72,
     "title": "Tales from Earthsea",
     "author": "Ursula K. Le Guin",
     "series": "The Earthsea Cycle, #5",
@@ -982,7 +1010,7 @@
   {
     "id": "8113647805",
     "reviewId": "8113647805",
-    "position": 71,
+    "position": 73,
     "title": "The Doom of Dragonback",
     "author": "Gav Thorpe",
     "series": "",
@@ -996,7 +1024,7 @@
   {
     "id": "5132927891",
     "reviewId": "5132927891",
-    "position": 72,
+    "position": 74,
     "title": "20th Century Boys: The Perfect Edition, Vol. 1",
     "author": "Naoki Urasawa",
     "series": "",
@@ -1010,7 +1038,7 @@
   {
     "id": "7734373154",
     "reviewId": "7734373154",
-    "position": 73,
+    "position": 75,
     "title": "Resplendent",
     "author": "Stephen Baxter",
     "series": "Destiny's Children, #4",
@@ -1024,7 +1052,7 @@
   {
     "id": "7738328088",
     "reviewId": "7738328088",
-    "position": 74,
+    "position": 76,
     "title": "Shroud",
     "author": "Adrian Tchaikovsky",
     "series": "",
@@ -1038,7 +1066,7 @@
   {
     "id": "7814074284",
     "reviewId": "7814074284",
-    "position": 75,
+    "position": 77,
     "title": "Earth Abides",
     "author": "George R. Stewart",
     "series": "",
@@ -1052,7 +1080,7 @@
   {
     "id": "6181601072",
     "reviewId": "6181601072",
-    "position": 76,
+    "position": 78,
     "title": "Roadside Picnic",
     "author": "Arkady Strugatsky",
     "series": "",
@@ -1066,7 +1094,7 @@
   {
     "id": "7734213381",
     "reviewId": "7734213381",
-    "position": 77,
+    "position": 79,
     "title": "Evolution",
     "author": "Stephen Baxter",
     "series": "",
@@ -1080,7 +1108,7 @@
   {
     "id": "4391354818",
     "reviewId": "4391354818",
-    "position": 78,
+    "position": 80,
     "title": "Rendezvous with Rama",
     "author": "Arthur C. Clarke",
     "series": "Rama, #1",
@@ -1094,7 +1122,7 @@
   {
     "id": "5679352783",
     "reviewId": "5679352783",
-    "position": 79,
+    "position": 81,
     "title": "Ash: A Secret History",
     "author": "Mary Gentle",
     "series": "Book of Ash, #1-4",
@@ -1108,7 +1136,7 @@
   {
     "id": "6697699639",
     "reviewId": "6697699639",
-    "position": 80,
+    "position": 82,
     "title": "Four Past Midnight",
     "author": "Stephen King",
     "series": "",
@@ -1122,7 +1150,7 @@
   {
     "id": "6852414439",
     "reviewId": "6852414439",
-    "position": 81,
+    "position": 83,
     "title": "The Daemon's Curse",
     "author": "Dan Abnett",
     "series": "Darkblade #1",
@@ -1136,7 +1164,7 @@
   {
     "id": "7469501098",
     "reviewId": "7469501098",
-    "position": 82,
+    "position": 84,
     "title": "Mongrels",
     "author": "Stephen Graham Jones",
     "series": "",
@@ -1150,7 +1178,7 @@
   {
     "id": "7450005353",
     "reviewId": "7450005353",
-    "position": 83,
+    "position": 85,
     "title": "Senseless",
     "author": "Ronald Malfi",
     "series": "",
@@ -1164,7 +1192,7 @@
   {
     "id": "5497728355",
     "reviewId": "5497728355",
-    "position": 84,
+    "position": 86,
     "title": "Starfish",
     "author": "Peter Watts",
     "series": "Rifters, #1",
@@ -1178,7 +1206,7 @@
   {
     "id": "4776279434",
     "reviewId": "4776279434",
-    "position": 85,
+    "position": 87,
     "title": "To Ride Hell’s Chasm",
     "author": "Janny Wurts",
     "series": "",
@@ -1192,7 +1220,7 @@
   {
     "id": "7261880059",
     "reviewId": "7261880059",
-    "position": 86,
+    "position": 88,
     "title": "Time",
     "author": "Stephen Baxter",
     "series": "Manifold #1",
@@ -1206,7 +1234,7 @@
   {
     "id": "4379136244",
     "reviewId": "4379136244",
-    "position": 87,
+    "position": 89,
     "title": "The Dragon's Path",
     "author": "Daniel Abraham",
     "series": "The Dagger and the Coin, #1",
@@ -1218,23 +1246,9 @@
     "dateAddedIso": "2021-12-09"
   },
   {
-    "id": "5721492608",
-    "reviewId": "5721492608",
-    "position": 88,
-    "title": "American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer",
-    "author": "Kai Bird",
-    "series": "",
-    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686079247l/80571.jpg",
-    "goodreadsUrl": "https://www.goodreads.com/book/show/80571.American_Prometheus",
-    "averageRating": 4.3,
-    "pageCount": 721,
-    "dateAdded": "July 26, 2023",
-    "dateAddedIso": "2023-07-26"
-  },
-  {
     "id": "5143342900",
     "reviewId": "5143342900",
-    "position": 89,
+    "position": 90,
     "title": "Horns",
     "author": "Joe Hill",
     "series": "",
@@ -1248,7 +1262,7 @@
   {
     "id": "6839814020",
     "reviewId": "6839814020",
-    "position": 90,
+    "position": 91,
     "title": "Dark Harvest",
     "author": "Joshua Reynolds",
     "series": "",
@@ -1262,7 +1276,7 @@
   {
     "id": "6838420951",
     "reviewId": "6838420951",
-    "position": 91,
+    "position": 92,
     "title": "Imajica",
     "author": "Clive Barker",
     "series": "",
@@ -1276,7 +1290,7 @@
   {
     "id": "6848741772",
     "reviewId": "6848741772",
-    "position": 92,
+    "position": 93,
     "title": "Archaon: Everchosen",
     "author": "Rob Sanders",
     "series": "",
@@ -1290,7 +1304,7 @@
   {
     "id": "6858323318",
     "reviewId": "6858323318",
-    "position": 93,
+    "position": 94,
     "title": "Nagash the Sorcerer",
     "author": "Mike Lee",
     "series": "The Rise of Nagash Book 1",
@@ -1304,7 +1318,7 @@
   {
     "id": "5673620195",
     "reviewId": "5673620195",
-    "position": 94,
+    "position": 95,
     "title": "The Man in the High Castle",
     "author": "Philip K. Dick",
     "series": "",
@@ -1318,7 +1332,7 @@
   {
     "id": "6181709009",
     "reviewId": "6181709009",
-    "position": 95,
+    "position": 96,
     "title": "Stinger",
     "author": "Robert McCammon",
     "series": "",
@@ -1332,7 +1346,7 @@
   {
     "id": "6071090938",
     "reviewId": "6071090938",
-    "position": 96,
+    "position": 97,
     "title": "The Fall of Altdorf",
     "author": "Chris Wraight",
     "series": "",
@@ -1346,7 +1360,7 @@
   {
     "id": "5936390071",
     "reviewId": "5936390071",
-    "position": 97,
+    "position": 98,
     "title": "Mr. Mercedes",
     "author": "Stephen King",
     "series": "Bill Hodges #1",
@@ -1360,7 +1374,7 @@
   {
     "id": "5279930646",
     "reviewId": "5279930646",
-    "position": 98,
+    "position": 99,
     "title": "The Border",
     "author": "Robert McCammon",
     "series": "",
@@ -1374,7 +1388,7 @@
   {
     "id": "5073867839",
     "reviewId": "5073867839",
-    "position": 99,
+    "position": 100,
     "title": "Cities of the Plain",
     "author": "Cormac McCarthy",
     "series": "The Border Trilogy, #3",
@@ -1388,7 +1402,7 @@
   {
     "id": "4887072951",
     "reviewId": "4887072951",
-    "position": 100,
+    "position": 101,
     "title": "The Silmarillion",
     "author": "J.R.R. Tolkien",
     "series": "",
@@ -1402,7 +1416,7 @@
   {
     "id": "5491745856",
     "reviewId": "5491745856",
-    "position": 101,
+    "position": 102,
     "title": "Saga, Volume 11",
     "author": "Brian K. Vaughan",
     "series": "",
@@ -1416,7 +1430,7 @@
   {
     "id": "5436085734",
     "reviewId": "5436085734",
-    "position": 102,
+    "position": 103,
     "title": "Teenage Mutant Ninja Turtles: The Last Ronin",
     "author": "Kevin Eastman",
     "series": "",
@@ -1430,7 +1444,7 @@
   {
     "id": "5481012666",
     "reviewId": "5481012666",
-    "position": 103,
+    "position": 104,
     "title": "Watership Down",
     "author": "Richard Adams",
     "series": "Watership Down, #1",
@@ -1444,7 +1458,7 @@
   {
     "id": "5288974215",
     "reviewId": "5288974215",
-    "position": 104,
+    "position": 105,
     "title": "The Armor of Light",
     "author": "Ken Follett",
     "series": "Kingsbridge, #4",
@@ -1458,13 +1472,13 @@
   {
     "id": "4873183860",
     "reviewId": "4873183860",
-    "position": 105,
+    "position": 106,
     "title": "Sword in the Storm",
     "author": "David Gemmell",
     "series": "The Rigante, #1",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388378667l/62292.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/62292.Sword_in_the_Storm",
-    "averageRating": 4.31,
+    "averageRating": 4.3,
     "pageCount": 439,
     "dateAdded": "July 25, 2022",
     "dateAddedIso": "2022-07-25"
@@ -1472,7 +1486,7 @@
   {
     "id": "4544623493",
     "reviewId": "4544623493",
-    "position": 106,
+    "position": 107,
     "title": "Daughter of the Empire",
     "author": "Raymond E. Feist",
     "series": "The Empire Trilogy, #1",
@@ -1486,7 +1500,7 @@
   {
     "id": "5418732036",
     "reviewId": "5418732036",
-    "position": 107,
+    "position": 108,
     "title": "Wulfrik",
     "author": "C.L. Werner",
     "series": "",
@@ -1500,7 +1514,7 @@
   {
     "id": "5371269017",
     "reviewId": "5371269017",
-    "position": 108,
+    "position": 109,
     "title": "The Anubis Gates",
     "author": "Tim Powers",
     "series": "",
@@ -1514,7 +1528,7 @@
   {
     "id": "5392620971",
     "reviewId": "5392620971",
-    "position": 109,
+    "position": 110,
     "title": "The Tiger and the Wolf",
     "author": "Adrian Tchaikovsky",
     "series": "Echoes of the Fall, #1",
@@ -1528,7 +1542,7 @@
   {
     "id": "4817726686",
     "reviewId": "4817726686",
-    "position": 110,
+    "position": 111,
     "title": "Genghis: Lords of the Bow",
     "author": "Conn Iggulden",
     "series": "Conqueror, #2",
@@ -1542,7 +1556,7 @@
   {
     "id": "4548113590",
     "reviewId": "4548113590",
-    "position": 111,
+    "position": 112,
     "title": "The God King's Legacy",
     "author": "Richard Nell",
     "series": "God King Chronicles, #1",
@@ -1556,7 +1570,7 @@
   {
     "id": "4548113527",
     "reviewId": "4548113527",
-    "position": 112,
+    "position": 113,
     "title": "Dark Sea's End",
     "author": "Richard Nell",
     "series": "Beyond Ash and Sand, #1",
@@ -1570,7 +1584,7 @@
   {
     "id": "4512309860",
     "reviewId": "4512309860",
-    "position": 113,
+    "position": 114,
     "title": "Fairy Tale",
     "author": "Stephen King",
     "series": "",
@@ -1584,7 +1598,7 @@
   {
     "id": "4146886612",
     "reviewId": "4146886612",
-    "position": 114,
+    "position": 115,
     "title": "Elder Race",
     "author": "Adrian Tchaikovsky",
     "series": "Elder Race #1",
@@ -1598,7 +1612,7 @@
   {
     "id": "4503276380",
     "reviewId": "4503276380",
-    "position": 115,
+    "position": 116,
     "title": "Pride and Prejudice",
     "author": "Jane Austen",
     "series": "",
@@ -1612,7 +1626,7 @@
   {
     "id": "4457313051",
     "reviewId": "4457313051",
-    "position": 116,
+    "position": 117,
     "title": "Sweet Thursday",
     "author": "John Steinbeck",
     "series": "Cannery Row, #2",
@@ -1626,7 +1640,7 @@
   {
     "id": "4470381956",
     "reviewId": "4470381956",
-    "position": 117,
+    "position": 118,
     "title": "War and Peace",
     "author": "Leo Tolstoy",
     "series": "",
@@ -1640,7 +1654,7 @@
   {
     "id": "4503276137",
     "reviewId": "4503276137",
-    "position": 118,
+    "position": 119,
     "title": "Tortilla Flat",
     "author": "John Steinbeck",
     "series": "",
@@ -1654,7 +1668,7 @@
   {
     "id": "4394166832",
     "reviewId": "4394166832",
-    "position": 119,
+    "position": 120,
     "title": "Day of Ascension",
     "author": "Adrian Tchaikovsky",
     "series": "Warhammer 40,000",
@@ -1668,7 +1682,7 @@
   {
     "id": "4107851717",
     "reviewId": "4107851717",
-    "position": 120,
+    "position": 121,
     "title": "The Coming of Conan the Cimmerian",
     "author": "Robert E. Howard",
     "series": "Conan the Cimmerian, #1",
@@ -1682,7 +1696,7 @@
   {
     "id": "4055360280",
     "reviewId": "4055360280",
-    "position": 121,
+    "position": 122,
     "title": "Old Man's War",
     "author": "John Scalzi",
     "series": "Old Man's War, #1",
@@ -1696,7 +1710,7 @@
   {
     "id": "4156064174",
     "reviewId": "4156064174",
-    "position": 122,
+    "position": 123,
     "title": "The Emperor's Blades",
     "author": "Brian Staveley",
     "series": "Chronicle of the Unhewn Throne, #1",
@@ -1710,7 +1724,7 @@
   {
     "id": "4055015661",
     "reviewId": "4055015661",
-    "position": 123,
+    "position": 124,
     "title": "A Memory Called Empire",
     "author": "Arkady Martine",
     "series": "Teixcalaan, #1",
@@ -1724,7 +1738,7 @@
   {
     "id": "3936446487",
     "reviewId": "3936446487",
-    "position": 124,
+    "position": 125,
     "title": "Carrion Comfort",
     "author": "Dan Simmons",
     "series": "",
@@ -1738,7 +1752,7 @@
   {
     "id": "3442467267",
     "reviewId": "3442467267",
-    "position": 125,
+    "position": 126,
     "title": "The Left Hand of Darkness",
     "author": "Ursula K. Le Guin",
     "series": "",
@@ -1752,7 +1766,7 @@
   {
     "id": "3146716181",
     "reviewId": "3146716181",
-    "position": 126,
+    "position": 127,
     "title": "Dancer's Lament",
     "author": "Ian C. Esslemont",
     "series": "Path to Ascendancy, #1",
@@ -1766,7 +1780,7 @@
   {
     "id": "4312046877",
     "reviewId": "4312046877",
-    "position": 127,
+    "position": 128,
     "title": "Too Like the Lightning",
     "author": "Ada Palmer",
     "series": "Terra Ignota, #1",
@@ -1780,7 +1794,7 @@
   {
     "id": "3716050070",
     "reviewId": "3716050070",
-    "position": 128,
+    "position": 129,
     "title": "Paradise Lost",
     "author": "John Milton",
     "series": "",
@@ -1794,7 +1808,7 @@
   {
     "id": "3156949612",
     "reviewId": "3156949612",
-    "position": 129,
+    "position": 130,
     "title": "Appeasement: Chamberlain, Hitler, Churchill, and the Road to War",
     "author": "Tim Bouverie",
     "series": "",
@@ -1808,7 +1822,7 @@
   {
     "id": "3136927652",
     "reviewId": "3136927652",
-    "position": 130,
+    "position": 131,
     "title": "The Rage of Dragons",
     "author": "Evan Winter",
     "series": "The Burning, #1",
@@ -1822,7 +1836,7 @@
   {
     "id": "3093610039",
     "reviewId": "3093610039",
-    "position": 131,
+    "position": 132,
     "title": "The Poppy War",
     "author": "R.F. Kuang",
     "series": "The Poppy War, #1",
@@ -1836,7 +1850,7 @@
   {
     "id": "3080407051",
     "reviewId": "3080407051",
-    "position": 132,
+    "position": 133,
     "title": "Team of Teams: New Rules of Engagement for a Complex World",
     "author": "Stanley McChrystal",
     "series": "",
@@ -1850,7 +1864,7 @@
   {
     "id": "2941675135",
     "reviewId": "2941675135",
-    "position": 133,
+    "position": 134,
     "title": "For Whom the Bell Tolls",
     "author": "Ernest Hemingway",
     "series": "",
@@ -1864,7 +1878,7 @@
   {
     "id": "3220378870",
     "reviewId": "3220378870",
-    "position": 134,
+    "position": 135,
     "title": "Kings of the Wyld",
     "author": "Nicholas Eames",
     "series": "The Band, #1",
@@ -1878,7 +1892,7 @@
   {
     "id": "2816902308",
     "reviewId": "2816902308",
-    "position": 135,
+    "position": 136,
     "title": "The Pearl",
     "author": "John Steinbeck",
     "series": "",
@@ -1892,7 +1906,7 @@
   {
     "id": "2651320195",
     "reviewId": "2651320195",
-    "position": 136,
+    "position": 137,
     "title": "Hidden Bodies",
     "author": "Caroline Kepnes",
     "series": "You, #2",
@@ -1906,7 +1920,7 @@
   {
     "id": "2651322413",
     "reviewId": "2651322413",
-    "position": 137,
+    "position": 138,
     "title": "You",
     "author": "Caroline Kepnes",
     "series": "You, #1",
@@ -1920,7 +1934,7 @@
   {
     "id": "2651464483",
     "reviewId": "2651464483",
-    "position": 138,
+    "position": 139,
     "title": "Robots and Empire",
     "author": "Isaac Asimov",
     "series": "Robot, #4",
@@ -1934,7 +1948,7 @@
   {
     "id": "2670493872",
     "reviewId": "2670493872",
-    "position": 139,
+    "position": 140,
     "title": "Roughing It",
     "author": "Mark Twain",
     "series": "",
@@ -1948,7 +1962,7 @@
   {
     "id": "2670512649",
     "reviewId": "2670512649",
-    "position": 140,
+    "position": 141,
     "title": "The Time Machine",
     "author": "H.G. Wells",
     "series": "",
@@ -1962,7 +1976,7 @@
   {
     "id": "2670513368",
     "reviewId": "2670513368",
-    "position": 141,
+    "position": 142,
     "title": "Tales of Space and Time",
     "author": "H.G. Wells+",
     "series": "",
@@ -1976,7 +1990,7 @@
   {
     "id": "2670533870",
     "reviewId": "2670533870",
-    "position": 142,
+    "position": 143,
     "title": "Walden or, Life in the Woods",
     "author": "Henry David Thoreau",
     "series": "",
@@ -1990,7 +2004,7 @@
   {
     "id": "2693059197",
     "reviewId": "2693059197",
-    "position": 143,
+    "position": 144,
     "title": "The Tipping Point: How Little Things Can Make a Big Difference",
     "author": "Malcolm Gladwell",
     "series": "",
@@ -2004,7 +2018,7 @@
   {
     "id": "2715290533",
     "reviewId": "2715290533",
-    "position": 144,
+    "position": 145,
     "title": "Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",
     "author": "Terry Pratchett",
     "series": "",
@@ -2018,7 +2032,7 @@
   {
     "id": "2728640539",
     "reviewId": "2728640539",
-    "position": 145,
+    "position": 146,
     "title": "Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age",
     "author": "Michael A. Hiltzik",
     "series": "",
@@ -2032,7 +2046,7 @@
   {
     "id": "2796361711",
     "reviewId": "2796361711",
-    "position": 146,
+    "position": 147,
     "title": "Outliers: The Story of Success",
     "author": "Malcolm Gladwell",
     "series": "",
@@ -2046,7 +2060,7 @@
   {
     "id": "2846797173",
     "reviewId": "2846797173",
-    "position": 147,
+    "position": 148,
     "title": "The Color of Magic",
     "author": "Terry Pratchett",
     "series": "Discworld, #1; Rincewind, #1",
@@ -2060,7 +2074,7 @@
   {
     "id": "2859364014",
     "reviewId": "2859364014",
-    "position": 148,
+    "position": 149,
     "title": "The Jungle",
     "author": "Upton Sinclair",
     "series": "",
@@ -2074,7 +2088,7 @@
   {
     "id": "2941676568",
     "reviewId": "2941676568",
-    "position": 149,
+    "position": 150,
     "title": "The Sun Also Rises",
     "author": "Ernest Hemingway",
     "series": "",
@@ -2088,7 +2102,7 @@
   {
     "id": "2947233058",
     "reviewId": "2947233058",
-    "position": 150,
+    "position": 151,
     "title": "Prisoners of Geography: Ten Maps That Tell You Everything You Need to Know About Global Politics",
     "author": "Tim Marshall",
     "series": "Politics of Place, #1",
@@ -2102,7 +2116,7 @@
   {
     "id": "2962594467",
     "reviewId": "2962594467",
-    "position": 151,
+    "position": 152,
     "title": "Talking to Strangers: What We Should Know About the People We Don't Know",
     "author": "Malcolm Gladwell",
     "series": "",
@@ -2116,13 +2130,13 @@
   {
     "id": "2986512407",
     "reviewId": "2986512407",
-    "position": 152,
+    "position": 153,
     "title": "Warhammer Chronicles: Skaven Wars: The Black Plague Trilogy",
     "author": "C.L. Werner",
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545487064l/43253906.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/43253906-warhammer-chronicles",
-    "averageRating": 4.16,
+    "averageRating": 4.17,
     "pageCount": 800,
     "dateAdded": "September 22, 2019",
     "dateAddedIso": "2019-09-22"
@@ -2130,7 +2144,7 @@
   {
     "id": "2995095205",
     "reviewId": "2995095205",
-    "position": 153,
+    "position": 154,
     "title": "Warlords of Karak Eight Peaks",
     "author": "Guy Haley",
     "series": "",
@@ -2144,7 +2158,7 @@
   {
     "id": "3011038706",
     "reviewId": "3011038706",
-    "position": 154,
+    "position": 155,
     "title": "Permanent Record",
     "author": "Edward Snowden",
     "series": "",
@@ -2158,7 +2172,7 @@
   {
     "id": "3024503573",
     "reviewId": "3024503573",
-    "position": 155,
+    "position": 156,
     "title": "The Mapmakers",
     "author": "John Noble Wilford",
     "series": "",
@@ -2172,13 +2186,13 @@
   {
     "id": "3024504217",
     "reviewId": "3024504217",
-    "position": 156,
+    "position": 157,
     "title": "Cartographies of Time",
     "author": "Daniel Rosenberg",
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348716733l/7789323.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/7789323-cartographies-of-time",
-    "averageRating": 3.97,
+    "averageRating": 3.96,
     "pageCount": 272,
     "dateAdded": "October 24, 2019",
     "dateAddedIso": "2019-10-24"
@@ -2186,7 +2200,7 @@
   {
     "id": "2659996777",
     "reviewId": "2659996777",
-    "position": 157,
+    "position": 158,
     "title": "Don Quixote",
     "author": "Miguel de Cervantes Saavedra",
     "series": "",
@@ -2200,7 +2214,7 @@
   {
     "id": "2917032283",
     "reviewId": "2917032283",
-    "position": 158,
+    "position": 159,
     "title": "The Design of Everyday Things",
     "author": "Donald A. Norman",
     "series": "",
@@ -2214,7 +2228,7 @@
   {
     "id": "3035383667",
     "reviewId": "3035383667",
-    "position": 159,
+    "position": 160,
     "title": "The Rise of Nagash (3)",
     "author": "Mike Lee",
     "series": "3) (Time of Legends",
@@ -2228,7 +2242,7 @@
   {
     "id": "3035486095",
     "reviewId": "3035486095",
-    "position": 160,
+    "position": 161,
     "title": "Carrie",
     "author": "Stephen King",
     "series": "",
@@ -2242,7 +2256,7 @@
   {
     "id": "3058347281",
     "reviewId": "3058347281",
-    "position": 161,
+    "position": 162,
     "title": "Infinite Jest",
     "author": "David Foster Wallace",
     "series": "",
@@ -2256,7 +2270,7 @@
   {
     "id": "3058350907",
     "reviewId": "3058350907",
-    "position": 162,
+    "position": 163,
     "title": "One Hundred Years of Solitude",
     "author": "Gabriel García Márquez",
     "series": "",
@@ -2270,7 +2284,7 @@
   {
     "id": "3059611961",
     "reviewId": "3059611961",
-    "position": 163,
+    "position": 164,
     "title": "The Children of Húrin",
     "author": "J.R.R. Tolkien",
     "series": "",
@@ -2284,7 +2298,7 @@
   {
     "id": "3070035999",
     "reviewId": "3070035999",
-    "position": 164,
+    "position": 165,
     "title": "Blood of Elves",
     "author": "Andrzej Sapkowski",
     "series": "The Witcher, #1",
@@ -2298,7 +2312,7 @@
   {
     "id": "3044606127",
     "reviewId": "3044606127",
-    "position": 165,
+    "position": 166,
     "title": "Calypso",
     "author": "David Sedaris",
     "series": "",
@@ -2312,7 +2326,7 @@
   {
     "id": "3070035710",
     "reviewId": "3070035710",
-    "position": 166,
+    "position": 167,
     "title": "Sword of Destiny",
     "author": "Andrzej Sapkowski",
     "series": "The Witcher, #0.7",
@@ -2326,7 +2340,7 @@
   {
     "id": "3080405433",
     "reviewId": "3080405433",
-    "position": 167,
+    "position": 168,
     "title": "Relentless Strike: The Secret History of Joint Special Operations Command",
     "author": "Sean Naylor",
     "series": "",
@@ -2340,7 +2354,7 @@
   {
     "id": "3093487619",
     "reviewId": "3093487619",
-    "position": 168,
+    "position": 169,
     "title": "Meditations",
     "author": "Marcus Aurelius",
     "series": "",
@@ -2354,7 +2368,7 @@
   {
     "id": "3120268172",
     "reviewId": "3120268172",
-    "position": 169,
+    "position": 170,
     "title": "The Fifth Season",
     "author": "N.K. Jemisin",
     "series": "The Broken Earth, #1",
@@ -2368,7 +2382,7 @@
   {
     "id": "3136225151",
     "reviewId": "3136225151",
-    "position": 170,
+    "position": 171,
     "title": "Call Sign Chaos: Learning to Lead",
     "author": "Jim Mattis",
     "series": "",
@@ -2382,7 +2396,7 @@
   {
     "id": "3136819527",
     "reviewId": "3136819527",
-    "position": 171,
+    "position": 172,
     "title": "Ninth House",
     "author": "Leigh Bardugo",
     "series": "Alex Stern, #1",
@@ -2396,7 +2410,7 @@
   {
     "id": "3220372647",
     "reviewId": "3220372647",
-    "position": 172,
+    "position": 173,
     "title": "The Goblin Emperor",
     "author": "Katherine Addison",
     "series": "The Chronicles of Osreth, #1",
@@ -2410,7 +2424,7 @@
   {
     "id": "3280251158",
     "reviewId": "3280251158",
-    "position": 173,
+    "position": 174,
     "title": "The Fires of Vengeance",
     "author": "Evan Winter",
     "series": "The Burning, #2",
@@ -2424,7 +2438,7 @@
   {
     "id": "3232368362",
     "reviewId": "3232368362",
-    "position": 174,
+    "position": 175,
     "title": "Crime and Punishment",
     "author": "Fyodor Dostoevsky",
     "series": "",
@@ -2438,7 +2452,7 @@
   {
     "id": "3388375299",
     "reviewId": "3388375299",
-    "position": 175,
+    "position": 176,
     "title": "Bauchelain and Korbal Broach",
     "author": "Steven Erikson",
     "series": "The Tales of Bauchelain and Korbal Broach, #1-3",
@@ -2452,7 +2466,7 @@
   {
     "id": "3434607676",
     "reviewId": "3434607676",
-    "position": 176,
+    "position": 177,
     "title": "Summer of Night",
     "author": "Dan Simmons",
     "series": "Seasons of Horror, #1",
@@ -2466,7 +2480,7 @@
   {
     "id": "3518098813",
     "reviewId": "3518098813",
-    "position": 177,
+    "position": 178,
     "title": "This Is How You Lose the Time War",
     "author": "Amal El-Mohtar",
     "series": "",
@@ -2480,7 +2494,7 @@
   {
     "id": "3528915399",
     "reviewId": "3528915399",
-    "position": 178,
+    "position": 179,
     "title": "All the Light We Cannot See",
     "author": "Anthony Doerr",
     "series": "",
@@ -2494,7 +2508,7 @@
   {
     "id": "3528918305",
     "reviewId": "3528918305",
-    "position": 179,
+    "position": 180,
     "title": "To Sleep in a Sea of Stars",
     "author": "Christopher Paolini",
     "series": "Fractalverse, #1",
@@ -2508,7 +2522,7 @@
   {
     "id": "3570405058",
     "reviewId": "3570405058",
-    "position": 180,
+    "position": 181,
     "title": "The Ten Thousand Doors of January",
     "author": "Alix E. Harrow",
     "series": "",
@@ -2522,7 +2536,7 @@
   {
     "id": "3553814034",
     "reviewId": "3553814034",
-    "position": 181,
+    "position": 182,
     "title": "The Master and Margarita",
     "author": "Mikhail Bulgakov",
     "series": "",
@@ -2536,7 +2550,7 @@
   {
     "id": "3644515356",
     "reviewId": "3644515356",
-    "position": 182,
+    "position": 183,
     "title": "We Are Legion (We Are Bob)",
     "author": "Dennis E. Taylor",
     "series": "We Are Bob) (Bobiverse, #1",
@@ -2550,7 +2564,7 @@
   {
     "id": "3646002274",
     "reviewId": "3646002274",
-    "position": 183,
+    "position": 184,
     "title": "Age of Assassins",
     "author": "R.J. Barker",
     "series": "The Wounded Kingdom, #1",
@@ -2564,7 +2578,7 @@
   {
     "id": "3664321949",
     "reviewId": "3664321949",
-    "position": 184,
+    "position": 185,
     "title": "The House in the Cerulean Sea",
     "author": "T.J. Klune",
     "series": "Cerulean Chronicles, #1",
@@ -2578,7 +2592,7 @@
   {
     "id": "3702775876",
     "reviewId": "3702775876",
-    "position": 185,
+    "position": 186,
     "title": "Swann’s Way",
     "author": "Marcel Proust",
     "series": "In Search of Lost Time, #1",
@@ -2592,7 +2606,7 @@
   {
     "id": "3728514018",
     "reviewId": "3728514018",
-    "position": 186,
+    "position": 187,
     "title": "Dragon Mage",
     "author": "M.L. Spencer",
     "series": "Rivenworld, #1",
@@ -2606,7 +2620,7 @@
   {
     "id": "3764244776",
     "reviewId": "3764244776",
-    "position": 187,
+    "position": 188,
     "title": "The Shadow of the Gods",
     "author": "John Gwynne",
     "series": "The Bloodsworn Saga, #1",
@@ -2620,7 +2634,7 @@
   {
     "id": "3821749521",
     "reviewId": "3821749521",
-    "position": 188,
+    "position": 189,
     "title": "The Wind-Up Bird Chronicle",
     "author": "Haruki Murakami",
     "series": "",
@@ -2634,7 +2648,7 @@
   {
     "id": "3822467208",
     "reviewId": "3822467208",
-    "position": 189,
+    "position": 190,
     "title": "Fascism: A Warning",
     "author": "Madeleine K. Albright",
     "series": "",
@@ -2648,7 +2662,7 @@
   {
     "id": "3824179058",
     "reviewId": "3824179058",
-    "position": 190,
+    "position": 191,
     "title": "A Shadow in Summer",
     "author": "Daniel Abraham",
     "series": "Long Price Quartet, #1",
@@ -2662,7 +2676,7 @@
   {
     "id": "3995549723",
     "reviewId": "3995549723",
-    "position": 191,
+    "position": 192,
     "title": "Sir Gawain and the Green Knight, Pearl, and Sir Orfeo",
     "author": "J.R.R. Tolkien",
     "series": "",
@@ -2676,7 +2690,7 @@
   {
     "id": "3829206783",
     "reviewId": "3829206783",
-    "position": 192,
+    "position": 193,
     "title": "1491: New Revelations of the Americas Before Columbus",
     "author": "Charles C. Mann",
     "series": "",
@@ -2690,7 +2704,7 @@
   {
     "id": "3849590770",
     "reviewId": "3849590770",
-    "position": 193,
+    "position": 194,
     "title": "The Boys, Volume 1: The Name of the Game",
     "author": "Garth Ennis",
     "series": "",
@@ -2704,13 +2718,13 @@
   {
     "id": "3515911617",
     "reviewId": "3515911617",
-    "position": 194,
+    "position": 195,
     "title": "Blood Meridian, or, the Evening Redness in the West",
     "author": "Cormac McCarthy",
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701688704l/394535.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West",
-    "averageRating": 4.15,
+    "averageRating": 4.14,
     "pageCount": 351,
     "dateAdded": "August 26, 2020",
     "dateAddedIso": "2020-08-26"
@@ -2718,7 +2732,7 @@
   {
     "id": "3911421418",
     "reviewId": "3911421418",
-    "position": 195,
+    "position": 196,
     "title": "Ilium",
     "author": "Dan Simmons",
     "series": "Ilium, #1",
@@ -2732,7 +2746,7 @@
   {
     "id": "3936446405",
     "reviewId": "3936446405",
-    "position": 196,
+    "position": 197,
     "title": "The Terror",
     "author": "Dan Simmons",
     "series": "",
@@ -2746,7 +2760,7 @@
   {
     "id": "3936449801",
     "reviewId": "3936449801",
-    "position": 197,
+    "position": 198,
     "title": "Intensity",
     "author": "Dean Koontz",
     "series": "",
@@ -2760,7 +2774,7 @@
   {
     "id": "3973627949",
     "reviewId": "3973627949",
-    "position": 198,
+    "position": 199,
     "title": "House of Leaves",
     "author": "Mark Z. Danielewski",
     "series": "",
@@ -2770,20 +2784,6 @@
     "pageCount": 709,
     "dateAdded": "April 29, 2021",
     "dateAddedIso": "2021-04-29"
-  },
-  {
-    "id": "3810917225",
-    "reviewId": "3810917225",
-    "position": 199,
-    "title": "The Rise and Fall of the Third Reich: A History of Nazi Germany",
-    "author": "William L. Shirer",
-    "series": "",
-    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331223772l/767171.jpg",
-    "goodreadsUrl": "https://www.goodreads.com/book/show/767171.The_Rise_and_Fall_of_the_Third_Reich",
-    "averageRating": 4.23,
-    "pageCount": 1147,
-    "dateAdded": "February 01, 2021",
-    "dateAddedIso": "2021-02-01"
   },
   {
     "id": "4061449646",
@@ -3088,7 +3088,7 @@
     "series": "Godblind, #1",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489353670l/32072924.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/32072924-godblind",
-    "averageRating": 3.62,
+    "averageRating": 3.61,
     "pageCount": 408,
     "dateAdded": "October 17, 2021",
     "dateAddedIso": "2021-10-17"
@@ -3214,7 +3214,7 @@
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360564614l/13525945.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you",
-    "averageRating": 4.07,
+    "averageRating": 4.06,
     "pageCount": 288,
     "dateAdded": "November 17, 2021",
     "dateAddedIso": "2021-11-17"
@@ -3312,7 +3312,7 @@
     "series": "Kithamar #1",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632759521l/57505814.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/57505814-age-of-ash",
-    "averageRating": 3.67,
+    "averageRating": 3.68,
     "pageCount": null,
     "dateAdded": "December 09, 2021",
     "dateAddedIso": "2021-12-09"
@@ -3872,7 +3872,7 @@
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618795039l/57776979.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/57776979-tales-of-the-sun-eater-volume-1",
-    "averageRating": 3.71,
+    "averageRating": 3.7,
     "pageCount": 211,
     "dateAdded": "April 17, 2022",
     "dateAddedIso": "2022-04-17"
@@ -3900,7 +3900,7 @@
     "series": "The Horus Heresy, #12",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1280757140l/6465063.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/6465063-a-thousand-sons",
-    "averageRating": 4.28,
+    "averageRating": 4.27,
     "pageCount": 558,
     "dateAdded": "April 13, 2022",
     "dateAddedIso": "2022-04-13"
@@ -4096,7 +4096,7 @@
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1648920213l/60738081.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/60738081-tales-of-the-sun-eater-volume-2",
-    "averageRating": 3.9,
+    "averageRating": 3.89,
     "pageCount": 157,
     "dateAdded": "June 03, 2022",
     "dateAddedIso": "2022-06-03"
@@ -4698,7 +4698,7 @@
     "series": "The Great God's War #1",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489785142l/33865836.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/33865836-seventh-decimate",
-    "averageRating": 3.35,
+    "averageRating": 3.36,
     "pageCount": 307,
     "dateAdded": "November 08, 2022",
     "dateAddedIso": "2022-11-08"
@@ -4726,7 +4726,7 @@
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645792082l/60493708.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/60493708-36-streets",
-    "averageRating": 3.91,
+    "averageRating": 3.92,
     "pageCount": 453,
     "dateAdded": "November 14, 2022",
     "dateAddedIso": "2022-11-14"
@@ -5048,7 +5048,7 @@
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388207489l/18342422.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/18342422-training-for-the-new-alpinism",
-    "averageRating": 4.54,
+    "averageRating": 4.53,
     "pageCount": 464,
     "dateAdded": "January 07, 2023",
     "dateAddedIso": "2023-01-07"
@@ -5146,7 +5146,7 @@
     "series": "The Locked Tomb, #1",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546870952l/42036538.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/42036538-gideon-the-ninth",
-    "averageRating": 4.18,
+    "averageRating": 4.17,
     "pageCount": 448,
     "dateAdded": "January 20, 2023",
     "dateAddedIso": "2023-01-20"
@@ -5188,7 +5188,7 @@
     "series": "Red Rising Saga, #7",
     "imageUrl": "https://s.gr-assets.com/assets/nophoto/book/50x75-1b903c9eac1b2ba789662c08a0ae41e6.png",
     "goodreadsUrl": "https://www.goodreads.com/book/show/61657799-red-god",
-    "averageRating": 4.54,
+    "averageRating": 4.53,
     "pageCount": null,
     "dateAdded": "February 05, 2023",
     "dateAddedIso": "2023-02-05"
@@ -5342,7 +5342,7 @@
     "series": "The Edan Trilogy, #1",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1678034266l/123153535.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/123153535-the-way-of-edan",
-    "averageRating": 3.93,
+    "averageRating": 3.92,
     "pageCount": 539,
     "dateAdded": "February 27, 2023",
     "dateAddedIso": "2023-02-27"
@@ -5754,23 +5754,9 @@
     "dateAddedIso": "2023-09-02"
   },
   {
-    "id": "5884214135",
-    "reviewId": "5884214135",
-    "position": 412,
-    "title": "Dreamsongs, Volume I",
-    "author": "George R.R. Martin",
-    "series": "",
-    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1770556323l/417729.jpg",
-    "goodreadsUrl": "https://www.goodreads.com/book/show/417729.Dreamsongs_Volume_I",
-    "averageRating": 3.98,
-    "pageCount": 683,
-    "dateAdded": "October 03, 2023",
-    "dateAddedIso": "2023-10-03"
-  },
-  {
     "id": "5916134156",
     "reviewId": "5916134156",
-    "position": 413,
+    "position": 412,
     "title": "Usher's Passing",
     "author": "Robert McCammon",
     "series": "",
@@ -5784,7 +5770,7 @@
   {
     "id": "5916878517",
     "reviewId": "5916878517",
-    "position": 414,
+    "position": 413,
     "title": "Harbor",
     "author": "John Ajvide Lindqvist",
     "series": "",
@@ -5798,7 +5784,7 @@
   {
     "id": "5916879155",
     "reviewId": "5916879155",
-    "position": 415,
+    "position": 414,
     "title": "Handling the Undead",
     "author": "John Ajvide Lindqvist",
     "series": "",
@@ -5812,7 +5798,7 @@
   {
     "id": "5940498763",
     "reviewId": "5940498763",
-    "position": 416,
+    "position": 415,
     "title": "The Great Change",
     "author": "Joe Abercrombie",
     "series": "",
@@ -5826,7 +5812,7 @@
   {
     "id": "6023691151",
     "reviewId": "6023691151",
-    "position": 417,
+    "position": 416,
     "title": "Reclamation",
     "author": "Richard Swan",
     "series": "The Art of War Trilogy, #1",
@@ -5840,7 +5826,7 @@
   {
     "id": "6088962499",
     "reviewId": "6088962499",
-    "position": 418,
+    "position": 417,
     "title": "The Forgotten Beasts of Eld",
     "author": "Patricia A. McKillip",
     "series": "",
@@ -5854,7 +5840,7 @@
   {
     "id": "6197568828",
     "reviewId": "6197568828",
-    "position": 419,
+    "position": 418,
     "title": "Road of Skulls",
     "author": "Joshua Reynolds",
     "series": "Gotrek & Felix, #13",
@@ -5868,13 +5854,13 @@
   {
     "id": "6199112497",
     "reviewId": "6199112497",
-    "position": 420,
+    "position": 419,
     "title": "City of the Damned",
     "author": "David Guymer",
     "series": "Gotrek & Felix, #14",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369085820l/17571891.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/17571891-city-of-the-damned",
-    "averageRating": 3.47,
+    "averageRating": 3.48,
     "pageCount": 416,
     "dateAdded": "January 23, 2024",
     "dateAddedIso": "2024-01-23"
@@ -5882,13 +5868,13 @@
   {
     "id": "6199112645",
     "reviewId": "6199112645",
-    "position": 421,
+    "position": 420,
     "title": "The Serpent Queen",
     "author": "Joshua Reynolds",
     "series": "Gotrek & Felix, #15",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387728467l/19741603.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/19741603-the-serpent-queen",
-    "averageRating": 4.07,
+    "averageRating": 4.08,
     "pageCount": 416,
     "dateAdded": "January 23, 2024",
     "dateAddedIso": "2024-01-23"
@@ -5896,7 +5882,7 @@
   {
     "id": "6209220553",
     "reviewId": "6209220553",
-    "position": 422,
+    "position": 421,
     "title": "Cloud Atlas",
     "author": "David Mitchell",
     "series": "",
@@ -5910,7 +5896,7 @@
   {
     "id": "6209221108",
     "reviewId": "6209221108",
-    "position": 423,
+    "position": 422,
     "title": "The Bone Clocks",
     "author": "David Mitchell",
     "series": "",
@@ -5924,7 +5910,7 @@
   {
     "id": "6209899800",
     "reviewId": "6209899800",
-    "position": 424,
+    "position": 423,
     "title": "The Talented Mr. Ripley",
     "author": "Patricia Highsmith",
     "series": "Ripley, #1",
@@ -5938,7 +5924,7 @@
   {
     "id": "6209945439",
     "reviewId": "6209945439",
-    "position": 425,
+    "position": 424,
     "title": "Ulrika the Vampire",
     "author": "Nathan Long",
     "series": "",
@@ -5952,7 +5938,7 @@
   {
     "id": "6229822705",
     "reviewId": "6229822705",
-    "position": 426,
+    "position": 425,
     "title": "The Five",
     "author": "Robert McCammon",
     "series": "",
@@ -5966,7 +5952,7 @@
   {
     "id": "6229823193",
     "reviewId": "6229823193",
-    "position": 427,
+    "position": 426,
     "title": "The Wolf's Hour",
     "author": "Robert McCammon",
     "series": "Michael Gallatin #1",
@@ -5980,7 +5966,7 @@
   {
     "id": "6229823386",
     "reviewId": "6229823386",
-    "position": 428,
+    "position": 427,
     "title": "Blue World",
     "author": "Robert McCammon",
     "series": "",
@@ -5994,7 +5980,7 @@
   {
     "id": "6229823790",
     "reviewId": "6229823790",
-    "position": 429,
+    "position": 428,
     "title": "Mystery Walk",
     "author": "Robert McCammon",
     "series": "",
@@ -6008,7 +5994,7 @@
   {
     "id": "6243441426",
     "reviewId": "6243441426",
-    "position": 430,
+    "position": 429,
     "title": "A View from the Stars: Stories and Essays",
     "author": "Cixin Liu",
     "series": "",
@@ -6022,7 +6008,7 @@
   {
     "id": "6259617613",
     "reviewId": "6259617613",
-    "position": 431,
+    "position": 430,
     "title": "Off Armageddon Reef",
     "author": "David Weber",
     "series": "Safehold, #1",
@@ -6036,7 +6022,7 @@
   {
     "id": "6259618797",
     "reviewId": "6259618797",
-    "position": 432,
+    "position": 431,
     "title": "The Black Dahlia",
     "author": "James Ellroy",
     "series": "L.A. Quartet, #1",
@@ -6050,13 +6036,13 @@
   {
     "id": "6271406826",
     "reviewId": "6271406826",
-    "position": 433,
+    "position": 432,
     "title": "Wistful Ascending",
     "author": "J.C.M. Berne",
     "series": "Hybrid Helix, #1",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1694488982l/55251766.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/55251766-wistful-ascending",
-    "averageRating": 4.43,
+    "averageRating": 4.44,
     "pageCount": 415,
     "dateAdded": "February 17, 2024",
     "dateAddedIso": "2024-02-17"
@@ -6064,7 +6050,7 @@
   {
     "id": "6275857175",
     "reviewId": "6275857175",
-    "position": 434,
+    "position": 433,
     "title": "The Sparrow",
     "author": "Mary Doria Russell",
     "series": "The Sparrow, #1",
@@ -6078,13 +6064,13 @@
   {
     "id": "6275859617",
     "reviewId": "6275859617",
-    "position": 435,
+    "position": 434,
     "title": "The Inverted World",
     "author": "Christopher Priest",
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1245646253l/142181.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/142181.The_Inverted_World",
-    "averageRating": 3.95,
+    "averageRating": 3.96,
     "pageCount": 239,
     "dateAdded": "February 19, 2024",
     "dateAddedIso": "2024-02-19"
@@ -6092,7 +6078,7 @@
   {
     "id": "6307443883",
     "reviewId": "6307443883",
-    "position": 436,
+    "position": 435,
     "title": "The Daughters' War",
     "author": "Christopher Buehlman",
     "series": "Blacktongue, #0",
@@ -6106,7 +6092,7 @@
   {
     "id": "6349528796",
     "reviewId": "6349528796",
-    "position": 437,
+    "position": 436,
     "title": "The Ice",
     "author": "Ryan Cahill",
     "series": "The Bound and the Broken, #3.5",
@@ -6120,7 +6106,7 @@
   {
     "id": "6349528958",
     "reviewId": "6349528958",
-    "position": 438,
+    "position": 437,
     "title": "Of Empires and Dust",
     "author": "Ryan Cahill",
     "series": "The Bound and The Broken, #4",
@@ -6134,7 +6120,7 @@
   {
     "id": "6374349339",
     "reviewId": "6374349339",
-    "position": 439,
+    "position": 438,
     "title": "Planetes Omnibus, Volume 1",
     "author": "Makoto Yukimura",
     "series": "Planetes, #1-2",
@@ -6148,7 +6134,7 @@
   {
     "id": "6374885525",
     "reviewId": "6374885525",
-    "position": 440,
+    "position": 439,
     "title": "The Fangs of Oannos",
     "author": "Christopher Ruocchio",
     "series": "The Sun Eater, #5.6",
@@ -6162,7 +6148,7 @@
   {
     "id": "6387142229",
     "reviewId": "6387142229",
-    "position": 441,
+    "position": 440,
     "title": "The Failures",
     "author": "Benjamin Liar",
     "series": "The Wanderlands, #1",
@@ -6176,7 +6162,7 @@
   {
     "id": "6392240656",
     "reviewId": "6392240656",
-    "position": 442,
+    "position": 441,
     "title": "Hard-Boiled Wonderland and the End of the World",
     "author": "Haruki Murakami",
     "series": "",
@@ -6190,7 +6176,7 @@
   {
     "id": "6392244052",
     "reviewId": "6392244052",
-    "position": 443,
+    "position": 442,
     "title": "A Wild Sheep Chase",
     "author": "Haruki Murakami",
     "series": "The Rat, #3",
@@ -6204,7 +6190,7 @@
   {
     "id": "6414772810",
     "reviewId": "6414772810",
-    "position": 444,
+    "position": 443,
     "title": "Powers and Thrones: A New History of the Middle Ages",
     "author": "Dan Jones",
     "series": "",
@@ -6218,7 +6204,7 @@
   {
     "id": "6414773117",
     "reviewId": "6414773117",
-    "position": 445,
+    "position": 444,
     "title": "The Plantagenets: The Warrior Kings and Queens Who Made England",
     "author": "Dan Jones",
     "series": "",
@@ -6232,7 +6218,7 @@
   {
     "id": "6414773207",
     "reviewId": "6414773207",
-    "position": 446,
+    "position": 445,
     "title": "The Wars of the Roses: The Fall of the Plantagenets and the Rise of the Tudors",
     "author": "Dan Jones",
     "series": "",
@@ -6246,7 +6232,7 @@
   {
     "id": "6448167859",
     "reviewId": "6448167859",
-    "position": 447,
+    "position": 446,
     "title": "The Fifth Witness",
     "author": "Michael Connelly",
     "series": "The Lincoln Lawyer, #4; Harry Bosch Universe, #23",
@@ -6260,7 +6246,7 @@
   {
     "id": "6448492671",
     "reviewId": "6448492671",
-    "position": 448,
+    "position": 447,
     "title": "The Book That Broke the World",
     "author": "Mark Lawrence",
     "series": "The Library Trilogy, #2",
@@ -6274,7 +6260,7 @@
   {
     "id": "6525288064",
     "reviewId": "6525288064",
-    "position": 449,
+    "position": 448,
     "title": "Blackwater: The Complete Saga",
     "author": "Michael McDowell",
     "series": "",
@@ -6288,7 +6274,7 @@
   {
     "id": "6526128061",
     "reviewId": "6526128061",
-    "position": 450,
+    "position": 449,
     "title": "Dreamcatcher",
     "author": "Stephen King",
     "series": "",
@@ -6302,7 +6288,7 @@
   {
     "id": "6559221705",
     "reviewId": "6559221705",
-    "position": 451,
+    "position": 450,
     "title": "Dreams Underfoot",
     "author": "Charles de Lint",
     "series": "Newford, #1",
@@ -6316,7 +6302,7 @@
   {
     "id": "6559252949",
     "reviewId": "6559252949",
-    "position": 452,
+    "position": 451,
     "title": "Memory and Dream",
     "author": "Charles de Lint",
     "series": "Newford, #2",
@@ -6330,7 +6316,7 @@
   {
     "id": "6575440929",
     "reviewId": "6575440929",
-    "position": 453,
+    "position": 452,
     "title": "Fugitive Prince",
     "author": "Janny Wurts",
     "series": "Wars of Light & Shadow #4",
@@ -6344,7 +6330,7 @@
   {
     "id": "6595026453",
     "reviewId": "6595026453",
-    "position": 454,
+    "position": 453,
     "title": "Duma Key",
     "author": "Stephen King",
     "series": "",
@@ -6358,7 +6344,7 @@
   {
     "id": "6557204026",
     "reviewId": "6557204026",
-    "position": 455,
+    "position": 454,
     "title": "The Force",
     "author": "Don Winslow",
     "series": "",
@@ -6372,7 +6358,7 @@
   {
     "id": "6663991653",
     "reviewId": "6663991653",
-    "position": 456,
+    "position": 455,
     "title": "The Stars My Destination",
     "author": "Alfred Bester",
     "series": "",
@@ -6386,7 +6372,7 @@
   {
     "id": "6663993206",
     "reviewId": "6663993206",
-    "position": 457,
+    "position": 456,
     "title": "Gateway",
     "author": "Frederik Pohl",
     "series": "Heechee Saga, #1",
@@ -6400,7 +6386,7 @@
   {
     "id": "6690238893",
     "reviewId": "6690238893",
-    "position": 458,
+    "position": 457,
     "title": "Blood Song",
     "author": "Anthony Ryan",
     "series": "Raven's Shadow, #1",
@@ -6414,13 +6400,13 @@
   {
     "id": "6691402969",
     "reviewId": "6691402969",
-    "position": 459,
+    "position": 458,
     "title": "An Altar on the Village Green",
     "author": "Nathan Hall",
     "series": "The Chained God, #1",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620938794l/58035382.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/58035382-an-altar-on-the-village-green",
-    "averageRating": 3.93,
+    "averageRating": 3.92,
     "pageCount": 333,
     "dateAdded": "July 22, 2024",
     "dateAddedIso": "2024-07-22"
@@ -6428,7 +6414,7 @@
   {
     "id": "6694708615",
     "reviewId": "6694708615",
-    "position": 460,
+    "position": 459,
     "title": "Presumed Innocent",
     "author": "Scott Turow",
     "series": "Kindle County Legal Thriller, #1",
@@ -6442,7 +6428,7 @@
   {
     "id": "6698175319",
     "reviewId": "6698175319",
-    "position": 461,
+    "position": 460,
     "title": "The Tainted Cup",
     "author": "Robert Jackson Bennett",
     "series": "Shadow of the Leviathan, #1",
@@ -6456,7 +6442,7 @@
   {
     "id": "6720202589",
     "reviewId": "6720202589",
-    "position": 462,
+    "position": 461,
     "title": "The Silverblood Promise",
     "author": "James Logan",
     "series": "The Last Legacy, #1",
@@ -6470,7 +6456,7 @@
   {
     "id": "6735954026",
     "reviewId": "6735954026",
-    "position": 463,
+    "position": 462,
     "title": "The Mercy of Gods",
     "author": "James S.A. Corey",
     "series": "The Captive's War, #1",
@@ -6484,7 +6470,7 @@
   {
     "id": "6741200134",
     "reviewId": "6741200134",
-    "position": 464,
+    "position": 463,
     "title": "Gunmetal Gods",
     "author": "Zamil Akhtar",
     "series": "Gunmetal Gods, #1",
@@ -6498,7 +6484,7 @@
   {
     "id": "6753086411",
     "reviewId": "6753086411",
-    "position": 465,
+    "position": 464,
     "title": "Bastion",
     "author": "Phil Tucker",
     "series": "The Immortal Great Souls, #1",
@@ -6512,7 +6498,7 @@
   {
     "id": "6756099806",
     "reviewId": "6756099806",
-    "position": 466,
+    "position": 465,
     "title": "Slow Horses",
     "author": "Mick Herron",
     "series": "Slough House #1",
@@ -6526,7 +6512,7 @@
   {
     "id": "6764122571",
     "reviewId": "6764122571",
-    "position": 467,
+    "position": 466,
     "title": "The Book That Held Her Heart",
     "author": "Mark Lawrence",
     "series": "The Library Trilogy, #3",
@@ -6540,7 +6526,7 @@
   {
     "id": "6824307612",
     "reviewId": "6824307612",
-    "position": 468,
+    "position": 467,
     "title": "Herald",
     "author": "Rob J. Hayes",
     "series": "Age of the God Eater, #1",
@@ -6552,23 +6538,9 @@
     "dateAddedIso": "2024-09-06"
   },
   {
-    "id": "6864823346",
-    "reviewId": "6864823346",
-    "position": 469,
-    "title": "Team of Rivals: The Political Genius of Abraham Lincoln",
-    "author": "Doris Kearns Goodwin",
-    "series": "",
-    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1676201263l/2199.jpg",
-    "goodreadsUrl": "https://www.goodreads.com/book/show/2199.Team_of_Rivals",
-    "averageRating": 4.28,
-    "pageCount": 916,
-    "dateAdded": "September 21, 2024",
-    "dateAddedIso": "2024-09-21"
-  },
-  {
     "id": "6865996895",
     "reviewId": "6865996895",
-    "position": 470,
+    "position": 468,
     "title": "Remarkably Bright Creatures",
     "author": "Shelby Van Pelt",
     "series": "",
@@ -6582,7 +6554,7 @@
   {
     "id": "6867015047",
     "reviewId": "6867015047",
-    "position": 471,
+    "position": 469,
     "title": "Voyager in Night",
     "author": "C.J. Cherryh",
     "series": "Age of Exploration, #2",
@@ -6596,7 +6568,7 @@
   {
     "id": "6905420545",
     "reviewId": "6905420545",
-    "position": 472,
+    "position": 470,
     "title": "The Scarlet Gospels",
     "author": "Clive Barker",
     "series": "",
@@ -6610,7 +6582,7 @@
   {
     "id": "6913772654",
     "reviewId": "6913772654",
-    "position": 473,
+    "position": 471,
     "title": "Tender Is the Flesh",
     "author": "Agustina Bazterrica",
     "series": "",
@@ -6624,7 +6596,7 @@
   {
     "id": "6915794703",
     "reviewId": "6915794703",
-    "position": 474,
+    "position": 472,
     "title": "Incidents Around the House",
     "author": "Josh Malerman",
     "series": "",
@@ -6638,7 +6610,7 @@
   {
     "id": "6926782501",
     "reviewId": "6926782501",
-    "position": 475,
+    "position": 473,
     "title": "Red Rabbit",
     "author": "Alex Grecian",
     "series": "",
@@ -6652,7 +6624,7 @@
   {
     "id": "6974576580",
     "reviewId": "6974576580",
-    "position": 476,
+    "position": 474,
     "title": "Klara and the Sun",
     "author": "Kazuo Ishiguro",
     "series": "",
@@ -6666,7 +6638,7 @@
   {
     "id": "6989174467",
     "reviewId": "6989174467",
-    "position": 477,
+    "position": 475,
     "title": "The Quantum Thief",
     "author": "Hannu Rajaniemi",
     "series": "Jean le Flambeur, #1",
@@ -6680,7 +6652,7 @@
   {
     "id": "7012352804",
     "reviewId": "7012352804",
-    "position": 478,
+    "position": 476,
     "title": "Cage of Souls",
     "author": "Adrian Tchaikovsky",
     "series": "",
@@ -6694,7 +6666,7 @@
   {
     "id": "7015227114",
     "reviewId": "7015227114",
-    "position": 479,
+    "position": 477,
     "title": "Where Loyalties Lie",
     "author": "Rob J. Hayes",
     "series": "Best Laid Plans, #1",
@@ -6708,7 +6680,7 @@
   {
     "id": "7018946834",
     "reviewId": "7018946834",
-    "position": 480,
+    "position": 478,
     "title": "ビリーバット 1 [Billy Bat 1]",
     "author": "Naoki Urasawa",
     "series": "",
@@ -6722,7 +6694,7 @@
   {
     "id": "7027640066",
     "reviewId": "7027640066",
-    "position": 481,
+    "position": 479,
     "title": "Blackwing",
     "author": "Ed McDonald",
     "series": "Raven's Mark, #1",
@@ -6736,7 +6708,7 @@
   {
     "id": "7053404382",
     "reviewId": "7053404382",
-    "position": 482,
+    "position": 480,
     "title": "Drachenfels",
     "author": "Jack Yeovil",
     "series": "The Vampire Genevieve #1",
@@ -6750,7 +6722,7 @@
   {
     "id": "4459420009",
     "reviewId": "4459420009",
-    "position": 483,
+    "position": 481,
     "title": "Chapterhouse: Dune",
     "author": "Frank Herbert",
     "series": "Dune, #6",
@@ -6764,7 +6736,7 @@
   {
     "id": "7072131524",
     "reviewId": "7072131524",
-    "position": 484,
+    "position": 482,
     "title": "Hawkwood's Voyage",
     "author": "Paul Kearney",
     "series": "The Monarchies of God, #1",
@@ -6778,7 +6750,7 @@
   {
     "id": "7072139916",
     "reviewId": "7072139916",
-    "position": 485,
+    "position": 483,
     "title": "The Other Valley",
     "author": "Scott Alexander Howard",
     "series": "",
@@ -6792,7 +6764,7 @@
   {
     "id": "7101512704",
     "reviewId": "7101512704",
-    "position": 486,
+    "position": 484,
     "title": "Rise of the Ranger",
     "author": "Philip C. Quaintrell",
     "series": "The Echoes Saga, #1",
@@ -6806,7 +6778,7 @@
   {
     "id": "7144350604",
     "reviewId": "7144350604",
-    "position": 487,
+    "position": 485,
     "title": "An Artist of the Floating World",
     "author": "Kazuo Ishiguro",
     "series": "",
@@ -6820,7 +6792,7 @@
   {
     "id": "7144368987",
     "reviewId": "7144368987",
-    "position": 488,
+    "position": 486,
     "title": "Axiomatic",
     "author": "Greg Egan",
     "series": "",
@@ -6834,7 +6806,7 @@
   {
     "id": "7183790680",
     "reviewId": "7183790680",
-    "position": 489,
+    "position": 487,
     "title": "Iron Truth",
     "author": "S.A. Tholin",
     "series": "Primaterre, #1",
@@ -6848,13 +6820,13 @@
   {
     "id": "7208496302",
     "reviewId": "7208496302",
-    "position": 490,
+    "position": 488,
     "title": "My Friends",
     "author": "Fredrik Backman",
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734625930l/217163697.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/217163697-my-friends",
-    "averageRating": 4.32,
+    "averageRating": 4.31,
     "pageCount": 436,
     "dateAdded": "January 12, 2025",
     "dateAddedIso": "2025-01-12"
@@ -6862,7 +6834,7 @@
   {
     "id": "7210308179",
     "reviewId": "7210308179",
-    "position": 491,
+    "position": 489,
     "title": "Dreaming the Eagle",
     "author": "Manda Scott",
     "series": "Boudica, #1",
@@ -6876,7 +6848,7 @@
   {
     "id": "7216507345",
     "reviewId": "7216507345",
-    "position": 492,
+    "position": 490,
     "title": "The Wager: A Tale of Shipwreck, Mutiny and Murder",
     "author": "David Grann",
     "series": "",
@@ -6890,7 +6862,7 @@
   {
     "id": "7286139013",
     "reviewId": "7286139013",
-    "position": 493,
+    "position": 491,
     "title": "Foreigner",
     "author": "C.J. Cherryh",
     "series": "Foreigner, #1",
@@ -6904,7 +6876,7 @@
   {
     "id": "7286582771",
     "reviewId": "7286582771",
-    "position": 494,
+    "position": 492,
     "title": "Outcast, Vol. 1: A Darkness Surrounds Him",
     "author": "Robert Kirkman",
     "series": "",
@@ -6918,7 +6890,7 @@
   {
     "id": "7292922872",
     "reviewId": "7292922872",
-    "position": 495,
+    "position": 493,
     "title": "The Sands of Mars",
     "author": "Arthur C. Clarke",
     "series": "",
@@ -6932,7 +6904,7 @@
   {
     "id": "7292941678",
     "reviewId": "7292941678",
-    "position": 496,
+    "position": 494,
     "title": "Tau Zero",
     "author": "Poul Anderson",
     "series": "",
@@ -6946,7 +6918,7 @@
   {
     "id": "7292963505",
     "reviewId": "7292963505",
-    "position": 497,
+    "position": 495,
     "title": "Black Holes & Time Warps: Einstein's Outrageous Legacy",
     "author": "Kip S. Thorne",
     "series": "",
@@ -6960,7 +6932,7 @@
   {
     "id": "7292964983",
     "reviewId": "7292964983",
-    "position": 498,
+    "position": 496,
     "title": "The Science of Interstellar",
     "author": "Kip S. Thorne",
     "series": "",
@@ -6974,7 +6946,7 @@
   {
     "id": "7292981669",
     "reviewId": "7292981669",
-    "position": 499,
+    "position": 497,
     "title": "THE CASE FOR MARS: The Plan to Settle the Red Planet and why We Must",
     "author": "Robert Zubrin",
     "series": "",
@@ -6988,7 +6960,7 @@
   {
     "id": "7296530613",
     "reviewId": "7296530613",
-    "position": 500,
+    "position": 498,
     "title": "The Library of Babel",
     "author": "Jorge Luis Borges",
     "series": "",
@@ -7002,7 +6974,7 @@
   {
     "id": "7308366373",
     "reviewId": "7308366373",
-    "position": 501,
+    "position": 499,
     "title": "A Maze of Death",
     "author": "Philip K. Dick",
     "series": "",
@@ -7016,7 +6988,7 @@
   {
     "id": "7311601419",
     "reviewId": "7311601419",
-    "position": 502,
+    "position": 500,
     "title": "The Rooster Bar",
     "author": "John Grisham",
     "series": "",
@@ -7030,7 +7002,7 @@
   {
     "id": "7311604059",
     "reviewId": "7311604059",
-    "position": 503,
+    "position": 501,
     "title": "The Litigators",
     "author": "John Grisham",
     "series": "",
@@ -7044,7 +7016,7 @@
   {
     "id": "7317754412",
     "reviewId": "7317754412",
-    "position": 504,
+    "position": 502,
     "title": "Night's Master",
     "author": "Tanith Lee",
     "series": "Tales from the Flat Earth, #1",
@@ -7058,7 +7030,7 @@
   {
     "id": "7317773646",
     "reviewId": "7317773646",
-    "position": 505,
+    "position": 503,
     "title": "Biting the Sun",
     "author": "Tanith Lee",
     "series": "Four-BEE, #1-2",
@@ -7072,7 +7044,7 @@
   {
     "id": "7339132134",
     "reviewId": "7339132134",
-    "position": 506,
+    "position": 504,
     "title": "Small Town Horror",
     "author": "Ronald Malfi",
     "series": "",
@@ -7086,7 +7058,7 @@
   {
     "id": "7361536483",
     "reviewId": "7361536483",
-    "position": 507,
+    "position": 505,
     "title": "A Tale of Two Cities",
     "author": "Charles Dickens",
     "series": "",
@@ -7100,7 +7072,7 @@
   {
     "id": "7430776306",
     "reviewId": "7430776306",
-    "position": 508,
+    "position": 506,
     "title": "Circle of Days",
     "author": "Ken Follett",
     "series": "",
@@ -7114,7 +7086,7 @@
   {
     "id": "5566973629",
     "reviewId": "5566973629",
-    "position": 509,
+    "position": 507,
     "title": "The Book That Wouldn’t Burn",
     "author": "Mark Lawrence",
     "series": "The Library Trilogy, #1",
@@ -7128,13 +7100,13 @@
   {
     "id": "7461729155",
     "reviewId": "7461729155",
-    "position": 510,
+    "position": 508,
     "title": "God Is Red: A Native View of Religion",
     "author": "Vine Jr. Deloria",
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925599l/254349.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/254349.God_Is_Red",
-    "averageRating": 4.15,
+    "averageRating": 4.16,
     "pageCount": 325,
     "dateAdded": "April 04, 2025",
     "dateAddedIso": "2025-04-04"
@@ -7142,7 +7114,7 @@
   {
     "id": "7461731818",
     "reviewId": "7461731818",
-    "position": 511,
+    "position": 509,
     "title": "The Sacred: Ways of Knowledge Sources of Life",
     "author": "Peggy V. Beck",
     "series": "",
@@ -7156,13 +7128,13 @@
   {
     "id": "7463816339",
     "reviewId": "7463816339",
-    "position": 512,
+    "position": 510,
     "title": "Windhaven",
     "author": "George R.R. Martin",
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388467654l/67957.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/67957.Windhaven",
-    "averageRating": 3.69,
+    "averageRating": 3.7,
     "pageCount": 400,
     "dateAdded": "April 05, 2025",
     "dateAddedIso": "2025-04-05"
@@ -7170,7 +7142,7 @@
   {
     "id": "7484000584",
     "reviewId": "7484000584",
-    "position": 513,
+    "position": 511,
     "title": "Black Mouth",
     "author": "Ronald Malfi",
     "series": "",
@@ -7184,7 +7156,7 @@
   {
     "id": "7484710847",
     "reviewId": "7484710847",
-    "position": 514,
+    "position": 512,
     "title": "Careless People: A Story of Where I Used to Work",
     "author": "Sarah Wynn-Williams",
     "series": "",
@@ -7198,7 +7170,7 @@
   {
     "id": "7495662618",
     "reviewId": "7495662618",
-    "position": 515,
+    "position": 513,
     "title": "Fall; or, Dodge in Hell",
     "author": "Neal Stephenson",
     "series": "",
@@ -7212,7 +7184,7 @@
   {
     "id": "7495662968",
     "reviewId": "7495662968",
-    "position": 516,
+    "position": 514,
     "title": "Reamde",
     "author": "Neal Stephenson",
     "series": "",
@@ -7226,7 +7198,7 @@
   {
     "id": "7541720495",
     "reviewId": "7541720495",
-    "position": 517,
+    "position": 515,
     "title": "Written on the Dark",
     "author": "Guy Gavriel Kay",
     "series": "",
@@ -7240,7 +7212,7 @@
   {
     "id": "7606708564",
     "reviewId": "7606708564",
-    "position": 518,
+    "position": 516,
     "title": "Monster Hunter International",
     "author": "Larry Correia",
     "series": "Monster Hunter International, #1",
@@ -7254,7 +7226,7 @@
   {
     "id": "7606709577",
     "reviewId": "7606709577",
-    "position": 519,
+    "position": 517,
     "title": "Gun Runner",
     "author": "Larry Correia",
     "series": "",
@@ -7268,7 +7240,7 @@
   {
     "id": "7655980215",
     "reviewId": "7655980215",
-    "position": 520,
+    "position": 518,
     "title": "The Clockwork Universe: Isaac Newton, the Royal Society, and the Birth of the Modern World",
     "author": "Edward Dolnick",
     "series": "",
@@ -7282,7 +7254,7 @@
   {
     "id": "7677351323",
     "reviewId": "7677351323",
-    "position": 521,
+    "position": 519,
     "title": "The Overstory",
     "author": "Richard Powers",
     "series": "",
@@ -7296,7 +7268,7 @@
   {
     "id": "7688724976",
     "reviewId": "7688724976",
-    "position": 522,
+    "position": 520,
     "title": "The Light of Other Days",
     "author": "Arthur C. Clarke",
     "series": "",
@@ -7310,7 +7282,7 @@
   {
     "id": "7689350727",
     "reviewId": "7689350727",
-    "position": 523,
+    "position": 521,
     "title": "A Crown of Swords",
     "author": "Robert Jordan",
     "series": "The Wheel of Time, #7",
@@ -7324,7 +7296,7 @@
   {
     "id": "7694133822",
     "reviewId": "7694133822",
-    "position": 524,
+    "position": 522,
     "title": "Time Out of Joint",
     "author": "Philip K. Dick",
     "series": "",
@@ -7338,7 +7310,7 @@
   {
     "id": "7697101889",
     "reviewId": "7697101889",
-    "position": 525,
+    "position": 523,
     "title": "James",
     "author": "Percival Everett",
     "series": "",
@@ -7352,7 +7324,7 @@
   {
     "id": "7712254715",
     "reviewId": "7712254715",
-    "position": 526,
+    "position": 524,
     "title": "Discovery",
     "author": "J.A.J. Minton",
     "series": "Strange Eons, #1",
@@ -7366,7 +7338,7 @@
   {
     "id": "7715758289",
     "reviewId": "7715758289",
-    "position": 527,
+    "position": 525,
     "title": "War Dogs",
     "author": "Greg Bear",
     "series": "War Dogs, #1",
@@ -7380,7 +7352,7 @@
   {
     "id": "7734213780",
     "reviewId": "7734213780",
-    "position": 528,
+    "position": 526,
     "title": "The Time Ships",
     "author": "Stephen Baxter",
     "series": "",
@@ -7394,7 +7366,7 @@
   {
     "id": "7740307094",
     "reviewId": "7740307094",
-    "position": 529,
+    "position": 527,
     "title": "Emperor",
     "author": "Stephen Baxter",
     "series": "Time's Tapestry, #1",
@@ -7408,7 +7380,7 @@
   {
     "id": "7740589605",
     "reviewId": "7740589605",
-    "position": 530,
+    "position": 528,
     "title": "SPQR: A History of Ancient Rome",
     "author": "Mary Beard",
     "series": "",
@@ -7422,13 +7394,13 @@
   {
     "id": "7740590790",
     "reviewId": "7740590790",
-    "position": 531,
+    "position": 529,
     "title": "The Rise of Rome: The Making of the World's Greatest Empire",
     "author": "Anthony Everitt",
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344368906l/13155133.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/13155133-the-rise-of-rome",
-    "averageRating": 3.95,
+    "averageRating": 3.96,
     "pageCount": 480,
     "dateAdded": "July 15, 2025",
     "dateAddedIso": "2025-07-15"
@@ -7436,7 +7408,7 @@
   {
     "id": "7744248339",
     "reviewId": "7744248339",
-    "position": 532,
+    "position": 530,
     "title": "Academy of Outcasts",
     "author": "Larry Correia",
     "series": "",
@@ -7448,23 +7420,9 @@
     "dateAddedIso": "2025-07-16"
   },
   {
-    "id": "7758150309",
-    "reviewId": "7758150309",
-    "position": 533,
-    "title": "The Decline and Fall of the Roman Empire",
-    "author": "Edward Gibbon",
-    "series": "",
-    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1637559956l/59679514.jpg",
-    "goodreadsUrl": "https://www.goodreads.com/book/show/59679514-the-decline-and-fall-of-the-roman-empire",
-    "averageRating": 4.02,
-    "pageCount": 848,
-    "dateAdded": "July 21, 2025",
-    "dateAddedIso": "2025-07-21"
-  },
-  {
     "id": "7764316246",
     "reviewId": "7764316246",
-    "position": 534,
+    "position": 531,
     "title": "The Runelords",
     "author": "David Farland",
     "series": "Runelords, #1",
@@ -7478,13 +7436,13 @@
   {
     "id": "7770496344",
     "reviewId": "7770496344",
-    "position": 535,
+    "position": 532,
     "title": "Master Assassins",
     "author": "Robert V.S. Redick",
     "series": "The Fire Sacraments, #1",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506971662l/35437058.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/35437058-master-assassins",
-    "averageRating": 4.05,
+    "averageRating": 4.06,
     "pageCount": 504,
     "dateAdded": "July 25, 2025",
     "dateAddedIso": "2025-07-25"
@@ -7492,7 +7450,7 @@
   {
     "id": "7781845520",
     "reviewId": "7781845520",
-    "position": 536,
+    "position": 533,
     "title": "Ajin: Demi-Human, Vol. 1",
     "author": "Gamon Sakurai",
     "series": "",
@@ -7506,7 +7464,7 @@
   {
     "id": "7812313818",
     "reviewId": "7812313818",
-    "position": 537,
+    "position": 534,
     "title": "Aurora",
     "author": "Kim Stanley Robinson",
     "series": "",
@@ -7520,13 +7478,13 @@
   {
     "id": "7825749424",
     "reviewId": "7825749424",
-    "position": 538,
+    "position": 535,
     "title": "The Medusa Chronicles",
     "author": "Stephen Baxter",
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448101369l/22738693.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/22738693-the-medusa-chronicles",
-    "averageRating": 3.83,
+    "averageRating": 3.82,
     "pageCount": 326,
     "dateAdded": "August 13, 2025",
     "dateAddedIso": "2025-08-13"
@@ -7534,7 +7492,7 @@
   {
     "id": "7831794079",
     "reviewId": "7831794079",
-    "position": 539,
+    "position": 536,
     "title": "The Guns of the South",
     "author": "Harry Turtledove",
     "series": "",
@@ -7548,13 +7506,13 @@
   {
     "id": "7832441415",
     "reviewId": "7832441415",
-    "position": 540,
+    "position": 537,
     "title": "The Summer Guest",
     "author": "Justin Cronin",
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320533001l/79673.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/79673.The_Summer_Guest",
-    "averageRating": 4.02,
+    "averageRating": 4.01,
     "pageCount": 369,
     "dateAdded": "August 15, 2025",
     "dateAddedIso": "2025-08-15"
@@ -7562,7 +7520,7 @@
   {
     "id": "7832441559",
     "reviewId": "7832441559",
-    "position": 541,
+    "position": 538,
     "title": "Mary and O'Neil",
     "author": "Justin Cronin",
     "series": "",
@@ -7576,7 +7534,7 @@
   {
     "id": "7858103816",
     "reviewId": "7858103816",
-    "position": 542,
+    "position": 539,
     "title": "The Other Wind",
     "author": "Ursula K. Le Guin",
     "series": "Earthsea Cycle, #6",
@@ -7590,7 +7548,7 @@
   {
     "id": "7860956879",
     "reviewId": "7860956879",
-    "position": 543,
+    "position": 540,
     "title": "Enshittification: Why Everything Suddenly Got Worse and What to Do About It",
     "author": "Cory Doctorow",
     "series": "",
@@ -7604,7 +7562,7 @@
   {
     "id": "7865710277",
     "reviewId": "7865710277",
-    "position": 544,
+    "position": 541,
     "title": "The Heaven Tree Trilogy: The Heaven Tree / The Green Branch / The Scarlet Seed",
     "author": "Edith Pargeter",
     "series": "",
@@ -7618,13 +7576,13 @@
   {
     "id": "7871118645",
     "reviewId": "7871118645",
-    "position": 545,
+    "position": 542,
     "title": "The Infinite State",
     "author": "Richard Swan",
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1756362440l/228038083.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/228038083-the-infinite-state",
-    "averageRating": 4.27,
+    "averageRating": 4.26,
     "pageCount": 416,
     "dateAdded": "August 29, 2025",
     "dateAddedIso": "2025-08-29"
@@ -7632,7 +7590,7 @@
   {
     "id": "7881118988",
     "reviewId": "7881118988",
-    "position": 546,
+    "position": 543,
     "title": "Crypt of the Moon Spider",
     "author": "Nathan Ballingrud",
     "series": "Lunar Gothic Trilogy, #1",
@@ -7646,7 +7604,7 @@
   {
     "id": "7890875127",
     "reviewId": "7890875127",
-    "position": 547,
+    "position": 544,
     "title": "The Peripheral",
     "author": "William Gibson",
     "series": "Jackpot, #1",
@@ -7660,7 +7618,7 @@
   {
     "id": "7891070564",
     "reviewId": "7891070564",
-    "position": 548,
+    "position": 545,
     "title": "Son of the Poison Rose",
     "author": "Jonathan Maberry",
     "series": "Kagen the Damned, #2",
@@ -7674,7 +7632,7 @@
   {
     "id": "7909510486",
     "reviewId": "7909510486",
-    "position": 549,
+    "position": 546,
     "title": "The Metamorphosis",
     "author": "Franz Kafka",
     "series": "",
@@ -7688,7 +7646,7 @@
   {
     "id": "7910439555",
     "reviewId": "7910439555",
-    "position": 550,
+    "position": 547,
     "title": "Jane Eyre",
     "author": "Charlotte Brontë",
     "series": "",
@@ -7702,7 +7660,7 @@
   {
     "id": "7945418965",
     "reviewId": "7945418965",
-    "position": 551,
+    "position": 548,
     "title": "Ringworld",
     "author": "Larry Niven",
     "series": "Ringworld #1",
@@ -7716,7 +7674,7 @@
   {
     "id": "7948036243",
     "reviewId": "7948036243",
-    "position": 552,
+    "position": 549,
     "title": "Mage's Blood",
     "author": "David Hair",
     "series": "Moontide Quartet, #1",
@@ -7730,7 +7688,7 @@
   {
     "id": "7959558133",
     "reviewId": "7959558133",
-    "position": 553,
+    "position": 550,
     "title": "Once Was Willem",
     "author": "M.R. Carey",
     "series": "",
@@ -7744,7 +7702,7 @@
   {
     "id": "7980801586",
     "reviewId": "7980801586",
-    "position": 554,
+    "position": 551,
     "title": "Ghost Road Blues",
     "author": "Jonathan Maberry",
     "series": "Pine Deep, #1",
@@ -7758,7 +7716,7 @@
   {
     "id": "7981738894",
     "reviewId": "7981738894",
-    "position": 555,
+    "position": 552,
     "title": "Halcyon Years",
     "author": "Alastair Reynolds",
     "series": "",
@@ -7772,7 +7730,7 @@
   {
     "id": "7984102495",
     "reviewId": "7984102495",
-    "position": 556,
+    "position": 553,
     "title": "Kushiel's Dart",
     "author": "Jacqueline Carey",
     "series": "Phèdre's Trilogy, #1",
@@ -7786,13 +7744,13 @@
   {
     "id": "8048781944",
     "reviewId": "8048781944",
-    "position": 557,
+    "position": 554,
     "title": "Pilgrims",
     "author": "M. R. Leonard",
     "series": "",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1726692148l/219327076.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/219327076-pilgrims",
-    "averageRating": 3.89,
+    "averageRating": 3.88,
     "pageCount": 404,
     "dateAdded": "November 05, 2025",
     "dateAddedIso": "2025-11-05"
@@ -7800,7 +7758,7 @@
   {
     "id": "8014504792",
     "reviewId": "8014504792",
-    "position": 558,
+    "position": 555,
     "title": "The Secret History",
     "author": "Donna Tartt",
     "series": "",
@@ -7814,7 +7772,7 @@
   {
     "id": "8051326199",
     "reviewId": "8051326199",
-    "position": 559,
+    "position": 556,
     "title": "Gnomon",
     "author": "Nick Harkaway",
     "series": "",
@@ -7828,7 +7786,7 @@
   {
     "id": "8016286037",
     "reviewId": "8016286037",
-    "position": 560,
+    "position": 557,
     "title": "Horrorstör",
     "author": "Grady Hendrix",
     "series": "",
@@ -7842,13 +7800,13 @@
   {
     "id": "8065130023",
     "reviewId": "8065130023",
-    "position": 561,
+    "position": 558,
     "title": "The Strength of the Few",
     "author": "James Islington",
     "series": "Hierarchy, #2",
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1743006652l/230272982.jpg",
     "goodreadsUrl": "https://www.goodreads.com/book/show/230272982-the-strength-of-the-few",
-    "averageRating": 4.31,
+    "averageRating": 4.3,
     "pageCount": 736,
     "dateAdded": "November 12, 2025",
     "dateAddedIso": "2025-11-12"
@@ -7856,7 +7814,7 @@
   {
     "id": "8078339718",
     "reviewId": "8078339718",
-    "position": 562,
+    "position": 559,
     "title": "A Philosophy of Software Design",
     "author": "John Ousterhout",
     "series": "",
@@ -7870,7 +7828,7 @@
   {
     "id": "8078370275",
     "reviewId": "8078370275",
-    "position": 563,
+    "position": 560,
     "title": "Last of the Breed",
     "author": "Louis L'Amour",
     "series": "",
@@ -7884,7 +7842,7 @@
   {
     "id": "8078580859",
     "reviewId": "8078580859",
-    "position": 564,
+    "position": 561,
     "title": "The Engines of God",
     "author": "Jack McDevitt",
     "series": "The Academy, #1",
@@ -7898,7 +7856,7 @@
   {
     "id": "8094618567",
     "reviewId": "8094618567",
-    "position": 565,
+    "position": 562,
     "title": "Trouble and Her Friends",
     "author": "Melissa Scott",
     "series": "",
@@ -7912,7 +7870,7 @@
   {
     "id": "8113643132",
     "reviewId": "8113643132",
-    "position": 566,
+    "position": 563,
     "title": "Masters of Stone and Steel",
     "author": "Gav Thorpe",
     "series": "",
@@ -7926,7 +7884,7 @@
   {
     "id": "8086325440",
     "reviewId": "8086325440",
-    "position": 567,
+    "position": 564,
     "title": "Death Note, Vol. 1: Boredom",
     "author": "Tsugumi Ohba",
     "series": "",
@@ -7940,7 +7898,7 @@
   {
     "id": "8154050878",
     "reviewId": "8154050878",
-    "position": 568,
+    "position": 565,
     "title": "Song for the Basilisk",
     "author": "Patricia A. McKillip",
     "series": "",
@@ -7954,7 +7912,7 @@
   {
     "id": "8212434244",
     "reviewId": "8212434244",
-    "position": 569,
+    "position": 566,
     "title": "What We Can Know",
     "author": "Ian McEwan",
     "series": "",
@@ -7968,7 +7926,7 @@
   {
     "id": "8228038352",
     "reviewId": "8228038352",
-    "position": 570,
+    "position": 567,
     "title": "Shadow Card Guardian: A Deck-building LitRPG",
     "author": "Kacey Ezell",
     "series": "The Nyx Cards Book 1",
@@ -7978,5 +7936,621 @@
     "pageCount": 417,
     "dateAdded": "January 05, 2026",
     "dateAddedIso": "2026-01-05"
+  },
+  {
+    "id": "8248181538",
+    "reviewId": "8248181538",
+    "position": 568,
+    "title": "Seventh Son",
+    "author": "Orson Scott Card",
+    "series": "Tales of Alvin Maker, #1",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327295457l/40290.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/40290.Seventh_Son",
+    "averageRating": 3.88,
+    "pageCount": 241,
+    "dateAdded": "January 10, 2026",
+    "dateAddedIso": "2026-01-10"
+  },
+  {
+    "id": "8264558704",
+    "reviewId": "8264558704",
+    "position": 569,
+    "title": "The Once and Future King",
+    "author": "T.H. White",
+    "series": "The Once and Future King, #1–5",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338741283l/43545.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/43545.The_Once_and_Future_King",
+    "averageRating": 4.06,
+    "pageCount": 639,
+    "dateAdded": "January 15, 2026",
+    "dateAddedIso": "2026-01-15"
+  },
+  {
+    "id": "8274906230",
+    "reviewId": "8274906230",
+    "position": 570,
+    "title": "The Summit of the Gods Volume 1",
+    "author": "Jirō Taniguchi",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1282656435l/6280178.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/6280178-the-summit-of-the-gods-volume-1",
+    "averageRating": 4.36,
+    "pageCount": 328,
+    "dateAdded": "January 18, 2026",
+    "dateAddedIso": "2026-01-18"
+  },
+  {
+    "id": "8283102223",
+    "reviewId": "8283102223",
+    "position": 571,
+    "title": "Twelve Months",
+    "author": "Jim Butcher",
+    "series": "The Dresden Files, #18",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1752856819l/230337028.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/230337028-twelve-months",
+    "averageRating": 4.5,
+    "pageCount": 463,
+    "dateAdded": "January 20, 2026",
+    "dateAddedIso": "2026-01-20"
+  },
+  {
+    "id": "8288735363",
+    "reviewId": "8288735363",
+    "position": 572,
+    "title": "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability",
+    "author": "Steve Krug",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711564661l/18197267.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited",
+    "averageRating": 4.24,
+    "pageCount": 216,
+    "dateAdded": "January 22, 2026",
+    "dateAddedIso": "2026-01-22"
+  },
+  {
+    "id": "8288770379",
+    "reviewId": "8288770379",
+    "position": 573,
+    "title": "House of Stairs",
+    "author": "William Sleator",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386922156l/24875.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/24875.House_of_Stairs",
+    "averageRating": 3.83,
+    "pageCount": 176,
+    "dateAdded": "January 22, 2026",
+    "dateAddedIso": "2026-01-22"
+  },
+  {
+    "id": "8289291462",
+    "reviewId": "8289291462",
+    "position": 574,
+    "title": "The Freeze-Frame Revolution",
+    "author": "Peter Watts",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578108195l/50267549.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/50267549-the-freeze-frame-revolution",
+    "averageRating": 3.93,
+    "pageCount": 130,
+    "dateAdded": "January 22, 2026",
+    "dateAddedIso": "2026-01-22"
+  },
+  {
+    "id": "8291585271",
+    "reviewId": "8291585271",
+    "position": 575,
+    "title": "Vineland",
+    "author": "Thomas Pynchon",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357603865l/59721.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/59721.Vineland",
+    "averageRating": 3.74,
+    "pageCount": 480,
+    "dateAdded": "January 23, 2026",
+    "dateAddedIso": "2026-01-23"
+  },
+  {
+    "id": "8297844273",
+    "reviewId": "8297844273",
+    "position": 576,
+    "title": "The Thrice-Bound Fool",
+    "author": "Christopher Buehlman",
+    "series": "Blacktongue #2",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1774462545l/243051476.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/243051476-the-thrice-bound-fool",
+    "averageRating": 4.71,
+    "pageCount": 432,
+    "dateAdded": "January 25, 2026",
+    "dateAddedIso": "2026-01-25"
+  },
+  {
+    "id": "8317104569",
+    "reviewId": "8317104569",
+    "position": 577,
+    "title": "The Old Man Who Read Love Stories",
+    "author": "Luis Sepúlveda",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382937792l/762211.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/762211.The_Old_Man_Who_Read_Love_Stories",
+    "averageRating": 3.94,
+    "pageCount": 144,
+    "dateAdded": "January 31, 2026",
+    "dateAddedIso": "2026-01-31"
+  },
+  {
+    "id": "8344617989",
+    "reviewId": "8344617989",
+    "position": 578,
+    "title": "Martian Time-Slip",
+    "author": "Philip K. Dick",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426354158l/697251.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/697251.Martian_Time_Slip",
+    "averageRating": 3.78,
+    "pageCount": 262,
+    "dateAdded": "February 09, 2026",
+    "dateAddedIso": "2026-02-09"
+  },
+  {
+    "id": "8344617665",
+    "reviewId": "8344617665",
+    "position": 579,
+    "title": "Dr. Bloodmoney",
+    "author": "Philip K. Dick",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1753966754l/636108.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/636108.Dr_Bloodmoney",
+    "averageRating": 3.7,
+    "pageCount": 298,
+    "dateAdded": "February 09, 2026",
+    "dateAddedIso": "2026-02-09"
+  },
+  {
+    "id": "8352919100",
+    "reviewId": "8352919100",
+    "position": 580,
+    "title": "The Iron Dragon's Daughter",
+    "author": "Michael Swanwick",
+    "series": "The Iron Dragon's Daughter #1",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1288125591l/25781.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/25781.The_Iron_Dragon_s_Daughter",
+    "averageRating": 3.66,
+    "pageCount": 424,
+    "dateAdded": "February 12, 2026",
+    "dateAddedIso": "2026-02-12"
+  },
+  {
+    "id": "8382276618",
+    "reviewId": "8382276618",
+    "position": 581,
+    "title": "Absolute Batman, Vol. 1: The Zoo",
+    "author": "Scott Snyder",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1773427358l/223329645.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/223329645-absolute-batman-vol-1",
+    "averageRating": 4.37,
+    "pageCount": 192,
+    "dateAdded": "February 22, 2026",
+    "dateAddedIso": "2026-02-22"
+  },
+  {
+    "id": "8450867697",
+    "reviewId": "8450867697",
+    "position": 582,
+    "title": "The Divine Invasion",
+    "author": "Philip K. Dick",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1754479846l/216398.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/216398.The_Divine_Invasion",
+    "averageRating": 3.82,
+    "pageCount": 238,
+    "dateAdded": "March 19, 2026",
+    "dateAddedIso": "2026-03-19"
+  },
+  {
+    "id": "8317119800",
+    "reviewId": "8317119800",
+    "position": 583,
+    "title": "Idle Days in Patagonia",
+    "author": "William Henry Hudson",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722231600l/216944309.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/216944309-idle-days-in-patagonia",
+    "averageRating": 3.41,
+    "pageCount": 218,
+    "dateAdded": "January 31, 2026",
+    "dateAddedIso": "2026-01-31"
+  },
+  {
+    "id": "8463877251",
+    "reviewId": "8463877251",
+    "position": 584,
+    "title": "Songs of the Sun Eater: Tales From The Sun Eater Universe",
+    "author": "Christopher Ruocchio",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1774236977l/250121762.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/250121762-songs-of-the-sun-eater",
+    "averageRating": 5,
+    "pageCount": 304,
+    "dateAdded": "March 24, 2026",
+    "dateAddedIso": "2026-03-24"
+  },
+  {
+    "id": "8489369671",
+    "reviewId": "8489369671",
+    "position": 585,
+    "title": "The Nice House on the Lake, Vol. 1",
+    "author": "James IV Tynion",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1625576579l/58502336.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/58502336-the-nice-house-on-the-lake-vol-1",
+    "averageRating": 4.29,
+    "pageCount": 200,
+    "dateAdded": "April 02, 2026",
+    "dateAddedIso": "2026-04-02"
+  },
+  {
+    "id": "8501030040",
+    "reviewId": "8501030040",
+    "position": 586,
+    "title": "The Infinite State",
+    "author": "Richard Swan",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1755612847l/240019578.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/240019578-the-infinite-state",
+    "averageRating": 4.26,
+    "pageCount": 416,
+    "dateAdded": "April 06, 2026",
+    "dateAddedIso": "2026-04-06"
+  },
+  {
+    "id": "8511220962",
+    "reviewId": "8511220962",
+    "position": 587,
+    "title": "A Drink Before the War",
+    "author": "Dennis Lehane",
+    "series": "Kenzie & Gennaro, #1",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386921356l/21685.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/21685.A_Drink_Before_the_War",
+    "averageRating": 3.93,
+    "pageCount": 282,
+    "dateAdded": "April 10, 2026",
+    "dateAddedIso": "2026-04-10"
+  },
+  {
+    "id": "8512355595",
+    "reviewId": "8512355595",
+    "position": 588,
+    "title": "Raw Spirit",
+    "author": "Iain Banks",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387733436l/567702.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/567702.Raw_Spirit",
+    "averageRating": 3.7,
+    "pageCount": 320,
+    "dateAdded": "April 10, 2026",
+    "dateAddedIso": "2026-04-10"
+  },
+  {
+    "id": "8516965392",
+    "reviewId": "8516965392",
+    "position": 589,
+    "title": "Sunrise on the Reaping",
+    "author": "Suzanne Collins",
+    "series": "The Hunger Games, #0.5",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729085500l/214331246.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/214331246-sunrise-on-the-reaping",
+    "averageRating": 4.5,
+    "pageCount": 387,
+    "dateAdded": "April 12, 2026",
+    "dateAddedIso": "2026-04-12"
+  },
+  {
+    "id": "8539933959",
+    "reviewId": "8539933959",
+    "position": 590,
+    "title": "Railsea",
+    "author": "China Miéville",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321409808l/12392681.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/12392681-railsea",
+    "averageRating": 3.89,
+    "pageCount": 424,
+    "dateAdded": "April 21, 2026",
+    "dateAddedIso": "2026-04-21"
+  },
+  {
+    "id": "8540581266",
+    "reviewId": "8540581266",
+    "position": 591,
+    "title": "Fatale, Vol. 1: Death Chases Me",
+    "author": "Ed Brubaker",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486029128l/13580807.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/13580807-fatale-vol-1",
+    "averageRating": 3.89,
+    "pageCount": 144,
+    "dateAdded": "April 21, 2026",
+    "dateAddedIso": "2026-04-21"
+  },
+  {
+    "id": "8548693079",
+    "reviewId": "8548693079",
+    "position": 592,
+    "title": "Ambergris",
+    "author": "Jeff VanderMeer",
+    "series": "Ambergris, #1-3",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1589560909l/50403446.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/50403446-ambergris",
+    "averageRating": 4.2,
+    "pageCount": 880,
+    "dateAdded": "April 24, 2026",
+    "dateAddedIso": "2026-04-24"
+  },
+  {
+    "id": "8552891542",
+    "reviewId": "8552891542",
+    "position": 593,
+    "title": "The Hive",
+    "author": "Ronald Malfi",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1760056536l/235358167.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/235358167-the-hive",
+    "averageRating": 3.71,
+    "pageCount": 768,
+    "dateAdded": "April 26, 2026",
+    "dateAddedIso": "2026-04-26"
+  },
+  {
+    "id": "8559034560",
+    "reviewId": "8559034560",
+    "position": 594,
+    "title": "Burning Chrome",
+    "author": "William Gibson",
+    "series": "Sprawl, #0",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349075772l/22323.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/22323.Burning_Chrome",
+    "averageRating": 4.05,
+    "pageCount": 204,
+    "dateAdded": "April 28, 2026",
+    "dateAddedIso": "2026-04-28"
+  },
+  {
+    "id": "8561901579",
+    "reviewId": "8561901579",
+    "position": 595,
+    "title": "The Whisper Man",
+    "author": "Alex North",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579073397l/51540935.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/51540935-the-whisper-man",
+    "averageRating": 4.01,
+    "pageCount": 384,
+    "dateAdded": "April 29, 2026",
+    "dateAddedIso": "2026-04-29"
+  },
+  {
+    "id": "8569787371",
+    "reviewId": "8569787371",
+    "position": 596,
+    "title": "Notes from the Burning Age",
+    "author": "Claire North",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1623420546l/56932146.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/56932146-notes-from-the-burning-age",
+    "averageRating": 3.74,
+    "pageCount": 401,
+    "dateAdded": "May 02, 2026",
+    "dateAddedIso": "2026-05-02"
+  },
+  {
+    "id": "8581266890",
+    "reviewId": "8581266890",
+    "position": 597,
+    "title": "Metro 2033",
+    "author": "Dmitry Glukhovsky",
+    "series": "Metro, #1",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379621430l/17274667.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/17274667-metro-2033",
+    "averageRating": 4.03,
+    "pageCount": 458,
+    "dateAdded": "May 06, 2026",
+    "dateAddedIso": "2026-05-06"
+  },
+  {
+    "id": "8608340377",
+    "reviewId": "8608340377",
+    "position": 598,
+    "title": "The Reborn King",
+    "author": "Michael R Miller",
+    "series": "The Dragon's Blade, #1",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448565093l/27984704.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/27984704-the-reborn-king",
+    "averageRating": 3.79,
+    "pageCount": 407,
+    "dateAdded": "May 17, 2026",
+    "dateAddedIso": "2026-05-17"
+  },
+  {
+    "id": "8638868685",
+    "reviewId": "8638868685",
+    "position": 599,
+    "title": "Axis",
+    "author": "Robert Charles Wilson",
+    "series": "Spin, #2",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312044997l/116410.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/116410.Axis",
+    "averageRating": 3.56,
+    "pageCount": 303,
+    "dateAdded": "May 28, 2026",
+    "dateAddedIso": "2026-05-28"
+  },
+  {
+    "id": "8638868791",
+    "reviewId": "8638868791",
+    "position": 600,
+    "title": "Vortex",
+    "author": "Robert Charles Wilson",
+    "series": "Spin, #3",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312034516l/9359796.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/9359796-vortex",
+    "averageRating": 3.77,
+    "pageCount": 331,
+    "dateAdded": "May 28, 2026",
+    "dateAddedIso": "2026-05-28"
+  },
+  {
+    "id": "8661647296",
+    "reviewId": "8661647296",
+    "position": 601,
+    "title": "New York 2140",
+    "author": "Kim Stanley Robinson",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526997306l/40192833.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/40192833-new-york-2140",
+    "averageRating": 3.6,
+    "pageCount": 624,
+    "dateAdded": "June 05, 2026",
+    "dateAddedIso": "2026-06-05"
+  },
+  {
+    "id": "8672144182",
+    "reviewId": "8672144182",
+    "position": 602,
+    "title": "A Hole in The Sky",
+    "author": "Peter F. Hamilton",
+    "series": "Arkship Trilogy, #1",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1745630683l/231848261.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/231848261-a-hole-in-the-sky",
+    "averageRating": 3.84,
+    "pageCount": 263,
+    "dateAdded": "June 09, 2026",
+    "dateAddedIso": "2026-06-09"
+  },
+  {
+    "id": "8673140998",
+    "reviewId": "8673140998",
+    "position": 603,
+    "title": "The Divine Farce",
+    "author": "Michael S.A. Graziano",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354903803l/6693658.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/6693658-the-divine-farce",
+    "averageRating": 4.15,
+    "pageCount": 128,
+    "dateAdded": "June 09, 2026",
+    "dateAddedIso": "2026-06-09"
+  },
+  {
+    "id": "8673156862",
+    "reviewId": "8673156862",
+    "position": 604,
+    "title": "The Employees",
+    "author": "Olga Ravn",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1591135601l/53780642.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/53780642-the-employees",
+    "averageRating": 3.63,
+    "pageCount": 136,
+    "dateAdded": "June 09, 2026",
+    "dateAddedIso": "2026-06-09"
+  },
+  {
+    "id": "8685766641",
+    "reviewId": "8685766641",
+    "position": 605,
+    "title": "The Half-Made World",
+    "author": "Felix Gilman",
+    "series": "The Half-Made World, #1",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442387176l/8198773.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/8198773-the-half-made-world",
+    "averageRating": 3.76,
+    "pageCount": 479,
+    "dateAdded": "June 14, 2026",
+    "dateAddedIso": "2026-06-14"
+  },
+  {
+    "id": "8705664997",
+    "reviewId": "8705664997",
+    "position": 606,
+    "title": "Sublimation",
+    "author": "Isabel J. Kim",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1762800585l/240019879.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/240019879-sublimation",
+    "averageRating": 3.66,
+    "pageCount": 368,
+    "dateAdded": "June 21, 2026",
+    "dateAddedIso": "2026-06-21"
+  },
+  {
+    "id": "8764312124",
+    "reviewId": "8764312124",
+    "position": 607,
+    "title": "Stand On Zanzibar",
+    "author": "John Brunner",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431288255l/24552411.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/24552411-stand-on-zanzibar",
+    "averageRating": 3.93,
+    "pageCount": 703,
+    "dateAdded": "July 12, 2026",
+    "dateAddedIso": "2026-07-12"
+  },
+  {
+    "id": "8769251645",
+    "reviewId": "8769251645",
+    "position": 608,
+    "title": "The Song of the First Blade",
+    "author": "T.C. Edge",
+    "series": "The Bladeborn Saga, #1",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630058903l/58867603.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/58867603-the-song-of-the-first-blade",
+    "averageRating": 4.36,
+    "pageCount": 738,
+    "dateAdded": "July 14, 2026",
+    "dateAddedIso": "2026-07-14"
+  },
+  {
+    "id": "8780703104",
+    "reviewId": "8780703104",
+    "position": 609,
+    "title": "The Rouse",
+    "author": "China Miéville",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1771473808l/248002684.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/248002684-the-rouse",
+    "averageRating": 4.62,
+    "pageCount": 1260,
+    "dateAdded": "July 18, 2026",
+    "dateAddedIso": "2026-07-18"
+  },
+  {
+    "id": "8785600810",
+    "reviewId": "8785600810",
+    "position": 610,
+    "title": "The Military Form",
+    "author": "Christopher Rowley",
+    "series": "The Vang, #2",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1305643423l/1257783.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/1257783.The_Military_Form",
+    "averageRating": 4.06,
+    "pageCount": 369,
+    "dateAdded": "July 20, 2026",
+    "dateAddedIso": "2026-07-20"
+  },
+  {
+    "id": "8787180711",
+    "reviewId": "8787180711",
+    "position": 611,
+    "title": "The Works of Vermin",
+    "author": "Hiron Ennes",
+    "series": "",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1741044559l/222376985.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/222376985-the-works-of-vermin",
+    "averageRating": 4.27,
+    "pageCount": 425,
+    "dateAdded": "July 20, 2026",
+    "dateAddedIso": "2026-07-20"
   }
 ]
