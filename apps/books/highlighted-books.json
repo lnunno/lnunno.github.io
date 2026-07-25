@@ -290,6 +290,23 @@
     "matchMethod": "unmatched"
   },
   {
+    "id": "sarafina-5c87344b",
+    "readEvents": [],
+    "title": "Sarafina",
+    "author": "Philip Fracassi and Nick Cutter",
+    "series": "",
+    "review": "",
+    "highlightCount": 16,
+    "myGoodreadsRating": null,
+    "myReviewRating": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/81mt3eYhM5L._SY160.jpg",
+    "asin": "B0GLFLR4VF",
+    "goodreadsUrl": "",
+    "goodreadsReviewUrl": "",
+    "kindleUrl": "https://amazon.com/dp/B0GLFLR4VF",
+    "matchMethod": "unmatched"
+  },
+  {
     "id": "silo-series-collection-wool-shift-dust-and-silo-stories-1b406d1d",
     "readEvents": [],
     "title": "The Silo Series Collection: Wool, Shift, Dust, and Silo Stories",
@@ -22543,6 +22560,32 @@
     "goodreadsReviewUrl": "https://www.goodreads.com/review/show/5435144159",
     "kindleUrl": "",
     "matchMethod": "title-author",
+    "favorite": false
+  },
+  {
+    "id": "mccammons-shoppe-of-olde-curiosities-stories-ae3ac674",
+    "readEvents": [
+      {
+        "readingSessionId": "amzn1.gr.reading_session.v1.d4ca54da-e424-4bc7-a4fe-55243383d130",
+        "dateStarted": "Jul 19, 2026",
+        "dateStartedIso": "2026-07-19",
+        "dateRead": "Jul 25, 2026",
+        "dateReadIso": "2026-07-25"
+      }
+    ],
+    "title": "McCammon's Shoppe of Olde Curiosities: Stories",
+    "author": "Robert McCammon",
+    "series": "",
+    "review": "4.25/5 some really great stories across a wide range of horror and emotion. Most of them also feel really unique and have interesting ideas whether they be short or long.",
+    "highlightCount": 0,
+    "myGoodreadsRating": 5,
+    "myReviewRating": 4.25,
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1777507992l/251621253.jpg",
+    "asin": "B0GX7G9M8B",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/251621253-mccammon-s-shoppe-of-olde-curiosities",
+    "goodreadsReviewUrl": "https://www.goodreads.com/review/show/8780430006",
+    "kindleUrl": "",
+    "matchMethod": "goodreads-only",
     "favorite": false
   }
 ]

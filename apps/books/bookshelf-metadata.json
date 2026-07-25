@@ -612,6 +612,21 @@
       "propulsive-dark-engines"
     ]
   },
+  "https://www.goodreads.com/book/show/123200829-empire-of-the-damned": {
+    "genres": [
+      "horror",
+      "fantasy"
+    ],
+    "subgenres": [
+      "vampire",
+      "gothic-horror"
+    ],
+    "tasteRoles": [
+      "epic-systems-fiction",
+      "immersive-epic-saga",
+      "grim-systems-moral-horror"
+    ]
+  },
   "https://www.goodreads.com/book/show/1232148.Beastslayer": {
     "genres": [
       "fantasy"
@@ -3296,6 +3311,20 @@
     "tasteRoles": [
       "propulsive-dark-engines",
       "literary-historical-emotional-weight"
+    ]
+  },
+  "https://www.goodreads.com/book/show/251621253-mccammon-s-shoppe-of-olde-curiosities": {
+    "genres": [
+      "horror"
+    ],
+    "subgenres": [
+      "historical-horror",
+      "historical-fiction",
+      "existential-horror"
+    ],
+    "tasteRoles": [
+      "grim-systems-moral-horror",
+      "propulsive-dark-engines"
     ]
   },
   "https://www.goodreads.com/book/show/251688.Breakfast_at_Tiffany_s_and_Three_Stories": {
