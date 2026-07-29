@@ -290,23 +290,6 @@
     "matchMethod": "unmatched"
   },
   {
-    "id": "sarafina-5c87344b",
-    "readEvents": [],
-    "title": "Sarafina",
-    "author": "Philip Fracassi and Nick Cutter",
-    "series": "",
-    "review": "",
-    "highlightCount": 16,
-    "myGoodreadsRating": null,
-    "myReviewRating": null,
-    "imageUrl": "https://m.media-amazon.com/images/I/81mt3eYhM5L._SY160.jpg",
-    "asin": "B0GLFLR4VF",
-    "goodreadsUrl": "",
-    "goodreadsReviewUrl": "",
-    "kindleUrl": "https://amazon.com/dp/B0GLFLR4VF",
-    "matchMethod": "unmatched"
-  },
-  {
     "id": "silo-series-collection-wool-shift-dust-and-silo-stories-1b406d1d",
     "readEvents": [],
     "title": "The Silo Series Collection: Wool, Shift, Dust, and Silo Stories",
@@ -22586,6 +22569,32 @@
     "goodreadsReviewUrl": "https://www.goodreads.com/review/show/8780430006",
     "kindleUrl": "",
     "matchMethod": "goodreads-only",
+    "favorite": false
+  },
+  {
+    "id": "sarafina-1590c093",
+    "readEvents": [
+      {
+        "readingSessionId": "amzn1.gr.reading_session.v1.601be305-ab45-43b1-8786-089376a30af3",
+        "dateStarted": "Jul 25, 2026",
+        "dateStartedIso": "2026-07-25",
+        "dateRead": "Jul 28, 2026",
+        "dateReadIso": "2026-07-28"
+      }
+    ],
+    "title": "Sarafina",
+    "author": "Philip Fracassi",
+    "series": "",
+    "review": "4.25/5 really great horror book with excellent writing and atmosphere in a succinct package. I blew through this one and enjoyed it a lot.\n\nA couple nitpicks I have are he tips his hand early a couple of times and doesn't keep the core mystery that ambiguous, I think he could have trusted the reader a bit more. One of the mysteries towards the end though I thought was well done.\n\nThe final act I was also so-so on, it seemed convenient to have a certain character where he was with a huge amount of knowledge and expertise with exactly what the narrative demanded.\n\nI think the moral complexity was handled ok but could have been a lot stronger, there was an interlude where we see some of the histories of the characters and I thought that was great, but I think it could have been sprinkled a bit more throughout.\n\nThe core relationships of the siblings was good but could have been a bit stronger.\n\nThe beginning is amazing and extremely well done, grabbed me immediately and was very compelling, loved the civil war setting.\n\nOverall a really good horror standalone and I wish we had more books like this, they're hard to get in the genre of this level of quality and originality.",
+    "highlightCount": 35,
+    "myGoodreadsRating": 4,
+    "myReviewRating": 4.25,
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1770476344l/247579564.jpg",
+    "asin": "B0GLFLR4VF",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/247579564-sarafina",
+    "goodreadsReviewUrl": "https://www.goodreads.com/review/show/8512468798",
+    "kindleUrl": "https://amazon.com/dp/B0GLFLR4VF",
+    "matchMethod": "asin",
     "favorite": false
   }
 ]
