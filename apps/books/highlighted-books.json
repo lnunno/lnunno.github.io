@@ -22596,5 +22596,57 @@
     "kindleUrl": "https://amazon.com/dp/B0GLFLR4VF",
     "matchMethod": "asin",
     "favorite": false
+  },
+  {
+    "id": "baal-27fe2e16",
+    "readEvents": [
+      {
+        "readingSessionId": "amzn1.gr.reading_session.v1.69421e8f-4b0a-4af5-af09-05000c44e644",
+        "dateStarted": "Aug 01, 2026",
+        "dateStartedIso": "2026-08-01",
+        "dateRead": "Aug 03, 2026",
+        "dateReadIso": "2026-08-03"
+      }
+    ],
+    "title": "Baal",
+    "author": "Robert McCammon",
+    "series": "",
+    "review": "Really enjoyed it. Clearly a product of its time and the race and sexism clearly didn't age well but overall thought it was really well paced and had a lot of variety and had some great writing.\n\nI know McCammon himself is a bit embarrassed about his early work but he doesn't have any reason to be, it contains a lot of the elements that make him a great author, just not fully refined yet. Plenty to dig into and enjoy here and some great ideas and characters.",
+    "highlightCount": 9,
+    "myGoodreadsRating": 4,
+    "myReviewRating": null,
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387735207l/1077160.jpg",
+    "asin": "B005T54GCE",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/1077160.Baal",
+    "goodreadsReviewUrl": "https://www.goodreads.com/review/show/8802993748",
+    "kindleUrl": "https://amazon.com/dp/B005T54GCE",
+    "matchMethod": "title-author",
+    "favorite": false
+  },
+  {
+    "id": "poet-empress-512ac4b5",
+    "readEvents": [
+      {
+        "readingSessionId": "amzn1.gr.reading_session.v1.82ed5d15-0625-449b-bed7-9d9bcdea5ecf",
+        "dateStarted": "Jul 28, 2026",
+        "dateStartedIso": "2026-07-28",
+        "dateRead": "Aug 08, 2026",
+        "dateReadIso": "2026-08-08"
+      }
+    ],
+    "title": "The Poet Empress",
+    "author": "Shen Tao",
+    "series": "",
+    "review": "3.5/5 I liked this overall. In particular I thought the ending was quite good.\n\nSome of the politics I found a bit hard to believe and it got a bit repetitive, it needed some additional complexity for my taste. It was a focused standalone fantasy book though so that's a nice change of pace.\n\nThe world building needed a bit more substance but I did like the aesthetics of the book and it was written in a clear way.\n\nThe core mysteries of the book I never was that blown away by the reveals so it didn't land that deeply for me but I did like the way it was done and some of the narrative devices for the flashbacks and the different perspectives on the same event was solid, just wish I connected with it emotionally.\n\nGood book overall, not sure why the level of hype it's currently getting, especially when versed in the fantasy genre as a whole it's not particularly unique, but could be a good entrypoint for the genre.",
+    "highlightCount": 21,
+    "myGoodreadsRating": 3,
+    "myReviewRating": 3.5,
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1769858923l/231680079.jpg",
+    "asin": "B0F5PDHJ34",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/231680079-the-poet-empress",
+    "goodreadsReviewUrl": "https://www.goodreads.com/review/show/8454294225",
+    "kindleUrl": "",
+    "matchMethod": "title-candidate-author",
+    "favorite": false
   }
 ]
