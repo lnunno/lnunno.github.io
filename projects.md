@@ -18,10 +18,6 @@ I am not currently interested in working in the classified space where a clearan
 
 # Sabbatical (January 2026 - present)
 
-## OPM FOIA campaign
-
-I'm currently working with the Citizens for Constitutional Integrity as a technical consultant on a Freedom of Information Act (FOIA) request.
-
 ## Personal projects
 
 You can see a list of some of them [on my apps page here.](https://www.lucasnunno.com/apps/)
@@ -29,6 +25,10 @@ You can see a list of some of them [on my apps page here.](https://www.lucasnunn
 ## Hiking
 
 I did my longest hiking trek yet with the W Trek in Patagonia in South America. See all my hikes on my [Atlas app](https://www.lucasnunno.com/apps/atlas/) or [on AllTrails](https://www.alltrails.com/members/lucas-nunno).
+
+## OPM FOIA campaign
+
+I'm currently working with the Citizens for Constitutional Integrity as a technical consultant on a Freedom of Information Act (FOIA) request.
 
 # Palantir Technologies
 
