@@ -633,24 +633,30 @@
         },
         {
           "rank": 7,
+          "label": "McCammon's Shoppe of Olde Curiosities",
+          "kind": "book",
+          "bookIds": ["mccammons-shoppe-of-olde-curiosities-stories-ae3ac674"]
+        },
+        {
+          "rank": 8,
           "label": "Inhibitor Phase",
           "kind": "book",
           "bookIds": ["inhibitor-phase-c138e481"]
         },
         {
-          "rank": 8,
+          "rank": 9,
           "label": "Shift (Silo #2)",
           "kind": "book",
           "bookIds": ["shift-2ec82ee1"]
         },
         {
-          "rank": 9,
+          "rank": 10,
           "label": "Last Contract of Isako",
           "kind": "book",
           "bookIds": ["last-contract-of-isako-bb86f4fc"]
         },
         {
-          "rank": 10,
+          "rank": 11,
           "label": "Empire of the Damned",
           "kind": "book",
           "bookIds": ["empire-of-damned-ab0f807f"]

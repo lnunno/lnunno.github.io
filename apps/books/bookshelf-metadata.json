@@ -289,6 +289,15 @@
       "grim-systems-moral-horror"
     ]
   },
+  "https://www.goodreads.com/book/show/1077160.Baal": {
+    "genres": [
+      "horror"
+    ],
+    "tasteRoles": [
+      "propulsive-dark-engines",
+      "grim-systems-moral-horror"
+    ]
+  },
   "https://www.goodreads.com/book/show/10790277-rise-of-empire": {
     "genres": [
       "fantasy"
@@ -2927,6 +2936,15 @@
       "pulp-comfort-adventure"
     ]
   },
+  "https://www.goodreads.com/book/show/231680079-the-poet-empress": {
+    "genres": [
+      "fantasy"
+    ],
+    "tasteRoles": [
+      "grim-systems-moral-horror",
+      "epic-systems-fiction"
+    ]
+  },
   "https://www.goodreads.com/book/show/231953328-children-of-strife": {
     "genres": [
       "sci-fi"
@@ -3168,6 +3186,16 @@
       "space-opera-as-epic-fantasy",
       "epic-systems-fiction",
       "immersive-epic-saga",
+      "propulsive-dark-engines"
+    ]
+  },
+  "https://www.goodreads.com/book/show/247579564-sarafina": {
+    "genres": [
+      "horror",
+      "historical"
+    ],
+    "tasteRoles": [
+      "grim-systems-moral-horror",
       "propulsive-dark-engines"
     ]
   },
