@@ -4,10 +4,31 @@ title: Projects
 permalink: /projects/
 ---
 
-I care a lot about finding the right solution to a problem and helping the humans tackling the hard problems with technology. Sometimes that involves writing code, other times it can be more complicated.
+# Current state
 
-This is a selection of some programming and software engineering projects I
-have been involved in, it is by no means an exhaustive list.
+After a number of hugely successful and lucky years at Palantir I am enjoying some time off to travel, enjoy the outdoors in Colorado, and work on personal software that makes my life easier and more fun. I have the luxury of taking the time to explore my interests and be incredibly selective and mindful about committing to what's next.
+
+I'm not actively looking for a new full-time position but I am open and curious about opportunities in the software space. I am willing to do conversations with you about what you're working on and what opportunities are available, I just ask that you keep the below in mind for what I'm looking for and where I'm at in my career:
+
+What will get my attention is if you have an important problem to solve where software plays a major role. Also, if there's a path for a trial period, part time, contractual, or pro bono work available that offers flexibility that is a major plus.
+
+What is particularly appealing to me lately is using software to solve particularly important and impactful problems or software that is aligned with my personal interests.
+
+I am not currently interested in working in the classified space where a clearance is required, although I do have an active TS/SCI. I am not looking to relocate from Denver at this time. I'm open to other government work but it would need to be more flexible and non traditional and allow for using the best software tools currently available.
+
+# Sabbatical (January 2026 - present)
+
+## OPM FOIA campaign
+
+I'm currently working with the Citizens for Constitutional Integrity as a technical consultant on a Freedom of Information Act (FOIA) request.
+
+## Personal projects
+
+You can see a list of some of them [on my apps page here.](https://www.lucasnunno.com/apps/)
+
+## Hiking
+
+I did my longest hiking trek yet with the W Trek in Patagonia in South America. See all my hikes on my [Atlas app](https://www.lucasnunno.com/apps/atlas/) or [on AllTrails](https://www.alltrails.com/members/lucas-nunno).
 
 # Palantir Technologies
 
