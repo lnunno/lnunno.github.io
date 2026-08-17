@@ -1,0 +1,12 @@
+{
+  "homeAirport": "DEN",
+  "defaultTravelers": 2,
+  "membership": {
+    "status": "Active",
+    "tier": "Travel",
+    "annualPriceUsd": 95,
+    "renewalDate": "2027-01-13",
+    "bookingWindowWeeks": 57,
+    "memberSince": "2026-01"
+  }
+}

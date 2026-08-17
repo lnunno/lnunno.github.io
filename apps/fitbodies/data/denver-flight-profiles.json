@@ -1,0 +1,149 @@
+[
+  {
+    "airportCode": "CTG",
+    "estimatedRoundTripUsd": null,
+    "typicalStops": 1,
+    "typicalDurationHours": null,
+    "researchedAt": "2026-08-17",
+    "notes": "No DEN nonstop listed; one connection is typical.",
+    "sourceUrls": ["https://www.flydenver.com/nonstop-routes/"]
+  },
+  {
+    "airportCode": "CUN",
+    "estimatedRoundTripUsd": null,
+    "typicalStops": 0,
+    "typicalDurationHours": null,
+    "researchedAt": "2026-08-17",
+    "notes": "DEN lists nonstop service; verify the selected dates.",
+    "sourceUrls": ["https://www.flydenver.com/nonstop-routes/"]
+  },
+  {
+    "airportCode": "CUR",
+    "estimatedRoundTripUsd": null,
+    "typicalStops": 1,
+    "typicalDurationHours": null,
+    "researchedAt": "2026-08-17",
+    "notes": "No DEN nonstop listed; one connection is typical.",
+    "sourceUrls": ["https://www.flydenver.com/nonstop-routes/"]
+  },
+  {
+    "airportCode": "CZM",
+    "estimatedRoundTripUsd": null,
+    "typicalStops": 0,
+    "typicalDurationHours": null,
+    "researchedAt": "2026-08-17",
+    "notes": "DEN lists nonstop service; it may be seasonal.",
+    "sourceUrls": ["https://www.flydenver.com/nonstop-routes/"]
+  },
+  {
+    "airportCode": "HUX",
+    "estimatedRoundTripUsd": null,
+    "typicalStops": 1,
+    "typicalDurationHours": null,
+    "researchedAt": "2026-08-17",
+    "notes": "No DEN nonstop listed; one connection is typical.",
+    "sourceUrls": ["https://www.flydenver.com/nonstop-routes/"]
+  },
+  {
+    "airportCode": "LRM",
+    "estimatedRoundTripUsd": null,
+    "typicalStops": 1,
+    "typicalDurationHours": null,
+    "researchedAt": "2026-08-17",
+    "notes": "No DEN nonstop listed; PUJ may be the easier alternative.",
+    "sourceUrls": ["https://www.flydenver.com/nonstop-routes/"]
+  },
+  {
+    "airportCode": "MBJ",
+    "estimatedRoundTripUsd": null,
+    "typicalStops": 0,
+    "typicalDurationHours": null,
+    "researchedAt": "2026-08-17",
+    "notes": "DEN lists nonstop service; it may be seasonal.",
+    "sourceUrls": ["https://www.flydenver.com/nonstop-routes/"]
+  },
+  {
+    "airportCode": "MZT",
+    "estimatedRoundTripUsd": null,
+    "typicalStops": 1,
+    "typicalDurationHours": null,
+    "researchedAt": "2026-08-17",
+    "notes": "No DEN nonstop listed; one connection is typical.",
+    "sourceUrls": ["https://www.flydenver.com/nonstop-routes/"]
+  },
+  {
+    "airportCode": "PUJ",
+    "estimatedRoundTripUsd": null,
+    "typicalStops": 0,
+    "typicalDurationHours": null,
+    "researchedAt": "2026-08-17",
+    "notes": "DEN lists nonstop service; it may be seasonal.",
+    "sourceUrls": ["https://www.flydenver.com/nonstop-routes/"]
+  },
+  {
+    "airportCode": "PTY",
+    "estimatedRoundTripUsd": null,
+    "typicalStops": 0,
+    "typicalDurationHours": null,
+    "researchedAt": "2026-08-17",
+    "notes": "DEN lists nonstop service; verify the selected dates.",
+    "sourceUrls": ["https://www.flydenver.com/nonstop-routes/"]
+  },
+  {
+    "airportCode": "PVR",
+    "estimatedRoundTripUsd": null,
+    "typicalStops": 0,
+    "typicalDurationHours": null,
+    "researchedAt": "2026-08-17",
+    "notes": "DEN lists nonstop service; verify the selected dates.",
+    "sourceUrls": ["https://www.flydenver.com/nonstop-routes/"]
+  },
+  {
+    "airportCode": "SJD",
+    "estimatedRoundTripUsd": null,
+    "typicalStops": 0,
+    "typicalDurationHours": null,
+    "researchedAt": "2026-08-17",
+    "notes": "DEN lists nonstop service; verify the selected dates.",
+    "sourceUrls": ["https://www.flydenver.com/nonstop-routes/"]
+  },
+  {
+    "airportCode": "TQO",
+    "estimatedRoundTripUsd": null,
+    "typicalStops": 1,
+    "typicalDurationHours": null,
+    "researchedAt": "2026-08-17",
+    "notes": "No DEN nonstop listed; CUN may be the easier alternative.",
+    "sourceUrls": ["https://www.flydenver.com/nonstop-routes/"]
+  },
+  {
+    "airportCode": "UVF",
+    "estimatedRoundTripUsd": null,
+    "typicalStops": 1,
+    "typicalDurationHours": null,
+    "researchedAt": "2026-08-17",
+    "notes": "No DEN nonstop listed; one connection is typical.",
+    "sourceUrls": ["https://www.flydenver.com/nonstop-routes/"]
+  },
+  {
+    "airportCode": "ZIH",
+    "estimatedRoundTripUsd": null,
+    "typicalStops": 1,
+    "typicalDurationHours": null,
+    "researchedAt": "2026-08-17",
+    "notes": "No DEN nonstop listed; one connection is typical.",
+    "sourceUrls": ["https://www.flydenver.com/nonstop-routes/"]
+  },
+  {
+    "airportCode": "ZSA",
+    "estimatedRoundTripUsd": null,
+    "typicalStops": 1,
+    "typicalDurationHours": null,
+    "researchedAt": "2026-08-17",
+    "notes": "Limited island service; one connection is typically required.",
+    "sourceUrls": [
+      "https://www.doabahamas.com/",
+      "https://assets.dream.clubmed/pm_7531_820_820842-04glid3lv9.pdf"
+    ]
+  }
+]
