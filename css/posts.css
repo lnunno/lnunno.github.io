@@ -28,6 +28,16 @@
 
 .post-content > * { margin: 20px 0; }
 
+.post-image-link {
+  display: block;
+  width: fit-content;
+  max-width: 100%;
+  margin: 0 auto;
+  cursor: zoom-in;
+}
+
+.post-image-link img { cursor: zoom-in; }
+
 .post-figure {
   margin: 24px auto;
   text-align: center;
