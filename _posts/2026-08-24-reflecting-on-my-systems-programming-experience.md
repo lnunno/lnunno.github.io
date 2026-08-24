@@ -40,7 +40,7 @@ As an intern at Sandia Labs, I made a suite of compiler extension tools for a la
 
 You can see I've experimented with other system programming languages over the years, I went to a few conferences and took classes on Go and Rust and played with them a bit [go-snake](https://github.com/lnunno/go-snake), [rust-exercises](https://github.com/lnunno/rust-exercises).
 
-Recently I ported over the Go snake [to Rust](https://github.com/lnunno/rust-snake) and my BASIC Haskell interpreter [to Rust](https://github.com/lnunno/rust-basic). Rust scratches that functional programming itch a bit and it seems quite good for building an interpreter. I also have investigated a bit how to have the rust-basic to have an LLVM (which powers clang) backend.
+Recently I ported over the Go snake [to Rust](https://github.com/lnunno/rust-snake) and my BASIC Haskell interpreter [to Rust](https://github.com/lnunno/rust-basic). Rust scratches that functional programming itch a bit and it seems quite good for building an interpreter. I also have investigated a bit how to have the rust-basic to have an LLVM (which powers clang) backend. I haven't mastered the borrow checker yet.
 
 I'm not sure where my re-ignited interest might lead, but it's interesting to reflect on my history with it and recognize it as a tool that could be useful in the future depending on the opportunity. Writing programs that write programs will always be interesting to me and I hope I can apply it more in the future.
 
