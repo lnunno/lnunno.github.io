@@ -32,6 +32,14 @@ This extended into writing parsers and interpreters in Haskell. I took a types a
 
 ## Getting paid for systems programming
 
-TODO
+At Sandia Labs, one of the teams I was on was building software frameworks for an image processing pipeline. Here I got deep on C++ and learned a lot of the modern semantics with the smart pointer types (`unique_ptr`, `shared_ptr`, etc) and got experience with RAII (Resource Acquisition Is Initialization) for managing memory in a simpler way.
 
 ## Re-igniting my interest for systems programming
+
+You can see I've experimented with other system programming languages over the years, I went to a few conferences and took classes on Go and Rust and played with them a bit [go-snake](https://github.com/lnunno/go-snake), [rust-exercises](https://github.com/lnunno/rust-exercises).
+
+Recently I ported over the Go snake [to Rust](https://github.com/lnunno/rust-snake) and my BASIC Haskell interpreter [to Rust](https://github.com/lnunno/rust-basic). Rust scratches that functional programming itch a bit and it seems quite good for building an interpreter.
+
+![alt text](../assets/images/posts/image-6.png)
+
+I'm not sure where my re-ignited interest might lead, but it's interesting to reflect on my history with it and recognize it as a tool that could be useful in the future depending on the opportunity.
