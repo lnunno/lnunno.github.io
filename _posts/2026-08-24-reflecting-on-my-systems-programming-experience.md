@@ -32,14 +32,16 @@ This extended into writing parsers and interpreters in Haskell. I took a types a
 
 ## Getting paid for systems programming
 
-At Sandia Labs, one of the teams I was on was building software frameworks for an image processing pipeline. Here I got deep on C++ and learned a lot of the modern semantics with the smart pointer types (`unique_ptr`, `shared_ptr`, etc) and got experience with RAII (Resource Acquisition Is Initialization) for managing memory in a simpler way.
+At Sandia Labs, one of the teams I was on was building software frameworks for an image processing pipeline. Here I got deep on C++ and learned a lot of the modern semantics with the smart pointer types (`unique_ptr`, `shared_ptr`, etc) and got experience with RAII (Resource Acquisition Is Initialization) for managing memory in a simpler way. We made both C++ and Java frameworks for making services for these traditionally “one box” image processing processes. It included supporting custom configuration file formats, code generation into C++, Java, Python from software architecture file formats, and cross process telemetry between services that were defined by the architects.
+
+As an intern at Sandia Labs, I made a suite of compiler extension tools for a large satellite ground system codebase that would do static analysis and code generation. It would analyze different C++ classes and structs and generate code in a proprietary serialization format. I found this extremely interesting, but the code base was not set up to work with modern compilers well (it used a custom pearl script build system) so there were weird gaps for what would work with the LLVM tooling that needed to be fixed with a broader build system modernization project, however it worked in a number of cases due to how flexible Clang is.
 
 ## Re-igniting my interest for systems programming
 
 You can see I've experimented with other system programming languages over the years, I went to a few conferences and took classes on Go and Rust and played with them a bit [go-snake](https://github.com/lnunno/go-snake), [rust-exercises](https://github.com/lnunno/rust-exercises).
 
-Recently I ported over the Go snake [to Rust](https://github.com/lnunno/rust-snake) and my BASIC Haskell interpreter [to Rust](https://github.com/lnunno/rust-basic). Rust scratches that functional programming itch a bit and it seems quite good for building an interpreter.
+Recently I ported over the Go snake [to Rust](https://github.com/lnunno/rust-snake) and my BASIC Haskell interpreter [to Rust](https://github.com/lnunno/rust-basic). Rust scratches that functional programming itch a bit and it seems quite good for building an interpreter. I also have investigated a bit how to have the rust-basic to have an LLVM (which powers clang) backend.
 
-![alt text](../assets/images/posts/image-6.png)
+I'm not sure where my re-ignited interest might lead, but it's interesting to reflect on my history with it and recognize it as a tool that could be useful in the future depending on the opportunity. Writing programs that write programs will always be interesting to me and I hope I can apply it more in the future.
 
-I'm not sure where my re-ignited interest might lead, but it's interesting to reflect on my history with it and recognize it as a tool that could be useful in the future depending on the opportunity.
+Now that frontier models are so good, I think they excel at writing code in strongly typed and strict languages such as TypeScript and Rust. As much fun as Python was to write, having a compiled strongly typed language gives me a lot more confidence that the end result will be correct and it helps the model help itself. My apps on this website are primarily in TypeScript with a number of the stricter compile options enabled and it catches a lot of issues before a human will see them.
