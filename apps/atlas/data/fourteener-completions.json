@@ -69,85 +69,96 @@
     "Mount Cameron"
   ],
   "peaks": {
-    "Mount Elbert": {
+    "10001": {
       "activityIds": [
         "Mt_Elbert_with_Addison_and_Bruce"
       ],
       "closestActivityId": "Mt_Elbert_with_Addison_and_Bruce",
-      "closestDistanceMeters": 1
+      "closestDistanceMeters": 1,
+      "peakName": "Mount Elbert"
     },
-    "Mount Lincoln": {
+    "10008": {
       "activityIds": [
         "Decalibron_Mounts_Democrat_Cameron_Lincoln_and_Bross_Trail"
       ],
       "closestActivityId": "Decalibron_Mounts_Democrat_Cameron_Lincoln_and_Bross_Trail",
-      "closestDistanceMeters": 2
+      "closestDistanceMeters": 2,
+      "peakName": "Mount Lincoln"
     },
-    "Grays Peak": {
+    "10009": {
       "activityIds": [
         "Grays_and_Torreys_peaks_with_Addison"
       ],
       "closestActivityId": "Grays_and_Torreys_peaks_with_Addison",
-      "closestDistanceMeters": 1
+      "closestDistanceMeters": 1,
+      "peakName": "Grays Peak"
     },
-    "Quandary Peak": {
+    "10011": {
+      "activityIds": [
+        "Grays_and_Torreys_peaks_with_Addison"
+      ],
+      "closestActivityId": "Grays_and_Torreys_peaks_with_Addison",
+      "closestDistanceMeters": 0,
+      "peakName": "Torreys Peak"
+    },
+    "10013": {
       "activityIds": [
         "Quandary_Peak",
         "Quandary_Peak__round_2"
       ],
       "closestActivityId": "Quandary_Peak",
-      "closestDistanceMeters": 1
+      "closestDistanceMeters": 1,
+      "peakName": "Quandary Peak"
     },
-    "Torreys Peak": {
-      "activityIds": [
-        "Grays_and_Torreys_peaks_with_Addison"
-      ],
-      "closestActivityId": "Grays_and_Torreys_peaks_with_Addison",
-      "closestDistanceMeters": 0
-    },
-    "Mount Blue Sky": {
+    "10014": {
       "activityIds": [
         "Mount_Blue_Sky_and_Mount_Spalding_Trail"
       ],
       "closestActivityId": "Mount_Blue_Sky_and_Mount_Spalding_Trail",
-      "closestDistanceMeters": 7
+      "closestDistanceMeters": 7,
+      "peakName": "Mount Blue Sky"
     },
-    "Mount Bross": {
+    "10022": {
       "activityIds": [
         "Decalibron_Mounts_Democrat_Cameron_Lincoln_and_Bross_Trail"
       ],
       "closestActivityId": "Decalibron_Mounts_Democrat_Cameron_Lincoln_and_Bross_Trail",
-      "closestDistanceMeters": 1
+      "closestDistanceMeters": 1,
+      "peakName": "Mount Bross"
     },
-    "Mount Democrat": {
+    "10028": {
       "activityIds": [
         "Decalibron_Mounts_Democrat_Cameron_Lincoln_and_Bross_Trail"
       ],
       "closestActivityId": "Decalibron_Mounts_Democrat_Cameron_Lincoln_and_Bross_Trail",
-      "closestDistanceMeters": 3
+      "closestDistanceMeters": 3,
+      "peakName": "Mount Democrat"
     },
-    "Mount Bierstadt": {
+    "10038": {
       "activityIds": [
         "Mount_Bierstadt",
         "Mount_Bierstadt__round_3",
         "Mount_Bierstadt_Trail"
       ],
       "closestActivityId": "Mount_Bierstadt__round_3",
-      "closestDistanceMeters": 1
+      "closestDistanceMeters": 1,
+      "peakName": "Mount Bierstadt"
     },
-    "Mount Sherman": {
+    "10045": {
       "activityIds": [
         "Mount_Sherman_Gemini"
       ],
       "closestActivityId": "Mount_Sherman_Gemini",
-      "closestDistanceMeters": 2
+      "closestDistanceMeters": 2,
+      "peakName": "Mount Sherman"
     },
-    "Mount Cameron": {
+    "10063": {
       "activityIds": [
         "Decalibron_Mounts_Democrat_Cameron_Lincoln_and_Bross_Trail"
       ],
       "closestActivityId": "Decalibron_Mounts_Democrat_Cameron_Lincoln_and_Bross_Trail",
-      "closestDistanceMeters": 47
+      "closestDistanceMeters": 47,
+      "peakName": "Mount Cameron"
     }
   },
   "summitCompletionRadiusMeters": 200

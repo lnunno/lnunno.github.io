@@ -1,0 +1,89 @@
+{
+  "activities": {
+    "Afternoon_hike_at_Cupid_Grizzly_Torreys_Grays_Peaks": {
+      "peakNames": [
+        "Cupid",
+        "Grizzly Peak"
+      ]
+    },
+    "Afternoon_hike_at_James_Peak_Trail": {
+      "peakNames": [
+        "James Peak"
+      ]
+    },
+    "Mount_Sherman_Gemini": {
+      "peakNames": [
+        "Gemini Peak"
+      ]
+    },
+    "Mount_Blue_Sky_and_Mount_Spalding_Trail": {
+      "peakNames": [
+        "Mt. Spalding"
+      ]
+    },
+    "Berthoud_Pass_Mount_Flora_Trail": {
+      "peakNames": [
+        "Mt. Flora"
+      ]
+    }
+  },
+  "completedPeakNames": [
+    "Gemini Peak",
+    "Mt. Spalding",
+    "Grizzly Peak",
+    "James Peak",
+    "Mt. Flora",
+    "Cupid"
+  ],
+  "peaks": {
+    "10139": {
+      "activityIds": [
+        "Mount_Blue_Sky_and_Mount_Spalding_Trail"
+      ],
+      "closestActivityId": "Mount_Blue_Sky_and_Mount_Spalding_Trail",
+      "closestDistanceMeters": 45,
+      "peakName": "Mt. Spalding"
+    },
+    "10160": {
+      "activityIds": [
+        "Afternoon_hike_at_Cupid_Grizzly_Torreys_Grays_Peaks"
+      ],
+      "closestActivityId": "Afternoon_hike_at_Cupid_Grizzly_Torreys_Grays_Peaks",
+      "closestDistanceMeters": 8,
+      "peakName": "Grizzly Peak"
+    },
+    "10178": {
+      "activityIds": [
+        "Afternoon_hike_at_James_Peak_Trail"
+      ],
+      "closestActivityId": "Afternoon_hike_at_James_Peak_Trail",
+      "closestDistanceMeters": 12,
+      "peakName": "James Peak"
+    },
+    "10202": {
+      "activityIds": [
+        "Berthoud_Pass_Mount_Flora_Trail"
+      ],
+      "closestActivityId": "Berthoud_Pass_Mount_Flora_Trail",
+      "closestDistanceMeters": 15,
+      "peakName": "Mt. Flora"
+    },
+    "10209": {
+      "activityIds": [
+        "Afternoon_hike_at_Cupid_Grizzly_Torreys_Grays_Peaks"
+      ],
+      "closestActivityId": "Afternoon_hike_at_Cupid_Grizzly_Torreys_Grays_Peaks",
+      "closestDistanceMeters": 59,
+      "peakName": "Cupid"
+    },
+    "10250": {
+      "activityIds": [
+        "Mount_Sherman_Gemini"
+      ],
+      "closestActivityId": "Mount_Sherman_Gemini",
+      "closestDistanceMeters": 18,
+      "peakName": "Gemini Peak"
+    }
+  },
+  "summitCompletionRadiusMeters": 200
+}
