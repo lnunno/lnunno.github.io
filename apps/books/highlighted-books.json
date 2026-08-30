@@ -22648,5 +22648,57 @@
     "kindleUrl": "",
     "matchMethod": "title-candidate-author",
     "favorite": false
+  },
+  {
+    "id": "fold-catastrophes-1b2f2e7b",
+    "readEvents": [
+      {
+        "readingSessionId": "amzn1.gr.reading_session.v1.6a150f70-a408-4142-beb5-21dcd8d461e1",
+        "dateStarted": "Aug 06, 2026",
+        "dateStartedIso": "2026-08-06",
+        "dateRead": "Aug 21, 2026",
+        "dateReadIso": "2026-08-21"
+      }
+    ],
+    "title": "Fold Catastrophes",
+    "author": "Peter Watts",
+    "series": "",
+    "review": "I received a copy of this book on Netgalley in exchange for an honest review.\n\nI've read Blindsight a few years ago and really enjoyed it, this is my second of Watts. It's very similar to Blindsight in a number of ways, he seems to have a consistent style of hard sci-fi that's sparing in exposition or explaining a lot of context, he often expects you to understand things as they go and often characters are not fleshed out too much and the world building is in the background.\n\nHowever this has a big advantage, he's able to pack a lot into a small package and it can be an interesting mental exercise to try to piece things together. He's like your really smart friend who also doesn't really explain himself super well but you can tell there's something underneath it worth understanding.\n\nI thought the stories actually started off a bit weaker and him mentioning Google, Meta directly took me out of them a bit, these giant tech companies being evil isn't really a ground breaking idea. However the stories after that got a lot more interesting, they were sometimes connected to his other works I haven't read yet but they were mostly understandable.\n\nThe world building and how many ideas he has packed into the stories is really impressive, he's especially good at exploring consciousness from a lot of different angles and he'll often incorporate ideas from biology, nature, psychology that feel otherworldly and weird in this context, emphasizing how little we know about what makes us human and conscious beings.\n\nOne con is his endings are usually pretty abrupt and left me wanting more, I don't think he's mastered short story endings, a few times right when it's ramping up it does just stop, I think they need a final act oftentimes to pull it all together.\n\nOverall an interesting collection, this certainly is not the best place to start with Watts and me not having the full context of his previous works probably made it less effective but for his niche of bleak, hard sci-fi that doesn't hold your hand it was a good experience and makes me want to prioritize his other work soon.",
+    "highlightCount": 38,
+    "myGoodreadsRating": 4,
+    "myReviewRating": null,
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1775503968l/247885418.jpg",
+    "asin": "1616964677",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/247885418-fold-catastrophes",
+    "goodreadsReviewUrl": "https://www.goodreads.com/review/show/8833452982",
+    "kindleUrl": "",
+    "matchMethod": "title-author",
+    "favorite": false
+  },
+  {
+    "id": "empire-of-dawn-893c5f5c",
+    "readEvents": [
+      {
+        "readingSessionId": "amzn1.gr.reading_session.v1.35299f91-74d5-48b9-80a4-e2a4074821c2",
+        "dateStarted": "Aug 09, 2026",
+        "dateStartedIso": "2026-08-09",
+        "dateRead": "Aug 30, 2026",
+        "dateReadIso": "2026-08-30"
+      }
+    ],
+    "title": "Empire of the Dawn",
+    "author": "Jay Kristoff",
+    "series": "Empire of the Vampire, #3",
+    "review": "Easily my favorite in the series and I thought the ending was great. Really long book and trilogy but think it's worth the time investment. I've read a lot of vampire fiction but this has to be the biggest and most epic.",
+    "highlightCount": 59,
+    "myGoodreadsRating": 5,
+    "myReviewRating": null,
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1743484859l/228026677.jpg",
+    "asin": "B0DX3PBKHK",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/228026677-empire-of-the-dawn",
+    "goodreadsReviewUrl": "https://www.goodreads.com/review/show/8729030045",
+    "kindleUrl": "",
+    "matchMethod": "title-author",
+    "favorite": false
   }
 ]
