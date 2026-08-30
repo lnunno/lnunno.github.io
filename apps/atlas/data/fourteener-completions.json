@@ -53,6 +53,11 @@
       "peakNames": [
         "Mount Blue Sky"
       ]
+    },
+    "Mount_Yale": {
+      "peakNames": [
+        "Mount Yale"
+      ]
     }
   },
   "completedPeakNames": [
@@ -62,6 +67,7 @@
     "Quandary Peak",
     "Torreys Peak",
     "Mount Blue Sky",
+    "Mount Yale",
     "Mount Bross",
     "Mount Democrat",
     "Mount Bierstadt",
@@ -117,6 +123,14 @@
       "closestActivityId": "Mount_Blue_Sky_and_Mount_Spalding_Trail",
       "closestDistanceMeters": 7,
       "peakName": "Mount Blue Sky"
+    },
+    "10021": {
+      "activityIds": [
+        "Mount_Yale"
+      ],
+      "closestActivityId": "Mount_Yale",
+      "closestDistanceMeters": 3,
+      "peakName": "Mount Yale"
     },
     "10022": {
       "activityIds": [
