@@ -25,10 +25,18 @@
       "peakNames": [
         "Mt. Flora"
       ]
+    },
+    "Pikes_Peak": {
+      "peakNames": [
+        "Devils Playground Peak",
+        "Little Pikes Peak"
+      ]
     }
   },
   "completedPeakNames": [
+    "Devils Playground Peak",
     "Gemini Peak",
+    "Little Pikes Peak",
     "Mt. Spalding",
     "Grizzly Peak",
     "James Peak",
@@ -51,6 +59,14 @@
       "closestActivityId": "Afternoon_hike_at_Cupid_Grizzly_Torreys_Grays_Peaks",
       "closestDistanceMeters": 8,
       "peakName": "Grizzly Peak"
+    },
+    "10169": {
+      "activityIds": [
+        "Pikes_Peak"
+      ],
+      "closestActivityId": "Pikes_Peak",
+      "closestDistanceMeters": 185,
+      "peakName": "Little Pikes Peak"
     },
     "10178": {
       "activityIds": [
@@ -75,6 +91,14 @@
       "closestActivityId": "Afternoon_hike_at_Cupid_Grizzly_Torreys_Grays_Peaks",
       "closestDistanceMeters": 59,
       "peakName": "Cupid"
+    },
+    "10213": {
+      "activityIds": [
+        "Pikes_Peak"
+      ],
+      "closestActivityId": "Pikes_Peak",
+      "closestDistanceMeters": 147,
+      "peakName": "Devils Playground Peak"
     },
     "10250": {
       "activityIds": [

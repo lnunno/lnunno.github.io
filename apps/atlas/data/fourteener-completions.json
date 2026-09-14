@@ -58,6 +58,11 @@
       "peakNames": [
         "Mount Yale"
       ]
+    },
+    "Pikes_Peak": {
+      "peakNames": [
+        "Pikes Peak"
+      ]
     }
   },
   "completedPeakNames": [
@@ -70,6 +75,7 @@
     "Mount Yale",
     "Mount Bross",
     "Mount Democrat",
+    "Pikes Peak",
     "Mount Bierstadt",
     "Mount Sherman",
     "Mount Cameron"
@@ -147,6 +153,14 @@
       "closestActivityId": "Decalibron_Mounts_Democrat_Cameron_Lincoln_and_Bross_Trail",
       "closestDistanceMeters": 3,
       "peakName": "Mount Democrat"
+    },
+    "10030": {
+      "activityIds": [
+        "Pikes_Peak"
+      ],
+      "closestActivityId": "Pikes_Peak",
+      "closestDistanceMeters": 8,
+      "peakName": "Pikes Peak"
     },
     "10038": {
       "activityIds": [

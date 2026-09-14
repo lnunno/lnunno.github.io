@@ -273,6 +273,23 @@
     "matchMethod": "unmatched"
   },
   {
+    "id": "edgar-rice-burroughs-tarzan-of-apes-85915124",
+    "readEvents": [],
+    "title": "edgar-rice-burroughs_tarzan-of-the-apes",
+    "author": "Edgar Rice Burroughs",
+    "series": "",
+    "review": "",
+    "highlightCount": 20,
+    "myGoodreadsRating": null,
+    "myReviewRating": null,
+    "imageUrl": "",
+    "asin": "",
+    "goodreadsUrl": "",
+    "goodreadsReviewUrl": "",
+    "kindleUrl": "",
+    "matchMethod": "unmatched"
+  },
+  {
     "id": "books-of-south-tales-of-black-company-504bb4b1",
     "readEvents": [],
     "title": "The Books of the South: Tales of the Black Company (Chronicles of the Black Company Series Book 2)",
@@ -869,6 +886,23 @@
     "matchMethod": "unmatched"
   },
   {
+    "id": "reclamation-2b0c3761",
+    "readEvents": [],
+    "title": "Reclamation (The Art of War Trilogy Book 1)",
+    "author": "Richard Swan",
+    "series": "",
+    "review": "",
+    "highlightCount": 1,
+    "myGoodreadsRating": null,
+    "myReviewRating": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/81QnvmhDtdL._SY160.jpg",
+    "asin": "B00UEKMX06",
+    "goodreadsUrl": "",
+    "goodreadsReviewUrl": "",
+    "kindleUrl": "https://amazon.com/dp/B00UEKMX06",
+    "matchMethod": "unmatched"
+  },
+  {
     "id": "team-of-rivals-political-genius-of-abraham-lincoln-cb28495c",
     "readEvents": [],
     "title": "Team of Rivals: The Political Genius of Abraham Lincoln",
@@ -968,23 +1002,6 @@
     "goodreadsUrl": "",
     "goodreadsReviewUrl": "",
     "kindleUrl": "https://amazon.com/dp/B00CKOQC9C",
-    "matchMethod": "unmatched"
-  },
-  {
-    "id": "reclamation-2b0c3761",
-    "readEvents": [],
-    "title": "Reclamation (The Art of War Trilogy Book 1)",
-    "author": "Richard Swan",
-    "series": "",
-    "review": "",
-    "highlightCount": 1,
-    "myGoodreadsRating": null,
-    "myReviewRating": null,
-    "imageUrl": "https://m.media-amazon.com/images/I/81QnvmhDtdL._SY160.jpg",
-    "asin": "B00UEKMX06",
-    "goodreadsUrl": "",
-    "goodreadsReviewUrl": "",
-    "kindleUrl": "https://amazon.com/dp/B00UEKMX06",
     "matchMethod": "unmatched"
   },
   {
@@ -22699,6 +22716,84 @@
     "goodreadsReviewUrl": "https://www.goodreads.com/review/show/8729030045",
     "kindleUrl": "",
     "matchMethod": "title-author",
+    "favorite": false
+  },
+  {
+    "id": "odyssey-289738c5",
+    "readEvents": [
+      {
+        "readingSessionId": "amzn1.gr.reading_session.v1.42c52642-5144-4d5f-a600-2bd26d63652e",
+        "dateStarted": "Jul 19, 2026",
+        "dateStartedIso": "2026-07-19",
+        "dateRead": "Sep 04, 2026",
+        "dateReadIso": "2026-09-04"
+      }
+    ],
+    "title": "The Odyssey",
+    "author": "Homer",
+    "series": "",
+    "review": "4.25/5 really enjoyed it. Great readable translation by Fagles. Interesting to compare it to the Nolan film.",
+    "highlightCount": 0,
+    "myGoodreadsRating": 4,
+    "myReviewRating": 4.25,
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1625333784l/333706.jpg",
+    "asin": "B00CQ4JM3O",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/333706.The_Odyssey",
+    "goodreadsReviewUrl": "https://www.goodreads.com/review/show/8786884175",
+    "kindleUrl": "",
+    "matchMethod": "goodreads-only",
+    "favorite": false
+  },
+  {
+    "id": "tarzan-of-apes-06d89b7e",
+    "readEvents": [
+      {
+        "readingSessionId": "amzn1.gr.reading_session.v1.0c27ca6c-bbb2-41fe-8ede-3003f6b574a5",
+        "dateStarted": "Sep 09, 2026",
+        "dateStartedIso": "2026-09-09",
+        "dateRead": "Sep 11, 2026",
+        "dateReadIso": "2026-09-11"
+      }
+    ],
+    "title": "Tarzan of the Apes",
+    "author": "Edgar Rice Burroughs",
+    "series": "Tarzan, #1",
+    "review": "3.75/5 Fun adventure story. I mainly read this as a pre-req for Of the Apes by Steven Erikson since I got the ARC for that and didn't realize it was a retelling of Tarzan and I wanted to have a better idea of the original version. This isn't high literature but it's a fun pulp adventure and well written. I read a lot of this while camping and it was really well suited for that environment for a low stakes romp.\n\nThis sort of peaked with Tarzan growing up but definitely entertaining. The racism definitely didn't age well but given this was written in 1912 it makes more sense, didn't ruin the book in any way for me personally. Some of the outdated science and anthropology is a bit amusing.\n\nFun book overall and my first Burroughs, I definitely want to read more in the future.",
+    "highlightCount": 0,
+    "myGoodreadsRating": 4,
+    "myReviewRating": 3.75,
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349074111l/40425.jpg",
+    "asin": "0809599813",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/40425.Tarzan_of_the_Apes",
+    "goodreadsReviewUrl": "https://www.goodreads.com/review/show/8905150563",
+    "kindleUrl": "",
+    "matchMethod": "goodreads-only",
+    "favorite": false
+  },
+  {
+    "id": "infinite-state-fd8810b8",
+    "readEvents": [
+      {
+        "readingSessionId": "amzn1.gr.reading_session.v1.821a7ca3-2060-4936-be0c-9373d1b67bbc",
+        "dateStarted": "Aug 30, 2026",
+        "dateStartedIso": "2026-08-30",
+        "dateRead": "Sep 14, 2026",
+        "dateReadIso": "2026-09-14"
+      }
+    ],
+    "title": "The Infinite State",
+    "author": "Richard Swan",
+    "series": "The Decurion Saga #1",
+    "review": "Swan's best book yet. I've read all of his published fantasy books and have really liked to loved each of them and I actually applied for the ARC for Infinite State and was denied (maybe after being lukewarm on Steel Gods lol). I was fairly skeptical about him doing sci-fi but this book has a wonderful balance of great characters, exciting plot, and a well built world. It also has a lot of great ideas and political intrigue.\n\nThis is the coolest blend of a sci-fi dystopia ala 1984 and something like Star Wars that's just a really fun space opera adventure story. This improves on a lot of the classic sci-fi dystopia books because people are actually living in that world the best they can while being actively oppressed and surveiled constantly; where a wrong world or thought is instant death.\n\nI thought the ending of this was simultaneously satisfying while also I'm looking forward to reading the next one, which is soon (next year) because Swan is a writing machine. He's one of my most reliable authors and I enjoy picking up whatever he comes out with almost immediately on release.",
+    "highlightCount": 44,
+    "myGoodreadsRating": 5,
+    "myReviewRating": null,
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1755612906l/240323832.jpg",
+    "asin": "B0FMS93HBY",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/240323832-the-infinite-state",
+    "goodreadsReviewUrl": "https://www.goodreads.com/review/show/7871118645",
+    "kindleUrl": "https://amazon.com/dp/B0FMS93HBY",
+    "matchMethod": "asin",
     "favorite": false
   }
 ]
