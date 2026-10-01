@@ -171,6 +171,23 @@
     "matchMethod": "unmatched"
   },
   {
+    "id": "of-apes-d6582ba4",
+    "readEvents": [],
+    "title": "Of the Apes",
+    "author": "Unknown",
+    "series": "",
+    "review": "",
+    "highlightCount": 49,
+    "myGoodreadsRating": null,
+    "myReviewRating": null,
+    "imageUrl": "",
+    "asin": "",
+    "goodreadsUrl": "",
+    "goodreadsReviewUrl": "",
+    "kindleUrl": "",
+    "matchMethod": "unmatched"
+  },
+  {
     "id": "chronicles-of-black-company-fe6e3644",
     "readEvents": [],
     "title": "Chronicles of the Black Company (Chronicles of the Black Company Series Book 1)",
@@ -273,23 +290,6 @@
     "matchMethod": "unmatched"
   },
   {
-    "id": "edgar-rice-burroughs-tarzan-of-apes-85915124",
-    "readEvents": [],
-    "title": "edgar-rice-burroughs_tarzan-of-the-apes",
-    "author": "Edgar Rice Burroughs",
-    "series": "",
-    "review": "",
-    "highlightCount": 20,
-    "myGoodreadsRating": null,
-    "myReviewRating": null,
-    "imageUrl": "",
-    "asin": "",
-    "goodreadsUrl": "",
-    "goodreadsReviewUrl": "",
-    "kindleUrl": "",
-    "matchMethod": "unmatched"
-  },
-  {
     "id": "books-of-south-tales-of-black-company-504bb4b1",
     "readEvents": [],
     "title": "The Books of the South: Tales of the Black Company (Chronicles of the Black Company Series Book 2)",
@@ -304,6 +304,23 @@
     "goodreadsUrl": "",
     "goodreadsReviewUrl": "",
     "kindleUrl": "https://amazon.com/dp/B009WUGASU",
+    "matchMethod": "unmatched"
+  },
+  {
+    "id": "embassytown-novel-d024579e",
+    "readEvents": [],
+    "title": "Embassytown: A Novel",
+    "author": "China Mieville",
+    "series": "",
+    "review": "",
+    "highlightCount": 18,
+    "myGoodreadsRating": null,
+    "myReviewRating": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/51FDKbsmJ7L._SY160.jpg",
+    "asin": "B004J4WLU0",
+    "goodreadsUrl": "",
+    "goodreadsReviewUrl": "",
+    "kindleUrl": "https://amazon.com/dp/B004J4WLU0",
     "matchMethod": "unmatched"
   },
   {
@@ -545,6 +562,23 @@
     "matchMethod": "unmatched"
   },
   {
+    "id": "halloween-tree-halloween-classic-c08beedd",
+    "readEvents": [],
+    "title": "The Halloween Tree: A Halloween Classic",
+    "author": "Ray Bradbury and Gris Grimly",
+    "series": "",
+    "review": "",
+    "highlightCount": 5,
+    "myGoodreadsRating": null,
+    "myReviewRating": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/91htwoOr0NL._SY160.jpg",
+    "asin": "B00PEPR5P4",
+    "goodreadsUrl": "",
+    "goodreadsReviewUrl": "",
+    "kindleUrl": "https://amazon.com/dp/B00PEPR5P4",
+    "matchMethod": "unmatched"
+  },
+  {
     "id": "crying-of-lot-49-bde97bc9",
     "readEvents": [],
     "title": "The Crying of Lot 49",
@@ -681,6 +715,23 @@
     "matchMethod": "unmatched"
   },
   {
+    "id": "alternate-realities-d8821639",
+    "readEvents": [],
+    "title": "Alternate Realities (Alliance-Union Universe)",
+    "author": "C. J. Cherryh",
+    "series": "",
+    "review": "",
+    "highlightCount": 2,
+    "myGoodreadsRating": null,
+    "myReviewRating": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/81bRQ4Te9qL._SY160.jpg",
+    "asin": "B004DI7IA0",
+    "goodreadsUrl": "",
+    "goodreadsReviewUrl": "",
+    "kindleUrl": "https://amazon.com/dp/B004DI7IA0",
+    "matchMethod": "unmatched"
+  },
+  {
     "id": "burning-chrome-9113bd52",
     "readEvents": [],
     "title": "Burning Chrome",
@@ -729,23 +780,6 @@
     "goodreadsUrl": "",
     "goodreadsReviewUrl": "",
     "kindleUrl": "https://amazon.com/dp/B004IYIU7O",
-    "matchMethod": "unmatched"
-  },
-  {
-    "id": "alternate-realities-d8821639",
-    "readEvents": [],
-    "title": "Alternate Realities (Alliance-Union Universe)",
-    "author": "C. J. Cherryh",
-    "series": "",
-    "review": "",
-    "highlightCount": 2,
-    "myGoodreadsRating": null,
-    "myReviewRating": null,
-    "imageUrl": "https://m.media-amazon.com/images/I/81bRQ4Te9qL._SY160.jpg",
-    "asin": "B004DI7IA0",
-    "goodreadsUrl": "",
-    "goodreadsReviewUrl": "",
-    "kindleUrl": "https://amazon.com/dp/B004DI7IA0",
     "matchMethod": "unmatched"
   },
   {
@@ -886,6 +920,40 @@
     "matchMethod": "unmatched"
   },
   {
+    "id": "talisman-novel-14a4070f",
+    "readEvents": [],
+    "title": "The Talisman: A Novel",
+    "author": "Stephen King and Peter Straub",
+    "series": "",
+    "review": "",
+    "highlightCount": 1,
+    "myGoodreadsRating": null,
+    "myReviewRating": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/81GntAFIZiL._SY160.jpg",
+    "asin": "B007SNYL66",
+    "goodreadsUrl": "",
+    "goodreadsReviewUrl": "",
+    "kindleUrl": "https://amazon.com/dp/B007SNYL66",
+    "matchMethod": "unmatched"
+  },
+  {
+    "id": "archaon-everchosen-3e79b04e",
+    "readEvents": [],
+    "title": "Archaon: Everchosen (Warhammer Fantasy)",
+    "author": "Rob Sanders",
+    "series": "",
+    "review": "",
+    "highlightCount": 1,
+    "myGoodreadsRating": null,
+    "myReviewRating": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/717gdTKrJAL._SY160.jpg",
+    "asin": "B01N75PSKI",
+    "goodreadsUrl": "",
+    "goodreadsReviewUrl": "",
+    "kindleUrl": "https://amazon.com/dp/B01N75PSKI",
+    "matchMethod": "unmatched"
+  },
+  {
     "id": "reclamation-2b0c3761",
     "readEvents": [],
     "title": "Reclamation (The Art of War Trilogy Book 1)",
@@ -1002,23 +1070,6 @@
     "goodreadsUrl": "",
     "goodreadsReviewUrl": "",
     "kindleUrl": "https://amazon.com/dp/B00CKOQC9C",
-    "matchMethod": "unmatched"
-  },
-  {
-    "id": "archaon-everchosen-3e79b04e",
-    "readEvents": [],
-    "title": "Archaon: Everchosen (Warhammer Fantasy)",
-    "author": "Rob Sanders",
-    "series": "",
-    "review": "",
-    "highlightCount": 1,
-    "myGoodreadsRating": null,
-    "myReviewRating": null,
-    "imageUrl": "https://m.media-amazon.com/images/I/717gdTKrJAL._SY160.jpg",
-    "asin": "B01N75PSKI",
-    "goodreadsUrl": "",
-    "goodreadsReviewUrl": "",
-    "kindleUrl": "https://amazon.com/dp/B01N75PSKI",
     "matchMethod": "unmatched"
   },
   {
@@ -22759,7 +22810,7 @@
     "author": "Edgar Rice Burroughs",
     "series": "Tarzan, #1",
     "review": "3.75/5 Fun adventure story. I mainly read this as a pre-req for Of the Apes by Steven Erikson since I got the ARC for that and didn't realize it was a retelling of Tarzan and I wanted to have a better idea of the original version. This isn't high literature but it's a fun pulp adventure and well written. I read a lot of this while camping and it was really well suited for that environment for a low stakes romp.\n\nThis sort of peaked with Tarzan growing up but definitely entertaining. The racism definitely didn't age well but given this was written in 1912 it makes more sense, didn't ruin the book in any way for me personally. Some of the outdated science and anthropology is a bit amusing.\n\nFun book overall and my first Burroughs, I definitely want to read more in the future.",
-    "highlightCount": 0,
+    "highlightCount": 20,
     "myGoodreadsRating": 4,
     "myReviewRating": 3.75,
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349074111l/40425.jpg",
@@ -22767,7 +22818,7 @@
     "goodreadsUrl": "https://www.goodreads.com/book/show/40425.Tarzan_of_the_Apes",
     "goodreadsReviewUrl": "https://www.goodreads.com/review/show/8905150563",
     "kindleUrl": "",
-    "matchMethod": "goodreads-only",
+    "matchMethod": "title-candidate-author",
     "favorite": false
   },
   {
@@ -22793,6 +22844,84 @@
     "goodreadsUrl": "https://www.goodreads.com/book/show/240323832-the-infinite-state",
     "goodreadsReviewUrl": "https://www.goodreads.com/review/show/7871118645",
     "kindleUrl": "https://amazon.com/dp/B0FMS93HBY",
+    "matchMethod": "asin",
+    "favorite": false
+  },
+  {
+    "id": "i-who-have-never-known-men-3cfd067a",
+    "readEvents": [
+      {
+        "readingSessionId": "amzn1.gr.reading_session.v1.f42aa0ae-b5ed-42d4-9e78-47a978b46f8b",
+        "dateStarted": "Sep 06, 2026",
+        "dateStartedIso": "2026-09-06",
+        "dateRead": "Sep 17, 2026",
+        "dateReadIso": "2026-09-17"
+      }
+    ],
+    "title": "I Who Have Never Known Men",
+    "author": "Jacqueline Harpman",
+    "series": "",
+    "review": "2.5/5 What the hell was that? I'm confused why this is so popular, it doesn't really go anywhere. There were a few good plot moments but I really expected more. I didn't connect with any of the characters, and the themes are just okay.\n\nFeel like I'd rather have read something by Octavia Butler or Ursula K Le Guin, they have a similarly bleak style but typically have better plot progression. This is just depressing and bleak and I don't really take anything away from it.\n\nFeels a bit pointless overall, definitely a tedious hyper-detailed survival story that is often very boring. The writing is solid but nothing extraordinary. The core mystery is interesting but the lack of answers is really unsatisfying and the ending is lame as hell.\n\nMaybe I didn't get it, not sure. I'll be looking up some discussions on this to see if I'm missing something deeper than what I took away from it. I don't recommend reading this to be honest.",
+    "highlightCount": 2,
+    "myGoodreadsRating": 2,
+    "myReviewRating": 2.5,
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645371720l/60457992.jpg",
+    "asin": "B09QJ8L8FF",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/60457992-i-who-have-never-known-men",
+    "goodreadsReviewUrl": "https://www.goodreads.com/review/show/7841486562",
+    "kindleUrl": "https://amazon.com/dp/B09QJ8L8FF",
+    "matchMethod": "asin",
+    "favorite": false
+  },
+  {
+    "id": "wendigo-ce544b38",
+    "readEvents": [
+      {
+        "readingSessionId": "amzn1.gr.reading_session.v1.cf1291ad-e93c-44ce-90d7-8513dcad7676",
+        "dateStarted": "Sep 17, 2026",
+        "dateStartedIso": "2026-09-17",
+        "dateRead": "Sep 18, 2026",
+        "dateReadIso": "2026-09-18"
+      }
+    ],
+    "title": "The Wendigo",
+    "author": "Algernon Blackwood",
+    "series": "",
+    "review": "Solid. Similar tier to Lovecraft but a bit better writing with a bit more variety.",
+    "highlightCount": 0,
+    "myGoodreadsRating": 3,
+    "myReviewRating": null,
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1726405620l/1137702.jpg",
+    "asin": "1406905925",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/1137702.The_Wendigo",
+    "goodreadsReviewUrl": "https://www.goodreads.com/review/show/8950539347",
+    "kindleUrl": "",
+    "matchMethod": "goodreads-only",
+    "favorite": false
+  },
+  {
+    "id": "hollow-ba261c6f",
+    "readEvents": [
+      {
+        "readingSessionId": "amzn1.gr.reading_session.v1.1b13bd98-be2b-4ae6-8802-2fa19455f9e3",
+        "dateStarted": "Sep 18, 2026",
+        "dateStartedIso": "2026-09-18",
+        "dateRead": "Sep 22, 2026",
+        "dateReadIso": "2026-09-22"
+      }
+    ],
+    "title": "Hollow",
+    "author": "Brian Catling",
+    "series": "",
+    "review": "3.5/5 man I was so hyped on this one and it had such a promising start to about the halfway point and just didn't progress or develop in a way that built any sort of tension or depth. There were a couple of world building revelations that were just dropped in with exposition and not revealed in a natural way and that's when I started worrying.\n\nInitially I was concerned about the length because it's established as a big world and had three distinct and interesting POVs and I was guarding myself about wanting more in the end, but I ended up just taking away that it whimpered out instead of leaving me on a high and wanting more.\n\nThe foundation was so great though, really think this could've been an all-time favorite if it built up in a better way and had better plotting, connected me to the characters better, and built upon the themes more. The writing is great, the world building is weird, dark, and brutal; taking a lot of inspiration from art, history, literature. The plot also makes sense and it's not so weird that it's hard to keep track of.\n\nJust a really perplexing experience of the best foundation to a story that doesn't develop or go anywhere meaningful, pretty disappointed overall. I might give him another chance with one of his other works, but this didn't give me confidence on him delivering a fully satisfying story.",
+    "highlightCount": 26,
+    "myGoodreadsRating": 3,
+    "myReviewRating": 3.5,
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1616100805l/57453706.jpg",
+    "asin": "B08PHN4GMF",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/57453706-hollow",
+    "goodreadsReviewUrl": "https://www.goodreads.com/review/show/8637326420",
+    "kindleUrl": "https://amazon.com/dp/B08PHN4GMF",
     "matchMethod": "asin",
     "favorite": false
   }
