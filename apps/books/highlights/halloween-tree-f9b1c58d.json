@@ -1,10 +1,10 @@
 {
-  "id": "halloween-tree-halloween-classic-c08beedd",
-  "title": "The Halloween Tree: A Halloween Classic",
-  "author": "Ray Bradbury and Gris Grimly",
-  "review": "",
-  "highlightCount": 5,
-  "myGoodreadsRating": null,
+  "id": "halloween-tree-f9b1c58d",
+  "title": "The Halloween Tree",
+  "author": "Ray Bradbury",
+  "review": "Good writing but needed a better plot",
+  "highlightCount": 7,
+  "myGoodreadsRating": 2.5,
   "myReviewRating": null,
   "highlights": [
     {
@@ -44,6 +44,22 @@
       "text": "Look long, look deep, make a feast. The Past, boys, the Past. Oh, it’s dark, yes, and full of nightmare. Everything that Halloween ever was lies buried there.",
       "color": "yellow",
       "location": "384",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUEVQUjVQNDoxMDE2OTk6SElHSExJR0hUOmExZDQ0YTAzZC03ZjgyLTQwNmYtYTIxNi1jNTEzOTFiMzNlMDI",
+      "text": "“And that’s how Halloween began?” “With such long thoughts at night, boys. And always at the center of it, fire. The sun. The sun dying down the cold sky forever.",
+      "color": "yellow",
+      "location": "678",
+      "page": "",
+      "source": "kindle"
+    },
+    {
+      "id": "QTFSNVNUQkdPWkxYVUk6QjAwUEVQUjVQNDoyMzAzNzU6SElHSExJR0hUOmE3MDkyOWJkZC1jZGY4LTRmMjctOTA3My04NTRmNTMzZTE2Yjc",
+      "text": "“Night and day. Summer and winter, boys. Seedtime and harvest. Life and death. That’s what Halloween is, all rolled up in one.",
+      "color": "yellow",
+      "location": "1536",
       "page": "",
       "source": "kindle"
     }

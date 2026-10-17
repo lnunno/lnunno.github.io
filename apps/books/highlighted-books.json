@@ -1,21 +1,20 @@
 [
   {
-    "id": "game-of-thrones-a0217169",
+    "id": "black-sun-rising-caaac19b",
     "readEvents": [],
-    "title": "A Game of Thrones",
-    "author": "George R.R. Martin",
-    "series": "A Song of Ice and Fire, #1",
+    "title": "Black Sun Rising (Coldfire Book 1)",
+    "author": "C.S. Friedman",
+    "series": "",
     "review": "",
-    "highlightCount": 80,
-    "myGoodreadsRating": 5,
+    "highlightCount": 100,
+    "myGoodreadsRating": null,
     "myReviewRating": null,
-    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562726234l/13496.jpg",
-    "asin": "B000QCS8TW",
-    "goodreadsUrl": "https://www.goodreads.com/book/show/13496.A_Game_of_Thrones",
-    "goodreadsReviewUrl": "https://www.goodreads.com/review/show/611879987",
-    "kindleUrl": "https://amazon.com/dp/B000QCS8TW",
-    "matchMethod": "title-author",
-    "favorite": false
+    "imageUrl": "https://m.media-amazon.com/images/I/81B1ZmF53JL._SY160.jpg",
+    "asin": "B00452V3YG",
+    "goodreadsUrl": "",
+    "goodreadsReviewUrl": "",
+    "kindleUrl": "https://amazon.com/dp/B00452V3YG",
+    "matchMethod": "unmatched"
   },
   {
     "id": "musashi-epic-novel-of-samurai-era-c4edb63b",
@@ -307,23 +306,6 @@
     "matchMethod": "unmatched"
   },
   {
-    "id": "embassytown-novel-d024579e",
-    "readEvents": [],
-    "title": "Embassytown: A Novel",
-    "author": "China Mieville",
-    "series": "",
-    "review": "",
-    "highlightCount": 18,
-    "myGoodreadsRating": null,
-    "myReviewRating": null,
-    "imageUrl": "https://m.media-amazon.com/images/I/51FDKbsmJ7L._SY160.jpg",
-    "asin": "B004J4WLU0",
-    "goodreadsUrl": "",
-    "goodreadsReviewUrl": "",
-    "kindleUrl": "https://amazon.com/dp/B004J4WLU0",
-    "matchMethod": "unmatched"
-  },
-  {
     "id": "silo-series-collection-wool-shift-dust-and-silo-stories-1b406d1d",
     "readEvents": [],
     "title": "The Silo Series Collection: Wool, Shift, Dust, and Silo Stories",
@@ -559,23 +541,6 @@
     "goodreadsUrl": "",
     "goodreadsReviewUrl": "",
     "kindleUrl": "https://amazon.com/dp/B003ZX86BO",
-    "matchMethod": "unmatched"
-  },
-  {
-    "id": "halloween-tree-halloween-classic-c08beedd",
-    "readEvents": [],
-    "title": "The Halloween Tree: A Halloween Classic",
-    "author": "Ray Bradbury and Gris Grimly",
-    "series": "",
-    "review": "",
-    "highlightCount": 5,
-    "myGoodreadsRating": null,
-    "myReviewRating": null,
-    "imageUrl": "https://m.media-amazon.com/images/I/91htwoOr0NL._SY160.jpg",
-    "asin": "B00PEPR5P4",
-    "goodreadsUrl": "",
-    "goodreadsReviewUrl": "",
-    "kindleUrl": "https://amazon.com/dp/B00PEPR5P4",
     "matchMethod": "unmatched"
   },
   {
@@ -1741,7 +1706,7 @@
     "highlightCount": 0,
     "myGoodreadsRating": 4,
     "myReviewRating": null,
-    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452624392l/1215032.jpg",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1785688949l/1215032.jpg",
     "asin": "0756404738",
     "goodreadsUrl": "https://www.goodreads.com/book/show/1215032.The_Wise_Man_s_Fear",
     "goodreadsReviewUrl": "https://www.goodreads.com/review/show/611879491",
@@ -1876,9 +1841,9 @@
     "favorite": false
   },
   {
-    "id": "god-delusion-1a8b2bc4",
+    "id": "god-delusion-study-of-religious-belief-and-skepticism-52242b9a",
     "readEvents": [],
-    "title": "The God Delusion",
+    "title": "The God Delusion: A Study of Religious Belief and Skepticism",
     "author": "Richard Dawkins",
     "series": "",
     "review": "",
@@ -2182,6 +2147,32 @@
     "favorite": false
   },
   {
+    "id": "game-of-thrones-039c3a91",
+    "readEvents": [
+      {
+        "readingSessionId": "dc2fad41-522f-4e39-bdd8-d93fbe16259b",
+        "dateStarted": "Jan 01, 2006",
+        "dateStartedIso": "2006-01-01",
+        "dateRead": "Jan 01, 2006",
+        "dateReadIso": "2006-01-01"
+      }
+    ],
+    "title": "A Game of Thrones",
+    "author": "George R.R. Martin",
+    "series": "A Song of Ice and Fire, #1",
+    "review": "",
+    "highlightCount": 80,
+    "myGoodreadsRating": 5,
+    "myReviewRating": null,
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1753055008l/50863421.jpg",
+    "asin": "B000QCS8TW",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/50863421-a-game-of-thrones",
+    "goodreadsReviewUrl": "https://www.goodreads.com/review/show/611879987",
+    "kindleUrl": "https://amazon.com/dp/B000QCS8TW",
+    "matchMethod": "asin",
+    "favorite": false
+  },
+  {
     "id": "grapes-of-wrath-f2b5257b",
     "readEvents": [
       {
@@ -2324,7 +2315,7 @@
     ],
     "title": "Leviathan Wakes",
     "author": "James S.A. Corey",
-    "series": "The Expanse, #1",
+    "series": "",
     "review": "",
     "highlightCount": 0,
     "myGoodreadsRating": 4,
@@ -2402,7 +2393,7 @@
     ],
     "title": "Caliban’s War",
     "author": "James S.A. Corey",
-    "series": "The Expanse, #2",
+    "series": "",
     "review": "",
     "highlightCount": 0,
     "myGoodreadsRating": 4,
@@ -4335,7 +4326,7 @@
     "favorite": false
   },
   {
-    "id": "beowulf-d5df7b6a",
+    "id": "beowulf-436ffd46",
     "readEvents": [
       {
         "readingSessionId": "amzn1.gr.reading_session.v1.54d782c6-e282-4338-8fad-c0966eeb99b3",
@@ -4346,7 +4337,7 @@
       }
     ],
     "title": "Beowulf",
-    "author": "Unknown",
+    "author": "Seamus Heaney",
     "series": "",
     "review": "",
     "highlightCount": 0,
@@ -5257,7 +5248,7 @@
     "highlightCount": 0,
     "myGoodreadsRating": 3,
     "myReviewRating": null,
-    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505590203l/36223860.jpg",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1788878240l/36223860.jpg",
     "asin": "B0FSKGLCP5",
     "goodreadsUrl": "https://www.goodreads.com/book/show/36223860-artificial-condition",
     "goodreadsReviewUrl": "https://www.goodreads.com/review/show/3953207113",
@@ -6493,7 +6484,7 @@
     "highlightCount": 0,
     "myGoodreadsRating": 5,
     "myReviewRating": null,
-    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629892936l/39892317.jpg",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1787133412l/39892317.jpg",
     "asin": "1786693909",
     "goodreadsUrl": "https://www.goodreads.com/book/show/39892317-dogs-of-war",
     "goodreadsReviewUrl": "https://www.goodreads.com/review/show/3981968942",
@@ -7741,7 +7732,7 @@
     "highlightCount": 55,
     "myGoodreadsRating": 5,
     "myReviewRating": null,
-    "imageUrl": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1741783658i/9968073.jpg",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500664430l/44083340.jpg",
     "asin": "B07NDY4QMQ",
     "goodreadsUrl": "https://www.goodreads.com/book/show/44083340-the-unholy-consult",
     "goodreadsReviewUrl": "https://www.goodreads.com/review/show/4279939072",
@@ -9896,7 +9887,7 @@
     ],
     "title": "Interview with the Vampire",
     "author": "Anne Rice",
-    "series": "The Vampire Chronicles #1",
+    "series": "The Vampire Chronicles, #1",
     "review": "The first half was fantastic and one of the best vampire stories I've read. It was an intimate, personal story with interesting philosophical questions and Rice made New Orleans come alive. The second half wasn't as good, sort of takes a weird turn and didn't care for the plot as much. Still very good story, interested to see what happens next at some point in the future.",
     "highlightCount": 0,
     "myGoodreadsRating": 4,
@@ -12099,7 +12090,7 @@
     "highlightCount": 0,
     "myGoodreadsRating": 4,
     "myReviewRating": null,
-    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398750070l/6402375.jpg",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1785138826l/6402375.jpg",
     "asin": "159606241X",
     "goodreadsUrl": "https://www.goodreads.com/book/show/6402375-purple-and-black",
     "goodreadsReviewUrl": "https://www.goodreads.com/review/show/4574666887",
@@ -12125,7 +12116,7 @@
     "highlightCount": 0,
     "myGoodreadsRating": 4,
     "myReviewRating": null,
-    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347526880l/8291070.jpg",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1785141423l/8291070.jpg",
     "asin": "1596063270",
     "goodreadsUrl": "https://www.goodreads.com/book/show/8291070-blue-and-gold",
     "goodreadsReviewUrl": "https://www.goodreads.com/review/show/4933311750",
@@ -12496,7 +12487,7 @@
     "highlightCount": 60,
     "myGoodreadsRating": 4,
     "myReviewRating": null,
-    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636810570l/20919846.jpg",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1785141749l/20919846.jpg",
     "asin": "B00M6BXQVQ",
     "goodreadsUrl": "https://www.goodreads.com/book/show/20919846-academic-exercises",
     "goodreadsReviewUrl": "https://www.goodreads.com/review/show/4986147745",
@@ -12730,7 +12721,7 @@
     "highlightCount": 0,
     "myGoodreadsRating": 4,
     "myReviewRating": null,
-    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553885082l/37946419.jpg",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1785162408l/37946419.jpg",
     "asin": "0316270792",
     "goodreadsUrl": "https://www.goodreads.com/book/show/37946419-sixteen-ways-to-defend-a-walled-city",
     "goodreadsReviewUrl": "https://www.goodreads.com/review/show/4384941165",
@@ -13016,7 +13007,7 @@
     "highlightCount": 0,
     "myGoodreadsRating": 3,
     "myReviewRating": null,
-    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1600352528l/49088677.jpg",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1785162380l/49088677.jpg",
     "asin": "031649867X",
     "goodreadsUrl": "https://www.goodreads.com/book/show/49088677-how-to-rule-an-empire-and-get-away-with-it",
     "goodreadsReviewUrl": "https://www.goodreads.com/review/show/5042952315",
@@ -15788,7 +15779,7 @@
     "favorite": false
   },
   {
-    "id": "monster-perfect-edition-5-1ad51b15",
+    "id": "monster-band-5-1deab1d8",
     "readEvents": [
       {
         "readingSessionId": "amzn1.gr.reading_session.v1.e45fb55f-fea2-413c-a4d6-9cb0bb0aef83",
@@ -15798,7 +15789,7 @@
         "dateReadIso": "2023-07-31"
       }
     ],
-    "title": "Monster Perfect Edition 5",
+    "title": "Monster, Band 5",
     "author": "Naoki Urasawa",
     "series": "",
     "review": "Character work and plot continue being phenomenal",
@@ -15807,7 +15798,7 @@
     "myReviewRating": null,
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615995017l/57442290.jpg",
     "asin": "3551759561",
-    "goodreadsUrl": "https://www.goodreads.com/book/show/57442290-monster-perfect-edition-5",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/57442290-monster-band-5",
     "goodreadsReviewUrl": "https://www.goodreads.com/review/show/5729045464",
     "kindleUrl": "",
     "matchMethod": "goodreads-only",
@@ -19636,7 +19627,7 @@
     ],
     "title": "Grave Empire",
     "author": "Richard Swan",
-    "series": "The Great Silence, #1",
+    "series": "The Great Silence #1",
     "review": "4.5/5 Thank you to Netgalley and Orbit books for an advanced copy of this book in exchange for an honest review.\n\nI've read Empire of the Wolf last year and really enjoyed it beginning to end, so I was excited to see what Swan had in store for this world 200 years after the ending of the previous series. Swan met and in a lot of ways exceeded the previous series here, and if book 2 was out I'd pick it up immediately.\n\nHe did a great job switching from first person in the EOTW to third person with multiple POVs here and thought the story and pacing benefited from it massively, I was always engaged in what was going on and he was able to tease these big moments and revelations that kept me turning the pages wanting to know what would happen next. This book has a lot of surprising moments and goes in directions I didn't expect but also makes sense given what we know about the world from previous books. Also there's one character here who is such a scumbag and I loved it, easily one of my favorite characters of the year. I thought all of the POV perspectives were interesting and showed the depth and complexity of the world building as well as just having a lot of cool moments that have big implications for the rest of the series.\n\nThe horror elements are awesome, probably one of my favorite parts of the book, some truly horrific things happen and I was all for it, really separates this book from other fantasy series and he's really amplified this part from EOTW which I really enjoyed in that series as well.\n\nSwan is one of my favorite new authors in the fantasy genre and he consistently releases books every year, so I'm expecting to continue to get new entries in this series at a regular pace and looking forward to read them (hopefully early!). This is definitely a book 1 in a series but we do have a good stopping point with some but not all the answers and there's plenty to explore as the series continues.",
     "highlightCount": 0,
     "myGoodreadsRating": 5,
@@ -20109,7 +20100,7 @@
     "highlightCount": 4,
     "myGoodreadsRating": 2,
     "myReviewRating": null,
-    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598462660l/55132921.jpg",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1790316908l/55132921.jpg",
     "asin": "B000FCK2TW",
     "goodreadsUrl": "https://www.goodreads.com/book/show/55132921-never-let-me-go",
     "goodreadsReviewUrl": "https://www.goodreads.com/review/show/6974576442",
@@ -21045,7 +21036,7 @@
     "highlightCount": 0,
     "myGoodreadsRating": 3,
     "myReviewRating": 3.5,
-    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1755689094l/228837191.jpg",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1785592099l/228837191.jpg",
     "asin": "1645242803",
     "goodreadsUrl": "https://www.goodreads.com/book/show/228837191-the-dagger-in-vichy",
     "goodreadsReviewUrl": "https://www.goodreads.com/review/show/7825740266",
@@ -21236,7 +21227,7 @@
     "favorite": false
   },
   {
-    "id": "books-of-blood-1-69b9b226",
+    "id": "books-of-blood-1-d8dfd239",
     "readEvents": [
       {
         "readingSessionId": "amzn1.gr.reading_session.v1.47c911d7-8ccb-4056-b19f-b5ebd07a1ecf",
@@ -21246,16 +21237,16 @@
         "dateReadIso": "2025-10-12"
       }
     ],
-    "title": "Books of Blood, Vol. 1",
+    "title": "Books of Blood, Volume 1",
     "author": "Clive Barker",
-    "series": "",
+    "series": "Books of Blood #1",
     "review": "",
     "highlightCount": 3,
     "myGoodreadsRating": 4,
     "myReviewRating": null,
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366436243l/17832519.jpg",
     "asin": "B00BT52DA0",
-    "goodreadsUrl": "https://www.goodreads.com/book/show/17832519-books-of-blood-vol-1",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/17832519-books-of-blood-volume-1",
     "goodreadsReviewUrl": "https://www.goodreads.com/review/show/7975610047",
     "kindleUrl": "https://amazon.com/dp/B00BT52DA0",
     "matchMethod": "asin",
@@ -22132,12 +22123,12 @@
     ],
     "title": "Scion",
     "author": "James Islington",
-    "series": "",
+    "series": "Scion, #1",
     "review": "2.75/5\n\nI received a copy of this book on Netgalley in exchange for an honest review.\n\nThis one is ok, just below the standard of what I normally read and one of the most underwhelming of the year in terms of quality of the writing and world building. The plot is fine, I just never really found myself wanting to pick this up and find out what was going to happen. For how short this book is, that's a major problem.\n\nIf you want a beach read or something that doesn't require much brain power this might be decent to pick up but it felt pretty uninspired to me. I'd recommend Last Contract of Isako instead for a modern fantasy author dipping their toes into Cyberpunk, that was much better.",
     "highlightCount": 0,
     "myGoodreadsRating": 2,
     "myReviewRating": 2.75,
-    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1771941067l/247756858.jpg",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1788797128l/247756858.jpg",
     "asin": "1668239248",
     "goodreadsUrl": "https://www.goodreads.com/book/show/247756858-scion",
     "goodreadsReviewUrl": "https://www.goodreads.com/review/show/8387260803",
@@ -22600,7 +22591,7 @@
     ],
     "title": "The Splintered Sun",
     "author": "Tad Williams",
-    "series": "",
+    "series": "Flann's Crows, #1",
     "review": "I received a copy of this book on Netgalley in exchange for an honest review.\n\n3.5/5 a bit conflicted on this one and what to rate it.\n\nThis is marketed as a fun Robin Hood adventure and while that's part of it, Tad really just does his thing here and it's not drastically different from other books in this world, you have to enjoy being in this world because it is a very deliberately paced and often slow burn.\n\nSome of the difference here is the scale is a bit more constrained, we're not doing a world wide epic fantasy but there's still plenty of POVs, a contested throne succession, a lot of ingredients for epic fantasy that we know and love.\n\nOverall this is a really good book and I enjoyed reading it, Tad is one of my favorite authors. The reading experience is great and his moment to moment writing is some of the best. There's a lot of beautiful writing and great turns of phrase, it lives up to his pedigree here.\n\nHowever, I really think the plot is one of the slowest we've seen in Osten Ard so far and there's a lot of anticlimactic moments. After finishing the book I'm wondering what the point of it was and that's not a good feeling after investing so much time on it.\n\nThere's some good world building nuggets and good exploration of the magic but I was hoping for a bit more, there's some hints at larger things at play but I needed something more to really make me eager for the next book.\n\nI will definitely continue the series but I'm not as hungry for more as I was hoping to be. There's a lot of great characters and the slow building that I had with them was good, so there was a nice mix of characters, world building, action, and the slow burning plot.",
     "highlightCount": 105,
     "myGoodreadsRating": 3,
@@ -22922,6 +22913,58 @@
     "goodreadsUrl": "https://www.goodreads.com/book/show/57453706-hollow",
     "goodreadsReviewUrl": "https://www.goodreads.com/review/show/8637326420",
     "kindleUrl": "https://amazon.com/dp/B08PHN4GMF",
+    "matchMethod": "asin",
+    "favorite": false
+  },
+  {
+    "id": "embassytown-6f2c9cf8",
+    "readEvents": [
+      {
+        "readingSessionId": "amzn1.gr.reading_session.v1.1f1fceb5-3e96-492d-aa2f-60098ff59281",
+        "dateStarted": "Sep 24, 2026",
+        "dateStartedIso": "2026-09-24",
+        "dateRead": "Oct 10, 2026",
+        "dateReadIso": "2026-10-10"
+      }
+    ],
+    "title": "Embassytown",
+    "author": "China Miéville",
+    "series": "",
+    "review": "Big thinky thinky brain brain. Pretty dense and complex and the deep dive into language I maybe got slightly lost at times and the characters I never really had an emotional connection with, however this is mainly ideas focused sci-fi and it has a really fleshed out and compelling space opera backdrop in terms of world building in order to explore the ideas. Mieville is truly an artist and this is great art.",
+    "highlightCount": 63,
+    "myGoodreadsRating": 4.25,
+    "myReviewRating": null,
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387753838l/19755140.jpg",
+    "asin": "B004J4WLU0",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/19755140-embassytown",
+    "goodreadsReviewUrl": "https://www.goodreads.com/review/show/5330391383",
+    "kindleUrl": "https://amazon.com/dp/B004J4WLU0",
+    "matchMethod": "asin",
+    "favorite": false
+  },
+  {
+    "id": "halloween-tree-f9b1c58d",
+    "readEvents": [
+      {
+        "readingSessionId": "amzn1.gr.reading_session.v1.2af656c7-0674-4d90-8f18-8f33f8fe6a9d",
+        "dateStarted": "Sep 27, 2026",
+        "dateStartedIso": "2026-09-27",
+        "dateRead": "Oct 11, 2026",
+        "dateReadIso": "2026-10-11"
+      }
+    ],
+    "title": "The Halloween Tree",
+    "author": "Ray Bradbury",
+    "series": "",
+    "review": "Good writing but needed a better plot",
+    "highlightCount": 7,
+    "myGoodreadsRating": 2.5,
+    "myReviewRating": null,
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428809850l/25344096.jpg",
+    "asin": "B00PEPR5P4",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/25344096-the-halloween-tree",
+    "goodreadsReviewUrl": "https://www.goodreads.com/review/show/5046046220",
+    "kindleUrl": "https://amazon.com/dp/B00PEPR5P4",
     "matchMethod": "asin",
     "favorite": false
   }
